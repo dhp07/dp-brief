@@ -1,11 +1,11 @@
-// The DP Brief — service worker for Web Push
+// The DP Brief — service worker for Web Push (v3)
 self.addEventListener('install', e => self.skipWaiting());
 self.addEventListener('activate', e => e.waitUntil(self.clients.claim()));
 
 self.addEventListener('push', event => {
   let data = {};
   try { data = event.data ? event.data.json() : {}; } catch (e) { data = {}; }
-  const title = (data.title !== undefined && data.title !== '') ? data.title : 'The DP Brief';
+  const title = (typeof data.title === 'string') ? data.title : '';
   const options = {
     body: data.body || '',
     icon: 'icon-192.png',
