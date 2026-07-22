@@ -4,10 +4,10 @@ self.addEventListener('activate', e => e.waitUntil(self.clients.claim()));
 
 self.addEventListener('push', event => {
   let data = {};
-  try { data = event.data ? event.data.json() : {}; } catch (e) { data = { body: event.data && event.data.text() }; }
-  const title = data.title || 'The DP Brief';
+  try { data = event.data ? event.data.json() : {}; } catch (e) { data = {}; }
+  const title = (data.title !== undefined && data.title !== '') ? data.title : 'The DP Brief';
   const options = {
-    body: data.body || 'A new edition is ready.',
+    body: data.body || '',
     icon: 'icon-192.png',
     badge: 'icon-192.png',
     data: { url: data.url || './index.html' }
