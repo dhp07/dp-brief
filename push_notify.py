@@ -2,7 +2,7 @@
 import json, sys
 from pywebpush import webpush, WebPushException
 ed = json.load(open('editions.json'))[0]
-title = (ed.get('label') or "Morning Brief").strip()      # short bold title (e.g., "Wed · Jul 22")
+title = "Morning Brief"
 summary = (ed.get('standfirst') or "A new edition is ready.").strip()
 url = "https://dhp07.github.io/dp-brief/"
 try:
