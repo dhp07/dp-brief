@@ -12,7 +12,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install cryptography
+      - run: pip install pywebpush
       - name: Send push notification
         env:
           VAPID_PRIVATE: ${{ secrets.VAPID_PRIVATE }}
@@ -21,4 +21,4 @@ jobs:
           printf '%s' "$VAPID_PRIVATE" > vapid_private.pem
           printf '%s' "$PUSH_SUBSCRIPTION" > subscription.json
           BODY=$(python3 -c "import json;d=json.load(open('editions.json'));print(d[0].get('lead',{}).get('headline','A new edition is ready.'))")
-          python3 webpush_send.py subscription.json vapid_private.pem "The DP Brief" "$BODY" "https://dhp07.github.io/dp-brief/"
+          python3 push_notify.py "The DP Brief" "$BODY" "https://dhp07.github.io/dp-brief/"
