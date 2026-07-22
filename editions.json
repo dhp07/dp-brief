@@ -4,7 +4,8 @@
   "label": "Wed · Jul 22",
   "weekday": "Wednesday, July 22, 2026",
   "marketsClose": "Jul 21",
-  "standfirst": "A memory-chip rebound powered the Nasdaq and S&P 500 higher, even as crude oil hit a five-week high on escalating US-Iran strikes and a Houthi blockade threat against Saudi Arabia.",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Wall Street rallied a second straight day as chipmakers surged and GM and 3M topped earnings, while oil climbed on Middle East supply fears.",
   "markets": [
    {
     "name": "Dow",
@@ -12,7 +13,7 @@
    },
    {
     "name": "S&P 500",
-    "v": 0.89
+    "v": 0.88
    },
    {
     "name": "Nasdaq",
@@ -24,73 +25,73 @@
    },
    {
     "name": "WTI Crude",
-    "v": 2.3
+    "v": 2.08
    },
    {
     "name": "Brent",
-    "v": 2.1
+    "v": 1.93
    }
   ],
-  "marketsNote": "Breadth was broad with small-caps leading; the 10-year Treasury yield hovered near 4.59% as oil's climb to a five-week high kept energy in focus.",
+  "marketsNote": "Breadth was broad-based, with small-cap Russell 2000 leading; crude jumped on Red Sea supply risk while the 10-year Treasury yield backed up to 4.60%.",
   "lead": {
-   "headline": "Chip rebound powers Wall Street higher as oil hits a five-week high",
+   "headline": "AI-chip surge and earnings beats power a second-day rally",
    "tag": "Markets · Jul 21",
    "body": [
-    "Beaten-down semiconductor stocks staged a sharp rebound, lifting the tech-heavy Nasdaq 1.29% and the S&P 500 0.89% to fresh highs. Micron surged about 12% and SanDisk jumped roughly 14% on renewed memory-chip demand, while AMD added 8% as strong South Korean AI-export data reinforced the sector's momentum. The Dow rose 0.74% and the small-cap Russell 2000 outpaced with a 1.53% gain.",
-    "The rally came despite mounting geopolitical risk. Crude oil climbed about 2% to a five-week high — WTI settled at $85.15 and Brent at $91.05 — after a 10th straight night of US strikes on Iran and a Houthi threat to blockade Saudi Arabia. Investors also weighed President Trump's announcement of 50% tariffs on Canadian goods and awaited results from General Motors, Halliburton and 3M ahead of Big Tech earnings later in the week."
+    "U.S. stocks advanced for a second consecutive session as semiconductor and AI names led the tape. The S&P 500 rose 0.9% to 7,509.20, the Nasdaq Composite added 1.3% to 25,837.21, the Dow gained 385 points (0.7%) to 52,224.64, and the small-cap Russell 2000 outperformed with a 1.5% climb to 2,987.40. Micron and Nvidia paced the advance as chip stocks rebounded 5% or more.",
+    "Strong corporate results reinforced the mood: General Motors rose after beating on earnings and revenue and raising guidance, and 3M jumped nearly 6% on its 14th straight quarter of topping consensus. Reports that Iran was open to diplomatic talks added support, though rising Treasury yields and fresh tariff threats capped gains. Software lagged, with Salesforce and Adobe each off about 4% on Morgan Stanley downgrades."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Investment banking is booming.",
-    "text": "Global investment-banking revenue surged to $61.4 billion in the first half of 2026, up 24% year over year, with JPMorgan retaining the top revenue spot and Goldman Sachs leading M&A advisory."
+    "lead": "Regional bank M&A is building.",
+    "text": "American Banker reports 83 bank deals were announced in the first half of 2026 (versus 188 for all of 2025), with analysts expecting a second-half acceleration; Banco Santander's pending $12.3B purchase of Webster Financial anchors the pipeline as a looser antitrust regime speeds approvals."
    },
    {
-    "lead": "Mega-IPOs drove the fees.",
-    "text": "SpaceX's roughly $86 billion IPO generated about $500 million in fees split among banks including Goldman Sachs and Morgan Stanley, alongside Cerebras' $6.4 billion listing and Alphabet's $85 billion buyback."
+    "lead": "The IPO and deal machine keeps humming.",
+    "text": "Goldman Sachs and Morgan Stanley are forecasting continued IPO resilience into late 2026, with bankers riding a wave of new listings, mergers and debt issuance after fee windfalls from the SpaceX IPO and Iran-driven trading volatility."
    },
    {
-    "lead": "Citigroup posted a standout quarter.",
-    "text": "Citi reported a 45% jump in profit and its highest quarterly revenue in a decade, while Goldman Sachs and Wells Fargo both topped Wall Street profit expectations."
+    "lead": "Payments push deeper into Europe.",
+    "text": "Marqeta expanded its collaboration with Expensify to bring embedded card offerings into Europe, extending U.S. fintech card-issuing rails across the region."
    },
    {
-    "lead": "Morgan Stanley sees a record pipeline.",
-    "text": "CFO comments flagged that roughly 70% of the top 100 unicorns sit in Morgan Stanley's IPO pipeline, with dealmaking momentum that could make 2026 a record year for the franchise."
+    "lead": "Crypto asset managers court European funds.",
+    "text": "CoinShares unveiled a UCITS platform aimed at Europe's roughly €26.3 trillion regulated-fund market, a bid to move digital-asset products into mainstream European portfolios."
    },
    {
-    "lead": "JPMorgan's fee engine roared.",
-    "text": "JPMorgan's investment-banking fees hit their highest level since 2021 on a wave of IPO and M&A activity, though executives cautioned that valuations and leverage look stretched."
+    "lead": "Rate path stays sticky.",
+    "text": "With no Fed meeting on the calendar this session, markets priced roughly a 14% chance of a July rate hike as the 10-year Treasury yield rose to 4.60% amid tariff-driven inflation worries."
    }
   ],
   "watch": {
-   "title": "Big Tech earnings and the Fed",
-   "lead": "The week's real test arrives next.",
-   "text": "Alphabet and other mega-caps report later this week, and their AI-spending guidance will shape whether the chip-led rally holds. Investors are also positioning for the Fed's late-July FOMC meeting, watching whether escalating oil prices complicate the rate path."
+   "title": "Megacap earnings on deck",
+   "lead": "The Q2 reporting season shifts into high gear.",
+   "text": "A heavy slate of results is due this week, and traders will watch whether the AI-led rally can broaden or hinges on a handful of chipmakers; guidance on tariff costs and any further signals on Iran diplomacy could set the tone for both equities and crude."
   },
   "world": [
    {
-    "lead": "US-Iran conflict deepened.",
-    "text": "American forces struck Iranian cities including Bandar Abbas and Isfahan for a 10th consecutive night; Iran retaliated against US assets in Jordan, Bahrain and Kuwait, with at least 17 US service members reported killed."
+    "lead": "Iran strikes enter a 10th night.",
+    "text": "The U.S. carried out a 10th consecutive night of strikes on Iranian targets including Bandar Abbas and Isfahan, with at least 17 American service members reported killed in action; simultaneous signals of Iranian openness to talks stirred hopes for de-escalation."
    },
    {
-    "lead": "Houthis declared a Saudi blockade.",
-    "text": "Yemen's Houthis announced a naval blockade of Saudi Arabia; analysts warn that closing the Bab-el-Mandeb Strait could cut global oil supply by roughly 7%."
+    "lead": "Red Sea shipping risk spikes.",
+    "text": "Yemen's Houthis declared a naval blockade against Saudi Arabia, with analysts warning a closure of the Bab-el-Mandeb Strait could remove roughly 7% of global oil supply — a key driver of Tuesday's crude jump."
    },
    {
-    "lead": "Hamas named a new leader.",
-    "text": "Khalil al-Hayya was selected to lead Hamas, replacing Yahya Sinwar, who was killed in October 2024."
+    "lead": "Trump escalates trade fights.",
+    "text": "President Trump announced 50% tariffs on Canadian imports set to take effect in 30 days, adding to inflation concerns already unsettling bond markets."
    },
    {
-    "lead": "Nicaragua canceled future elections.",
-    "text": "President Daniel Ortega declared the country will hold no further elections, deepening its authoritarian turn."
+    "lead": "Ebola worsens in Congo.",
+    "text": "The Ebola death toll in the Democratic Republic of Congo climbed to 930 with more than 2,300 confirmed cases, straining an already fragile regional health response."
    },
    {
-    "lead": "Ebola surged in the DRC.",
-    "text": "The Democratic Republic of Congo's Ebola outbreak has now claimed about 930 lives from more than 2,300 confirmed cases, spreading faster than any prior outbreak."
+    "lead": "Hamas names a new leader.",
+    "text": "Hamas selected Khalil al-Hayya as its leader, filling the vacancy left since Yahya Sinwar's killing, as an Israeli drone strike killed six members of one family in Gaza City."
    }
   ],
-  "sources": "The Motley Fool; Yahoo Finance; TheStreet; Reuters/Investing.com; CNBC; Fortune; GV Wire; Democracy Now"
+  "sources": "CNBC; TheStreet; Charles Schwab; The Epoch Times (AP); Fortune; Yahoo Finance; American Banker; Bloomberg Law; Democracy Now!"
  },
  {
   "date": "2026-07-21",
@@ -221,11 +222,3 @@
   "sources": "CNBC & TheStreet market recaps; TechTimes / Intellectia Q2 bank earnings; Bankeration Banking Roundup; Forbes Fed Meeting Tracker; Everything Briefing global roundup."
  }
 ]
-
-
-
-
-
-
-
-
