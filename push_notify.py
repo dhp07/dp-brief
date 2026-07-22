@@ -6,10 +6,10 @@ summary = (ed.get('standfirst') or "A new edition is ready.").strip()
 url = "https://dhp07.github.io/dp-brief/"
 try:
     r = webpush(subscription_info=json.load(open('subscription.json')),
-                data=json.dumps({"title":summary,"body":"","url":url}),
+                data=json.dumps({"title":"DP Brief","body":summary,"url":url}),
                 vapid_private_key="vapid_private.pem",
                 vapid_claims={"sub":"mailto:devhpatel07@gmail.com"})
-    print("PUSH ->", r.status_code, "| text:", summary)
+    print("PUSH ->", r.status_code, "| body:", summary)
 except WebPushException as e:
     print("PUSH FAILED ->", repr(e))
     if getattr(e,'response',None) is not None:
