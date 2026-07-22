@@ -112,18 +112,8 @@
 </head>
 <body>
 
-<!-- ================= LOCK GATE ================= -->
-<div id="gate">
-  <div class="lock">DP</div>
-  <h1>The DP Brief</h1>
-  <p>Private edition. Enter your passcode to continue.</p>
-  <input id="pin" type="password" inputmode="numeric" placeholder="••••" autocomplete="off">
-  <div class="err" id="err"></div>
-  <button onclick="unlock()">Open</button>
-</div>
-
 <!-- ================= APP ================= -->
-<div id="app" class="hidden">
+<div id="app">
   <div class="wrap">
     <header class="top">
       <div class="kick">Curated exclusively for DP</div>
@@ -140,15 +130,7 @@
 </div>
 
 <script>
-/* ===== PASSCODE (client-side gate; change here) ===== */
-const PASSCODE = "0221";
-function unlock(){
-  const v=document.getElementById('pin').value.trim();
-  if(v===PASSCODE){document.getElementById('gate').classList.add('hidden');
-    document.getElementById('app').classList.remove('hidden');loadData();}
-  else{document.getElementById('err').textContent="Incorrect passcode";}
-}
-document.getElementById('pin').addEventListener('keydown',e=>{if(e.key==='Enter')unlock();});
+/* Passcode removed — the app opens straight to the latest edition. */
 
 /* ===== EDITIONS DATA =====
    Live editions are loaded from editions.json (the morning job appends to it).
@@ -278,6 +260,9 @@ function render(){
   document.getElementById('src').textContent="Sources: "+e.sources;
   window.scrollTo(0,0);
 }
+
+/* open straight to the newsletter */
+loadData();
 </script>
 </body>
 </html>
