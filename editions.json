@@ -3,9 +3,9 @@
   "date": "2026-07-22",
   "label": "Wed · Jul 22",
   "weekday": "Wednesday, July 22, 2026",
-  "marketsClose": "Jul 21",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Wall Street rallied a second straight day as chipmakers surged and GM and 3M topped earnings, while oil climbed on Middle East supply fears.",
+  "marketsClose": "Jul 22",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Alphabet blew past estimates with cloud revenue up 82% while Tesla's profit cratered on vanishing EV credits, splitting the verdict as Big Tech earnings opened after a tech-led rally.",
   "markets": [
    {
     "name": "Dow",
@@ -13,7 +13,7 @@
    },
    {
     "name": "S&P 500",
-    "v": 0.88
+    "v": 0.89
    },
    {
     "name": "Nasdaq",
@@ -21,77 +21,78 @@
    },
    {
     "name": "Russell 2000",
-    "v": 1.53
+    "v": 0.41
    },
    {
     "name": "WTI Crude",
-    "v": 2.08
+    "v": 1.6
    },
    {
     "name": "Brent",
-    "v": 1.93
+    "v": 1.4
    }
   ],
-  "marketsNote": "Breadth was broad-based, with small-cap Russell 2000 leading; crude jumped on Red Sea supply risk while the 10-year Treasury yield backed up to 4.60%.",
+  "marketsNote": "Stocks closed broadly higher, led by large-cap tech, as investors positioned ahead of the first heavyweight earnings of the season; crude stayed bid above $92 on Strait of Hormuz tensions.",
   "lead": {
-   "headline": "AI-chip surge and earnings beats power a second-day rally",
-   "tag": "Markets · Jul 21",
+   "headline": "Big Tech earnings open with a split verdict: Alphabet crushes it, Tesla's profit collapses",
+   "tag": "Business & Markets · Jul 22",
    "body": [
-    "U.S. stocks advanced for a second consecutive session as semiconductor and AI names led the tape. The S&P 500 rose 0.9% to 7,509.20, the Nasdaq Composite added 1.3% to 25,837.21, the Dow gained 385 points (0.7%) to 52,224.64, and the small-cap Russell 2000 outperformed with a 1.5% climb to 2,987.40. Micron and Nvidia paced the advance as chip stocks rebounded 5% or more.",
-    "Strong corporate results reinforced the mood: General Motors rose after beating on earnings and revenue and raising guidance, and 3M jumped nearly 6% on its 14th straight quarter of topping consensus. Reports that Iran was open to diplomatic talks added support, though rising Treasury yields and fresh tariff threats capped gains. Software lagged, with Salesforce and Adobe each off about 4% on Morgan Stanley downgrades."
+    "The Nasdaq led Wall Street higher on Wednesday, rising 1.29% while the S&P 500 added 0.89% and the Dow gained 0.74%, as traders rotated into growth names ahead of the quarter's marquee earnings. The rally set the stage for an after-the-bell reckoning that delivered two very different stories.",
+    "Alphabet blew past expectations, posting $119.8 billion in revenue (up 24%) and diluted EPS of $9.11, with Google Cloud revenue surging 82% to $24.8 billion and cloud operating income jumping to $8.8 billion from $2.8 billion a year earlier. The company also disclosed $44.9 billion of quarterly capex, a signal that the AI-infrastructure arms race is still accelerating.",
+    "Tesla told the opposite tale: record revenue of $28.24 billion (up 26%) beat forecasts, but non-GAAP EPS of $0.33 badly missed the $0.53 consensus and fell 18% year over year, as operating margin sank to 1.4% from 4.1% and regulatory-credit income collapsed 67% to $146 million after federal EV incentives lapsed. Free cash flow turned negative for the first time since early 2024."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Regional bank M&A is building.",
-    "text": "American Banker reports 83 bank deals were announced in the first half of 2026 (versus 188 for all of 2025), with analysts expecting a second-half acceleration; Banco Santander's pending $12.3B purchase of Webster Financial anchors the pipeline as a looser antitrust regime speeds approvals."
+    "lead": "Wall Street's deal machine is running hot.",
+    "text": "Investment-banking fees at the six largest U.S. banks jumped roughly 45% year over year in Q2, with Morgan Stanley posting the biggest percentage gain. Goldman Sachs CEO David Solomon said the advisory backlog hit its highest level in five years."
    },
    {
-    "lead": "The IPO and deal machine keeps humming.",
-    "text": "Goldman Sachs and Morgan Stanley are forecasting continued IPO resilience into late 2026, with bankers riding a wave of new listings, mergers and debt issuance after fee windfalls from the SpaceX IPO and Iran-driven trading volatility."
+    "lead": "The IPO window is wide open.",
+    "text": "U.S. IPOs raised a record $104.8 billion in the second quarter, powered by SpaceX's historic listing. Bankers are already eyeing potential mega-listings from Anthropic and OpenAI, each floated at trillion-dollar valuations."
    },
    {
-    "lead": "Payments push deeper into Europe.",
-    "text": "Marqeta expanded its collaboration with Expensify to bring embedded card offerings into Europe, extending U.S. fintech card-issuing rails across the region."
+    "lead": "M&A volumes are back above trend.",
+    "text": "Global announced deal volumes have topped $3 trillion year to date, up more than 40% from a year ago, with technology and AI names dominating alongside strength in healthcare, utilities and energy."
    },
    {
-    "lead": "Crypto asset managers court European funds.",
-    "text": "CoinShares unveiled a UCITS platform aimed at Europe's roughly €26.3 trillion regulated-fund market, a bid to move digital-asset products into mainstream European portfolios."
+    "lead": "Analysts see a super-cycle, not a spike.",
+    "text": "Morningstar expects the investment-banking upswing to run without material contraction until 2028 or later, as JPMorgan, Citi and Bank of America executives all pointed to robust, broad-based capital-markets pipelines."
    },
    {
-    "lead": "Rate path stays sticky.",
-    "text": "With no Fed meeting on the calendar this session, markets priced roughly a 14% chance of a July rate hike as the 10-year Treasury yield rose to 4.60% amid tariff-driven inflation worries."
+    "lead": "Regional banks eye the Fed.",
+    "text": "Smaller lenders are in focus ahead of next week's Federal Reserve meeting, with investors weighing the path of rates against still-elevated deposit costs and commercial-real-estate exposure."
    }
   ],
   "watch": {
-   "title": "Megacap earnings on deck",
-   "lead": "The Q2 reporting season shifts into high gear.",
-   "text": "A heavy slate of results is due this week, and traders will watch whether the AI-led rally can broaden or hinges on a handful of chipmakers; guidance on tariff costs and any further signals on Iran diplomacy could set the tone for both equities and crude."
+   "title": "The rest of Big Tech",
+   "lead": "One night down, the heavyweights still to come.",
+   "text": "With Alphabet and Tesla setting the tone, attention turns to Microsoft, Meta, Apple and Amazon in the days ahead, and to whether their AI-capex guidance justifies this year's valuations. Layered on top is next week's Fed meeting, which will test how much rate-cut optimism is already priced in."
   },
   "world": [
    {
-    "lead": "Iran strikes enter a 10th night.",
-    "text": "The U.S. carried out a 10th consecutive night of strikes on Iranian targets including Bandar Abbas and Isfahan, with at least 17 American service members reported killed in action; simultaneous signals of Iranian openness to talks stirred hopes for de-escalation."
+    "lead": "The Middle East is boiling.",
+    "text": "U.S. forces carried out an 11th straight night of strikes on Iranian military infrastructure, with Central Command citing threats to shipping in the Strait of Hormuz. Crude pushed above $92 a barrel on the disruption."
    },
    {
-    "lead": "Red Sea shipping risk spikes.",
-    "text": "Yemen's Houthis declared a naval blockade against Saudi Arabia, with analysts warning a closure of the Bab-el-Mandeb Strait could remove roughly 7% of global oil supply — a key driver of Tuesday's crude jump."
+    "lead": "Trump greenlights a Saudi nuclear pact.",
+    "text": "The president approved a 30-year civilian nuclear agreement with Saudi Arabia that could permit uranium enrichment on Saudi soil and positions U.S. firms to lead the buildout while shutting out foreign rivals."
    },
    {
-    "lead": "Trump escalates trade fights.",
-    "text": "President Trump announced 50% tariffs on Canadian imports set to take effect in 30 days, adding to inflation concerns already unsettling bond markets."
+    "lead": "Kyiv reshuffles its top brass.",
+    "text": "President Zelenskyy replaced military commander Oleksandr Syrskyi with Mykhailo Drapatyi after nationwide protests over defense strategy, amid tensions over reform priorities and mobilization."
    },
    {
-    "lead": "Ebola worsens in Congo.",
-    "text": "The Ebola death toll in the Democratic Republic of Congo climbed to 930 with more than 2,300 confirmed cases, straining an already fragile regional health response."
+    "lead": "India's streets fill with students.",
+    "text": "Tens of thousands protested in New Delhi over exam-corruption allegations, drawing opposition support and demands for the education minister's resignation."
    },
    {
-    "lead": "Hamas names a new leader.",
-    "text": "Hamas selected Khalil al-Hayya as its leader, filling the vacancy left since Yahya Sinwar's killing, as an Israeli drone strike killed six members of one family in Gaza City."
+    "lead": "Britain gets a new premier.",
+    "text": "Andy Burnham began his tenure as UK prime minister, naming John Healey chancellor and announcing a cut to VAT on energy costs."
    }
   ],
-  "sources": "CNBC; TheStreet; Charles Schwab; The Epoch Times (AP); Fortune; Yahoo Finance; American Banker; Bloomberg Law; Democracy Now!"
+  "sources": "CNBC; Reuters; Bloomberg; Yahoo Finance; Qz; Electrek; 9to5Google; Investing.com; The Globe and Mail; KuCoin; 10 Things Global News"
  },
  {
   "date": "2026-07-21",
