@@ -1,5 +1,98 @@
 [
  {
+  "date": "2026-07-22",
+  "label": "Wed · Jul 22",
+  "weekday": "Wednesday, July 22, 2026",
+  "marketsClose": "Jul 21",
+  "standfirst": "A memory-chip rebound powered the Nasdaq and S&P 500 higher, even as crude oil hit a five-week high on escalating US-Iran strikes and a Houthi blockade threat against Saudi Arabia.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.74
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.89
+   },
+   {
+    "name": "Nasdaq",
+    "v": 1.29
+   },
+   {
+    "name": "Russell 2000",
+    "v": 1.53
+   },
+   {
+    "name": "WTI Crude",
+    "v": 2.3
+   },
+   {
+    "name": "Brent",
+    "v": 2.1
+   }
+  ],
+  "marketsNote": "Breadth was broad with small-caps leading; the 10-year Treasury yield hovered near 4.59% as oil's climb to a five-week high kept energy in focus.",
+  "lead": {
+   "headline": "Chip rebound powers Wall Street higher as oil hits a five-week high",
+   "tag": "Markets · Jul 21",
+   "body": [
+    "Beaten-down semiconductor stocks staged a sharp rebound, lifting the tech-heavy Nasdaq 1.29% and the S&P 500 0.89% to fresh highs. Micron surged about 12% and SanDisk jumped roughly 14% on renewed memory-chip demand, while AMD added 8% as strong South Korean AI-export data reinforced the sector's momentum. The Dow rose 0.74% and the small-cap Russell 2000 outpaced with a 1.53% gain.",
+    "The rally came despite mounting geopolitical risk. Crude oil climbed about 2% to a five-week high — WTI settled at $85.15 and Brent at $91.05 — after a 10th straight night of US strikes on Iran and a Houthi threat to blockade Saudi Arabia. Investors also weighed President Trump's announcement of 50% tariffs on Canadian goods and awaited results from General Motors, Halliburton and 3M ahead of Big Tech earnings later in the week."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Investment banking is booming.",
+    "text": "Global investment-banking revenue surged to $61.4 billion in the first half of 2026, up 24% year over year, with JPMorgan retaining the top revenue spot and Goldman Sachs leading M&A advisory."
+   },
+   {
+    "lead": "Mega-IPOs drove the fees.",
+    "text": "SpaceX's roughly $86 billion IPO generated about $500 million in fees split among banks including Goldman Sachs and Morgan Stanley, alongside Cerebras' $6.4 billion listing and Alphabet's $85 billion buyback."
+   },
+   {
+    "lead": "Citigroup posted a standout quarter.",
+    "text": "Citi reported a 45% jump in profit and its highest quarterly revenue in a decade, while Goldman Sachs and Wells Fargo both topped Wall Street profit expectations."
+   },
+   {
+    "lead": "Morgan Stanley sees a record pipeline.",
+    "text": "CFO comments flagged that roughly 70% of the top 100 unicorns sit in Morgan Stanley's IPO pipeline, with dealmaking momentum that could make 2026 a record year for the franchise."
+   },
+   {
+    "lead": "JPMorgan's fee engine roared.",
+    "text": "JPMorgan's investment-banking fees hit their highest level since 2021 on a wave of IPO and M&A activity, though executives cautioned that valuations and leverage look stretched."
+   }
+  ],
+  "watch": {
+   "title": "Big Tech earnings and the Fed",
+   "lead": "The week's real test arrives next.",
+   "text": "Alphabet and other mega-caps report later this week, and their AI-spending guidance will shape whether the chip-led rally holds. Investors are also positioning for the Fed's late-July FOMC meeting, watching whether escalating oil prices complicate the rate path."
+  },
+  "world": [
+   {
+    "lead": "US-Iran conflict deepened.",
+    "text": "American forces struck Iranian cities including Bandar Abbas and Isfahan for a 10th consecutive night; Iran retaliated against US assets in Jordan, Bahrain and Kuwait, with at least 17 US service members reported killed."
+   },
+   {
+    "lead": "Houthis declared a Saudi blockade.",
+    "text": "Yemen's Houthis announced a naval blockade of Saudi Arabia; analysts warn that closing the Bab-el-Mandeb Strait could cut global oil supply by roughly 7%."
+   },
+   {
+    "lead": "Hamas named a new leader.",
+    "text": "Khalil al-Hayya was selected to lead Hamas, replacing Yahya Sinwar, who was killed in October 2024."
+   },
+   {
+    "lead": "Nicaragua canceled future elections.",
+    "text": "President Daniel Ortega declared the country will hold no further elections, deepening its authoritarian turn."
+   },
+   {
+    "lead": "Ebola surged in the DRC.",
+    "text": "The Democratic Republic of Congo's Ebola outbreak has now claimed about 930 lives from more than 2,300 confirmed cases, spreading faster than any prior outbreak."
+   }
+  ],
+  "sources": "The Motley Fool; Yahoo Finance; TheStreet; Reuters/Investing.com; CNBC; Fortune; GV Wire; Democracy Now"
+ },
+ {
   "date": "2026-07-21",
   "label": "Tue · Jul 21",
   "weekday": "Tuesday, July 21, 2026",
