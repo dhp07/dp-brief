@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The DP Brief</title>
+<meta name="theme-color" content="#f3efe7">
+<!-- iOS home-screen app behavior -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="DP Brief">
+<link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Crect width='180' height='180' rx='40' fill='%231a1a1a'/%3E%3Ctext x='90' y='118' font-family='Georgia,serif' font-size='96' fill='%23d9a15e' text-anchor='middle'%3EDP%3C/text%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64'%3E%3Crect width='64' height='64' rx='14' fill='%231a1a1a'/%3E%3Ctext x='32' y='44' font-family='Georgia,serif' font-size='34' fill='%23d9a15e' text-anchor='middle'%3EDP%3C/text%3E%3C/svg%3E">
+<style>
+  :root{
+    --bg:#f3efe7; --card:#ffffff; --ink:#1a1a1a; --muted:#6f6a61;
+    --bronze:#8a5a2b; --bronze-2:#a9793f; --up:#1f7a3d; --down:#b3261e;
+    --hair:#e7ded0; --shadow:0 1px 2px rgba(60,45,25,.06),0 6px 18px rgba(60,45,25,.06);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#161310; --card:#211d18; --ink:#f0ebe2; --muted:#a89e8e;
+      --bronze:#d9a15e; --bronze-2:#c98f4c; --hair:#332c23;
+      --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 22px rgba(0,0,0,.28); }
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{background:var(--bg);color:var(--ink);
+    font-family:Georgia,'Times New Roman',serif;-webkit-font-smoothing:antialiased;}
+  body{padding:env(safe-area-inset-top) 0 40px 0;}
+  .wrap{max-width:720px;margin:0 auto;padding:0 18px;}
+
+  /* ---- Lock gate ---- */
+  #gate{position:fixed;inset:0;background:var(--bg);z-index:50;
+    display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;padding:24px;}
+  #gate .lock{width:66px;height:66px;border-radius:18px;background:var(--ink);
+    display:flex;align-items:center;justify-content:center;color:var(--bronze);
+    font-size:30px;font-weight:700;}
+  #gate h1{font-size:26px;letter-spacing:-.3px}
+  #gate p{color:var(--muted);font-size:14px;text-align:center;max-width:280px}
+  #pin{font-family:inherit;font-size:20px;text-align:center;letter-spacing:6px;
+    padding:12px 16px;border:1px solid var(--hair);border-radius:12px;background:var(--card);
+    color:var(--ink);width:200px;outline:none}
+  #pin:focus{border-color:var(--bronze)}
+  #gate button{font-family:inherit;font-size:15px;background:var(--ink);color:#fff;
+    border:0;border-radius:12px;padding:12px 26px;cursor:pointer}
+  #gate .err{color:var(--down);font-size:13px;height:14px}
+
+  /* ---- Masthead ---- */
+  header.top{text-align:center;padding:22px 0 6px;border-bottom:2px solid var(--ink);margin-bottom:4px}
+  header.top .kick{font-size:9px;letter-spacing:3px;text-transform:uppercase;color:var(--bronze);font-weight:700}
+  header.top h1{font-size:40px;letter-spacing:-1px;line-height:1;margin:6px 0 8px}
+  header.top .sub{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:var(--muted)}
+
+  /* ---- Edition pills ---- */
+  .pills{display:flex;gap:8px;overflow-x:auto;padding:14px 2px 6px;-webkit-overflow-scrolling:touch}
+  .pills::-webkit-scrollbar{display:none}
+  .pill{flex:0 0 auto;font-family:'Helvetica Neue',Arial,sans-serif;font-size:12px;
+    padding:7px 14px;border:1px solid var(--hair);border-radius:999px;background:var(--card);
+    color:var(--muted);cursor:pointer;white-space:nowrap}
+  .pill.active{background:var(--ink);color:#fff;border-color:var(--ink)}
+
+  .standfirst{font-style:italic;color:var(--muted);font-size:15px;line-height:1.5;
+    text-align:center;padding:6px 6px 16px;border-bottom:1px solid var(--hair);margin-bottom:16px}
+
+  /* ---- Section + cards ---- */
+  .sec-label{font-family:'Helvetica Neue',Arial,sans-serif;font-size:11px;letter-spacing:2px;
+    text-transform:uppercase;color:var(--bronze);font-weight:700;margin:22px 2px 10px}
+  .card{background:var(--card);border:1px solid var(--hair);border-radius:16px;
+    padding:16px 17px;box-shadow:var(--shadow);margin-bottom:12px}
+  .card h3{font-size:18px;line-height:1.22;margin-bottom:8px;letter-spacing:-.2px}
+  .card p{font-size:14.5px;line-height:1.58;color:var(--ink)}
+  .card .lead-in{font-weight:700}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  @media (max-width:560px){.grid{grid-template-columns:1fr}}
+  .mini h4{font-size:14.5px;margin-bottom:5px}
+  .mini p{font-size:13.5px;color:var(--muted);line-height:1.5}
+
+  /* ---- Markets module ---- */
+  .chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}
+  .chip{font-family:'Helvetica Neue',Arial,sans-serif;border:1px solid var(--hair);border-radius:10px;
+    padding:7px 11px;min-width:92px;background:var(--bg)}
+  .chip .n{font-size:10px;letter-spacing:.4px;text-transform:uppercase;color:var(--muted)}
+  .chip .v{font-size:15px;font-weight:700;margin-top:2px}
+  .chip .v.dn{color:var(--down)} .chip .v.up{color:var(--up)}
+  .context{font-size:13px;color:var(--muted);line-height:1.5;margin-top:10px;font-style:italic}
+  svg.mchart text{font-family:Georgia,serif}
+
+  /* Scorecard table */
+  table.score{width:100%;border-collapse:collapse;font-family:'Helvetica Neue',Arial,sans-serif;margin-top:10px}
+  table.score th{font-size:9.5px;letter-spacing:.4px;text-transform:uppercase;color:var(--muted);
+    text-align:right;padding:5px 4px;border-bottom:1px solid var(--ink)}
+  table.score th:first-child{text-align:left}
+  table.score td{font-size:12.5px;padding:6px 4px;text-align:right;border-bottom:1px solid var(--hair)}
+  table.score td:first-child{text-align:left;font-weight:700}
+  table.score td.beat{color:var(--up)}
+
+  /* Watch card accent */
+  .watch{background:var(--ink);color:#f3ece0;border:0}
+  .watch .k{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10px;letter-spacing:2px;
+    text-transform:uppercase;color:var(--bronze-2);font-weight:700;margin-bottom:6px}
+  .watch p{color:#e9e0d2;font-size:14.5px;line-height:1.56}
+  .watch .lead-in{color:#fff}
+
+  footer{margin-top:26px;padding-top:14px;border-top:2px solid var(--ink);
+    text-align:center;color:var(--muted)}
+  footer .src{font-size:11px;line-height:1.5;font-style:italic}
+  footer .up{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10px;letter-spacing:1px;
+    text-transform:uppercase;margin-top:8px;color:var(--bronze)}
+  .hidden{display:none!important}
+</style>
+</head>
+<body>
+
+<!-- ================= LOCK GATE ================= -->
+<div id="gate">
+  <div class="lock">DP</div>
+  <h1>The DP Brief</h1>
+  <p>Private edition. Enter your passcode to continue.</p>
+  <input id="pin" type="password" inputmode="numeric" placeholder="••••" autocomplete="off">
+  <div class="err" id="err"></div>
+  <button onclick="unlock()">Open</button>
+</div>
+
+<!-- ================= APP ================= -->
+<div id="app" class="hidden">
+  <div class="wrap">
+    <header class="top">
+      <div class="kick">Curated exclusively for DP</div>
+      <h1>The DP Brief</h1>
+      <div class="sub">Business · Banking · World</div>
+    </header>
+    <div class="pills" id="pills"></div>
+    <div id="edition"></div>
+    <footer>
+      <div class="src" id="src"></div>
+      <div class="up">Updated daily · 7:00 AM ET</div>
+    </footer>
+  </div>
+</div>
+
+<script>
+/* ===== PASSCODE (client-side gate; change here) ===== */
+const PASSCODE = "0721";
+function unlock(){
+  const v=document.getElementById('pin').value.trim();
+  if(v===PASSCODE){document.getElementById('gate').classList.add('hidden');
+    document.getElementById('app').classList.remove('hidden');loadData();}
+  else{document.getElementById('err').textContent="Incorrect passcode";}
+}
+document.getElementById('pin').addEventListener('keydown',e=>{if(e.key==='Enter')unlock();});
+
+/* ===== EDITIONS DATA =====
+   Live editions are loaded from editions.json (the morning job appends to it).
+   FALLBACK below lets the file preview on its own if the fetch fails. ===== */
+let EDITIONS = [];
+const FALLBACK = [
+{
+  date:"2026-07-21", label:"Tue · Jul 21",
+  weekday:"Tuesday, July 21, 2026",
+  standfirst:"Wall Street closed the best bank-earnings season in history even as fresh U.S. strikes on Iran and a Houthi blockade threat rattled markets. The stories that matter most to you, below.",
+  markets:[
+    {name:"Dow",v:-0.59},{name:"S&P 500",v:-0.19},{name:"Nasdaq",v:-0.05},
+    {name:"Russell 2000",v:-0.39},{name:"WTI Crude",v:-0.17},{name:"Brent",v:0.50}
+  ],
+  marketsNote:"Roughly 86% of S&P 500 companies have beaten expectations so far this season. U.S. gasoline averaged $3.99 a gallon amid the Iran conflict.",
+  lead:{
+    headline:"Big banks post the strongest quarter in history — JPMorgan books the largest profit ever",
+    tag:"Q2 2026 earnings · reported July 14",
+    body:[
+      "All five major U.S. banks blew past estimates in the second quarter, powered by a trading boom and blockbuster deal activity — most notably the $85.7 billion SpaceX IPO, which alone generated roughly $500 million in underwriting fees split across the group. JPMorgan led with $21.2 billion in net income, the single largest quarterly profit in U.S. banking history, on revenue of $58.0 billion, up 27%.",
+      "CEO Jamie Dimon still struck a cautious note, warning of geopolitical instability, persistent inflation, and swelling sovereign debt. Goldman Sachs delivered the biggest surprise — earnings of $20.98 a share against a $14.47 estimate. Wells Fargo reported its first full quarter free of the Fed's multi-year asset cap."
+    ],
+    scorecard:[
+      ["JPMorgan","$21.2B","$6.14","$5.85"],
+      ["Bank of America","$9.1B","$1.21","$1.12"],
+      ["Goldman Sachs","$6.6B","$20.98","$14.47"],
+      ["Wells Fargo","$6.4B","$2.00","$1.72"],
+      ["Citigroup","$5.8B","$3.15","$2.73"]
+    ]
+  },
+  banking:[
+    {lead:"Housing Act becomes law.",text:"Congress enacted the bipartisan 21st Century ROAD to Housing Act. Title IX delivers community-banking reforms: expanded reciprocal deposit exceptions, a two-year capital phase-in for de novo banks, and 18-month exam cycles for banks up to $6 billion in assets."},
+    {lead:"Banks eye Fiserv's STAR network.",text:"JPMorgan, Bank of America, Wells Fargo, and PNC reportedly held preliminary talks to acquire Fiserv's STAR debit network (115 million cardholders) — a way to sidestep Durbin interchange caps, but expect heavy scrutiny."},
+    {lead:"The Fed launches a sweeping review.",text:"Chair Kevin Warsh named 15 outside advisers across five task forces spanning communications, the balance sheet, and inflation frameworks. Panelists include Marc Andreessen and Raghuram Rajan; recommendations due by year-end."},
+    {lead:"Circle, Sony, and Klarna go bank.",text:"Circle won approval for a national trust bank offering digital-asset custody. Sony gained conditional approval for a trust bank planning dollar-backed stablecoins, and Klarna applied for a Utah industrial bank charter."},
+    {lead:"CFPB staffing cuts frozen.",text:"A federal judge temporarily blocked the bureau's workforce reduction until 60 days after a Senate-confirmed director takes office."},
+    {lead:"SWIFT tests a blockchain ledger.",text:"SWIFT launched a pilot with 17 global banks, testing 24/7 cross-border payments using tokenized deposits."}
+  ],
+  watch:{lead:"The Fed's next move.",text:"The FOMC meets July 28–29 with rates held at 3.50%–3.75%. Inflation is running hot — PCE at 3.6% and CPI up to 4.2% in May — and the room is split: nine of 18 officials penciled in at least one 2026 hike in June, while others still see cuts. No new projections accompany this meeting, so the statement language is the tell."},
+  world:[
+    {lead:"U.S.–Iran conflict escalates.",text:"U.S. Central Command carried out a ninth consecutive night of strikes on Iranian military targets under Operation Epic Fury. Three American service members were killed in recent days. Yemen's Houthis declared a naval blockade on Saudi Arabia."},
+    {lead:"Russia–Ukraine.",text:"Russia launched one of its largest ballistic-missile barrages against Ukraine since the 2022 invasion began."},
+    {lead:"Disasters.",text:"Venezuela's twin-earthquake death toll rose to 5,208. A 7.3-magnitude quake struck Mexico's southern coast; a 5.5 quake in Peru's Andes killed at least six."},
+    {lead:"World Cup 2026.",text:"Spain edged Argentina 1–0 in the final, with President Trump, Canada's PM Carney, and Mexico's President Sheinbaum in attendance."},
+    {lead:"Earnings ahead.",text:"Tesla, Alphabet, and Intel headline the coming week."}
+  ],
+  sources:"CNBC & TheStreet market recaps; TechTimes / Intellectia Q2 bank earnings; Bankeration Banking Roundup; Forbes Fed Meeting Tracker; Everything Briefing global roundup."
+}
+];
+
+let current=0;
+
+function loadData(){
+  fetch('editions.json?t='+Date.now())
+    .then(r=>{ if(!r.ok) throw new Error('no data'); return r.json(); })
+    .then(d=>{ EDITIONS = (Array.isArray(d)&&d.length)? d : FALLBACK; current=0; render(); })
+    .catch(()=>{ EDITIONS = FALLBACK; current=0; render(); });
+}
+
+function marketChart(markets){
+  const W=680,rowH=30,padL=118,padR=54,H=markets.length*rowH+22;
+  const max=Math.max(...markets.map(m=>Math.abs(m.v)),0.2);
+  const half=(W-padL-padR)/2;
+  const mid=padL+half;
+  const barHalf=half-56;
+  let bars="";
+  markets.forEach((m,i)=>{
+    const y=i*rowH+13, cy=y+rowH/2;
+    const w=(Math.abs(m.v)/max)*barHalf;
+    const up=m.v>=0, col=up?'var(--up)':'var(--down)';
+    const x=up?mid:mid-w;
+    bars+=`<text x="${padL-12}" y="${cy}" text-anchor="end" dominant-baseline="middle" font-size="14" fill="var(--ink)">${m.name}</text>`;
+    bars+=`<rect x="${x}" y="${cy-6}" width="${Math.max(w,1)}" height="12" rx="2" fill="${col}"/>`;
+    const lx=up?mid+w+6:mid-w-6;
+    bars+=`<text x="${lx}" y="${cy}" text-anchor="${up?'start':'end'}" dominant-baseline="middle" font-size="12.5" font-weight="bold" fill="${col}">${up?'+':''}${m.v.toFixed(2)}%</text>`;
+  });
+  return `<svg class="mchart" viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="Market moves">
+    <line x1="${mid}" y1="8" x2="${mid}" y2="${H-8}" stroke="var(--hair)" stroke-width="1.5"/>
+    ${bars}</svg>`;
+}
+
+function render(){
+  const e=EDITIONS[current];
+  // pills
+  document.getElementById('pills').innerHTML=EDITIONS.map((ed,i)=>
+    `<div class="pill ${i===current?'active':''}" onclick="current=${i};render()">${ed.label}</div>`).join('');
+  // scorecard rows (optional — omitted on non-earnings days)
+  const sc=(e.lead.scorecard||[]);
+  const scoreTable = sc.length ? `<table class="score"><tr><th>Bank</th><th>Net income</th><th>EPS</th><th>vs. est.</th></tr>`+
+    sc.map(r=>`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td class="beat">${r[3]}</td></tr>`).join('')+`</table>` : '';
+  const chips=e.markets.map(m=>
+    `<div class="chip"><div class="n">${m.name}</div><div class="v ${m.v>=0?'up':'dn'}">${m.v>=0?'+':''}${m.v.toFixed(2)}%</div></div>`).join('');
+  const banking=e.banking.map(b=>
+    `<div class="card mini"><h4><span class="lead-in">${b.lead}</span></h4><p>${b.text}</p></div>`).join('');
+  const world=e.world.map(b=>
+    `<div class="card mini"><h4><span class="lead-in">${b.lead}</span></h4><p>${b.text}</p></div>`).join('');
+
+  document.getElementById('edition').innerHTML=`
+    <div class="standfirst">${e.standfirst}</div>
+
+    <div class="sec-label">Markets${e.marketsClose?' · Close '+e.marketsClose:''}</div>
+    <div class="card">
+      ${marketChart(e.markets)}
+      <div class="context">${e.marketsNote}</div>
+    </div>
+
+    <div class="sec-label">The Lead</div>
+    <div class="card">
+      <h3>${e.lead.headline}</h3>
+      <p style="color:var(--bronze);font-size:11px;letter-spacing:1px;text-transform:uppercase;font-weight:700;margin-bottom:8px">${e.lead.tag}</p>
+      ${e.lead.body.map(p=>`<p style="margin-bottom:8px">${p}</p>`).join('')}
+      ${scoreTable}
+    </div>
+
+    <div class="sec-label">Banking &amp; Regulation</div>
+    <div class="grid">${banking}</div>
+
+    <div class="sec-label">Watch This</div>
+    <div class="card watch">
+      <div class="k">${e.watch.title||'Watch this'}</div>
+      <p><span class="lead-in">${e.watch.lead}</span> ${e.watch.text}</p>
+    </div>
+
+    <div class="sec-label">The World</div>
+    <div class="grid">${world}</div>
+  `;
+  document.getElementById('src').textContent="Sources: "+e.sources;
+  window.scrollTo(0,0);
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,130 @@
+[
+ {
+  "date": "2026-07-21",
+  "label": "Tue · Jul 21",
+  "weekday": "Tuesday, July 21, 2026",
+  "marketsClose": "Jul 20",
+  "standfirst": "Wall Street closed the best bank-earnings season in history even as fresh U.S. strikes on Iran and a Houthi blockade threat rattled markets. The stories that matter most to you, below.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -0.59
+   },
+   {
+    "name": "S&P 500",
+    "v": -0.19
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.05
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.39
+   },
+   {
+    "name": "WTI Crude",
+    "v": -0.17
+   },
+   {
+    "name": "Brent",
+    "v": 0.5
+   }
+  ],
+  "marketsNote": "Roughly 86% of S&P 500 companies have beaten expectations so far this season. U.S. gasoline averaged $3.99 a gallon amid the Iran conflict.",
+  "lead": {
+   "headline": "Big banks post the strongest quarter in history — JPMorgan books the largest profit ever",
+   "tag": "Q2 2026 earnings · reported July 14",
+   "body": [
+    "All five major U.S. banks blew past estimates in the second quarter, powered by a trading boom and blockbuster deal activity — most notably the $85.7 billion SpaceX IPO, which alone generated roughly $500 million in underwriting fees split across the group. JPMorgan led with $21.2 billion in net income, the single largest quarterly profit in U.S. banking history, on revenue of $58.0 billion, up 27%.",
+    "CEO Jamie Dimon still struck a cautious note, warning of geopolitical instability, persistent inflation, and swelling sovereign debt. Goldman Sachs delivered the biggest surprise — earnings of $20.98 a share against a $14.47 estimate. Wells Fargo reported its first full quarter free of the Fed's multi-year asset cap."
+   ],
+   "scorecard": [
+    [
+     "JPMorgan",
+     "$21.2B",
+     "$6.14",
+     "Beat $5.85"
+    ],
+    [
+     "Bank of America",
+     "$9.1B",
+     "$1.21",
+     "Beat $1.12"
+    ],
+    [
+     "Goldman Sachs",
+     "$6.6B",
+     "$20.98",
+     "Beat $14.47"
+    ],
+    [
+     "Wells Fargo",
+     "$6.4B",
+     "$2.00",
+     "Beat $1.72"
+    ],
+    [
+     "Citigroup",
+     "$5.8B",
+     "$3.15",
+     "Beat $2.73"
+    ]
+   ]
+  },
+  "banking": [
+   {
+    "lead": "Housing Act becomes law.",
+    "text": "Congress enacted the bipartisan 21st Century ROAD to Housing Act. Title IX delivers community-banking reforms: expanded reciprocal deposit exceptions, a two-year capital phase-in for de novo banks, and 18-month exam cycles for banks up to $6 billion in assets."
+   },
+   {
+    "lead": "Banks eye Fiserv's STAR network.",
+    "text": "JPMorgan, Bank of America, Wells Fargo, and PNC reportedly held preliminary talks to acquire Fiserv's STAR debit network (115 million cardholders) — a way to sidestep Durbin interchange caps, but expect heavy scrutiny."
+   },
+   {
+    "lead": "The Fed launches a sweeping review.",
+    "text": "Chair Kevin Warsh named 15 outside advisers across five task forces spanning communications, the balance sheet, and inflation frameworks. Panelists include Marc Andreessen and Raghuram Rajan; recommendations due by year-end."
+   },
+   {
+    "lead": "Circle, Sony, and Klarna go bank.",
+    "text": "Circle won approval for a national trust bank offering digital-asset custody. Sony gained conditional approval for a trust bank planning dollar-backed stablecoins, and Klarna applied for a Utah industrial bank charter."
+   },
+   {
+    "lead": "CFPB staffing cuts frozen.",
+    "text": "A federal judge temporarily blocked the bureau's workforce reduction until 60 days after a Senate-confirmed director takes office."
+   },
+   {
+    "lead": "SWIFT tests a blockchain ledger.",
+    "text": "SWIFT launched a pilot with 17 global banks, testing 24/7 cross-border payments using tokenized deposits."
+   }
+  ],
+  "watch": {
+   "title": "The Fed's next move",
+   "lead": "The Fed's next move.",
+   "text": "The FOMC meets July 28–29 with rates held at 3.50%–3.75%. Inflation is running hot — PCE at 3.6% and CPI up to 4.2% in May — and the room is split: nine of 18 officials penciled in at least one 2026 hike in June, while others still see cuts. No new projections accompany this meeting, so the statement language is the tell."
+  },
+  "world": [
+   {
+    "lead": "U.S.–Iran conflict escalates.",
+    "text": "U.S. Central Command carried out a ninth consecutive night of strikes on Iranian military targets under Operation Epic Fury. Three American service members were killed in recent days. Yemen's Houthis declared a naval blockade on Saudi Arabia."
+   },
+   {
+    "lead": "Russia–Ukraine.",
+    "text": "Russia launched one of its largest ballistic-missile barrages against Ukraine since the 2022 invasion began."
+   },
+   {
+    "lead": "Disasters.",
+    "text": "Venezuela's twin-earthquake death toll rose to 5,208. A 7.3-magnitude quake struck Mexico's southern coast; a 5.5 quake in Peru's Andes killed at least six."
+   },
+   {
+    "lead": "World Cup 2026.",
+    "text": "Spain edged Argentina 1–0 in the final, with President Trump, Canada's PM Carney, and Mexico's President Sheinbaum in attendance."
+   },
+   {
+    "lead": "Earnings ahead.",
+    "text": "Tesla, Alphabet, and Intel headline the coming week."
+   }
+  ],
+  "sources": "CNBC & TheStreet market recaps; TechTimes / Intellectia Q2 bank earnings; Bankeration Banking Roundup; Forbes Fed Meeting Tracker; Everything Briefing global roundup."
+ }
+]
