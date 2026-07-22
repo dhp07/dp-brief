@@ -35,7 +35,7 @@ def encrypt(payload, ua_public_b64, auth_b64):
     header = salt + struct.pack("!I", rs) + struct.pack("!B", len(as_public)) + as_public
     return header + ct
 
-def vapid_header(endpoint, vapid_pem, sub_email="mailto:dp-brief@local"):
+def vapid_header(endpoint, vapid_pem, sub_email="mailto:devhpatel07@gmail.com"):
     from urllib.parse import urlparse
     u=urlparse(endpoint); aud=f"{u.scheme}://{u.netloc}"
     priv = serialization.load_pem_private_key(open(vapid_pem,'rb').read(), password=None)
