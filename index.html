@@ -107,6 +107,13 @@
   footer .src{font-size:11px;line-height:1.5;font-style:italic}
   footer .up{font-family:'Helvetica Neue',Arial,sans-serif;font-size:10px;letter-spacing:1px;
     text-transform:uppercase;margin-top:8px;color:var(--bronze)}
+  .notif-btn{font-family:'Helvetica Neue',Arial,sans-serif;font-size:12px;background:var(--card);
+    color:var(--bronze);border:1px solid var(--hair);border-radius:999px;padding:8px 18px;
+    margin-top:12px;cursor:pointer}
+  .notif-btn:active{background:var(--bg)}
+  #notifOut{max-width:360px;margin:8px auto 0}
+  #subJson{width:100%;height:80px;font-size:9px;font-family:monospace;border:1px solid var(--hair);
+    border-radius:8px;padding:6px;background:var(--card);color:var(--muted)}
   .hidden{display:none!important}
 </style>
 </head>
@@ -125,6 +132,12 @@
     <footer>
       <div class="src" id="src"></div>
       <div class="up">Updated daily · 7:00 AM ET</div>
+      <button id="notifBtn" class="notif-btn" onclick="enableNotifs()">🔔 Turn on notifications</button>
+      <div id="notifOut" class="hidden">
+        <p style="font-size:11px;color:var(--muted);margin:10px 0 4px">✓ Almost done — copy the code below and paste it to Claude once to finish setup:</p>
+        <textarea id="subJson" readonly onclick="this.select()"></textarea>
+        <button class="notif-btn" onclick="copySub()">Copy code</button>
+      </div>
     </footer>
   </div>
 </div>
@@ -259,6 +272,46 @@ function render(){
   `;
   document.getElementById('src').textContent="Sources: "+e.sources;
   window.scrollTo(0,0);
+}
+
+/* ===== Web Push notifications ===== */
+const VAPID_PUBLIC = "BDUS0fOJ6v7H9irT_fDoQTehsUEP0keMwRwQmFhanqpc_U0hlLv7LIUL72M3cu2vA4ZaRhvoI0jNwQtX7sfPHL0";
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js').catch(()=>{});
+}
+function urlB64ToUint8Array(b64){
+  const pad='='.repeat((4-b64.length%4)%4);
+  const s=(b64+pad).replace(/-/g,'+').replace(/_/g,'/');
+  const raw=atob(s); const out=new Uint8Array(raw.length);
+  for(let i=0;i<raw.length;i++) out[i]=raw.charCodeAt(i);
+  return out;
+}
+async function enableNotifs(){
+  const btn=document.getElementById('notifBtn');
+  try{
+    if(!('serviceWorker' in navigator) || !('PushManager' in window)){
+      alert('Notifications need iOS 16.4+ and the app added to your Home Screen.'); return;
+    }
+    btn.textContent='Requesting…';
+    const perm=await Notification.requestPermission();
+    if(perm!=='granted'){ btn.textContent='🔔 Turn on notifications'; alert('Notifications were not allowed. You can enable them later.'); return; }
+    const reg=await navigator.serviceWorker.ready;
+    let sub=await reg.pushManager.getSubscription();
+    if(!sub){
+      sub=await reg.pushManager.subscribe({userVisibleOnly:true, applicationServerKey:urlB64ToUint8Array(VAPID_PUBLIC)});
+    }
+    document.getElementById('subJson').value=JSON.stringify(sub);
+    document.getElementById('notifOut').classList.remove('hidden');
+    btn.textContent='🔔 Notifications enabled';
+  }catch(e){
+    btn.textContent='🔔 Turn on notifications';
+    alert('Could not enable notifications: '+e.message);
+  }
+}
+function copySub(){
+  const t=document.getElementById('subJson'); t.select();
+  try{ navigator.clipboard.writeText(t.value); }catch(e){ document.execCommand('copy'); }
+  alert('Copied. Paste it to Claude to finish setup.');
 }
 
 /* open straight to the newsletter */
