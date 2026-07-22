@@ -20,5 +20,4 @@ jobs:
         run: |
           printf '%s' "$VAPID_PRIVATE" > vapid_private.pem
           printf '%s' "$PUSH_SUBSCRIPTION" > subscription.json
-          BODY=$(python3 -c "import json;d=json.load(open('editions.json'));print(d[0].get('lead',{}).get('headline','A new edition is ready.'))")
-          python3 push_notify.py "The DP Brief" "$BODY" "https://dhp07.github.io/dp-brief/"
+          python3 push_notify.py
