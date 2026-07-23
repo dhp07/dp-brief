@@ -3,95 +3,95 @@
   "date": "2026-07-23",
   "label": "Thu · Jul 23",
   "weekday": "Thursday, July 23, 2026",
-  "marketsClose": "Jul 22",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Crude jumped more than 3% as U.S.-Iran hostilities escalated, pulling stocks off their highs just as Big Tech earnings and a four-central-bank stretch begin.",
+  "marketsClose": "Jul 23",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Stocks tumbled and the Nasdaq lost nearly 2% as oil surged toward $100 on Houthi attacks on Saudi tankers and Tesla cratered 12% on Musk's 'massive capex year' warning.",
   "markets": [
    {
     "name": "Dow",
-    "v": -0.01
+    "v": -0.96
    },
    {
     "name": "S&P 500",
-    "v": -0.14
+    "v": -1.0
    },
    {
     "name": "Nasdaq",
-    "v": -0.57
+    "v": -1.86
    },
    {
     "name": "Russell 2000",
-    "v": -0.92
+    "v": -0.67
    },
    {
     "name": "WTI Crude",
-    "v": 3.0
+    "v": 3.8
    },
    {
     "name": "Brent",
-    "v": 3.4
+    "v": 3.7
    }
   ],
-  "marketsNote": "Breadth was weak: energy and materials led while tech lagged, and small caps fell nearly 1% as WTI settled at $86.83 and Brent at $94.07 on Strait of Hormuz supply fears.",
+  "marketsNote": "The selloff was led by megacap tech: the Dow shed 503.69 points to close at 51,714.89, the S&P 500 fell 1.00% to 7,424.24 and the Nasdaq slid 1.86% to 25,212.45, while WTI settled near $90 and Brent near $98 as the 10-year Treasury yield hit an 18-month high.",
   "lead": {
-   "headline": "Oil surge and Iran tensions pull stocks off highs before Big Tech earnings",
-   "tag": "Markets · Jul 22",
+   "headline": "Oil rockets toward $100 and Big Tech buckles, dragging Wall Street to its worst day of the week",
+   "tag": "Markets · Jul 23",
    "body": [
-    "U.S. stocks slipped Wednesday as a jump in crude prices and rising U.S.-Iran hostilities prompted investors to trim risk. The Dow finished essentially flat at 52,218.58, the S&P 500 eased 0.14% to 7,498.96, the Nasdaq fell 0.57% to 25,690.90 and the small-cap Russell 2000 dropped 0.92% to 2,959.94. WTI climbed 3% to settle at $86.83 a barrel and Brent rose 3.4% to $94.07 after Secretary of State Marco Rubio said Iran was 'not serious' about peace talks and the U.S. carried out a tenth consecutive night of strikes.",
-    "The pullback came as traders braced for a wall of megacap results, with Tesla, Alphabet and IBM reporting after the bell. Analysts framed the week's central question as whether earnings can justify both elevated valuations and the scale of AI-related capital spending. Energy and materials outperformed on the oil bid, while consumer-facing and rate-sensitive corners of the market lagged."
+    "U.S. stocks closed sharply lower Thursday as a fresh spike in crude prices collided with disappointing megacap-tech guidance. The Nasdaq Composite dropped 1.86% to 25,212.45, the S&P 500 lost 1.00% to 7,424.24 and the Dow Jones Industrial Average fell 503.69 points, or 0.96%, to 51,714.89; the small-cap Russell 2000 held up better, down 0.67% to 2,940.02. Brent crude jumped roughly 3.7% to close near $98 a barrel and WTI rose about 3.8% to settle near $90 after Iran-backed Houthi militants attacked two Saudi oil tankers in the Red Sea, reviving fears of a broader supply shock.",
+    "The tech damage was concentrated in the megacaps that reported after Wednesday's bell. Tesla plunged 12.38% after Elon Musk told investors 2026 would be a 'massive capex year' devoted to Optimus robots, robotaxis and data centers, while Alphabet slid as investors balked at its swelling capital-spending plans. Rising oil prices fed a bond-market selloff that pushed the 10-year Treasury yield to its highest level in about 18 months, stoking fresh inflation worries and casting doubt on the timing of the Federal Reserve's next rate cut. A stronger-than-expected labor read — initial jobless claims of 187,000 versus a forecast near 210,000 — added to the case for the Fed to stay patient."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Regional M&A.",
-    "text": "Columbia Financial completed its $580 million second-step conversion and merger with Northfield Bancorp, creating an $18 billion-asset, $12.5 billion-deposit community bank with 100-plus branches across New Jersey, Staten Island and Brooklyn; shares began trading on Nasdaq under 'CLBK.'"
+    "lead": "Bonds sold off hard.",
+    "text": "The oil-driven inflation scare triggered a slide in Treasuries, lifting the 10-year yield to roughly an 18-month high and steepening the curve. Higher long-end rates pressured rate-sensitive financials and revived questions about unrealized losses sitting on bank balance sheets."
    },
    {
-    "lead": "Fed in focus.",
-    "text": "Investors are positioning for the FOMC decision on July 29, with a rate cut widely expected — a bet that has pushed the small-cap Russell 2000 toward a record close in recent sessions even as it fell Wednesday."
+    "lead": "Rate-cut bets got pushed back.",
+    "text": "With Brent closing in on $100 and jobless claims coming in at just 187,000, traders trimmed the odds of a near-term Fed cut. A higher-for-longer path complicates net-interest-margin math for lenders heading into the back half of the year."
    },
    {
-    "lead": "Central-bank cluster.",
-    "text": "The European Central Bank leads off a dense stretch with its rate decision on July 23, the first of four major central-bank meetings — ECB, Fed, Bank of England and Bank of Japan — landing within nine days."
+    "lead": "Wall Street's dealmaking engine is still humming.",
+    "text": "The backdrop for the big banks remains strong after a Q2 earnings season in which trading and investment-banking revenue surged across the bulge bracket, with Goldman Sachs and peers citing a revival in M&A and capital-markets activity. Thursday's volatility spike is a double-edged sword: good for trading desks, potentially chilling for the deal pipeline if it persists."
    },
    {
-    "lead": "Earnings test.",
-    "text": "Alphabet and Tesla reported after Wednesday's close, kicking off a megacap earnings run that will test whether Big Tech's heavy AI investment is translating into returns; Microsoft, Meta, Apple and Amazon follow next week."
+    "lead": "Financial stocks tracked the tape lower.",
+    "text": "Banks, insurers and asset managers followed the broad risk-off move, though small caps' relative resilience cushioned some regional names. Energy and defense were among the few sectors catching a bid as crude and geopolitical premia climbed."
    },
    {
-    "lead": "Season recap.",
-    "text": "This month's big-bank results featured Goldman Sachs booking advisory fees tied to the SpaceX IPO pipeline and JPMorgan flagging AI-driven job cuts, underscoring how technology is reshaping Wall Street cost structures and deal flow."
+    "lead": "Megacap capex is the market's new fault line.",
+    "text": "The Tesla and Alphabet reactions underscore how sensitive equity valuations have become to AI- and hardware-related spending. Investors are increasingly demanding a clearer line of sight to returns on the hundreds of billions the megacaps are pouring into data centers and robotics."
    }
   ],
   "watch": {
-   "title": "Central-bank gauntlet",
-   "lead": "Four decisions in nine days.",
-   "text": "The ECB decides Thursday, the Fed on July 29, the Bank of England July 30 and the Bank of Japan July 31 — overlapping with Q2 GDP, PCE inflation and a barrage of megacap earnings. Traders should plan around the sequence rather than any single release, especially with oil adding an inflation wildcard."
+   "title": "Does Brent break $100?",
+   "lead": "The oil tape now sets the tone.",
+   "text": "A sustained move above $100 a barrel would harden the inflation narrative, keep the Fed on hold and pressure equities further; a de-escalation in the Red Sea could just as quickly unwind the premium. Watch Friday's earnings from Intel, T-Mobile US and Lockheed Martin, plus any move in the 10-year yield, for the next read on how far the risk-off mood runs."
   },
   "world": [
    {
-    "lead": "Middle East.",
-    "text": "The U.S. military carried out a tenth consecutive night of strikes on Iran, and two Saudi oil vessels reversed course amid Houthi blockade threats, keeping Strait of Hormuz supply risk front and center for energy markets."
+    "lead": "Houthis struck Saudi tankers in the Red Sea.",
+    "text": "Iran-backed Houthi militants attacked two Saudi oil tankers crossing the Bab-el-Mandeb strait, setting a fire at the bow of the vessel Encelia — crew unharmed — and claiming to have forced roughly 10 ships to retreat. Secretary of State Marco Rubio urged the Houthis to 'stay out of it,' saying they had been 'snookered' by Tehran."
    },
    {
-    "lead": "Trade.",
-    "text": "President Trump imposed 50% tariffs on Canadian products; Prime Minister Mark Carney is seeking negotiations, while U.S. pump prices climbed to about $4.01 a gallon amid the Middle East conflict."
+    "lead": "The U.S.-Iran confrontation escalated further.",
+    "text": "President Trump threatened to destroy Iranian bridges and power plants after attacks on shipping near the Strait of Hormuz, and U.S. Central Command carried out overnight B-1 bomber strikes on drone-storage and air-defense sites — a first for this phase. Iran's IRGC said it struck U.S. targets in Kuwait and Jordan, sending Brent up some $13 on the week."
    },
    {
-    "lead": "Ukraine.",
-    "text": "President Volodymyr Zelenskyy dismissed commander-in-chief General Oleksandr Syrskyi, appointing Mykhailo Drapatyi in a major shake-up of Ukraine's military leadership."
+    "lead": "Israel and Lebanon set a new round of talks.",
+    "text": "Lebanese officials said the next U.S.-brokered talks with Israel are scheduled for August 4 in Italy, a modest sign of diplomatic momentum even as the wider region simmers."
    },
    {
-    "lead": "Europe.",
-    "text": "France approved legislation banning social media for children under 15, becoming the first EU country to do so and setting a potential template for the bloc."
+    "lead": "The EU tightened the screws on Russia.",
+    "text": "EU diplomats agreed on a 21st sanctions package targeting 94 Russian financial institutions, the Moscow stock exchange and shadow-fleet vessels, while Ukraine agreed to export drones to the Pentagon's Drone Dominance program."
    },
    {
-    "lead": "Americas.",
-    "text": "Nicolás Maduro was expected in a New York court to face narcoterrorism charges, while 190 active wildfires burned across Ontario, scorching some 1.8 million acres so far this season."
+    "lead": "House Republicans passed a war-tinged budget.",
+    "text": "The House narrowly approved a $95 billion budget plan by 216-214, including $73 billion in Iran war funding, and a defense authorization bill cleared with six Democratic crossovers as Washington aligned behind the escalating campaign."
    }
   ],
-  "sources": "TheStreet; Yahoo Finance; CNBC; Rigzone; Kraken Economic Brief; ROI-NJ; Everything Briefing; Reuters"
+  "sources": "CNBC; Yahoo Finance; Forbes; Reuters; Bloomberg; The Washington Post; The National; Just Security; Wikipedia Current Events"
  },
  {
   "date": "2026-07-22",
