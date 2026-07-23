@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-07-23",
+  "label": "Thu · Jul 23",
+  "weekday": "Thursday, July 23, 2026",
+  "marketsClose": "Jul 22",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Crude jumped more than 3% as U.S.-Iran hostilities escalated, pulling stocks off their highs just as Big Tech earnings and a four-central-bank stretch begin.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -0.01
+   },
+   {
+    "name": "S&P 500",
+    "v": -0.14
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.57
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.92
+   },
+   {
+    "name": "WTI Crude",
+    "v": 3.0
+   },
+   {
+    "name": "Brent",
+    "v": 3.4
+   }
+  ],
+  "marketsNote": "Breadth was weak: energy and materials led while tech lagged, and small caps fell nearly 1% as WTI settled at $86.83 and Brent at $94.07 on Strait of Hormuz supply fears.",
+  "lead": {
+   "headline": "Oil surge and Iran tensions pull stocks off highs before Big Tech earnings",
+   "tag": "Markets · Jul 22",
+   "body": [
+    "U.S. stocks slipped Wednesday as a jump in crude prices and rising U.S.-Iran hostilities prompted investors to trim risk. The Dow finished essentially flat at 52,218.58, the S&P 500 eased 0.14% to 7,498.96, the Nasdaq fell 0.57% to 25,690.90 and the small-cap Russell 2000 dropped 0.92% to 2,959.94. WTI climbed 3% to settle at $86.83 a barrel and Brent rose 3.4% to $94.07 after Secretary of State Marco Rubio said Iran was 'not serious' about peace talks and the U.S. carried out a tenth consecutive night of strikes.",
+    "The pullback came as traders braced for a wall of megacap results, with Tesla, Alphabet and IBM reporting after the bell. Analysts framed the week's central question as whether earnings can justify both elevated valuations and the scale of AI-related capital spending. Energy and materials outperformed on the oil bid, while consumer-facing and rate-sensitive corners of the market lagged."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Regional M&A.",
+    "text": "Columbia Financial completed its $580 million second-step conversion and merger with Northfield Bancorp, creating an $18 billion-asset, $12.5 billion-deposit community bank with 100-plus branches across New Jersey, Staten Island and Brooklyn; shares began trading on Nasdaq under 'CLBK.'"
+   },
+   {
+    "lead": "Fed in focus.",
+    "text": "Investors are positioning for the FOMC decision on July 29, with a rate cut widely expected — a bet that has pushed the small-cap Russell 2000 toward a record close in recent sessions even as it fell Wednesday."
+   },
+   {
+    "lead": "Central-bank cluster.",
+    "text": "The European Central Bank leads off a dense stretch with its rate decision on July 23, the first of four major central-bank meetings — ECB, Fed, Bank of England and Bank of Japan — landing within nine days."
+   },
+   {
+    "lead": "Earnings test.",
+    "text": "Alphabet and Tesla reported after Wednesday's close, kicking off a megacap earnings run that will test whether Big Tech's heavy AI investment is translating into returns; Microsoft, Meta, Apple and Amazon follow next week."
+   },
+   {
+    "lead": "Season recap.",
+    "text": "This month's big-bank results featured Goldman Sachs booking advisory fees tied to the SpaceX IPO pipeline and JPMorgan flagging AI-driven job cuts, underscoring how technology is reshaping Wall Street cost structures and deal flow."
+   }
+  ],
+  "watch": {
+   "title": "Central-bank gauntlet",
+   "lead": "Four decisions in nine days.",
+   "text": "The ECB decides Thursday, the Fed on July 29, the Bank of England July 30 and the Bank of Japan July 31 — overlapping with Q2 GDP, PCE inflation and a barrage of megacap earnings. Traders should plan around the sequence rather than any single release, especially with oil adding an inflation wildcard."
+  },
+  "world": [
+   {
+    "lead": "Middle East.",
+    "text": "The U.S. military carried out a tenth consecutive night of strikes on Iran, and two Saudi oil vessels reversed course amid Houthi blockade threats, keeping Strait of Hormuz supply risk front and center for energy markets."
+   },
+   {
+    "lead": "Trade.",
+    "text": "President Trump imposed 50% tariffs on Canadian products; Prime Minister Mark Carney is seeking negotiations, while U.S. pump prices climbed to about $4.01 a gallon amid the Middle East conflict."
+   },
+   {
+    "lead": "Ukraine.",
+    "text": "President Volodymyr Zelenskyy dismissed commander-in-chief General Oleksandr Syrskyi, appointing Mykhailo Drapatyi in a major shake-up of Ukraine's military leadership."
+   },
+   {
+    "lead": "Europe.",
+    "text": "France approved legislation banning social media for children under 15, becoming the first EU country to do so and setting a potential template for the bloc."
+   },
+   {
+    "lead": "Americas.",
+    "text": "Nicolás Maduro was expected in a New York court to face narcoterrorism charges, while 190 active wildfires burned across Ontario, scorching some 1.8 million acres so far this season."
+   }
+  ],
+  "sources": "TheStreet; Yahoo Finance; CNBC; Rigzone; Kraken Economic Brief; ROI-NJ; Everything Briefing; Reuters"
+ },
+ {
   "date": "2026-07-22",
   "label": "Wed · Jul 22",
   "weekday": "Wednesday, July 22, 2026",
