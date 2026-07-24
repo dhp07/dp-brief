@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-07-24",
+  "label": "Fri · Jul 24",
+  "weekday": "Friday, July 24, 2026",
+  "marketsClose": "Jul 23",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Wall Street enters Friday nursing its worst day of the week after oil rocketed toward $100 and Big Tech buckled — the Nasdaq's 1.9% slide and a 12% Tesla plunge left the 10-year Treasury yield at an 18-month high.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -0.96
+   },
+   {
+    "name": "S&P 500",
+    "v": -1.0
+   },
+   {
+    "name": "Nasdaq",
+    "v": -1.86
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.67
+   },
+   {
+    "name": "WTI Crude",
+    "v": 3.8
+   },
+   {
+    "name": "Brent",
+    "v": 3.7
+   }
+  ],
+  "marketsNote": "Breadth was ugly under the surface: megacap tech led Thursday's rout, with the Dow off 503.69 points to 51,714.89 and the S&P 500 down to 7,424.24, while WTI settled near $90 and Brent near $98 and the 10-year Treasury yield climbed to an 18-month high on renewed inflation fears.",
+  "lead": {
+   "headline": "Oil near $100 and a Big Tech capex scare leave stocks limping into Friday",
+   "tag": "Markets · Jul 24",
+   "body": [
+    "Investors open Friday digesting Wall Street's sharpest drop of the week. Thursday's close saw the Nasdaq Composite fall 1.86% to 25,212.45, the S&P 500 lose 1.00% to 7,424.24 and the Dow shed 503.69 points, or 0.96%, to 51,714.89; the small-cap Russell 2000 held up better at -0.67%. The one-two punch: crude oil surging toward $100 a barrel on escalating Middle East strikes, and disappointing guidance from megacap tech.",
+    "Alphabet slid nearly 7% despite solid results after raising its capital-spending outlook, and Tesla cratered about 12% after Elon Musk framed 2026 as a \"massive capex year\" for robotaxis, Optimus and data centers — reviving Wall Street's anxiety over whether the AI buildout will ever pay off. The VIX jumped more than 15% to 19.2, and the oil-driven bond selloff pushed the 10-year Treasury yield to its highest in roughly 18 months. Better-than-expected jobless claims of 187,000 offered only a modest offset."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Yields are the story.",
+    "text": "The 10-year Treasury yield jumped to an 18-month high as surging oil rekindled inflation worries and traders trimmed bets on near-term Fed easing — a headwind for rate-sensitive banks' bond books but a tailwind for net interest margins."
+   },
+   {
+    "lead": "The Fed is next week's main event.",
+    "text": "The FOMC meets July 28-29, and the oil-fueled inflation scare complicates the path; markets that had leaned toward a cut now see policymakers more likely to hold and wait for the energy shock to clear."
+   },
+   {
+    "lead": "Q2 bank earnings set a strong backdrop.",
+    "text": "This month's results from JPMorgan, Bank of America, Goldman Sachs, Wells Fargo and Citigroup showed resurgent trading and dealmaking revenue, leaving the big lenders well-capitalized heading into a volatile late-July stretch."
+   },
+   {
+    "lead": "Dealmakers are betting on a supercycle.",
+    "text": "Wall Street bankers continue to flag 2026 as a potential record year for M&A, with Goldman Sachs forecasting a blockbuster run of mega-deals as financing conditions and corporate confidence support consolidation across sectors."
+   },
+   {
+    "lead": "Volatility is back on the desk.",
+    "text": "The VIX's 15%-plus spike to 19.2 marks the sharpest jump in weeks, a reminder that the summer calm has broken and hedging demand is picking up as geopolitical and rate risks stack up."
+   }
+  ],
+  "watch": {
+   "title": "FOMC, July 28-29",
+   "lead": "All eyes shift to the Fed.",
+   "text": "Next week's policy meeting lands squarely in the middle of an oil-driven inflation scare and a wobbling tech tape. Watch the statement and Chair Powell's tone for whether the energy spike is seen as transitory; any hawkish tilt could extend the bond selloff and pressure rate-sensitive stocks further."
+  },
+  "world": [
+   {
+    "lead": "The Iran conflict is escalating.",
+    "text": "U.S. forces carried out a 12th consecutive night of strikes on southern Iran and an Iraq border crossing, killing two and wounding 11. Iran retaliated with missile and drone attacks on Kuwait, Jordan and Bahrain, and its Revolutionary Guard halted three oil tankers in the Strait of Hormuz, driving crude near $100."
+   },
+   {
+    "lead": "Congress advanced a war-heavy budget.",
+    "text": "The Republican-led House approved a $95 billion budget framework 216-214, including $73 billion for war and intelligence operations tied to Iran, $12 billion in farm aid and $10 billion to incentivize state voter-ID requirements, with all Democrats opposed."
+   },
+   {
+    "lead": "A Saudi nuclear deal drew scrutiny.",
+    "text": "Secretary of State Marco Rubio defended a Trump agreement to provide Saudi Arabia civilian nuclear technology; nonproliferation experts warned it could ease a path to weapons capability, with analyst James Acton calling it a retreat from nonproliferation goals."
+   },
+   {
+    "lead": "Maduro's trial got a date.",
+    "text": "A U.S. federal judge set June 1, 2027 as the trial date for former Venezuelan President Nicolás Maduro and his wife Cilia Flores, who were taken into U.S. custody in January; both deny drug-trafficking charges."
+   },
+   {
+    "lead": "An ICC flashpoint loomed over the UN.",
+    "text": "New York City Mayor Zohran Mamdani said he lacks authority to enforce the ICC arrest warrant for Israeli Prime Minister Benjamin Netanyahu and urged federal authorities to act when Netanyahu attends the U.N. General Assembly in September."
+   }
+  ],
+  "sources": "TheStreet; CNBC; Yahoo Finance; STL.News; Vantage Markets; Forbes; Democracy Now; JPMorgan; Reuters"
+ },
+ {
   "date": "2026-07-23",
   "label": "Thu · Jul 23",
   "weekday": "Thursday, July 23, 2026",
