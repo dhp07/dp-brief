@@ -4,8 +4,8 @@
   "label": "Sat · Jul 25",
   "weekday": "Saturday, July 25, 2026",
   "marketsClose": "Jul 24",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "The Dow eked out a gain to close a rocky week, but the Nasdaq slid again as AI-spending fears battered Big Tech and oil fell despite fresh Iran strikes on Gulf bases.",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "With oil above $100 and inflation running hot, traders have flipped to pricing a real chance the Fed HIKES next week — a stark reversal from the September-cut consensus — as a Big Tech earnings deluge and the FOMC collide with a fragile pause in the Iran war.",
   "markets": [
    {
     "name": "Dow",
@@ -32,73 +32,70 @@
     "v": -2.0
    }
   ],
-  "marketsNote": "Breadth was split: real estate and financials led while tech fell 2.37%, capping a second straight down week for the S&P 500 (Nasdaq -2.1% on the week); the 10-year Treasury yield eased to 4.68%.",
+  "marketsNote": "U.S. markets were closed for the weekend, leaving Friday's mixed finish on the board: the Dow up 0.46% and the S&P 500 flat while the Nasdaq slipped 0.64%. All eyes now turn to a pivotal week — the FOMC decision on July 28-29 and results from Microsoft, Meta, Amazon and Apple — with the 10-year Treasury yield last at 4.68% and crude having whipsawed around $100 on Middle East risk.",
   "lead": {
-   "headline": "Dow recovers to end a volatile week as AI-spending fears keep hammering Big Tech",
-   "tag": "Markets · Jul 24",
+   "headline": "Fed rate-HIKE bets triple into a make-or-break week as oil and inflation upend the cut narrative",
+   "tag": "Markets · Jul 25",
    "body": [
-    "Wall Street limped to the end of a bruising week on Friday. The Dow rose 0.46% to 51,947 and the S&P 500 edged up 0.05% to 7,412, but the Nasdaq fell 0.64% to 24,976 as the AI-capex anxiety that erased nearly $800 billion from the Magnificent Seven on Thursday — the group's worst day since April 2025 — refused to fade after underwhelming reactions to Alphabet and Tesla results.",
-    "Chip and memory names led the drop: SanDisk tumbled about 11% and Intel slid 6.5% even after beating estimates. All three major indexes finished the week lower — the Nasdaq off 2.1% — as Bank of America's Bull & Bear indicator hit its highest reading since 2021, a level of froth that has historically preceded pullbacks. Small caps stayed resilient year-to-date, with the Russell 2000 still up 18.1% in 2026."
+    "The story heading into next week has flipped. As recently as mid-July, Wall Street was debating when the Fed would start cutting; by this weekend, traders were seriously pricing a rate INCREASE at the July 28-29 meeting. CME Group's FedWatch tool showed hike odds jumping from just 10.7% on July 15 to 34.7% by July 22, with some trackers putting the probability near 38% by Friday — more than a tripling in barely a week.",
+    "The drivers are stacking up. Brent crude vaulted nearly 7% past $100 a barrel and WTI rose 5.3% to about $91 after Houthi attacks on two Saudi oil tankers in the Red Sea, reviving inflation fears just as core PCE — the Fed's preferred gauge — sits at 3.4%, its highest since October 2023, with headline PCE at 4.1%, more than double the 2% target. Layered on top is the enormous AI data-center build-out, whose demand for chips and power is itself pushing prices higher. That collision — sticky inflation versus a wobbling, debt-financed AI rally — is what makes the coming week the most consequential of the summer."
    ],
-   "scorecard": [
-    [
-     "American Express",
-     "$3.1B",
-     "$4.53",
-     "Beat $4.40"
-    ]
-   ]
+   "scorecard": []
   },
   "banking": [
    {
-    "lead": "American Express beat on profit but the stock slipped.",
-    "text": "Amex posted Q2 EPS of $4.53 (up 11%) and net income of $3.1 billion on revenue of $19.6 billion, up 10% year over year, and raised its full-year revenue growth guidance to 10%. Shares fell about 2% as net interest income disappointed and revenue narrowly missed; the net write-off rate held steady at 2.0% and provisions eased to $1.1 billion."
+    "lead": "The odds of a July rate hike have tripled.",
+    "text": "CME FedWatch data showed the implied probability of a quarter-point increase at the July 28-29 FOMC climbing from 10.7% on July 15 to 34.7% by July 22, with some readings near 38% by Friday. A week ago the debate was about a September cut; now a hold is the base case and a hike is a live risk."
    },
    {
-    "lead": "Intel beat but bled.",
-    "text": "Intel shares dropped 6.5% despite topping quarterly earnings expectations, dragged down with the broader memory-chip complex as investors punished any hint of heavy capital spending without a clear payoff."
+    "lead": "Inflation is proving stubborn beyond energy.",
+    "text": "Core PCE rose to 3.4% as of May — the highest since October 2023 — while headline PCE hit 4.1%, more than double the Fed's 2% target. Analysts note the pressure is broad-based, spanning oil, tariffs and AI-hardware costs rather than any single shock, complicating the case for near-term easing."
    },
    {
-    "lead": "The Fed takes center stage next week.",
-    "text": "The FOMC meets July 28-29, with markets broadly expecting rates to stay on hold after June's pause. Traders will parse Chair Powell's tone for any signal on a September cut as tariff-driven inflation risk collides with softening tech sentiment."
+    "lead": "A Big Tech earnings deluge lands next week.",
+    "text": "About a third of the S&P 500 reports, headlined by Microsoft, Meta and Amazon and followed by Apple, Visa, Chevron and Coca-Cola. The central question: whether the hyperscalers are generating enough cash to justify soaring AI capital spending, the same anxiety that erased close to $800 billion from the Magnificent Seven on Thursday."
    },
    {
-    "lead": "Sentiment is flashing caution.",
-    "text": "Bank of America's closely watched Bull & Bear indicator climbed to its highest level since 2021, driven by strong equity fund inflows and stretched hedge-fund positioning — historically a contrarian warning sign after a two-week S&P slide."
+    "lead": "A higher-for-longer Fed threatens the AI trade.",
+    "text": "Because much of the data-center build-out is debt-financed, any hint that borrowing costs will rise — or simply stay elevated — jeopardizes the leverage underpinning the rally. Strategists warn the market is 'walking on eggshells' after two straight down weeks for the S&P 500."
    },
    {
-    "lead": "Financials and real estate outran the tape.",
-    "text": "Even as tech sank, rate-sensitive real estate and financial-services shares led Friday's gainers, helped by the 10-year Treasury yield easing to 4.68% and hopes that cooler oil could relieve inflation pressure."
+    "lead": "Sentiment gauges are still flashing caution.",
+    "text": "Bank of America's Bull & Bear indicator remains at its highest reading since 2021, a contrarian warning sign driven by strong fund inflows and stretched hedge-fund positioning — froth that has historically preceded pullbacks."
+   },
+   {
+    "lead": "Oil's surge is the swing factor for rates.",
+    "text": "Brent's leap past $100 and WTI's climb to roughly $91 on Red Sea disruptions feed directly into inflation expectations. Rystad Energy sees crude easing toward $70 by Q4 under a 'narrow deal,' but a prolonged conflict could push prices toward $150 by September — a spread that could decide the Fed's next several moves."
    }
   ],
   "watch": {
    "title": "FOMC decision, July 28-29",
-   "lead": "The week's marquee event.",
-   "text": "With inflation data muddied by newly imposed tariffs and Big Tech wobbling, watch whether the Fed holds and how strongly Powell pushes back on — or opens the door to — a September rate cut. The statement and dot-plot commentary will set the tone for a heavy week of mega-cap earnings."
+   "lead": "The week's marquee event, now with two-sided risk.",
+   "text": "For the first time this cycle, markets are weighing whether the Fed holds or delivers a surprise hike. Watch the statement and the Chair's tone for how policymakers balance tariff- and oil-driven inflation against a Big Tech complex that is suddenly wobbling. The decision lands mid-week alongside Q2 GDP, fresh inflation data and the heaviest slate of mega-cap earnings of the season."
   },
   "world": [
    {
-    "lead": "Iran widened its strikes across the Gulf.",
-    "text": "Iran's military said it targeted U.S. bases in Bahrain, Jordan and Kuwait, with black smoke reported near a military installation in Irbil, Iraq. The escalation, alongside Red Sea disruptions, kept energy markets on edge even as crude prices pulled back Friday."
+    "lead": "US-Iran strikes appeared to pause, but a new front opened at sea.",
+    "text": "After roughly two weeks and 13-plus consecutive nights of strikes, Washington and Tehran appeared to hold fire this weekend. The relief was undercut by the Red Sea, where Iran-backed Houthis claimed attacks on two Saudi oil tankers on July 23, framing it as a blockade of Saudi shipping and widening the war's economic reach."
    },
    {
-    "lead": "Trump's sweeping tariffs took effect.",
-    "text": "New U.S. tariffs of roughly 10-12.5% on nearly all imports from dozens of trading partners went live, with the administration citing forced-labor concerns; energy products were exempted from the Section 301 measures."
+    "lead": "Mediators are pressing a 10-day ceasefire.",
+    "text": "Qatar, Egypt, Pakistan and Oman have offered the U.S. and Iran a 10-day truce that would restore navigation through the Strait of Hormuz and open talks on a longer-term deal. The proposal is the most concrete off-ramp yet, though earlier ceasefires this year collapsed within days."
    },
    {
-    "lead": "The ICC ousted its chief prosecutor.",
-    "text": "The International Criminal Court removed its chief prosecutor following sexual-misconduct allegations, a significant blow to the institution amid several high-profile active cases."
+    "lead": "The world's key oil chokepoints are seizing up.",
+    "text": "Traffic through the Strait of Hormuz fell about 31% day-on-day and Bab el-Mandeb dropped 34% as tankers avoided the crossfire. With Saudi Arabia's East-West pipeline moving up to 5 million barrels a day and Bab el-Mandeb handling roughly 9 million, the disruption keeps global energy markets on edge."
    },
    {
-    "lead": "Southern Europe battled wildfires.",
-    "text": "Spain declared a national emergency in the Madrid region as blazes forced more than 10,000 evacuations, while France deployed water bombers across its western regions to fight major fires."
+    "lead": "Zelenskyy will meet Trump at the White House on Tuesday.",
+    "text": "The White House confirmed Ukrainian President Volodymyr Zelenskyy will meet President Trump on July 29 to revive stalled peace talks sidelined by the Iran crisis. Trump is also set to meet Israeli PM Benjamin Netanyahu the same day — which coincides with a memorial for the late Senator Lindsey Graham, a prominent Ukraine backer who died this month at 71."
    },
    {
-    "lead": "Zelenskyy heads to Washington.",
-    "text": "Ukrainian President Volodymyr Zelenskyy is set to meet President Trump in Washington next week for talks on the war and continued U.S. support."
+    "lead": "Spain declared its first-ever national wildfire emergency.",
+    "text": "As blazes merged near Madrid, Spain invoked a first-of-its-kind national emergency, with thousands evacuated amid a punishing heatwave. France continued deploying water bombers across its western regions as southern Europe's fire season intensified."
    }
   ],
-  "sources": "TheStreet; The Motley Fool; Yahoo Finance; The Epoch Times/AP; CNBC; StockTitan; TradingView; Euronews; Fortune"
+  "sources": "CNBC; Reuters; The Motley Fool; Forbes; Yahoo Finance; HNGN; CNN; Al Jazeera; The Defense Post; Business Standard; The Washington Post; Euronews"
  },
  {
   "date": "2026-07-24",
