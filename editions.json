@@ -1,5 +1,106 @@
 [
  {
+  "date": "2026-07-25",
+  "label": "Sat · Jul 25",
+  "weekday": "Saturday, July 25, 2026",
+  "marketsClose": "Jul 24",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "The Dow eked out a gain to close a rocky week, but the Nasdaq slid again as AI-spending fears battered Big Tech and oil fell despite fresh Iran strikes on Gulf bases.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.46
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.05
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.64
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.3
+   },
+   {
+    "name": "WTI Crude",
+    "v": -2.25
+   },
+   {
+    "name": "Brent",
+    "v": -2.0
+   }
+  ],
+  "marketsNote": "Breadth was split: real estate and financials led while tech fell 2.37%, capping a second straight down week for the S&P 500 (Nasdaq -2.1% on the week); the 10-year Treasury yield eased to 4.68%.",
+  "lead": {
+   "headline": "Dow recovers to end a volatile week as AI-spending fears keep hammering Big Tech",
+   "tag": "Markets · Jul 24",
+   "body": [
+    "Wall Street limped to the end of a bruising week on Friday. The Dow rose 0.46% to 51,947 and the S&P 500 edged up 0.05% to 7,412, but the Nasdaq fell 0.64% to 24,976 as the AI-capex anxiety that erased nearly $800 billion from the Magnificent Seven on Thursday — the group's worst day since April 2025 — refused to fade after underwhelming reactions to Alphabet and Tesla results.",
+    "Chip and memory names led the drop: SanDisk tumbled about 11% and Intel slid 6.5% even after beating estimates. All three major indexes finished the week lower — the Nasdaq off 2.1% — as Bank of America's Bull & Bear indicator hit its highest reading since 2021, a level of froth that has historically preceded pullbacks. Small caps stayed resilient year-to-date, with the Russell 2000 still up 18.1% in 2026."
+   ],
+   "scorecard": [
+    [
+     "American Express",
+     "$3.1B",
+     "$4.53",
+     "Beat $4.40"
+    ]
+   ]
+  },
+  "banking": [
+   {
+    "lead": "American Express beat on profit but the stock slipped.",
+    "text": "Amex posted Q2 EPS of $4.53 (up 11%) and net income of $3.1 billion on revenue of $19.6 billion, up 10% year over year, and raised its full-year revenue growth guidance to 10%. Shares fell about 2% as net interest income disappointed and revenue narrowly missed; the net write-off rate held steady at 2.0% and provisions eased to $1.1 billion."
+   },
+   {
+    "lead": "Intel beat but bled.",
+    "text": "Intel shares dropped 6.5% despite topping quarterly earnings expectations, dragged down with the broader memory-chip complex as investors punished any hint of heavy capital spending without a clear payoff."
+   },
+   {
+    "lead": "The Fed takes center stage next week.",
+    "text": "The FOMC meets July 28-29, with markets broadly expecting rates to stay on hold after June's pause. Traders will parse Chair Powell's tone for any signal on a September cut as tariff-driven inflation risk collides with softening tech sentiment."
+   },
+   {
+    "lead": "Sentiment is flashing caution.",
+    "text": "Bank of America's closely watched Bull & Bear indicator climbed to its highest level since 2021, driven by strong equity fund inflows and stretched hedge-fund positioning — historically a contrarian warning sign after a two-week S&P slide."
+   },
+   {
+    "lead": "Financials and real estate outran the tape.",
+    "text": "Even as tech sank, rate-sensitive real estate and financial-services shares led Friday's gainers, helped by the 10-year Treasury yield easing to 4.68% and hopes that cooler oil could relieve inflation pressure."
+   }
+  ],
+  "watch": {
+   "title": "FOMC decision, July 28-29",
+   "lead": "The week's marquee event.",
+   "text": "With inflation data muddied by newly imposed tariffs and Big Tech wobbling, watch whether the Fed holds and how strongly Powell pushes back on — or opens the door to — a September rate cut. The statement and dot-plot commentary will set the tone for a heavy week of mega-cap earnings."
+  },
+  "world": [
+   {
+    "lead": "Iran widened its strikes across the Gulf.",
+    "text": "Iran's military said it targeted U.S. bases in Bahrain, Jordan and Kuwait, with black smoke reported near a military installation in Irbil, Iraq. The escalation, alongside Red Sea disruptions, kept energy markets on edge even as crude prices pulled back Friday."
+   },
+   {
+    "lead": "Trump's sweeping tariffs took effect.",
+    "text": "New U.S. tariffs of roughly 10-12.5% on nearly all imports from dozens of trading partners went live, with the administration citing forced-labor concerns; energy products were exempted from the Section 301 measures."
+   },
+   {
+    "lead": "The ICC ousted its chief prosecutor.",
+    "text": "The International Criminal Court removed its chief prosecutor following sexual-misconduct allegations, a significant blow to the institution amid several high-profile active cases."
+   },
+   {
+    "lead": "Southern Europe battled wildfires.",
+    "text": "Spain declared a national emergency in the Madrid region as blazes forced more than 10,000 evacuations, while France deployed water bombers across its western regions to fight major fires."
+   },
+   {
+    "lead": "Zelenskyy heads to Washington.",
+    "text": "Ukrainian President Volodymyr Zelenskyy is set to meet President Trump in Washington next week for talks on the war and continued U.S. support."
+   }
+  ],
+  "sources": "TheStreet; The Motley Fool; Yahoo Finance; The Epoch Times/AP; CNBC; StockTitan; TradingView; Euronews; Fortune"
+ },
+ {
   "date": "2026-07-24",
   "label": "Fri · Jul 24",
   "weekday": "Friday, July 24, 2026",
