@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-07-26",
+  "label": "Sun · Jul 26",
+  "weekday": "Sunday, July 26, 2026",
+  "marketsClose": "Jul 24",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Wall Street heads into the most consequential week of the year — a knife-edge FOMC decision and earnings from four of the Magnificent Seven — with a fragile Iran pause holding after U.S. forces skipped fresh strikes for the first time in two weeks.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.46
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.05
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.64
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.35
+   },
+   {
+    "name": "WTI Crude",
+    "v": -3.54
+   },
+   {
+    "name": "Brent",
+    "v": -3.8
+   }
+  ],
+  "marketsNote": "Weekend leaves Friday's split tape on the board: the Dow rose 0.46% to 51,947 and the S&P 500 was flat while the Nasdaq fell 0.64% on AI-capex nerves. Crude tumbled — WTI -3.54% to $88.93, Brent -3.8% to $96.88 — as the Iran conflict cooled, with the 10-year Treasury yield near 4.68% into a pivotal week.",
+  "lead": {
+   "headline": "Markets brace for a make-or-break week: FOMC on Wednesday collides with Big Tech's biggest earnings stretch",
+   "tag": "Markets · Jul 26",
+   "body": [
+    "Wall Street enters the week facing its densest calendar of the year. The Federal Reserve announces its rate decision Wednesday at the close of the July 28–29 FOMC meeting, and traders remain split: a hold is the base case, but a hot oil-driven inflation impulse has revived hawkish talk, leaving markets to parse the statement's language on energy and financial conditions rather than the rate itself.",
+    "Layered on top is a wall of earnings, with Microsoft, Meta, Amazon and Apple all due — four of the Magnificent Seven whose AI capital-spending plans will set the tone after Thursday's roughly $800 billion single-day wipeout across the group. Friday offered a preview of the new regime: the Dow climbed on solid non-tech results while the Nasdaq slipped, as investors rewarded execution and punished open-ended AI spend."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "American Express disappointed.",
+    "text": "AXP shares slid about 4.5% Friday despite a solid Q2 profit, after revenue and net interest income came in lighter than Wall Street expected — a rare stumble for the premium-card lender and a caution flag on consumer-credit momentum."
+   },
+   {
+    "lead": "The Fed takes center stage.",
+    "text": "The July 28–29 FOMC meeting ends Wednesday with a rate call at 2:00 p.m. ET. Markets lean toward a hold, but sticky, oil-fed inflation has narrowed the Fed's options — cut too soon and price fears return; hold too long and rate-sensitive sectors keep compressing."
+   },
+   {
+    "lead": "Dealmaking is booming.",
+    "text": "Wall Street's investment-banking machine is 'firing on all cylinders,' with a 2026 wave of IPOs, mergers and new debt issuance lifting fee pipelines at Morgan Stanley, Goldman Sachs and peers as bankers gear up for a record M&A supercycle."
+   },
+   {
+    "lead": "Tariffs are now live.",
+    "text": "President Trump's latest global tariffs — roughly 10% to 12.5% on nearly all U.S. imports from major trading partners — took effect, injecting fresh cost-and-inflation uncertainty into the Fed's calculus and corporate margins alike."
+   },
+   {
+    "lead": "Verizon beat, telecom held up.",
+    "text": "Verizon topped estimates in its quarterly report, a bright spot among the value names that steadied the Dow even as high-multiple tech absorbed the week's selling."
+   }
+  ],
+  "watch": {
+   "title": "The FOMC verdict",
+   "lead": "Wednesday, 2:00 p.m. ET.",
+   "text": "The rate decision itself may matter less than the tone. Watch the statement's language on energy prices and inflation, and the first 15 minutes of the bond-market reaction, for whether investors believe the Fed can look through oil-driven inflation — the read-through will steer equities into month-end."
+  },
+  "world": [
+   {
+    "lead": "The Iran conflict cooled.",
+    "text": "For the first time in two weeks, U.S. forces did not announce fresh strikes on Iran as of July 25, easing a campaign that had run 13 consecutive nights. Thursday's strikes killed four and damaged Revolutionary Guard facilities before the apparent pause."
+   },
+   {
+    "lead": "Oil unwound its war premium.",
+    "text": "Crude retreated sharply — WTI down 3.54% and Brent off 3.8% Friday — as the halt in strikes drained the geopolitical risk premium that had briefly pushed Brent above $100 earlier in the week."
+   },
+   {
+    "lead": "Netanyahu readies for Washington.",
+    "text": "Israeli Prime Minister Benjamin Netanyahu convened his security cabinet ahead of a planned trip to Washington, with the Iran file and regional shipping security topping the agenda."
+   },
+   {
+    "lead": "Shipping lanes stay tense.",
+    "text": "The Strait of Hormuz and Red Sea remain flashpoints after Houthi threats against Saudi-linked shipping earlier in the week, keeping energy and freight markets on alert even as strikes paused."
+   },
+   {
+    "lead": "Trade order is shifting.",
+    "text": "With sweeping U.S. tariffs now in force, trading partners weigh responses, adding a fresh layer of uncertainty to global supply chains and the inflation outlook heading into autumn."
+   }
+  ],
+  "sources": "TheStreet; CNBC; Reuters; Bloomberg; Yahoo Finance; Forbes; Washington Post; CNN; The Times of Israel; MarketBeat"
+ },
+ {
   "date": "2026-07-25",
   "label": "Sat · Jul 25",
   "weekday": "Saturday, July 25, 2026",
