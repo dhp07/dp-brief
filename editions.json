@@ -1,5 +1,103 @@
 [
  {
+  "date": "2026-07-27",
+  "label": "Mon · Jul 27",
+  "weekday": "Monday, July 27, 2026",
+  "marketsClose": "Jul 24",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Wall Street opens its biggest week of the summer — a Fed verdict Wednesday and four of the Magnificent Seven reporting — as the U.S.–Iran strike pause holds and record heat drives more than 360,000 from their homes across France and Spain.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.46
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.05
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.64
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.35
+   },
+   {
+    "name": "WTI Crude",
+    "v": -3.54
+   },
+   {
+    "name": "Brent",
+    "v": -3.8
+   }
+  ],
+  "marketsNote": "U.S. futures point to a cautious start as Wall Street opens a decisive week. Friday's split tape still stands — the Dow up 0.46% to 51,947 and the S&P 500 flat at 7,412 while the Nasdaq slid 0.64% to 24,976 on AI-capex nerves and the Russell 2000 slipped 0.35% — capping a losing week for all three benchmarks. Crude's Friday retreat held over the weekend, with WTI near $88.93 and Brent about $96.88, as the Iran strike pause extended and drained the war premium ahead of Wednesday's Fed decision.",
+  "lead": {
+   "headline": "Wall Street opens its biggest week of the summer: a Fed verdict, GDP, and four of the Magnificent Seven",
+   "tag": "Markets · Jul 27",
+   "body": [
+    "After Friday's split close capped a losing week driven by anxiety over ballooning AI capital-spending plans, investors head into the densest calendar of the summer. The Federal Reserve's July 28–29 meeting ends Wednesday with a rate call at 2:00 p.m. ET: a hold is the base case, but a hot, oil-fed inflation impulse has kept hawkish talk alive, leaving traders to parse the statement's language on energy and financial conditions more than the decision itself. Crude's slide into the weekend — WTI down 3.5% to $88.93 on Friday and easing further as the Iran strike pause held — has quietly lightened the inflation input the Fed must weigh.",
+    "The bigger swing factor is earnings. Microsoft and Meta report Wednesday and Apple and Amazon on Thursday — four of the Magnificent Seven whose AI capital-spending guidance will set the tape after last week's roughly $800 billion single-day wipeout across the group. Thursday also brings second-quarter GDP, seen near +2.3% annualized, alongside the PCE gauge, the Fed's preferred inflation measure. With President Trump's new 10%–12.5% tariffs on nearly all U.S. imports now live, the week's data and guidance will show how much cost pressure is reaching corporate margins and consumer prices."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "The Fed takes center stage.",
+    "text": "The July 28–29 FOMC meeting ends Wednesday with a rate call at 2:00 p.m. ET. Markets lean toward a hold, but an oil-driven inflation impulse has revived hawkish chatter, so the statement's language on energy and financial conditions — and Chair Powell's tone at the press conference — will matter more to markets than the rate itself."
+   },
+   {
+    "lead": "Big Tech's earnings gauntlet begins.",
+    "text": "Microsoft and Meta report Wednesday, with Apple and Amazon on Thursday — four of the Magnificent Seven. After last week's roughly $800 billion single-session wipeout across the group and a 2.6% drop in Tesla on a Q2 miss and 142% jump in capex, the market's one question is whether AI spending is producing returns or just cost."
+   },
+   {
+    "lead": "The M&A supercycle keeps building.",
+    "text": "Wall Street is bracing for a record dealmaking year, with bankers eyeing roughly $4 trillion in transactions and Goldman Sachs forecasting a blockbuster 2026. Global investment-banking revenue topped $100 billion in 2025, and IPO pipelines featuring names like OpenAI, SpaceX and Cerebras keep advisory desks busy."
+   },
+   {
+    "lead": "The IPO boom lifts the alternatives giants.",
+    "text": "Renewed listings activity is padding fee income across the banks, and Blackstone is leaning into wealthy individual investors as a growth channel ahead of its Q2 results — a bet that private-market access for retail-adjacent clients becomes the next leg of fee growth."
+   },
+   {
+    "lead": "GDP and PCE close the week.",
+    "text": "Second-quarter GDP lands Thursday, seen near +2.3% annualized versus +2.1% prior, alongside the PCE inflation gauge and personal income and spending — the final macro read of the month and a direct input into how far the Fed can look through tariff- and oil-driven price pressure."
+   },
+   {
+    "lead": "Tariffs feed the inflation debate.",
+    "text": "Trump's new duties of 10% to 12.5% on 60 trading partners — covering 99.4% of U.S. imports — took effect Friday under Section 301, with oil, gas and USMCA goods exempted. Economists see the effective U.S. tariff rate rising 1–2 points, injecting fresh cost-and-margin uncertainty into the Fed's calculus and Big Tech's guidance."
+   }
+  ],
+  "watch": {
+   "title": "Big Tech's capex signal",
+   "lead": "Wednesday and Thursday, after the bell.",
+   "text": "The market's verdict this week hinges less on headline EPS than on capital-spending guidance from Microsoft, Meta, Apple and Amazon. After roughly $800 billion evaporated from the Magnificent Seven in a single session on AI-spending fears, watch whether management frames soaring outlays as investment that is already lifting returns — or whether the tape punishes another year of open-ended capex heading into month-end."
+  },
+  "world": [
+   {
+    "lead": "The U.S.–Iran strike pause is holding.",
+    "text": "A halt in U.S. strikes on Iran extended into the weekend, with Tehran reciprocating and mediators pressing to restore the interim ceasefire signed in mid-June. Talks reportedly center on Iranian management of vessel transit through the Strait of Hormuz, keeping oil's war premium in retreat."
+   },
+   {
+    "lead": "Wildfires ravage France and Spain.",
+    "text": "More than 360,000 people have been evacuated as fires rage across both countries, with about 250,000 fleeing France's Gironde region as flames advanced toward Bordeaux and over 116,000 displaced in Spain west of Madrid and in Valencia. One man was found dead in his car in Spain; roughly 42,000 hectares have burned in Gironde alone."
+   },
+   {
+    "lead": "A record heatwave is fueling the fires.",
+    "text": "Successive summer heatwaves have primed the blazes, after the World Meteorological Organization called last month the hottest June on record for western Europe. France has deployed 1,500 troops, 1,400 firefighters and aircraft dropping retardant, while the EU sent five planes and two helicopters."
+   },
+   {
+    "lead": "Trump's global tariffs draw protests.",
+    "text": "The administration's new duties on 60 economies drew swift objections from trading partners including the EU and China, which face the top 12.5% rate. The White House says the Section 301 measures target forced-labor practices; partners warn of retaliation and higher costs for consumers."
+   },
+   {
+    "lead": "Diplomacy converges on Washington.",
+    "text": "The Iran de-escalation feeds a busy diplomatic week, with Prime Minister Netanyahu due to meet Trump in Washington on July 30 as regional flashpoints in southern Lebanon and the Red Sea keep energy and shipping markets on alert."
+   }
+  ],
+  "sources": "CNBC; TheStreet; Reuters; Bloomberg; Yahoo Finance; Forbes; Al Jazeera; CNN; NPR; Washington Post; U.S. News"
+ },
+ {
   "date": "2026-07-26",
   "label": "Sun · Jul 26",
   "weekday": "Sunday, July 26, 2026",
