@@ -3,99 +3,99 @@
   "date": "2026-07-27",
   "label": "Mon · Jul 27",
   "weekday": "Monday, July 27, 2026",
-  "marketsClose": "Jul 24",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Wall Street opens its biggest week of the summer — a Fed verdict Wednesday and four of the Magnificent Seven reporting — as the U.S.–Iran strike pause holds and record heat drives more than 360,000 from their homes across France and Spain.",
+  "marketsClose": "Jul 27",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Oil cratered — Brent down about 13% and WTI roughly 8% — as the U.S.–Iran strike pause held, lifting the Dow even as a chip rout led by Sandisk and Nvidia pinned the Nasdaq lower, two days before the Fed's verdict.",
   "markets": [
    {
     "name": "Dow",
-    "v": 0.46
+    "v": 0.51
    },
    {
     "name": "S&P 500",
-    "v": 0.05
+    "v": 0.02
    },
    {
     "name": "Nasdaq",
-    "v": -0.64
+    "v": -0.18
    },
    {
     "name": "Russell 2000",
-    "v": -0.35
+    "v": 0.9
    },
    {
     "name": "WTI Crude",
-    "v": -3.54
+    "v": -8.0
    },
    {
     "name": "Brent",
-    "v": -3.8
+    "v": -13.0
    }
   ],
-  "marketsNote": "U.S. futures point to a cautious start as Wall Street opens a decisive week. Friday's split tape still stands — the Dow up 0.46% to 51,947 and the S&P 500 flat at 7,412 while the Nasdaq slid 0.64% to 24,976 on AI-capex nerves and the Russell 2000 slipped 0.35% — capping a losing week for all three benchmarks. Crude's Friday retreat held over the weekend, with WTI near $88.93 and Brent about $96.88, as the Iran strike pause extended and drained the war premium ahead of Wednesday's Fed decision.",
+  "marketsNote": "A split close capped a jittery session. The Dow rose 0.51% to about 52,210 and the S&P 500 finished a hair higher at roughly 7,413, while the Nasdaq slipped 0.18% to about 24,932 as a memory-and-chip rout dragged megacap tech. Small caps led, with the Russell 2000 up near 0.9%, as oil's collapse and firming Fed-hold hopes rotated money toward rate-sensitive names. Crude did the day's real work: WTI fell more than 8% to about $83 and Brent slumped roughly 13% to near $85 as the Iran strike pause held and drained the war premium ahead of Wednesday's Fed decision.",
   "lead": {
-   "headline": "Wall Street opens its biggest week of the summer: a Fed verdict, GDP, and four of the Magnificent Seven",
+   "headline": "Oil plunges as the Iran truce holds — the Dow climbs, but a chip rout pins the Nasdaq before the Fed",
    "tag": "Markets · Jul 27",
    "body": [
-    "After Friday's split close capped a losing week driven by anxiety over ballooning AI capital-spending plans, investors head into the densest calendar of the summer. The Federal Reserve's July 28–29 meeting ends Wednesday with a rate call at 2:00 p.m. ET: a hold is the base case, but a hot, oil-fed inflation impulse has kept hawkish talk alive, leaving traders to parse the statement's language on energy and financial conditions more than the decision itself. Crude's slide into the weekend — WTI down 3.5% to $88.93 on Friday and easing further as the Iran strike pause held — has quietly lightened the inflation input the Fed must weigh.",
-    "The bigger swing factor is earnings. Microsoft and Meta report Wednesday and Apple and Amazon on Thursday — four of the Magnificent Seven whose AI capital-spending guidance will set the tape after last week's roughly $800 billion single-day wipeout across the group. Thursday also brings second-quarter GDP, seen near +2.3% annualized, alongside the PCE gauge, the Fed's preferred inflation measure. With President Trump's new 10%–12.5% tariffs on nearly all U.S. imports now live, the week's data and guidance will show how much cost pressure is reaching corporate margins and consumer prices."
+    "Wall Street opened its biggest week of the summer with a split tape and a commodity shock. Crude cratered — WTI down more than 8% to about $83 and Brent off roughly 13% to near $85 — after the U.S. suspended a fresh round of strikes on Iran and Tehran signaled it would hold retaliation, with talks in Oman advancing on transit through the Strait of Hormuz. The retreat drained the war premium that had shadowed markets for weeks and, crucially, lightened the inflation input the Federal Reserve must weigh when it delivers its rate call Wednesday at 2:00 p.m. ET. The Dow rose 0.51% to about 52,210 and the Russell 2000 led with a gain near 0.9% as cheaper energy and firming hold expectations rotated money toward rate-sensitive names.",
+    "The Nasdaq told the other half of the story, slipping 0.18% to about 24,932 as a memory-and-chip selloff hit megacap tech. Sandisk plunged about 11% after a Chinese memory rival launched a major Shanghai listing, and Nvidia fell around 5% on reports a Chinese firm could mass-produce key chipmaking equipment. Apple gained about 1.2% and, in a symbolic shift, overtook Nvidia as the most valuable U.S. company heading into a make-or-break week of results. Microsoft and Meta report Wednesday and Apple and Amazon on Thursday — four of the Magnificent Seven whose AI capital-spending guidance will set the tape after last week's roughly $800 billion single-day wipeout across the group."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "The Fed takes center stage.",
-    "text": "The July 28–29 FOMC meeting ends Wednesday with a rate call at 2:00 p.m. ET. Markets lean toward a hold, but an oil-driven inflation impulse has revived hawkish chatter, so the statement's language on energy and financial conditions — and Chair Powell's tone at the press conference — will matter more to markets than the rate itself."
+    "lead": "Oil's collapse reshapes the Fed's inflation math.",
+    "text": "Crude's plunge — WTI off more than 8% to about $83 and Brent down roughly 13% to near $85 — pulled a major cost driver out of the picture just as the FOMC convenes. With the war premium draining, traders leaned harder into a hold, arguing energy relief buys the Fed room to look through tariff-driven price pressure at Wednesday's decision."
    },
    {
-    "lead": "Big Tech's earnings gauntlet begins.",
-    "text": "Microsoft and Meta report Wednesday, with Apple and Amazon on Thursday — four of the Magnificent Seven. After last week's roughly $800 billion single-session wipeout across the group and a 2.6% drop in Tesla on a Q2 miss and 142% jump in capex, the market's one question is whether AI spending is producing returns or just cost."
+    "lead": "The Fed's verdict lands Wednesday.",
+    "text": "The July 28–29 FOMC meeting ends Wednesday with a rate call at 2:00 p.m. ET. Futures pointed to roughly a 65% chance of a hold against a 35% chance of a 25-basis-point hike, helped by a soft June inflation read — CPI fell 0.4% month-over-month, its first negative print since 2020, with core flat and PPI down 0.3%. The statement's language on energy and financial conditions, and the post-meeting press conference, will matter more than the decision itself."
+   },
+   {
+    "lead": "A memory-and-chip rout hit the tape.",
+    "text": "Sandisk sank about 11% after a Chinese memory competitor launched a large Shanghai IPO, and Nvidia dropped roughly 5% on reports a Chinese firm could mass-produce critical chipmaking equipment — reviving fears that China is closing the gap on the U.S. semiconductor lead. The weakness dragged the Nasdaq into the red even as the broader tape held up."
+   },
+   {
+    "lead": "Big Tech's earnings gauntlet begins Wednesday.",
+    "text": "Microsoft and Meta report Wednesday, with Apple and Amazon on Thursday — four of the Magnificent Seven. After last week's roughly $800 billion single-session wipeout across the group on AI-capex nerves, the market's one question is whether soaring capital budgets are producing returns or just cost. Apple heads in having just reclaimed the top spot in market value from Nvidia."
+   },
+   {
+    "lead": "Strategists flag a seasonal air pocket.",
+    "text": "Bank of America warned that stocks have historically fared worst in the August-to-October stretch, a caution that lands with the Fed, four megacap prints and second-quarter GDP all crowding the same week. Elevated bond yields and lingering energy-cost uncertainty were cited as the near-term headwinds even after Monday's oil relief."
    },
    {
     "lead": "The M&A supercycle keeps building.",
-    "text": "Wall Street is bracing for a record dealmaking year, with bankers eyeing roughly $4 trillion in transactions and Goldman Sachs forecasting a blockbuster 2026. Global investment-banking revenue topped $100 billion in 2025, and IPO pipelines featuring names like OpenAI, SpaceX and Cerebras keep advisory desks busy."
-   },
-   {
-    "lead": "The IPO boom lifts the alternatives giants.",
-    "text": "Renewed listings activity is padding fee income across the banks, and Blackstone is leaning into wealthy individual investors as a growth channel ahead of its Q2 results — a bet that private-market access for retail-adjacent clients becomes the next leg of fee growth."
-   },
-   {
-    "lead": "GDP and PCE close the week.",
-    "text": "Second-quarter GDP lands Thursday, seen near +2.3% annualized versus +2.1% prior, alongside the PCE inflation gauge and personal income and spending — the final macro read of the month and a direct input into how far the Fed can look through tariff- and oil-driven price pressure."
-   },
-   {
-    "lead": "Tariffs feed the inflation debate.",
-    "text": "Trump's new duties of 10% to 12.5% on 60 trading partners — covering 99.4% of U.S. imports — took effect Friday under Section 301, with oil, gas and USMCA goods exempted. Economists see the effective U.S. tariff rate rising 1–2 points, injecting fresh cost-and-margin uncertainty into the Fed's calculus and Big Tech's guidance."
+    "text": "Beneath the macro noise, Wall Street is still bracing for a record dealmaking year, with bankers eyeing roughly $4 trillion in transactions and Goldman Sachs forecasting a blockbuster 2026. IPO pipelines featuring names like OpenAI, SpaceX and Cerebras keep advisory desks busy and fee income climbing."
    }
   ],
   "watch": {
-   "title": "Big Tech's capex signal",
-   "lead": "Wednesday and Thursday, after the bell.",
-   "text": "The market's verdict this week hinges less on headline EPS than on capital-spending guidance from Microsoft, Meta, Apple and Amazon. After roughly $800 billion evaporated from the Magnificent Seven in a single session on AI-spending fears, watch whether management frames soaring outlays as investment that is already lifting returns — or whether the tape punishes another year of open-ended capex heading into month-end."
+   "title": "The Fed and Big Tech, back to back",
+   "lead": "Wednesday afternoon and evening.",
+   "text": "The week's verdict arrives in a 12-hour window: the Fed's rate call and Chair's press conference at 2:00 p.m. ET Wednesday, then Microsoft and Meta after the bell. With oil's plunge easing the inflation case for patience, watch whether the statement leans dovish — and whether megacap capital-spending guidance frames AI outlays as investment already lifting returns or another year of open-ended spend heading into month-end."
   },
   "world": [
    {
-    "lead": "The U.S.–Iran strike pause is holding.",
-    "text": "A halt in U.S. strikes on Iran extended into the weekend, with Tehran reciprocating and mediators pressing to restore the interim ceasefire signed in mid-June. Talks reportedly center on Iranian management of vessel transit through the Strait of Hormuz, keeping oil's war premium in retreat."
+    "lead": "The U.S.–Iran strike pause is holding — for now.",
+    "text": "U.S. strikes on Iran remained on hold, with Tehran signaling it would suspend retaliation, as mediated talks in Oman advanced on managing vessel transit through the Strait of Hormuz. Markets read the de-escalation as durable enough to unwind oil's war premium, though officials cautioned there is still no formal peace agreement and Houthi threats to Red Sea shipping persist."
    },
    {
-    "lead": "Wildfires ravage France and Spain.",
-    "text": "More than 360,000 people have been evacuated as fires rage across both countries, with about 250,000 fleeing France's Gironde region as flames advanced toward Bordeaux and over 116,000 displaced in Spain west of Madrid and in Valencia. One man was found dead in his car in Spain; roughly 42,000 hectares have burned in Gironde alone."
+    "lead": "Netanyahu heads to Washington.",
+    "text": "Prime Minister Netanyahu is due at the White House to meet President Trump and plot the next phase of the air campaign against Iran, with the visit framed around July 30. The talks will test whether the strike pause hardens into a lasting ceasefire or merely a lull, keeping energy and shipping markets on alert."
    },
    {
-    "lead": "A record heatwave is fueling the fires.",
-    "text": "Successive summer heatwaves have primed the blazes, after the World Meteorological Organization called last month the hottest June on record for western Europe. France has deployed 1,500 troops, 1,400 firefighters and aircraft dropping retardant, while the EU sent five planes and two helicopters."
+    "lead": "Wildfires force more than 300,000 from their homes.",
+    "text": "President Macron convened a crisis meeting as monster blazes advanced on Bordeaux in France's Gironde region and raged west of Madrid in Spain, driving more than 300,000 people from their homes. French authorities warned the fires may not be fully extinguished for months, with tens of thousands of hectares already burned."
    },
    {
-    "lead": "Trump's global tariffs draw protests.",
-    "text": "The administration's new duties on 60 economies drew swift objections from trading partners including the EU and China, which face the top 12.5% rate. The White House says the Section 301 measures target forced-labor practices; partners warn of retaliation and higher costs for consumers."
+    "lead": "A fresh heatwave is stoking the danger.",
+    "text": "France and Spain braced for another punishing heat spell layered on top of the blazes, after forecasters called last month the hottest June on record for western Europe. France deployed thousands of firefighters, troops and water-bombing aircraft, with EU partners sending additional planes and helicopters as the conditions threatened to reignite contained fronts."
    },
    {
-    "lead": "Diplomacy converges on Washington.",
-    "text": "The Iran de-escalation feeds a busy diplomatic week, with Prime Minister Netanyahu due to meet Trump in Washington on July 30 as regional flashpoints in southern Lebanon and the Red Sea keep energy and shipping markets on alert."
+    "lead": "Trump's global tariffs stay in force.",
+    "text": "New U.S. duties of 10% to 12.5% on roughly 60 trading partners — covering the vast bulk of imports under Section 301 — remained live, with the EU and China facing the top rate and warning of retaliation. Economists see the effective tariff rate rising 1–2 points, feeding the cost-and-margin uncertainty running through both the Fed's calculus and Big Tech's guidance."
    }
   ],
-  "sources": "CNBC; TheStreet; Reuters; Bloomberg; Yahoo Finance; Forbes; Al Jazeera; CNN; NPR; Washington Post; U.S. News"
+  "sources": "CNBC; The Motley Fool; TheStreet; Reuters; Bloomberg; Yahoo Finance; Forbes; TradingKey; Rigzone; CNN; NPR; Al Jazeera; Washington Times"
  },
  {
   "date": "2026-07-26",
