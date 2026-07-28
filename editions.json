@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-07-28",
+  "label": "Tue · Jul 28",
+  "weekday": "Tuesday, July 28, 2026",
+  "marketsClose": "Jul 27",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Oil sank more than 5% after the U.S. and Iran paused strikes, lifting the Dow even as an AI-fueled chip selloff dragged the Nasdaq lower — all ahead of a Fed meeting where a rate hike is suddenly in play.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.51
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.02
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.18
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.18
+   },
+   {
+    "name": "WTI Crude",
+    "v": -5.23
+   },
+   {
+    "name": "Brent",
+    "v": -5.05
+   }
+  ],
+  "marketsNote": "Energy names led blue chips higher while semiconductors sank; small caps paused after their best first half since 1991, and the 10-year Treasury yield hovered near a year-to-date high around 4.7%.",
+  "lead": {
+   "headline": "Oil Craters 5% on U.S.-Iran Pause as Dow Climbs and Chips Sink",
+   "tag": "Markets · Jul 27",
+   "body": [
+    "Crude tumbled after the U.S. and Iran paused two weeks of strikes over the weekend, reviving hopes of a diplomatic exit and easing fears over shipping through the Strait of Hormuz. WTI settled down 5.23% at $84.64 a barrel and Brent fell 5.05% to $91.89, both retreating from wartime highs above $100. The oil relief rippled into equities: the Dow rose 0.51% to about 52,210 on blue-chip and energy strength, the S&P 500 edged up 0.02% to 7,413, the Nasdaq slipped 0.18% to 24,932, and the Russell 2000 eased 0.18% to 2,970.",
+    "The drag came from semiconductors. Nvidia fell roughly 5% after reports a Chinese firm may mass-produce chipmaking equipment, while SanDisk plunged about 11% and Micron dropped alongside memory peers after a large Shanghai IPO by a Chinese competitor. Apple bucked the trend, rising 1.2% to overtake Nvidia as the world's most valuable company, as investors rotated out of the priciest AI trades and into perceived safety."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "IPO windfall.",
+    "text": "Goldman Sachs booked outsized underwriting fees from SpaceX's blockbuster June debut, which vaulted Elon Musk's rocket company past a $2 trillion market cap after a 19% first-day pop — a signature deal in what strategists are calling the mega-IPO era of 2026."
+   },
+   {
+    "lead": "AI reshapes Wall Street.",
+    "text": "In mid-July results, JPMorgan flagged AI-driven job cuts across back-office functions even as trading and advisory revenue stayed strong, underscoring how the biggest banks are redeploying headcount toward technology."
+   },
+   {
+    "lead": "Deal fees rebound.",
+    "text": "Big-bank second-quarter earnings pointed to a recovering investment-banking cycle, with equity capital markets and M&A advisory fees climbing as the IPO window reopened and dealmakers leaned into a busier pipeline."
+   },
+   {
+    "lead": "Yields at highs.",
+    "text": "The 10-year Treasury yield sat near a year-to-date high around 4.7%, with May headline PCE at 4.1% and June expected near 3.7% to 3.8%, tightening financial conditions for banks and borrowers alike."
+   },
+   {
+    "lead": "Chip earnings surprise.",
+    "text": "Intel beat second-quarter estimates with $0.42 in EPS versus $0.21 expected, yet shares fell about 7.9% as investors questioned the durability of its turnaround amid intensifying Chinese competition."
+   }
+  ],
+  "watch": {
+   "title": "Fed Day",
+   "lead": "A hike is back on the table.",
+   "text": "The FOMC meets July 28-29 with a decision Wednesday. Markets still lean toward a hold at 3.50%-3.75%, but the CME FedWatch tool now prices a 36.5% chance of a quarter-point hike — up sharply from near zero weeks ago — as Chair Kevin Warsh signals 'no tolerance' for CPI running at 3.5%. Traders also price roughly an 80% chance of at least one hike by September."
+  },
+  "world": [
+   {
+    "lead": "Fragile pause.",
+    "text": "The U.S. halted its Iran bombing campaign for a third straight night to give peace talks 'space,' with the Pentagon citing 18 U.S. troops killed and 624 wounded since February; Iran reciprocated by pausing strikes but said no negotiations are currently underway."
+   },
+   {
+    "lead": "Europe ablaze.",
+    "text": "More than 360,000 people were evacuated across southwestern France and Spain as megafires spread and a heat wave pushed temperatures above 40°C (104°F), with officials warning that separate fires could merge into a single front."
+   },
+   {
+    "lead": "Red Sea flare-up.",
+    "text": "Houthi rebels struck Saudi Aramco facilities along the Red Sea coast, widening the regional conflict beyond direct U.S.-Iran operations and keeping energy-supply risk in view even as crude prices fell."
+   },
+   {
+    "lead": "Berlin attack.",
+    "text": "A man drove a minivan into a Pride festival crowd in Berlin, killing one person and injuring 29; police fatally shot the 21-year-old suspect, who had a prior extremist history, during a follow-up operation."
+   },
+   {
+    "lead": "ICC shake-up.",
+    "text": "The International Criminal Court removed chief prosecutor Karim Khan following sexual-misconduct allegations — the first such removal in the court's history — after he had already been suspended pending review."
+   }
+  ],
+  "sources": "Reuters; CNBC; The Motley Fool; Yahoo Finance; TheStreet; CNN; Democracy Now; International Business Times"
+ },
+ {
   "date": "2026-07-27",
   "label": "Mon · Jul 27",
   "weekday": "Monday, July 27, 2026",
