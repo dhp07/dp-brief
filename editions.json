@@ -3,95 +3,95 @@
   "date": "2026-07-28",
   "label": "Tue · Jul 28",
   "weekday": "Tuesday, July 28, 2026",
-  "marketsClose": "Jul 27",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Oil sank more than 5% after the U.S. and Iran paused strikes, lifting the Dow even as an AI-fueled chip selloff dragged the Nasdaq lower — all ahead of a Fed meeting where a rate hike is suddenly in play.",
+  "marketsClose": "Jul 28",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "The Dow roared 629 points to a record 52,839 on an earnings blitz from Coca-Cola, Boeing, Visa and PayPal, while fresh 'circular financing' fears over Nvidia's $250B OpenAI backstop pinned the Nasdaq flat — all one day before the Fed's rate call.",
   "markets": [
    {
     "name": "Dow",
-    "v": 0.51
+    "v": 1.2
    },
    {
     "name": "S&P 500",
-    "v": 0.02
+    "v": 0.43
    },
    {
     "name": "Nasdaq",
-    "v": -0.18
+    "v": 0.08
    },
    {
     "name": "Russell 2000",
-    "v": -0.18
+    "v": 0.1
    },
    {
     "name": "WTI Crude",
-    "v": -5.23
+    "v": -1.8
    },
    {
     "name": "Brent",
-    "v": -5.05
+    "v": -2.14
    }
   ],
-  "marketsNote": "Energy names led blue chips higher while semiconductors sank; small caps paused after their best first half since 1991, and the 10-year Treasury yield hovered near a year-to-date high around 4.7%.",
+  "marketsNote": "A sharp rotation defined the session: money poured into cyclicals and defensives on strong earnings, lifting the Dow to a record close near 52,839, while AI and chip names sagged and kept the Nasdaq (24,953) barely positive; oil slid again as the U.S.-Iran pause held.",
   "lead": {
-   "headline": "Oil Craters 5% on U.S.-Iran Pause as Dow Climbs and Chips Sink",
-   "tag": "Markets · Jul 27",
+   "headline": "Dow Storms 629 Points to a Record on an Earnings Blitz as AI 'Circular Financing' Fears Cap the Nasdaq",
+   "tag": "Markets · Jul 28",
    "body": [
-    "Crude tumbled after the U.S. and Iran paused two weeks of strikes over the weekend, reviving hopes of a diplomatic exit and easing fears over shipping through the Strait of Hormuz. WTI settled down 5.23% at $84.64 a barrel and Brent fell 5.05% to $91.89, both retreating from wartime highs above $100. The oil relief rippled into equities: the Dow rose 0.51% to about 52,210 on blue-chip and energy strength, the S&P 500 edged up 0.02% to 7,413, the Nasdaq slipped 0.18% to 24,932, and the Russell 2000 eased 0.18% to 2,970.",
-    "The drag came from semiconductors. Nvidia fell roughly 5% after reports a Chinese firm may mass-produce chipmaking equipment, while SanDisk plunged about 11% and Micron dropped alongside memory peers after a large Shanghai IPO by a Chinese competitor. Apple bucked the trend, rising 1.2% to overtake Nvidia as the world's most valuable company, as investors rotated out of the priciest AI trades and into perceived safety."
+    "The Dow Jones Industrial Average surged 628.98 points, or 1.20%, to a record 52,839.06 on Tuesday, powered by a rotation out of AI and into cyclicals and defensives after a wave of upbeat corporate results. Boeing jumped roughly 6% on a surprise $631 million free-cash-flow beat and 171 jet deliveries, Coca-Cola climbed about 4% after its fifth straight earnings beat and raised full-year guidance, and Dow stalwarts McDonald's, Procter & Gamble, Verizon and Johnson & Johnson all rallied as investors trimmed semiconductor exposure. The S&P 500 added 0.43% to 7,444.88; the Russell 2000 edged up 0.10%.",
+    "The Nasdaq Composite managed only a 0.08% gain to 24,952.57 as chip stocks slumped on renewed 'circular financing' anxiety after reports that Nvidia is in talks to backstop up to $250 billion of OpenAI data-center debt — a deal skeptics including Michael Burry mocked with 'around and around we go.' Micron, AMD and Marvell all fell. The moves came as the Federal Reserve opened its two-day policy meeting, with a decision due Wednesday afternoon; the market expects rates held at 3.50%-3.75% even after this morning's edition flagged a hike as suddenly in play. Consumer confidence slipped to 90.8 in July, and oil eased further as the U.S.-Iran fighting pause held into a third day."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "IPO windfall.",
-    "text": "Goldman Sachs booked outsized underwriting fees from SpaceX's blockbuster June debut, which vaulted Elon Musk's rocket company past a $2 trillion market cap after a 19% first-day pop — a signature deal in what strategists are calling the mega-IPO era of 2026."
+    "lead": "Visa beat but the stock slipped.",
+    "text": "Visa posted fiscal Q3 net revenue of $11.63 billion, up 14% year over year, with adjusted EPS of $3.32 topping the $3.23 estimate; payments volume rose 10%, cross-border volume (ex-intra-Europe) climbed 12% and processed transactions gained 10%. CEO Ryan McInerney said 'consumer and business spending remains resilient,' yet shares still fell roughly 2% after-hours on a high bar."
    },
    {
-    "lead": "AI reshapes Wall Street.",
-    "text": "In mid-July results, JPMorgan flagged AI-driven job cuts across back-office functions even as trading and advisory revenue stayed strong, underscoring how the biggest banks are redeploying headcount toward technology."
+    "lead": "PayPal's turnaround gained traction.",
+    "text": "PayPal reported adjusted EPS of $1.38 versus a $1.28 estimate and revenue of $8.68 billion, with total payment volume up 10% to $486.4 billion. The company lifted full-year non-GAAP EPS guidance to about $5.38 and shares rose roughly 4%, though non-GAAP operating margin still contracted 248 basis points to 17.4% as branded-checkout stabilizes and Venmo and Braintree drive momentum."
    },
    {
-    "lead": "Deal fees rebound.",
-    "text": "Big-bank second-quarter earnings pointed to a recovering investment-banking cycle, with equity capital markets and M&A advisory fees climbing as the IPO window reopened and dealmakers leaned into a busier pipeline."
+    "lead": "Nvidia's OpenAI backstop reignited a systemic worry.",
+    "text": "Reports that Nvidia could guarantee up to $250 billion of OpenAI data-center financing — part of a web of deals Bloomberg pegged near $750 billion — revived fears that AI's boom is being funded in a circle, with chipmakers underwriting the customers who buy their chips. The debate dragged semiconductors even as the broader tape rallied, and set the tone for a cautious approach to the AI trade heading into mega-cap earnings."
    },
    {
-    "lead": "Yields at highs.",
-    "text": "The 10-year Treasury yield sat near a year-to-date high around 4.7%, with May headline PCE at 4.1% and June expected near 3.7% to 3.8%, tightening financial conditions for banks and borrowers alike."
+    "lead": "The Fed took center stage.",
+    "text": "The Federal Open Market Committee began its two-day meeting Tuesday with a rate decision landing Wednesday at 2 p.m. ET. Consensus still points to a hold in the 3.50%-3.75% band, but a softening in consumer confidence to 90.8 and this week's data leave the path for the rest of 2026 unusually contested — with markets parsing every word of Chair Powell's guidance for direction."
    },
    {
-    "lead": "Chip earnings surprise.",
-    "text": "Intel beat second-quarter estimates with $0.42 in EPS versus $0.21 expected, yet shares fell about 7.9% as investors questioned the durability of its turnaround amid intensifying Chinese competition."
+    "lead": "Payments rivalry heated up.",
+    "text": "Commentary around a Stripe-PayPal tie-up drew a sharp read from investor Chamath Palihapitiya, who called it 'a shot across the bow' for Visa and Mastercard — underscoring how fast the value chain in digital payments and agentic commerce is shifting even as the incumbents post double-digit volume growth."
    }
   ],
   "watch": {
-   "title": "Fed Day",
-   "lead": "A hike is back on the table.",
-   "text": "The FOMC meets July 28-29 with a decision Wednesday. Markets still lean toward a hold at 3.50%-3.75%, but the CME FedWatch tool now prices a 36.5% chance of a quarter-point hike — up sharply from near zero weeks ago — as Chair Kevin Warsh signals 'no tolerance' for CPI running at 3.5%. Traders also price roughly an 80% chance of at least one hike by September."
+   "title": "Fed Decision Day",
+   "lead": "The two-day FOMC meeting wraps Wednesday afternoon.",
+   "text": "A 2 p.m. ET rate call and a 2:30 Powell press conference will set the tone into month-end, with markets betting on a hold at 3.50%-3.75% but hunting for signals on the rest of the year. Layered on top: a torrent of mega-cap tech earnings this week from Microsoft, Meta, Apple and Amazon that will test whether the AI-spending story — and the 'circular financing' critique — can survive contact with actual numbers."
   },
   "world": [
    {
-    "lead": "Fragile pause.",
-    "text": "The U.S. halted its Iran bombing campaign for a third straight night to give peace talks 'space,' with the Pentagon citing 18 U.S. troops killed and 624 wounded since February; Iran reciprocated by pausing strikes but said no negotiations are currently underway."
+    "lead": "The U.S.-Iran fighting pause held.",
+    "text": "Active strikes between the U.S. and Iran remained suspended for a third straight day to give peace talks 'space,' though Tehran said no formal negotiations were currently under way. The fragile lull pulled a geopolitical risk premium out of crude, sending WTI back toward the low $80s and Brent under $87, even as questions lingered over the Strait of Hormuz."
    },
    {
-    "lead": "Europe ablaze.",
-    "text": "More than 360,000 people were evacuated across southwestern France and Spain as megafires spread and a heat wave pushed temperatures above 40°C (104°F), with officials warning that separate fires could merge into a single front."
+    "lead": "A funeral turned into a diplomatic summit.",
+    "text": "The Washington funeral for the late Senator Lindsey Graham drew President Trump, Israel's Benjamin Netanyahu and Ukraine's Volodymyr Zelensky for back-to-back White House talks on the Iran and Ukraine wars. Netanyahu and Zelensky spoke in person for the first time in three years — an unexpected sideline moment amid two active conflicts."
    },
    {
-    "lead": "Red Sea flare-up.",
-    "text": "Houthi rebels struck Saudi Aramco facilities along the Red Sea coast, widening the regional conflict beyond direct U.S.-Iran operations and keeping energy-supply risk in view even as crude prices fell."
+    "lead": "Consumer confidence cooled.",
+    "text": "The Conference Board's July reading fell to 90.8, a soft print that fed the day's rotation into defensive shares and sharpened the stakes for Wednesday's Fed decision, as investors weighed whether a slowing consumer argues against any further tightening."
    },
    {
-    "lead": "Berlin attack.",
-    "text": "A man drove a minivan into a Pride festival crowd in Berlin, killing one person and injuring 29; police fatally shot the 21-year-old suspect, who had a prior extremist history, during a follow-up operation."
+    "lead": "Oil and metals stayed on the back foot.",
+    "text": "Beyond crude's slide, gold fell over 1% toward $4,087 an ounce and silver dropped more than 2% as easing Middle East tensions and a firmer risk appetite drained safe-haven demand — a notable unwind after weeks of war-driven bid."
    },
    {
-    "lead": "ICC shake-up.",
-    "text": "The International Criminal Court removed chief prosecutor Karim Khan following sexual-misconduct allegations — the first such removal in the court's history — after he had already been suspended pending review."
+    "lead": "Big Tech earnings loom large.",
+    "text": "With Microsoft, Meta, Apple and Amazon all reporting within days, the week's second half carries outsized weight for the AI narrative. After Tuesday's chip wobble, their capital-spending plans and cloud growth will either validate the buildout or amplify the circular-financing doubts now shadowing the sector."
    }
   ],
-  "sources": "Reuters; CNBC; The Motley Fool; Yahoo Finance; TheStreet; CNN; Democracy Now; International Business Times"
+  "sources": "Yahoo Finance; TheStreet; CNBC; Bloomberg; 24/7 Wall St.; Benzinga; Reuters; CNN"
  },
  {
   "date": "2026-07-27",
