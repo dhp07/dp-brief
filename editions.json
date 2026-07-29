@@ -1,5 +1,103 @@
 [
  {
+  "date": "2026-07-29",
+  "label": "Wed · Jul 29",
+  "weekday": "Wednesday, July 29, 2026",
+  "marketsClose": "Jul 28",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Fed decision day: markets brace for a live rate-hike risk as Chair Warsh delivers a verdict at 2pm ET, with the Dow closing up ~550 points on earnings and oil sinking ~5% on Iran de-escalation.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 1.0
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.2
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.2
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.18
+   },
+   {
+    "name": "WTI Crude",
+    "v": -4.3
+   },
+   {
+    "name": "Brent",
+    "v": -5.1
+   }
+  ],
+  "marketsNote": "Breadth beat the tape: the Dow added nearly 550 points on strong earnings while chip weakness pinned the Nasdaq below the line, and crude slid hard as Middle East risk premium unwound. Treasury yields sat near 52-week highs into the Fed decision, the 2-year around 4.32% and the 10-year near 4.65%.",
+  "lead": {
+   "headline": "Fed decision day: Warsh faces a live hike call as traders price 36% odds of a move",
+   "tag": "Banking · Jul 29",
+   "body": [
+    "The Federal Reserve concludes its two-day meeting Wednesday with a 2pm ET decision and a 2:30pm press conference from Chair Kevin Warsh, and for the first time in months the outcome is genuinely in doubt. CME FedWatch put the probability of holding the target range at 3.50%-3.75% around 68.5%, up from 63.7% a day earlier, but futures traders lifted the odds of a 25 basis-point hike to roughly 36% from just 16% a week ago as elevated energy costs stoked inflation worries.",
+    "The meeting is unusual on two fronts. The FOMC will not publish a Summary of Economic Projections this cycle, stripping markets of the dot plot and members' forecasts, and a hike would mark a decisive break from the forward-guidance era Warsh has signaled he wants to wind down. With Treasury yields at 52-week highs and this week's collapse in crude offering fresh disinflation cover, the statement's language on the path ahead may matter more than the rate itself."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Rate verdict at 2pm ET.",
+    "text": "Consensus still leans toward a hold at 3.50%-3.75%, but a real minority of traders is positioned for a 25bp hike; the absence of a Summary of Economic Projections leaves Warsh's press conference as the primary guide to the path from here."
+   },
+   {
+    "lead": "Yields near yearly highs.",
+    "text": "The 2-year Treasury hovered around 4.32% and the 10-year near 4.65% into the decision, both at or close to 52-week highs, signaling markets have already tightened conditions ahead of the Fed."
+   },
+   {
+    "lead": "Oil collapse eases inflation math.",
+    "text": "WTI fell about 4.3% to roughly $79 and Brent dropped 5.1% to about $83.80 as the Iran risk premium unwound; a sustained retreat in energy would hand the Fed cover to stay patient despite recent inflation jitters."
+   },
+   {
+    "lead": "Chip selloff drags the Nasdaq.",
+    "text": "Semiconductor stocks slumped, with the iShares Semiconductor ETF off roughly 5% and memory names down as much as 9%, amid reports China is advancing deep-ultraviolet lithography and fresh questions about the durability of heavy AI capex."
+   },
+   {
+    "lead": "Earnings powered the Dow.",
+    "text": "Coca-Cola, Boeing and Sherwin-Williams led the blue-chip advance, rising roughly 5%, 4.5% and 8% respectively, a reminder that the earnings tape is carrying breadth even as mega-cap tech wobbles."
+   },
+   {
+    "lead": "Big Tech capex on deck.",
+    "text": "Microsoft and Meta report Wednesday, with Apple and Amazon to follow, and investors are watching AI spending disclosures for signs of whether the capex cycle can still justify stretched valuations."
+   }
+  ],
+  "watch": {
+   "title": "Mega-cap earnings meet the AI-capex test",
+   "lead": "Four of the market's largest names report inside 48 hours.",
+   "text": "Microsoft and Meta post results Wednesday afternoon, followed by Apple and Amazon, and the read-through on AI infrastructure spending could set the tone for a market where a narrow band of tech has done much of the heavy lifting. Guidance on cloud growth and capex will matter more than the headline beats."
+  },
+  "world": [
+   {
+    "lead": "Iran-US tensions ease, unevenly.",
+    "text": "Washington paused its strike campaign against Iran, with Tehran halting retaliatory action and opening talks with Oman over the Strait of Hormuz, though Iran was reported to have launched drone attacks on Saudi Arabia, Jordan and Iraq during the lull, leaving supply risk unresolved."
+   },
+   {
+    "lead": "Netanyahu heads to the White House.",
+    "text": "Israeli Prime Minister Benjamin Netanyahu is scheduled to meet President Trump in Washington, their eighth sit-down since Trump's return to office, with Gaza and the wider regional picture on the agenda."
+   },
+   {
+    "lead": "Deadly attack at Berlin Pride.",
+    "text": "A vehicle attack at Berlin's Pride celebration killed one person and injured at least 29 others, German authorities said, prompting a heightened security response across the capital."
+   },
+   {
+    "lead": "Fujimori inaugurated in Peru.",
+    "text": "Keiko Fujimori was sworn in as president of Peru on the country's Independence Day, becoming the first woman elected by popular vote to lead the nation."
+   },
+   {
+    "lead": "Zelenskyy meets new UK leader.",
+    "text": "Ukrainian President Volodymyr Zelenskyy met newly installed British Prime Minister Andy Burnham as Kyiv works to shore up European support heading into a critical stretch of the war."
+   }
+  ],
+  "sources": "Yahoo Finance; TheStreet; CNBC; Reuters; Bloomberg; Forbes; Kiplinger; CNN; IBTimes"
+ },
+ {
   "date": "2026-07-28",
   "label": "Tue · Jul 28",
   "weekday": "Tuesday, July 28, 2026",
