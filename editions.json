@@ -3,99 +3,95 @@
   "date": "2026-07-29",
   "label": "Wed · Jul 29",
   "weekday": "Wednesday, July 29, 2026",
-  "marketsClose": "Jul 28",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Fed decision day: markets brace for a live rate-hike risk as Chair Warsh delivers a verdict at 2pm ET, with the Dow closing up ~550 points on earnings and oil sinking ~5% on Iran de-escalation.",
+  "marketsClose": "Jul 29",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Stocks slumped as a divided Fed held rates with three dissents pushing for a hike, while a surprise Iranian missile barrage on U.S. forces sent oil surging and the Dow tumbling 1,153 points.",
   "markets": [
    {
     "name": "Dow",
-    "v": 1.0
+    "v": -2.19
    },
    {
     "name": "S&P 500",
-    "v": 0.2
+    "v": -1.52
    },
    {
     "name": "Nasdaq",
-    "v": -0.2
+    "v": -1.74
    },
    {
     "name": "Russell 2000",
-    "v": -0.18
+    "v": -1.61
    },
    {
     "name": "WTI Crude",
-    "v": -4.3
+    "v": 5.2
    },
    {
     "name": "Brent",
-    "v": -5.1
+    "v": 5.9
    }
   ],
-  "marketsNote": "Breadth beat the tape: the Dow added nearly 550 points on strong earnings while chip weakness pinned the Nasdaq below the line, and crude slid hard as Middle East risk premium unwound. Treasury yields sat near 52-week highs into the Fed decision, the 2-year around 4.32% and the 10-year near 4.65%.",
+  "marketsNote": "A one-two punch of a hawkish Fed hold and fresh Middle East conflict triggered a broad sell-off; the Dow shed 1,153 points to 51,594 as the 10-year Treasury yield climbed to 4.70% and crude spiked on supply fears.",
   "lead": {
-   "headline": "Fed decision day: Warsh faces a live hike call as traders price 36% odds of a move",
-   "tag": "Banking · Jul 29",
+   "headline": "Divided Fed holds rates as three officials dissent for a hike; stocks tumble",
+   "tag": "Markets · Jul 29",
    "body": [
-    "The Federal Reserve concludes its two-day meeting Wednesday with a 2pm ET decision and a 2:30pm press conference from Chair Kevin Warsh, and for the first time in months the outcome is genuinely in doubt. CME FedWatch put the probability of holding the target range at 3.50%-3.75% around 68.5%, up from 63.7% a day earlier, but futures traders lifted the odds of a 25 basis-point hike to roughly 36% from just 16% a week ago as elevated energy costs stoked inflation worries.",
-    "The meeting is unusual on two fronts. The FOMC will not publish a Summary of Economic Projections this cycle, stripping markets of the dot plot and members' forecasts, and a hike would mark a decisive break from the forward-guidance era Warsh has signaled he wants to wind down. With Treasury yields at 52-week highs and this week's collapse in crude offering fresh disinflation cover, the statement's language on the path ahead may matter more than the rate itself."
+    "The Federal Reserve left its benchmark rate unchanged at 3.50%-3.75% on Wednesday, but the decision was anything but unanimous: three FOMC members dissented in favor of an immediate rate increase, an unusually hawkish split that rattled investors already braced for geopolitical risk. With inflation still running above the central bank's 2% target, the vote signaled that further easing is off the table and that a hike remains a live possibility.",
+    "Wall Street sold off hard as long-dated yields rose and traders digested the hawkish message. The Dow Jones Industrial Average sank 1,153.18 points, or 2.19%, to 51,594.14; the S&P 500 fell 1.52% to 7,316.15; the Nasdaq Composite dropped 1.74% to 24,442.94; and the small-cap Russell 2000 lost 1.61% to 2,906.31. Industrials (-3.42%) and technology (-2.36%) led the retreat, with Caterpillar down nearly 7% on a downgrade and chipmakers weak after a soft SK Hynix report stoked fears the AI boom is cooling."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Rate verdict at 2pm ET.",
-    "text": "Consensus still leans toward a hold at 3.50%-3.75%, but a real minority of traders is positioned for a 25bp hike; the absence of a Summary of Economic Projections leaves Warsh's press conference as the primary guide to the path from here."
+    "lead": "The Fed's hawkish hold reset rate expectations.",
+    "text": "Three dissenting votes for a hike — a rare show of internal discord — pushed the 10-year Treasury yield up about 9 basis points to 4.70% and drove futures markets to price a meaningfully higher probability of a hike at upcoming meetings, tightening financial conditions across credit and equities."
    },
    {
-    "lead": "Yields near yearly highs.",
-    "text": "The 2-year Treasury hovered around 4.32% and the 10-year near 4.65% into the decision, both at or close to 52-week highs, signaling markets have already tightened conditions ahead of the Fed."
+    "lead": "Berkshire Hathaway's cash pile hit a record.",
+    "text": "Warren Buffett's conglomerate reported a record $397 billion in cash and equivalents, feeding speculation that the famed value investor sees few attractively priced assets and may be positioning defensively ahead of a possible downturn."
    },
    {
-    "lead": "Oil collapse eases inflation math.",
-    "text": "WTI fell about 4.3% to roughly $79 and Brent dropped 5.1% to about $83.80 as the Iran risk premium unwound; a sustained retreat in energy would hand the Fed cover to stay patient despite recent inflation jitters."
+    "lead": "Microsoft topped estimates after the close.",
+    "text": "Microsoft posted fiscal Q4 revenue of $90.01 billion (up 18%) and adjusted EPS of $4.74, beating forecasts, with Azure growing 32% to $39.31 billion and the cloud unit crossing $100 billion in annual revenue for the first time; shares climbed in after-hours trading."
    },
    {
-    "lead": "Chip selloff drags the Nasdaq.",
-    "text": "Semiconductor stocks slumped, with the iShares Semiconductor ETF off roughly 5% and memory names down as much as 9%, amid reports China is advancing deep-ultraviolet lithography and fresh questions about the durability of heavy AI capex."
+    "lead": "Meta's profit fell despite a revenue surge.",
+    "text": "Meta reported Q2 revenue of $60.8 billion (up 28%) but net income slid 14% to $15.8 billion as costs jumped 55% and legal/severance charges bit; it guided 2026 capex to $130-$145 billion, and shares slipped after hours on AI-spending concerns."
    },
    {
-    "lead": "Earnings powered the Dow.",
-    "text": "Coca-Cola, Boeing and Sherwin-Williams led the blue-chip advance, rising roughly 5%, 4.5% and 8% respectively, a reminder that the earnings tape is carrying breadth even as mega-cap tech wobbles."
-   },
-   {
-    "lead": "Big Tech capex on deck.",
-    "text": "Microsoft and Meta report Wednesday, with Apple and Amazon to follow, and investors are watching AI spending disclosures for signs of whether the capex cycle can still justify stretched valuations."
+    "lead": "Energy names bucked the sell-off.",
+    "text": "ExxonMobil and Chevron rose as crude prices spiked on the Middle East escalation, one of the few pockets of strength on a broadly red tape as investors rotated toward defensives and energy."
    }
   ],
   "watch": {
-   "title": "Mega-cap earnings meet the AI-capex test",
-   "lead": "Four of the market's largest names report inside 48 hours.",
-   "text": "Microsoft and Meta post results Wednesday afternoon, followed by Apple and Amazon, and the read-through on AI infrastructure spending could set the tone for a market where a narrow band of tech has done much of the heavy lifting. Guidance on cloud growth and capex will matter more than the headline beats."
+   "title": "Big Tech's AI bill",
+   "lead": "Apple and Amazon report Thursday.",
+   "text": "With Microsoft and Meta now in, attention turns to Apple and Amazon after Thursday's close. Investors want proof that ballooning AI capital spending — already stretching into the hundreds of billions across the megacaps — is translating into durable revenue, especially with the market suddenly skeptical that the AI boom can sustain its pace."
   },
   "world": [
    {
-    "lead": "Iran-US tensions ease, unevenly.",
-    "text": "Washington paused its strike campaign against Iran, with Tehran halting retaliatory action and opening talks with Oman over the Strait of Hormuz, though Iran was reported to have launched drone attacks on Saudi Arabia, Jordan and Iraq during the lull, leaving supply risk unresolved."
+    "lead": "Iran launched a surprise attack on U.S. forces.",
+    "text": "Iran's Islamic Revolutionary Guard Corps fired multiple ballistic missiles at U.S. forces in the Middle East in what Central Command called an 'attempted surprise attack'; CENTCOM said all missiles were intercepted, shattering a brief lull in the conflict."
    },
    {
-    "lead": "Netanyahu heads to the White House.",
-    "text": "Israeli Prime Minister Benjamin Netanyahu is scheduled to meet President Trump in Washington, their eighth sit-down since Trump's return to office, with Gaza and the wider regional picture on the agenda."
+    "lead": "Trump vowed a forceful response.",
+    "text": "President Trump warned the U.S. would give Iran a 'beating,' as fresh U.S.-Iran strikes resumed and Jordan reported intercepting additional Iranian missiles, sharply raising the risk of a wider regional war."
    },
    {
-    "lead": "Deadly attack at Berlin Pride.",
-    "text": "A vehicle attack at Berlin's Pride celebration killed one person and injured at least 29 others, German authorities said, prompting a heightened security response across the capital."
+    "lead": "Oil surged on supply-shock fears.",
+    "text": "WTI crude jumped roughly 5% toward $83 a barrel and Brent climbed near $90 after Iran rejected an Omani proposal to share control of the Strait of Hormuz and threatened to block vessels tied to countries holding its frozen assets."
    },
    {
-    "lead": "Fujimori inaugurated in Peru.",
-    "text": "Keiko Fujimori was sworn in as president of Peru on the country's Independence Day, becoming the first woman elected by popular vote to lead the nation."
+    "lead": "A refinery outage compounded the squeeze.",
+    "text": "Saudi Aramco shut its 400,000-barrel-per-day Jizan refinery following a Houthi attack, tightening regional supply and underscoring how quickly the escalation could ripple through global energy markets."
    },
    {
-    "lead": "Zelenskyy meets new UK leader.",
-    "text": "Ukrainian President Volodymyr Zelenskyy met newly installed British Prime Minister Andy Burnham as Kyiv works to shore up European support heading into a critical stretch of the war."
+    "lead": "Asian markets bore the brunt.",
+    "text": "South Korea's Kospi tumbled about 6% amid the semiconductor sell-off and rising war jitters, a reminder that the twin shocks of a hawkish Fed and Middle East conflict are reverberating well beyond U.S. shores."
    }
   ],
-  "sources": "Yahoo Finance; TheStreet; CNBC; Reuters; Bloomberg; Forbes; Kiplinger; CNN; IBTimes"
+  "sources": "TheStreet; The Motley Fool; CNBC; Yahoo Finance; Reuters; AGBI; CNN; gurufocus; StockTitan; Federal Reserve"
  },
  {
   "date": "2026-07-28",
