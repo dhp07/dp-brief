@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-07-30",
+  "label": "Thu · Jul 30",
+  "weekday": "Thursday, July 30, 2026",
+  "marketsClose": "Jul 29",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Futures steadied overnight after a hawkish Fed hold and fresh U.S.–Iran fighting sparked a 1,153-point Dow rout, with Microsoft's Azure beat offering a lift before Apple and Amazon report.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -2.19
+   },
+   {
+    "name": "S&P 500",
+    "v": -1.52
+   },
+   {
+    "name": "Nasdaq",
+    "v": -1.74
+   },
+   {
+    "name": "Russell 2000",
+    "v": -1.61
+   },
+   {
+    "name": "WTI Crude",
+    "v": 6.5
+   },
+   {
+    "name": "Brent",
+    "v": 7.1
+   }
+  ],
+  "marketsNote": "Wall Street suffered its worst day in months as a hawkish Fed hold met a Middle East flare-up; the Dow shed 1,153 points to 51,594, the 10-year Treasury yield climbed to about 4.70%, and Brent settled back above $90 on supply fears.",
+  "lead": {
+   "headline": "Markets reel from hawkish Fed hold and U.S.–Iran clash; futures steady on Big Tech",
+   "tag": "Markets · Jul 29",
+   "body": [
+    "Wall Street closed sharply lower Wednesday after the Federal Reserve left its benchmark rate unchanged at 3.50%-3.75% in a divided 9-3 vote, with three officials — Cleveland's Beth Hammack, Minneapolis' Neel Kashkari and Dallas' Lorie Logan — dissenting in favor of an immediate hike. New Chair Kevin Warsh, running only his second meeting, stripped forward guidance from the statement, an unusually hawkish signal that pushed long-dated yields higher and hammered rate-sensitive stocks. The Dow tumbled 1,153.18 points, or 2.19%, to 51,594.14; the S&P 500 fell 1.52% to 7,316.15; the Nasdaq dropped 1.74% to 24,442.94; and the Russell 2000 lost 1.61%.",
+    "The selloff was compounded by an escalating U.S.–Iran conflict that sent crude surging, with Brent back above $90 a barrel, and by a deepening chip rout after SK Hynix's record profit still missed estimates, dragging Nvidia, Micron and AMD lower as more than $1 trillion in semiconductor value evaporated. By Thursday morning, U.S. equity futures had steadied and pointed to a modest recovery, buoyed by Microsoft's strong Azure results after the bell, even as Asian markets slumped — South Korea's Kospi fell roughly 6% and Japan's Nikkei nearly 4%."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "The Fed's hawkish hold reset the rate outlook.",
+    "text": "The 9-3 vote — with three dissents pushing for a 25-basis-point hike and Chair Warsh dropping forward guidance — drove the 10-year Treasury yield up to roughly 4.70% and led futures markets to price a higher probability of a hike ahead, tightening financial conditions across credit and equities."
+   },
+   {
+    "lead": "Microsoft topped estimates on cloud strength.",
+    "text": "In fiscal fourth-quarter results reported after Wednesday's close, Microsoft beat expectations as Azure revenue grew about 43% and commercial remaining performance obligations surged 84%, sending shares up more than 4% after hours and offering a rare bright spot for the AI trade."
+   },
+   {
+    "lead": "Meta missed on profit despite a revenue beat.",
+    "text": "Meta topped sales forecasts but fell short on earnings as surging artificial-intelligence capital spending squeezed margins, reinforcing investor unease that Big Tech's AI buildout is running ahead of returns."
+   },
+   {
+    "lead": "Goldman Sachs extended its dealmaking lead.",
+    "text": "Goldman has surpassed a record $1 trillion in M&A advisory volume for 2026 following its lead role on the blockbuster SpaceX IPO, while Iran-war volatility has fueled record Wall Street trading revenues across the bulge-bracket banks."
+   },
+   {
+    "lead": "European lenders lag Wall Street's trading haul.",
+    "text": "European banks are struggling to match the record trading revenues posted by their U.S. rivals, Bloomberg reported, underscoring the widening gap as market volatility rewards firms with the largest capital-markets franchises."
+   }
+  ],
+  "watch": {
+   "title": "Apple and Amazon earnings",
+   "lead": "The megacap earnings gauntlet continues Thursday.",
+   "text": "Apple and Amazon report after Thursday's close — alongside Mastercard and Shell — and their results on consumer demand and AI-driven cloud spending will test whether the market can stabilize after the Fed-day rout; traders are also watching Iran's vow to 'punish the aggressor today' and its effect on oil."
+  },
+  "world": [
+   {
+    "lead": "The U.S. launched a fresh wave of strikes on Iran.",
+    "text": "After intercepting what CENTCOM called a surprise Iranian missile attack on American forces, President Trump said it was 'our turn' and the U.S. completed a heavy new round of strikes on Iran; Tehran responded that it would 'punish the aggressor today,' raising fears of a wider war."
+   },
+   {
+    "lead": "U.S. and Saudi forces hit militias in Iraq.",
+    "text": "Coalition aircraft struck multiple Tehran-backed logistics and weapons sites across eastern Iraq in response to more than 30 drone attacks over 72 hours, killing at least 20 fighters and wounding 32, according to the Popular Mobilization Forces."
+   },
+   {
+    "lead": "Iran targeted U.S. bases in Jordan.",
+    "text": "Iran's Revolutionary Guard fired ballistic missiles at the Muwaffaq Salti Air Base and a U.S. Central Command headquarters in Jordan; Jordan's military said it intercepted and destroyed five incoming missiles, with no U.S. casualties reported in that strike."
+   },
+   {
+    "lead": "The Strait of Hormuz standoff intensified.",
+    "text": "Iran claimed its Revolutionary Guard navy struck three oil tankers near Hormuz and Houthi rebels reportedly attacked the Saudi tanker NCC Ghazal in the Red Sea, while satellite imagery showed smoke over Saudi Aramco's Abqaiq processing facility — stoking the crude spike."
+   },
+   {
+    "lead": "Asian markets slumped on the chip rout.",
+    "text": "The AI-memory selloff spread overseas as South Korea's Kospi fell about 6% and Japan's Nikkei 225 dropped nearly 4%, led by steep double-digit declines in SK Hynix and Samsung amid mounting doubts over returns on AI infrastructure spending."
+   }
+  ],
+  "sources": "TheStreet; Yahoo Finance; CNBC; Fox Business; Bloomberg; Reuters; NPR; CNN; Forbes"
+ },
+ {
   "date": "2026-07-29",
   "label": "Wed · Jul 29",
   "weekday": "Wednesday, July 29, 2026",
