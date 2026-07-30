@@ -3,95 +3,99 @@
   "date": "2026-07-30",
   "label": "Thu · Jul 30",
   "weekday": "Thursday, July 30, 2026",
-  "marketsClose": "Jul 29",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Futures steadied overnight after a hawkish Fed hold and fresh U.S.–Iran fighting sparked a 1,153-point Dow rout, with Microsoft's Azure beat offering a lift before Apple and Amazon report.",
+  "marketsClose": "Jul 30",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Wall Street roared back from the Fed-day rout as Microsoft added a record ~$450 billion in market value for its best day since 2008, driving the Nasdaq up 2.8%, with Amazon surging and Apple slipping after the bell.",
   "markets": [
    {
     "name": "Dow",
-    "v": -2.19
+    "v": 1.19
    },
    {
     "name": "S&P 500",
-    "v": -1.52
+    "v": 1.68
    },
    {
     "name": "Nasdaq",
-    "v": -1.74
+    "v": 2.78
    },
    {
     "name": "Russell 2000",
-    "v": -1.61
+    "v": 0.82
    },
    {
     "name": "WTI Crude",
-    "v": 6.5
+    "v": -0.47
    },
    {
     "name": "Brent",
-    "v": 7.1
+    "v": -1.63
    }
   ],
-  "marketsNote": "Wall Street suffered its worst day in months as a hawkish Fed hold met a Middle East flare-up; the Dow shed 1,153 points to 51,594, the 10-year Treasury yield climbed to about 4.70%, and Brent settled back above $90 on supply fears.",
+  "marketsNote": "Stocks staged a broad rebound a day after the worst rout in months: the Dow rose 613.92 points to 52,208.06, the S&P 500 gained 1.7% to 7,437.63 and the Nasdaq jumped 2.8% to 25,122.18, led by Microsoft's near-16% surge; crude eased as Strait of Hormuz shipping picked up, with Brent back below $90.",
   "lead": {
-   "headline": "Markets reel from hawkish Fed hold and U.S.–Iran clash; futures steady on Big Tech",
-   "tag": "Markets · Jul 29",
+   "headline": "Microsoft's record rally powers a broad rebound; Amazon soars and Apple slips after the bell",
+   "tag": "Markets · Jul 30",
    "body": [
-    "Wall Street closed sharply lower Wednesday after the Federal Reserve left its benchmark rate unchanged at 3.50%-3.75% in a divided 9-3 vote, with three officials — Cleveland's Beth Hammack, Minneapolis' Neel Kashkari and Dallas' Lorie Logan — dissenting in favor of an immediate hike. New Chair Kevin Warsh, running only his second meeting, stripped forward guidance from the statement, an unusually hawkish signal that pushed long-dated yields higher and hammered rate-sensitive stocks. The Dow tumbled 1,153.18 points, or 2.19%, to 51,594.14; the S&P 500 fell 1.52% to 7,316.15; the Nasdaq dropped 1.74% to 24,442.94; and the Russell 2000 lost 1.61%.",
-    "The selloff was compounded by an escalating U.S.–Iran conflict that sent crude surging, with Brent back above $90 a barrel, and by a deepening chip rout after SK Hynix's record profit still missed estimates, dragging Nvidia, Micron and AMD lower as more than $1 trillion in semiconductor value evaporated. By Thursday morning, U.S. equity futures had steadied and pointed to a modest recovery, buoyed by Microsoft's strong Azure results after the bell, even as Asian markets slumped — South Korea's Kospi fell roughly 6% and Japan's Nikkei nearly 4%."
+    "Wall Street clawed back most of Wednesday's Fed-day losses on Thursday as Microsoft posted the largest single-day value gain in market history. The shares leaped about 15.5% — their best session in nearly 18 years — after fiscal fourth-quarter results showed Azure cloud revenue topping $100 billion for the first time, adding roughly $450 billion to the company's market capitalization and reviving the AI trade that had cracked a day earlier. The Nasdaq Composite jumped 2.8% to 25,122.18 for its best day since June, the S&P 500 rose 1.7% to 7,437.63, and the Dow climbed 613.92 points, or 1.2%, to 52,208.06, with beaten-down chipmakers Nvidia, Micron and AMD rebounding alongside the megacaps.",
+    "The rally set up a pivotal after-hours session. Amazon surged more than 8% once results landed, as AWS grew about 37% — its fastest pace in five years — and the segment closed in on its first $200 billion annual revenue run-rate. Apple went the other way, slipping 3% to 4% despite a record June quarter: revenue rose 16% to $109.4 billion and iPhone sales jumped 22% to $54.25 billion, but Services revenue of $30.74 billion missed estimates and Greater China sales came in light. The split reactions left the market's momentum hinging on whether Big Tech's AI buildout is finally translating into returns, even as the bond market flashed caution, with the 30-year Treasury yield settling around 5.22%."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "The Fed's hawkish hold reset the rate outlook.",
-    "text": "The 9-3 vote — with three dissents pushing for a 25-basis-point hike and Chair Warsh dropping forward guidance — drove the 10-year Treasury yield up to roughly 4.70% and led futures markets to price a higher probability of a hike ahead, tightening financial conditions across credit and equities."
+    "lead": "Microsoft set a market record on Azure's $100 billion milestone.",
+    "text": "Microsoft's roughly 15.5% jump — its best day since 2008 — added an estimated $450 billion in market value, the biggest one-day gain for any company on record, after Azure revenue crossed $100 billion for fiscal 2026 and commercial cloud strength validated the capital-intensive AI thesis that Wall Street had begun to doubt."
    },
    {
-    "lead": "Microsoft topped estimates on cloud strength.",
-    "text": "In fiscal fourth-quarter results reported after Wednesday's close, Microsoft beat expectations as Azure revenue grew about 43% and commercial remaining performance obligations surged 84%, sending shares up more than 4% after hours and offering a rare bright spot for the AI trade."
+    "lead": "Amazon jumped after hours as AWS reaccelerated.",
+    "text": "Amazon shares soared more than 8% in extended trading after second-quarter results beat estimates and AWS grew about 37% — its fastest in five years — putting the cloud unit on track for its first $200 billion annual revenue run-rate as advertising and AI demand powered the top line."
    },
    {
-    "lead": "Meta missed on profit despite a revenue beat.",
-    "text": "Meta topped sales forecasts but fell short on earnings as surging artificial-intelligence capital spending squeezed margins, reinforcing investor unease that Big Tech's AI buildout is running ahead of returns."
+    "lead": "Apple beat on iPhones but stumbled on Services.",
+    "text": "Apple reported record June-quarter revenue of $109.4 billion, up 16%, with EPS climbing 29% and iPhone sales up 22% to $54.25 billion, yet the stock fell 3% to 4% after hours as Services revenue of $30.74 billion missed the $31.22 billion consensus and Greater China sales of $18.8 billion disappointed."
    },
    {
-    "lead": "Goldman Sachs extended its dealmaking lead.",
-    "text": "Goldman has surpassed a record $1 trillion in M&A advisory volume for 2026 following its lead role on the blockbuster SpaceX IPO, while Iran-war volatility has fueled record Wall Street trading revenues across the bulge-bracket banks."
+    "lead": "Meta's AI spending kept its shares under pressure.",
+    "text": "Meta remained a drag on sentiment, down roughly 9% after Wednesday's report showed surging artificial-intelligence capital spending squeezing margins despite a revenue beat, a reminder that not every megacap is being rewarded for its AI buildout the way Microsoft was."
    },
    {
-    "lead": "European lenders lag Wall Street's trading haul.",
-    "text": "European banks are struggling to match the record trading revenues posted by their U.S. rivals, Bloomberg reported, underscoring the widening gap as market volatility rewards firms with the largest capital-markets franchises."
+    "lead": "The bond market undercut the equity relief.",
+    "text": "Even as stocks rallied, long-dated Treasuries signaled persistent inflation worries: the 30-year yield settled near 5.22%, close to a multidecade high, and the 10-year held around 4.67%, keeping financial conditions tight after Chair Kevin Warsh's hawkish hold and stripped forward guidance a day earlier."
+   },
+   {
+    "lead": "Wall Street's trading desks kept cashing in on volatility.",
+    "text": "The whipsaw between Wednesday's rout and Thursday's rebound extended a lucrative stretch for the bulge-bracket banks, whose capital-markets franchises have posted record trading revenues through the Iran-driven turbulence, widening their lead over European rivals still struggling to keep pace."
    }
   ],
   "watch": {
-   "title": "Apple and Amazon earnings",
-   "lead": "The megacap earnings gauntlet continues Thursday.",
-   "text": "Apple and Amazon report after Thursday's close — alongside Mastercard and Shell — and their results on consumer demand and AI-driven cloud spending will test whether the market can stabilize after the Fed-day rout; traders are also watching Iran's vow to 'punish the aggressor today' and its effect on oil."
+   "title": "Does the rebound hold into month-end",
+   "lead": "Friday closes out a volatile July.",
+   "text": "With Microsoft, Amazon and Apple now reported, attention turns to whether Thursday's snapback can survive month-end positioning and the after-hours split verdict on Big Tech, while the bond market's inflation signal and any fresh U.S.–Iran developments around the Strait of Hormuz remain the key risks to a still-fragile recovery."
   },
   "world": [
    {
-    "lead": "The U.S. launched a fresh wave of strikes on Iran.",
-    "text": "After intercepting what CENTCOM called a surprise Iranian missile attack on American forces, President Trump said it was 'our turn' and the U.S. completed a heavy new round of strikes on Iran; Tehran responded that it would 'punish the aggressor today,' raising fears of a wider war."
+    "lead": "U.S. forces pressed their strike campaign against Iran.",
+    "text": "American forces hit dozens of Iranian military targets in an effort to degrade Tehran's ability to threaten regional shipping, a day after President Trump said it was 'our turn' following an intercepted Iranian attack on U.S. forces, keeping the two-week-old conflict at a dangerous pitch."
    },
    {
-    "lead": "U.S. and Saudi forces hit militias in Iraq.",
-    "text": "Coalition aircraft struck multiple Tehran-backed logistics and weapons sites across eastern Iraq in response to more than 30 drone attacks over 72 hours, killing at least 20 fighters and wounding 32, according to the Popular Mobilization Forces."
+    "lead": "Strait of Hormuz shipping showed early signs of normalizing.",
+    "text": "Despite the strikes, oil's risk premium eased as tanker traffic through the critical chokepoint improved, with roughly 14 commodity vessels transiting the Strait of Hormuz on Wednesday — up from single-digit crossings the prior week — helping pull Brent back below $90 a barrel."
    },
    {
-    "lead": "Iran targeted U.S. bases in Jordan.",
-    "text": "Iran's Revolutionary Guard fired ballistic missiles at the Muwaffaq Salti Air Base and a U.S. Central Command headquarters in Jordan; Jordan's military said it intercepted and destroyed five incoming missiles, with no U.S. casualties reported in that strike."
+    "lead": "Crude retreated as supply fears cooled.",
+    "text": "Brent settled around $89.26, down about 1.6%, and WTI eased to roughly $84.06 as improving Hormuz shipping activity and elevated Chinese crude inventories offset the escalation, unwinding part of the war premium that had spiked prices earlier in the week."
    },
    {
-    "lead": "The Strait of Hormuz standoff intensified.",
-    "text": "Iran claimed its Revolutionary Guard navy struck three oil tankers near Hormuz and Houthi rebels reportedly attacked the Saudi tanker NCC Ghazal in the Red Sea, while satellite imagery showed smoke over Saudi Aramco's Abqaiq processing facility — stoking the crude spike."
+    "lead": "Chip stocks rebounded from the AI-memory rout.",
+    "text": "Semiconductors recovered on both sides of the trade after Microsoft's cloud beat, with Nvidia, Micron and AMD bouncing back in the U.S. session and steadying the AI-infrastructure names that had shed more than $1 trillion in value during Wednesday's selloff tied to SK Hynix's disappointing outlook."
    },
    {
-    "lead": "Asian markets slumped on the chip rout.",
-    "text": "The AI-memory selloff spread overseas as South Korea's Kospi fell about 6% and Japan's Nikkei 225 dropped nearly 4%, led by steep double-digit declines in SK Hynix and Samsung amid mounting doubts over returns on AI infrastructure spending."
+    "lead": "Diplomacy hovered around the edges of the conflict.",
+    "text": "With Washington having paused and then resumed strikes in recent days, mediators continued to probe for an off-ramp even as Tehran insisted it was not currently negotiating, leaving markets to weigh the prospect of de-escalation against the risk of a wider regional war."
    }
   ],
-  "sources": "TheStreet; Yahoo Finance; CNBC; Fox Business; Bloomberg; Reuters; NPR; CNN; Forbes"
+  "sources": "Yahoo Finance; The Motley Fool; TheStreet; CNBC; Bloomberg; Reuters; 9to5Mac; Quartz; Trading Economics"
  },
  {
   "date": "2026-07-29",
