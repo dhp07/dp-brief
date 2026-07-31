@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-07-31",
+  "label": "Fri · Jul 31",
+  "weekday": "Friday, July 31, 2026",
+  "marketsClose": "Jul 30",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Microsoft's record one-day value gain powered Wall Street to its best day in a month, splitting the AI trade from a slumping Meta.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 1.2
+   },
+   {
+    "name": "S&P 500",
+    "v": 1.7
+   },
+   {
+    "name": "Nasdaq",
+    "v": 2.9
+   },
+   {
+    "name": "Russell 2000",
+    "v": 1.4
+   },
+   {
+    "name": "WTI Crude",
+    "v": -1.0
+   },
+   {
+    "name": "Brent",
+    "v": -1.3
+   }
+  ],
+  "marketsNote": "Breadth was broad as all four indexes rallied and semiconductors led — the VanEck Semiconductor ETF jumped 8%, its best day since April — while crude slipped as tankers kept sailing the Gulf and the 30-year Treasury yield touched a multidecade-high near 5.24%.",
+  "lead": {
+   "headline": "Microsoft's record rally drives Wall Street's best day in a month",
+   "tag": "Markets · Jul 30",
+   "body": [
+    "Microsoft shares surged 15.5% — its best single day since 2008 and a record one-day gain in market value — after fiscal-fourth-quarter results showed Azure cloud revenue topping $100 billion for the first time, vindicating the company's heavy AI spending. The rally rippled across semiconductors and AI infrastructure names, with Bloom Energy, CoreWeave and SanDisk each soaring more than 20%, lifting the Nasdaq Composite roughly 2.9% for its best session in a month.",
+    "The Dow rose 1.2% to 52,208, the S&P 500 gained 1.7% to 7,438 and the Russell 2000 added 1.4%, a sharp rebound from Wednesday's 800-point Dow slide after the Fed's hawkish hold. The counterweight was Meta, which sank about 9% as investors punished soft guidance and shrinking free cash flow, underscoring how sharply Wall Street is now differentiating winners and losers within the AI trade."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Fed stands pat.",
+    "text": "The FOMC left its benchmark rate at 3.5%–3.75% at the July 28–29 meeting, with three officials dissenting in favor of a hike as inflation has run above target for more than five years — a hawkish hold that briefly rattled equities before Thursday's earnings-driven rebound."
+   },
+   {
+    "lead": "Long yields spike.",
+    "text": "The 30-year Treasury yield climbed toward 5.24%, a multidecade high, as the hawkish Fed and persistent inflation pressure the long end and raise borrowing costs across mortgages and corporate credit."
+   },
+   {
+    "lead": "AI capex vindicated.",
+    "text": "Microsoft's record surge on Azure surpassing $100 billion in annual revenue reframed hyperscaler AI spending as a payoff rather than a drag, powering an 8% jump in the semiconductor ETF and a broad rerating of AI-infrastructure equities."
+   },
+   {
+    "lead": "Meta punished.",
+    "text": "Meta slumped about 9%, extending a losing streak, after disappointing guidance and dwindling free cash flow raised questions about the return on its escalating AI investment — the flip side of the same trade lifting Microsoft."
+   },
+   {
+    "lead": "Cooler inflation print.",
+    "text": "June core PCE, the Fed's preferred inflation gauge, eased more than expected in Friday's release, alongside softer second-quarter GDP, nudging index futures higher and reviving hopes the central bank still has room to cut later this year."
+   }
+  ],
+  "watch": {
+   "title": "Big Tech and the inflation read",
+   "lead": "Amazon and Apple headline the earnings finale.",
+   "text": "Amazon jumped about 12% in extended trading on upbeat second-quarter results, while Apple's report is in focus Friday; combined with the cooler June PCE print, the two prints will test whether the AI-led rebound can hold into month-end."
+  },
+  "world": [
+   {
+    "lead": "US strikes Iran.",
+    "text": "The Pentagon hit dozens of Islamic Revolutionary Guard targets inside Iran — command centers and drone facilities — in retaliation for Tehran's attack on US bases in Jordan, adding sanctions on 10 Iranian entities and eight tankers as Jordan intercepted Iranian missiles."
+   },
+   {
+    "lead": "Gaza line advances.",
+    "text": "Israel pushed its 'yellow line' of control deeper into Gaza, forcing repeated evacuations; it now holds roughly 64% of the Strip, with Prime Minister Netanyahu vowing to expand control toward 70%."
+   },
+   {
+    "lead": "Russia barrages Ukraine.",
+    "text": "Russia launched more than 70 missiles and about 280 drones at Ukraine overnight, killing eight people and prompting Poland to scramble fighter jets to secure its airspace."
+   },
+   {
+    "lead": "Congo hunger crisis.",
+    "text": "The UN warned of a severe hunger emergency in eastern Congo, with 10 million people facing acute food insecurity amid an Ebola outbreak that has topped 3,300 confirmed cases."
+   },
+   {
+    "lead": "West Bank violence peaks.",
+    "text": "The UN reported Israeli settler violence in the occupied West Bank hit an all-time high, with 18 Palestinians killed so far this year, surpassing the 17 recorded in all of 2025."
+   }
+  ],
+  "sources": "Yahoo Finance; CNBC; TheStreet; The Motley Fool; Benzinga; TipRanks; Federal Reserve; Democracy Now"
+ },
+ {
   "date": "2026-07-30",
   "label": "Thu · Jul 30",
   "weekday": "Thursday, July 30, 2026",
