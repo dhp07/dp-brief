@@ -3,95 +3,95 @@
   "date": "2026-07-31",
   "label": "Fri · Jul 31",
   "weekday": "Friday, July 31, 2026",
-  "marketsClose": "Jul 30",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Microsoft's record one-day value gain powered Wall Street to its best day in a month, splitting the AI trade from a slumping Meta.",
+  "marketsClose": "Jul 31",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "The S&P 500 and Nasdaq eked out record closes to cap a volatile July, as Amazon's roughly 15% AWS-driven surge outweighed an 8% slide in Apple and a fresh spike in long-term Treasury yields.",
   "markets": [
    {
     "name": "Dow",
-    "v": 1.2
+    "v": 0.52
    },
    {
     "name": "S&P 500",
-    "v": 1.7
+    "v": 0.69
    },
    {
     "name": "Nasdaq",
-    "v": 2.9
+    "v": 1.1
    },
    {
     "name": "Russell 2000",
-    "v": 1.4
+    "v": -0.4
    },
    {
     "name": "WTI Crude",
-    "v": -1.0
+    "v": 0.6
    },
    {
     "name": "Brent",
-    "v": -1.3
+    "v": 0.5
    }
   ],
-  "marketsNote": "Breadth was broad as all four indexes rallied and semiconductors led — the VanEck Semiconductor ETF jumped 8%, its best day since April — while crude slipped as tankers kept sailing the Gulf and the 30-year Treasury yield touched a multidecade-high near 5.24%.",
+  "marketsNote": "Big Tech carried the tape: the Nasdaq led with a 1.1% gain and the S&P 500 closed marginally at a record, but breadth was thin — small caps slipped as the 30-year Treasury yield held near a multidecade high above 5.2% and the 10-year pushed toward 4.7%, squeezing rate-sensitive names even as the Dow logged a fourth straight winning month.",
   "lead": {
-   "headline": "Microsoft's record rally drives Wall Street's best day in a month",
-   "tag": "Markets · Jul 30",
+   "headline": "Amazon's cloud blowout lifts the S&P 500 and Nasdaq to record closes",
+   "tag": "Markets · Jul 31",
    "body": [
-    "Microsoft shares surged 15.5% — its best single day since 2008 and a record one-day gain in market value — after fiscal-fourth-quarter results showed Azure cloud revenue topping $100 billion for the first time, vindicating the company's heavy AI spending. The rally rippled across semiconductors and AI infrastructure names, with Bloom Energy, CoreWeave and SanDisk each soaring more than 20%, lifting the Nasdaq Composite roughly 2.9% for its best session in a month.",
-    "The Dow rose 1.2% to 52,208, the S&P 500 gained 1.7% to 7,438 and the Russell 2000 added 1.4%, a sharp rebound from Wednesday's 800-point Dow slide after the Fed's hawkish hold. The counterweight was Meta, which sank about 9% as investors punished soft guidance and shrinking free cash flow, underscoring how sharply Wall Street is now differentiating winners and losers within the AI trade."
+    "Amazon shares soared about 15% to close out the session after second-quarter results blew past expectations, led by Amazon Web Services revenue growth of 37% year over year — well above the roughly 31% analysts had penciled in — reinforcing the market's conviction that hyperscaler AI spending is translating into cloud demand. The surge powered the Nasdaq Composite up 1.1% and nudged the S&P 500 up 0.69% to a record close, extending a whipsaw week that had briefly dragged the Nasdaq into correction territory before Microsoft's blowout and now Amazon's snapped it back.",
+    "The rally was lopsided. Apple tumbled roughly 8% despite beating on most metrics, as soft Services and China revenue spooked investors, and the Dow managed only a 0.52% gain to secure a fourth consecutive monthly advance. Beneath the megacap strength, the Russell 2000 slipped as long-dated Treasury yields resumed their climb, underscoring how sharply the market is now rewarding AI winners while punishing everything sensitive to higher-for-longer rates. Combined, the four largest cloud players guided to $720–$745 billion of capital spending in 2026."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Fed stands pat.",
-    "text": "The FOMC left its benchmark rate at 3.5%–3.75% at the July 28–29 meeting, with three officials dissenting in favor of a hike as inflation has run above target for more than five years — a hawkish hold that briefly rattled equities before Thursday's earnings-driven rebound."
+    "lead": "Yields keep grinding higher.",
+    "text": "Two days after the Fed's hawkish hold at 3.5%–3.75% with three dissents, the long end stayed under pressure: the 30-year Treasury yield hovered near a multidecade high above 5.2% and the 10-year pushed toward 4.7%, lifting mortgage and corporate borrowing costs and capping any broad-based rally beyond megacap tech."
    },
    {
-    "lead": "Long yields spike.",
-    "text": "The 30-year Treasury yield climbed toward 5.24%, a multidecade high, as the hawkish Fed and persistent inflation pressure the long end and raise borrowing costs across mortgages and corporate credit."
+    "lead": "The AI capex bill comes due.",
+    "text": "With Microsoft, Amazon, Alphabet and Meta collectively guiding to $720–$745 billion in 2026 capital spending, Wall Street's financing desks are eyeing a wave of investment-grade issuance and data-center financing — even as investors punish any hyperscaler, like Meta this week, whose free cash flow shrinks faster than its cloud revenue grows."
    },
    {
-    "lead": "AI capex vindicated.",
-    "text": "Microsoft's record surge on Azure surpassing $100 billion in annual revenue reframed hyperscaler AI spending as a payoff rather than a drag, powering an 8% jump in the semiconductor ETF and a broad rerating of AI-infrastructure equities."
+    "lead": "Big Oil banks a windfall.",
+    "text": "Elevated energy prices tied to Middle East tension fed a blowout quarter for the supermajors: ExxonMobil reported roughly $14.5 billion in profit, Chevron about $12 billion and Shell near $10 billion, a cash gusher that keeps buybacks and dividends flowing and gives the group firepower for opportunistic M&A."
    },
    {
-    "lead": "Meta punished.",
-    "text": "Meta slumped about 9%, extending a losing streak, after disappointing guidance and dwindling free cash flow raised questions about the return on its escalating AI investment — the flip side of the same trade lifting Microsoft."
+    "lead": "Dealmakers eye a busy back half.",
+    "text": "After a first half fattened by fees on marquee mandates — Goldman Sachs advising on the SpaceX IPO among them — bankers are pivoting to a heavy autumn pipeline, with private capital pressing into new arenas; opposition is mounting to a plan for Joshua Kushner's investment firm to buy a stake in soccer's World Cup commercial rights."
    },
    {
-    "lead": "Cooler inflation print.",
-    "text": "June core PCE, the Fed's preferred inflation gauge, eased more than expected in Friday's release, alongside softer second-quarter GDP, nudging index futures higher and reviving hopes the central bank still has room to cut later this year."
+    "lead": "Small caps feel the squeeze.",
+    "text": "The Russell 2000, riding its best first half since the early 1990s, gave ground as yields climbed — a reminder that the small-cap comeback trade remains hostage to the Fed, with September rate-cut odds swinging on every inflation and jobs print into month-end."
    }
   ],
   "watch": {
-   "title": "Big Tech and the inflation read",
-   "lead": "Amazon and Apple headline the earnings finale.",
-   "text": "Amazon jumped about 12% in extended trading on upbeat second-quarter results, while Apple's report is in focus Friday; combined with the cooler June PCE print, the two prints will test whether the AI-led rebound can hold into month-end."
+   "title": "Jobs and the Fed's next move",
+   "lead": "Next week brings the July payrolls report.",
+   "text": "With the Fed openly divided and long yields at multidecade highs, Friday's July employment data will be the swing factor for September rate-cut odds — a hot print would cement the higher-for-longer regime that is throttling small caps and rate-sensitive credit, while a soft one could finally broaden a rally that has narrowed to a handful of AI megacaps."
   },
   "world": [
    {
-    "lead": "US strikes Iran.",
-    "text": "The Pentagon hit dozens of Islamic Revolutionary Guard targets inside Iran — command centers and drone facilities — in retaliation for Tehran's attack on US bases in Jordan, adding sanctions on 10 Iranian entities and eight tankers as Jordan intercepted Iranian missiles."
+    "lead": "Gaza disarmament claim clouded by conditions.",
+    "text": "President Trump said Hamas had agreed to \"complete disarmament,\" but the group tied any handover of weapons to a full Israeli withdrawal, leaving the framework in doubt; more than 1,200 people have been killed since the ceasefire began some ten months ago."
    },
    {
-    "lead": "Gaza line advances.",
-    "text": "Israel pushed its 'yellow line' of control deeper into Gaza, forcing repeated evacuations; it now holds roughly 64% of the Strip, with Prime Minister Netanyahu vowing to expand control toward 70%."
+    "lead": "Senate blocks Iran war-powers measure.",
+    "text": "The Senate voted 50–49 to defeat a resolution limiting the president's authority to strike Iran, with Pennsylvania Democrat John Fetterman crossing over and three Republicans backing the measure."
    },
    {
-    "lead": "Russia barrages Ukraine.",
-    "text": "Russia launched more than 70 missiles and about 280 drones at Ukraine overnight, killing eight people and prompting Poland to scramble fighter jets to secure its airspace."
+    "lead": "Saudi Arabia builds a Red Sea bloc.",
+    "text": "Riyadh announced a new military alliance with 13 nations to protect Red Sea shipping after Houthi attacks on Saudi-linked vessels, a sign the Gulf is moving to secure trade routes on its own."
    },
    {
-    "lead": "Congo hunger crisis.",
-    "text": "The UN warned of a severe hunger emergency in eastern Congo, with 10 million people facing acute food insecurity amid an Ebola outbreak that has topped 3,300 confirmed cases."
+    "lead": "Iran denies the Egypt port strike.",
+    "text": "Foreign Minister Abbas Araghchi rejected Iranian involvement in the drone attack on Egypt's Damietta port and floated an Israeli false-flag operation, as the region's shadow conflict widens."
    },
    {
-    "lead": "West Bank violence peaks.",
-    "text": "The UN reported Israeli settler violence in the occupied West Bank hit an all-time high, with 18 Palestinians killed so far this year, surpassing the 17 recorded in all of 2025."
+    "lead": "Europe's wildfire season turns deadly.",
+    "text": "More than one million acres have burned across Europe this year — roughly triple the historical average — with three firefighters killed in Greece and a blaze threatening a British nuclear power station."
    }
   ],
-  "sources": "Yahoo Finance; CNBC; TheStreet; The Motley Fool; Benzinga; TipRanks; Federal Reserve; Democracy Now"
+  "sources": "CNBC; TheStreet; Reuters/Bloomberg; 24/7 Wall St.; Yahoo Finance; CNN Business; Fox Business; Havana Times; Euronews"
  },
  {
   "date": "2026-07-30",
