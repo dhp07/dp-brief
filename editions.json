@@ -4,8 +4,8 @@
   "label": "Sat · Aug 1",
   "weekday": "Saturday, August 1, 2026",
   "marketsClose": "Jul 31",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Amazon's cloud blowout powered the S&P 500 and Nasdaq to close a winning July, even as Apple shed roughly $475 billion in value and long-term Treasury yields punched to fresh cycle highs.",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "A US-brokered roadmap to disarm Hamas took concrete shape as mediators set a 14-day deadline for a weapons inventory, though Hamas tied every step to a verified Israeli withdrawal and Israel withheld public assent.",
   "markets": [
    {
     "name": "Dow",
@@ -32,66 +32,66 @@
     "v": 0.5
    }
   ],
-  "marketsNote": "Breadth was narrow to close the month: megacap tech carried the tape while the small-cap Russell 2000 slipped 0.5% as the 10-year Treasury yield pushed to about 4.74% — its highest since January 2025 — and the 30-year held above 5.2%, squeezing rate-sensitive names even as the Dow logged a fourth straight winning month.",
+  "marketsNote": "US markets were closed for the weekend. Stocks head into August off a winning July — a fourth straight monthly gain for the Dow — but breadth stayed narrow to the finish: megacap tech carried Friday's tape while the small-cap Russell 2000 slipped and the 10-year Treasury yield held near 4.74%, its highest since January 2025, keeping rate-sensitive corners under pressure.",
   "lead": {
-   "headline": "Amazon powers Wall Street to a winning July as Apple craters",
-   "tag": "Business & Markets · Jul 31",
+   "headline": "US-brokered roadmap to disarm Hamas takes concrete shape",
+   "tag": "World · Aug 1",
    "body": [
-    "Amazon shares surged about 15% Friday after second-quarter results blew past expectations, led by Amazon Web Services revenue growth of 37% year over year — well ahead of the roughly 31% analysts expected — reinforcing conviction that hyperscaler AI spending is converting into cloud demand. The rally carried the S&P 500 up 0.7% to 7,489.72 and the Nasdaq up 1.0% to 25,373.85, capping a volatile July in which the four largest hyperscalers guided to a combined $720 billion to $745 billion of 2026 capital spending on artificial intelligence.",
-    "The megacap split was stark. Apple sank roughly 9.7%, erasing about $475 billion in market value in a single session — despite record June-quarter revenue of $109.4 billion — after guiding September-quarter growth to just 9% to 11%, below the 12% Wall Street wanted, and flagging soft Services and Greater China sales. Rising oil prices and a jump in long-term yields deepened inflation worries, leaving the small-cap Russell 2000 down 0.5% even as the Dow eked out a 0.5% gain."
+    "Mediators from Egypt, Qatar, Turkey and the United States, working through President Trump's Board of Peace, finalized a phased roadmap under which Hamas would disarm in stages, with a full inventory of its weapons due within 14 days. Heavy weaponry, military sites and tunnel networks are the first targets; a Palestinian National Committee would oversee storage while an international verification commission and a stabilization force monitor the process. \"As disarmament is completed, Israeli forces will withdraw,\" Trump said, with an international force assuming security responsibility.",
+    "The obstacles that have dogged the effort remained firmly in place through Saturday evening. Hamas negotiator Ghazi Hamad said the group \"will not implement any step of the Gaza peace deal if the Israeli occupation forces do not fulfil their obligations,\" tying a second phase to a complete Israeli pullout and a halt to strikes. Israel had not publicly confirmed it accepts the proposal, and more than 1,100 Palestinians have been killed since the October 2025 ceasefire began — leaving world capitals to react with a mix of cautious optimism and deep skepticism."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "The Fed stood pat, but barely.",
-    "text": "The FOMC held its benchmark rate at 3.50%–3.75% on July 29 in a 9-3 vote, with Cleveland's Beth Hammack, Minneapolis's Neel Kashkari and Dallas's Lorie Logan all dissenting in favor of a 25-basis-point hike as inflation lingers above target. Chair Kevin Warsh said five-plus years of above-target inflation 'cannot be cured in nine weeks.'"
+    "lead": "Wall Street's deal machine is running hot.",
+    "text": "Investment-banking fees at the six largest US banks rose roughly 45% on average in the second quarter from a year earlier, while global M&A volumes topped $3 trillion year-to-date, up more than 40% annually, led by technology, healthcare, utilities and energy. Goldman Sachs CEO David Solomon said that even after a strong quarter, \"our backlog increased to its highest level in five years.\""
    },
    {
-    "lead": "Markets now lean toward a September hike.",
-    "text": "CME FedWatch pricing puts the odds of a 25bp increase at the September 15–16 meeting near 57%, a hawkish repricing that helped drive the 10-year Treasury yield to about 4.74% — its highest since January 2025 — and the 30-year above 5.2%, territory last seen in 2007."
+    "lead": "The IPO window is wide open.",
+    "text": "US IPOs raised a record $104.8 billion in the second quarter, powered by SpaceX's blockbuster listing, and bankers are now positioning for potential public debuts by Anthropic and OpenAI that could each approach $1 trillion in value — deals that would spin off hundreds of millions in fees and years of follow-on business. Morningstar analysts expect the \"super-cycle\" to run through 2027."
+   },
+   {
+    "lead": "A September rate hike is back on the table.",
+    "text": "The FOMC held its benchmark at 3.50%–3.75% on July 29 in a 9-3 vote, with Beth Hammack, Neel Kashkari and Lorie Logan all dissenting in favor of a 25-basis-point hike. CME FedWatch now puts the odds of an increase at the September 15–16 meeting near 57%, a hawkish repricing that has driven the 10-year yield to about 4.74% and the 30-year above 5.2%."
    },
    {
     "lead": "AWS reset the AI-monetization debate.",
-    "text": "Amazon's 37% AWS growth and expanded custom-chip operations validated the year's heavy hyperscaler capex, sending its shares up about 15% and adding to a Big Tech earnings run that also saw Microsoft rally sharply earlier in the week."
+    "text": "Amazon's 37% cloud growth and expanded custom-chip operations validated the year's heavy hyperscaler capex, sending its shares up about 15% Friday and capping a Big Tech earnings run in which the four largest hyperscalers guided to a combined $720 billion to $745 billion of 2026 AI spending."
    },
    {
-    "lead": "Apple's stumble was a $475 billion event.",
-    "text": "The single-day wipeout ranks among the largest ever for a US company by dollar value, driven by cautious September guidance and a chip-supply caveat rather than the June quarter itself, which topped estimates."
-   },
-   {
-    "lead": "Investment banking remains a bright spot.",
-    "text": "Wall Street's second-quarter results, reported in mid-July, showed a surge in trading and dealmaking revenue at Goldman Sachs and JPMorgan, boosted in part by fees from SpaceX's blockbuster IPO — momentum bankers are counting on to carry into the second half."
+    "lead": "Apple's stumble still hangs over the tape.",
+    "text": "Apple's roughly $475 billion single-session wipeout — one of the largest ever for a US company by dollar value — was driven by soft September guidance of 9% to 11% and a chip-supply caveat rather than the June quarter, which set a record at $109.4 billion in revenue, and remains the cautionary counterweight to the cloud euphoria."
    }
   ],
   "watch": {
-   "title": "The September Fed call",
-   "lead": "Rate-hike risk is back on the table.",
-   "text": "With three dissenters already pushing for tighter policy and yields at cycle highs, incoming inflation and jobs data will decide whether the Fed delivers a rare hike on September 16 — a scenario that would pressure small caps, housing and other rate-sensitive corners even as megacap tech keeps setting the market's tone."
+   "title": "The data that decides September",
+   "lead": "Next week reopens the economic calendar.",
+   "text": "Fresh inflation prints and the approaching July jobs report will shape whether the Fed delivers a rare hike on September 16. With three dissenters already pushing to tighten and yields at cycle highs, a hot number would pressure small caps, housing and other rate-sensitive corners even as megacap tech keeps setting the market's tone."
   },
   "world": [
    {
-    "lead": "A Gaza disarmament framework is taking shape.",
-    "text": "President Trump said Hamas agreed to fully disarm in exchange for a phased Israeli withdrawal, though Hamas insists a complete pullout must come first. More than 1,200 Palestinians have died since the ceasefire began roughly ten months ago."
+    "lead": "The US-Iran war grinds past Day 154.",
+    "text": "The Islamic Revolutionary Guard Corps claimed retaliatory strikes on Kuwait following US attacks on Thursday, extending a conflict that pulled in Egypt for the first time earlier in the week. Talks remain stalled after an earlier pause meant to give diplomacy \"space,\" with Tehran again vowing to contest control of the Strait of Hormuz."
    },
    {
-    "lead": "The US-Iran war grinds on.",
-    "text": "The Senate rejected a war-powers resolution limiting Trump's authority against Iran by 50-49, with Democrat John Fetterman crossing over to vote with Republicans, as the conflict enters another phase."
+    "lead": "Europe's wildfire season is now historic.",
+    "text": "About 435,000 hectares — roughly 1.07 million acres — have burned across the EU this year, close to triple the recent average, from more than 1,400 fires. Spain has lost some 207,000 hectares and France 91,000, already past its full-year record, while three firefighters died on Crete on July 29 and a blaze near Britain's Sizewell B nuclear plant forced hundreds to evacuate."
    },
    {
     "lead": "Red Sea security is realigning.",
     "text": "Saudi Arabia formed a new 13-nation military alliance to protect Red Sea shipping from Houthi attacks, while Iran denied involvement in a drone strike on Egypt's Damietta Port that some officials suggested could be a false-flag operation."
    },
    {
-    "lead": "Europe's wildfire season is historic.",
-    "text": "More than a million acres have burned across the continent this year — roughly triple the historical average — with three firefighters killed in Greece as blazes spread through France, Spain, Britain and Germany amid intensifying heat waves."
+    "lead": "A Ceuta crossing turned deadly.",
+    "text": "At least 34 migrants died attempting to cross from Morocco to Spain's Ceuta enclave, with tens of thousands more attempting the route as Spain deployed military units to reinforce the border."
    },
    {
-    "lead": "A migration crossing turned deadly.",
-    "text": "At least 34 migrants died attempting to cross from Morocco to Spain's Ceuta enclave, with tens of thousands more attempting the route as Spain deployed military units to the border."
+    "lead": "The Senate backed Trump on Iran.",
+    "text": "Lawmakers rejected a war-powers resolution limiting the president's authority against Iran by 50-49, with Democrat John Fetterman crossing over to vote with Republicans as the campaign entered another phase."
    }
   ],
-  "sources": "CNBC; TheStreet; Reuters/Yahoo Finance; The Epoch Times (AP); Benzinga; Fox Business; Bloomberg; Democracy Now; CNN"
+  "sources": "Al Jazeera; CNN; Axios; Reuters/Investing.com; Irish Times; CNBC; TheStreet; Bloomberg; Forbes"
  },
  {
   "date": "2026-07-31",
