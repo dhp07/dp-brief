@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-01",
+  "label": "Sat · Aug 1",
+  "weekday": "Saturday, August 1, 2026",
+  "marketsClose": "Jul 31",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Amazon's cloud blowout powered the S&P 500 and Nasdaq to close a winning July, even as Apple shed roughly $475 billion in value and long-term Treasury yields punched to fresh cycle highs.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.53
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.7
+   },
+   {
+    "name": "Nasdaq",
+    "v": 1.0
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.5
+   },
+   {
+    "name": "WTI Crude",
+    "v": 0.6
+   },
+   {
+    "name": "Brent",
+    "v": 0.5
+   }
+  ],
+  "marketsNote": "Breadth was narrow to close the month: megacap tech carried the tape while the small-cap Russell 2000 slipped 0.5% as the 10-year Treasury yield pushed to about 4.74% — its highest since January 2025 — and the 30-year held above 5.2%, squeezing rate-sensitive names even as the Dow logged a fourth straight winning month.",
+  "lead": {
+   "headline": "Amazon powers Wall Street to a winning July as Apple craters",
+   "tag": "Business & Markets · Jul 31",
+   "body": [
+    "Amazon shares surged about 15% Friday after second-quarter results blew past expectations, led by Amazon Web Services revenue growth of 37% year over year — well ahead of the roughly 31% analysts expected — reinforcing conviction that hyperscaler AI spending is converting into cloud demand. The rally carried the S&P 500 up 0.7% to 7,489.72 and the Nasdaq up 1.0% to 25,373.85, capping a volatile July in which the four largest hyperscalers guided to a combined $720 billion to $745 billion of 2026 capital spending on artificial intelligence.",
+    "The megacap split was stark. Apple sank roughly 9.7%, erasing about $475 billion in market value in a single session — despite record June-quarter revenue of $109.4 billion — after guiding September-quarter growth to just 9% to 11%, below the 12% Wall Street wanted, and flagging soft Services and Greater China sales. Rising oil prices and a jump in long-term yields deepened inflation worries, leaving the small-cap Russell 2000 down 0.5% even as the Dow eked out a 0.5% gain."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "The Fed stood pat, but barely.",
+    "text": "The FOMC held its benchmark rate at 3.50%–3.75% on July 29 in a 9-3 vote, with Cleveland's Beth Hammack, Minneapolis's Neel Kashkari and Dallas's Lorie Logan all dissenting in favor of a 25-basis-point hike as inflation lingers above target. Chair Kevin Warsh said five-plus years of above-target inflation 'cannot be cured in nine weeks.'"
+   },
+   {
+    "lead": "Markets now lean toward a September hike.",
+    "text": "CME FedWatch pricing puts the odds of a 25bp increase at the September 15–16 meeting near 57%, a hawkish repricing that helped drive the 10-year Treasury yield to about 4.74% — its highest since January 2025 — and the 30-year above 5.2%, territory last seen in 2007."
+   },
+   {
+    "lead": "AWS reset the AI-monetization debate.",
+    "text": "Amazon's 37% AWS growth and expanded custom-chip operations validated the year's heavy hyperscaler capex, sending its shares up about 15% and adding to a Big Tech earnings run that also saw Microsoft rally sharply earlier in the week."
+   },
+   {
+    "lead": "Apple's stumble was a $475 billion event.",
+    "text": "The single-day wipeout ranks among the largest ever for a US company by dollar value, driven by cautious September guidance and a chip-supply caveat rather than the June quarter itself, which topped estimates."
+   },
+   {
+    "lead": "Investment banking remains a bright spot.",
+    "text": "Wall Street's second-quarter results, reported in mid-July, showed a surge in trading and dealmaking revenue at Goldman Sachs and JPMorgan, boosted in part by fees from SpaceX's blockbuster IPO — momentum bankers are counting on to carry into the second half."
+   }
+  ],
+  "watch": {
+   "title": "The September Fed call",
+   "lead": "Rate-hike risk is back on the table.",
+   "text": "With three dissenters already pushing for tighter policy and yields at cycle highs, incoming inflation and jobs data will decide whether the Fed delivers a rare hike on September 16 — a scenario that would pressure small caps, housing and other rate-sensitive corners even as megacap tech keeps setting the market's tone."
+  },
+  "world": [
+   {
+    "lead": "A Gaza disarmament framework is taking shape.",
+    "text": "President Trump said Hamas agreed to fully disarm in exchange for a phased Israeli withdrawal, though Hamas insists a complete pullout must come first. More than 1,200 Palestinians have died since the ceasefire began roughly ten months ago."
+   },
+   {
+    "lead": "The US-Iran war grinds on.",
+    "text": "The Senate rejected a war-powers resolution limiting Trump's authority against Iran by 50-49, with Democrat John Fetterman crossing over to vote with Republicans, as the conflict enters another phase."
+   },
+   {
+    "lead": "Red Sea security is realigning.",
+    "text": "Saudi Arabia formed a new 13-nation military alliance to protect Red Sea shipping from Houthi attacks, while Iran denied involvement in a drone strike on Egypt's Damietta Port that some officials suggested could be a false-flag operation."
+   },
+   {
+    "lead": "Europe's wildfire season is historic.",
+    "text": "More than a million acres have burned across the continent this year — roughly triple the historical average — with three firefighters killed in Greece as blazes spread through France, Spain, Britain and Germany amid intensifying heat waves."
+   },
+   {
+    "lead": "A migration crossing turned deadly.",
+    "text": "At least 34 migrants died attempting to cross from Morocco to Spain's Ceuta enclave, with tens of thousands more attempting the route as Spain deployed military units to the border."
+   }
+  ],
+  "sources": "CNBC; TheStreet; Reuters/Yahoo Finance; The Epoch Times (AP); Benzinga; Fox Business; Bloomberg; Democracy Now; CNN"
+ },
+ {
   "date": "2026-07-31",
   "label": "Fri · Jul 31",
   "weekday": "Friday, July 31, 2026",
