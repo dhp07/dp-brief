@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-02",
+  "label": "Sun · Aug 2",
+  "weekday": "Sunday, August 2, 2026",
+  "marketsClose": "Jul 31",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Trump ordered a halt to US strikes on Iran, saying negotiators had reached the 'parameters' of a deal to reopen the Strait of Hormuz and end the war — a de-escalation that could deflate crude's war premium as Wall Street rides its best month since 2020.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.53
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.7
+   },
+   {
+    "name": "Nasdaq",
+    "v": 1.0
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.5
+   },
+   {
+    "name": "WTI Crude",
+    "v": 0.6
+   },
+   {
+    "name": "Brent",
+    "v": 0.5
+   }
+  ],
+  "marketsNote": "US markets are closed for the weekend. Wall Street heads into August off its best month since 2020 — the S&P 500 and Nasdaq posted their biggest monthly gains in years and the Dow logged a fourth straight winning month — but breadth stayed narrow to the finish: megacap tech carried Friday's tape while the small-cap Russell 2000 slipped and the 10-year Treasury yield held near 4.74%, a cycle high, keeping rate-sensitive corners under pressure.",
+  "lead": {
+   "headline": "Wall Street's AI-debt boom draws its first real pushback",
+   "tag": "Banking · Aug 1",
+   "body": [
+    "The financing engine behind the AI build-out is straining even as the stocks that depend on it keep setting records. Morgan Stanley projects roughly $570 billion of AI-related debt issuance in 2026 — about $236 billion of it already priced by the end of May, a fourfold jump from a year earlier — as hyperscalers guiding to a combined $720 billion to $745 billion of 2026 capital spending lean on bond and private-credit markets to fund data centers. Increasingly that debt is moving off balance sheets: Meta's $27 billion Hyperion joint venture with Blue Owl Capital, in which the fund holds 80% and Meta 20%, has become the template, and analysts see some $800 billion of private-credit data-center financing flowing through 2028.",
+    "Investors are beginning to push back. Order books that covered hyperscaler bond sales nearly five times over in February had thinned to under two times by July, a sign buyers may demand higher yields as supply swells — even as J.P. Morgan notes spreads remain near cycle lows for now. The tension sits directly beneath a market that just closed its best month since 2020: Microsoft's record 15.5% surge Friday, worth about $450 billion, capped a July rally built on confidence that the capex — and the borrowing that funds it — will ultimately pay off."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "July was Wall Street's best month since 2020.",
+    "text": "The S&P 500 and Nasdaq notched their biggest monthly gains in years and the Dow logged a fourth straight winning month. The finale came Friday, when Microsoft soared 15.5% — a record single-day move that added roughly $450 billion in value after Azure growth and cloud guidance topped estimates — dragging chipmakers Micron (+18%) and Applied Materials (+15%) higher and lifting the Nasdaq 1%."
+   },
+   {
+    "lead": "Growth cooled even as inflation stuck.",
+    "text": "Q2 GDP expanded just 1.5%, below the 2% consensus, while the Fed's preferred PCE gauge held at 3.7% year over year. The growth-inflation squeeze complicates the case for rate relief and keeps a September policy move genuinely two-sided heading into a heavy data week."
+   },
+   {
+    "lead": "September now looms as a live Fed meeting.",
+    "text": "After the July 29 hold at 3.50%–3.75% drew three dissents from officials who wanted to tighten, CME FedWatch puts the odds of a September hike near 57%. The 10-year Treasury yield sits around 4.74% and the 30-year above 5.2%, a hawkish repricing that has weighed on housing, small caps and other rate-sensitive corners."
+   },
+   {
+    "lead": "Crude's war premium hangs on the Strait.",
+    "text": "WTI settled near $82 and Brent below $86 on Friday as Strait of Hormuz traffic recovered and tempered the war premium. A durable Iran de-escalation that reopens the strait would unwind risk built up during the 40-day conflict — easing a key inflation input just as the Fed weighs its next step."
+   },
+   {
+    "lead": "The IPO and M&A supercycle rolls into H2.",
+    "text": "With global M&A past $3 trillion year-to-date and Q2 US IPOs at a record $104.8 billion, banks are staging autumn debuts — including potential mega-listings from AI leaders — that would keep fee income elevated. Goldman Sachs said its deal backlog is at a five-year high, and analysts expect the cycle to run through 2027."
+   }
+  ],
+  "watch": {
+   "title": "What clears the runway for September",
+   "lead": "The economic calendar reopens in force.",
+   "text": "ISM surveys, fresh inflation prints and the July jobs report land over the next week, and together they decide whether a divided Fed delivers a rare September hike or holds again. A hot reading — or an Iran de-escalation that lets crude's war premium deflate — would ripple straight into yields already at cycle highs and the small caps that lagged July's tech-led melt-up."
+  },
+  "world": [
+   {
+    "lead": "Trump halted US strikes on Iran, pending a deal.",
+    "text": "In a Truth Social post early Sunday, President Trump said negotiators had reached the 'parameters' of an agreement delivering the 'immediate, complete and total opening of the Strait of Hormuz' and 'an end to Iran's nuclear threat,' and ordered a pause in attacks 'subject to' rapidly closing it. Saudi Crown Prince Mohammed bin Salman reportedly urged de-escalation, with Qatar, the UAE, Turkey and Pakistan mediating. Iran denied requesting the pause, calling it 'a new lie.'"
+   },
+   {
+    "lead": "Washington told Americans to leave the Middle East.",
+    "text": "A day earlier the State Department urged US citizens to depart more than a dozen Middle Eastern countries immediately, warning of the 'potential for unforeseen escalation.' The Wall Street Journal reported Trump had ordered preparations for renewed strikes on Iranian energy infrastructure, and US Patriot interceptor stocks had fallen below 827 from roughly 2,300 since the conflict began."
+   },
+   {
+    "lead": "A Gaza disarmament roadmap inched forward.",
+    "text": "UN Secretary-General António Guterres called the US-brokered plan to disarm Hamas 'the only good news in recent days,' under which a full weapons inventory is due within 14 days. Hamas continued to tie each step to a verified Israeli withdrawal, and more than 1,100 Palestinians have been killed since the October 2025 ceasefire took hold."
+   },
+   {
+    "lead": "Russia hammered Kyiv again.",
+    "text": "Russian ballistic missiles and drones struck the Ukrainian capital overnight into August 1, killing at least nine and wounding dozens — the second major barrage in 48 hours — as Ukraine's US-supplied air defenses strained to keep pace and Poland scrambled jets to guard its own airspace."
+   },
+   {
+    "lead": "Israel widened its Gaza footprint.",
+    "text": "Israeli forces expanded their occupation zone to roughly 64% of Gaza, with Prime Minister Netanyahu vowing to push it toward 70%, as residents of Deir al-Balah, Khan Younis and Rafah reported repeated forced evacuations."
+   }
+  ],
+  "sources": "CNN; Al Jazeera; Reuters/Investing.com; Bloomberg; CNBC; TheStreet; Yahoo Finance; Forbes; The Hill; NPR; Democracy Now; Morgan Stanley"
+ },
+ {
   "date": "2026-08-01",
   "label": "Sat · Aug 1",
   "weekday": "Saturday, August 1, 2026",
