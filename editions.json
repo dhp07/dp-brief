@@ -4,8 +4,8 @@
   "label": "Sun · Aug 2",
   "weekday": "Sunday, August 2, 2026",
   "marketsClose": "Jul 31",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Trump ordered a halt to US strikes on Iran, saying negotiators had reached the 'parameters' of a deal to reopen the Strait of Hormuz and end the war — a de-escalation that could deflate crude's war premium as Wall Street rides its best month since 2020.",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "By Sunday evening Trump's halt to US strikes had produced no breakthrough on the Strait of Hormuz, as Tehran flatly rejected his terms and dismissed the pause as 'psychological operations' — leaving crude's war premium intact heading into a make-or-break Fed data week.",
   "markets": [
    {
     "name": "Dow",
@@ -32,66 +32,66 @@
     "v": 0.5
    }
   ],
-  "marketsNote": "US markets are closed for the weekend. Wall Street heads into August off its best month since 2020 — the S&P 500 and Nasdaq posted their biggest monthly gains in years and the Dow logged a fourth straight winning month — but breadth stayed narrow to the finish: megacap tech carried Friday's tape while the small-cap Russell 2000 slipped and the 10-year Treasury yield held near 4.74%, a cycle high, keeping rate-sensitive corners under pressure.",
+  "marketsNote": "US markets stayed shut for the weekend, so Friday's Jul 31 close still stands — Wall Street's best month since 2020, with the S&P 500 and Nasdaq logging their biggest monthly gains in years and the Dow a fourth straight winning month. But the evening's news cut against the bullish setup: the Iran de-escalation traders had hoped would deflate crude's war premium failed to firm up, and with Tehran rejecting Trump's Hormuz terms, oil looks set to carry its risk premium into Monday's open just as a heavy ISM-jobs-inflation week tests a 10-year yield already pinned near a 4.74% cycle high.",
   "lead": {
-   "headline": "Wall Street's AI-debt boom draws its first real pushback",
-   "tag": "Banking · Aug 1",
+   "headline": "Trump's Iran halt yields no Hormuz breakthrough as Tehran rejects the terms",
+   "tag": "World · Aug 2",
    "body": [
-    "The financing engine behind the AI build-out is straining even as the stocks that depend on it keep setting records. Morgan Stanley projects roughly $570 billion of AI-related debt issuance in 2026 — about $236 billion of it already priced by the end of May, a fourfold jump from a year earlier — as hyperscalers guiding to a combined $720 billion to $745 billion of 2026 capital spending lean on bond and private-credit markets to fund data centers. Increasingly that debt is moving off balance sheets: Meta's $27 billion Hyperion joint venture with Blue Owl Capital, in which the fund holds 80% and Meta 20%, has become the template, and analysts see some $800 billion of private-credit data-center financing flowing through 2028.",
-    "Investors are beginning to push back. Order books that covered hyperscaler bond sales nearly five times over in February had thinned to under two times by July, a sign buyers may demand higher yields as supply swells — even as J.P. Morgan notes spreads remain near cycle lows for now. The tension sits directly beneath a market that just closed its best month since 2020: Microsoft's record 15.5% surge Friday, worth about $450 billion, capped a July rally built on confidence that the capex — and the borrowing that funds it — will ultimately pay off."
+    "The de-escalation President Trump floated at dawn had hardened into stalemate by Sunday evening. Trump said he was canceling a threatened strike because negotiators had reached the 'perimeters' of a deal delivering the 'Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat.' Tehran promptly disputed the framing: Iran's Foreign Ministry said the strait 'will in no way return to the status it was before February 28th,' the defense minister called the US pullback a 'war of calculations' and 'psychological operations,' and officials denied ever requesting a pause. Iranian state media reported ships still stranded in the northern corridor, passable only with the armed forces' permission.",
+    "For markets, the distinction is the whole story. A durable reopening would unwind the war premium built up over a 40-day conflict and ease a key inflation input just as the Fed weighs a September move; a stalemate keeps WTI's roughly $82 handle and Brent below $86 anchored by geopolitical risk. Saudi Crown Prince Mohammed bin Salman pressed Trump on the economic fallout before the announcement, with the UAE, Qatar, Oman and Turkey mediating shipping access and militia attacks — but a June memorandum that partly reopened the strait collapsed within weeks, and nothing Sunday suggested this attempt was more binding."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "July was Wall Street's best month since 2020.",
-    "text": "The S&P 500 and Nasdaq notched their biggest monthly gains in years and the Dow logged a fourth straight winning month. The finale came Friday, when Microsoft soared 15.5% — a record single-day move that added roughly $450 billion in value after Azure growth and cloud guidance topped estimates — dragging chipmakers Micron (+18%) and Applied Materials (+15%) higher and lifting the Nasdaq 1%."
+    "lead": "Crude's war premium survived the day intact.",
+    "text": "The bullish case for lower oil rested on an Iran de-escalation reopening the Strait of Hormuz. By Sunday evening that had not materialized — Tehran rejected Trump's terms and ships remained stuck — so WTI near $82 and Brent below $86 look set to keep their geopolitical premium into Monday, sustaining an inflation input the Fed can ill afford to see reignite."
    },
    {
-    "lead": "Growth cooled even as inflation stuck.",
-    "text": "Q2 GDP expanded just 1.5%, below the 2% consensus, while the Fed's preferred PCE gauge held at 3.7% year over year. The growth-inflation squeeze complicates the case for rate relief and keeps a September policy move genuinely two-sided heading into a heavy data week."
+    "lead": "A make-or-break data week now decides September.",
+    "text": "ISM surveys, fresh inflation prints and the July jobs report land over the coming days and will settle whether a divided Fed delivers a rare September hike or holds again. After the July 29 hold at 3.50%–3.75% drew three hawkish dissents, CME FedWatch puts September-hike odds near 57%, with the 10-year Treasury yield around 4.74% and the 30-year above 5.2%."
    },
    {
-    "lead": "September now looms as a live Fed meeting.",
-    "text": "After the July 29 hold at 3.50%–3.75% drew three dissents from officials who wanted to tighten, CME FedWatch puts the odds of a September hike near 57%. The 10-year Treasury yield sits around 4.74% and the 30-year above 5.2%, a hawkish repricing that has weighed on housing, small caps and other rate-sensitive corners."
+    "lead": "The AI-debt boom still faces its first real pushback.",
+    "text": "Morgan Stanley projects roughly $570 billion of AI-related debt issuance in 2026 as hyperscalers guide to $720–$745 billion of combined capex. Order books that covered hyperscaler bond sales nearly five times over in February had thinned to under two times by July — a warning that buyers may demand higher yields as supply swells, even as J.P. Morgan notes spreads remain near cycle lows."
    },
    {
-    "lead": "Crude's war premium hangs on the Strait.",
-    "text": "WTI settled near $82 and Brent below $86 on Friday as Strait of Hormuz traffic recovered and tempered the war premium. A durable Iran de-escalation that reopens the strait would unwind risk built up during the 40-day conflict — easing a key inflation input just as the Fed weighs its next step."
+    "lead": "July's melt-up leaned on a handful of names.",
+    "text": "Microsoft's record 15.5% Friday surge — about $450 billion in a single session after Azure and cloud guidance beat — dragged Micron (+18%) and Applied Materials (+15%) higher and capped the month. But breadth stayed narrow: the small-cap Russell 2000 slipped even as megacap tech carried the tape, leaving the rally exposed if the Fed disappoints."
    },
    {
-    "lead": "The IPO and M&A supercycle rolls into H2.",
-    "text": "With global M&A past $3 trillion year-to-date and Q2 US IPOs at a record $104.8 billion, banks are staging autumn debuts — including potential mega-listings from AI leaders — that would keep fee income elevated. Goldman Sachs said its deal backlog is at a five-year high, and analysts expect the cycle to run through 2027."
+    "lead": "The deal pipeline heads into autumn at full tilt.",
+    "text": "With global M&A past $3 trillion year-to-date and Q2 US IPOs at a record $104.8 billion, banks are staging autumn debuts — including potential AI mega-listings — that would keep fee income elevated. Goldman Sachs says its backlog is at a five-year high, and analysts expect the cycle to run through 2027."
    }
   ],
   "watch": {
-   "title": "What clears the runway for September",
-   "lead": "The economic calendar reopens in force.",
-   "text": "ISM surveys, fresh inflation prints and the July jobs report land over the next week, and together they decide whether a divided Fed delivers a rare September hike or holds again. A hot reading — or an Iran de-escalation that lets crude's war premium deflate — would ripple straight into yields already at cycle highs and the small caps that lagged July's tech-led melt-up."
+   "title": "Two shocks stalking Monday's open",
+   "lead": "Geopolitics and the data collide in one week.",
+   "text": "Watch whether the Iran 'perimeters' firm into an actual Hormuz reopening or dissolve like June's collapsed memorandum — the difference decides whether crude's war premium deflates or digs in. Layered on top is the reopened economic calendar: ISM, inflation and the July payrolls report will tell a three-dissent Fed whether to hike in September, and a hot print with oil still elevated would push yields already at cycle highs higher and squeeze the small caps that lagged all of July."
   },
   "world": [
    {
-    "lead": "Trump halted US strikes on Iran, pending a deal.",
-    "text": "In a Truth Social post early Sunday, President Trump said negotiators had reached the 'parameters' of an agreement delivering the 'immediate, complete and total opening of the Strait of Hormuz' and 'an end to Iran's nuclear threat,' and ordered a pause in attacks 'subject to' rapidly closing it. Saudi Crown Prince Mohammed bin Salman reportedly urged de-escalation, with Qatar, the UAE, Turkey and Pakistan mediating. Iran denied requesting the pause, calling it 'a new lie.'"
+    "lead": "Iran rejected Trump's Hormuz terms by Sunday evening.",
+    "text": "After Trump ordered US strikes halted on word that a deal's 'perimeters' were set, Iran's Foreign Ministry said the strait 'will in no way return to the status it was before February 28th,' its defense minister framed the US move as 'psychological operations,' and officials denied requesting any pause. State media showed vessels still stranded in the northern corridor, undercutting the morning's optimism."
    },
    {
-    "lead": "Washington told Americans to leave the Middle East.",
-    "text": "A day earlier the State Department urged US citizens to depart more than a dozen Middle Eastern countries immediately, warning of the 'potential for unforeseen escalation.' The Wall Street Journal reported Trump had ordered preparations for renewed strikes on Iranian energy infrastructure, and US Patriot interceptor stocks had fallen below 827 from roughly 2,300 since the conflict began."
+    "lead": "Ukraine hit deep into Russia in a heavy retaliation.",
+    "text": "Responding to a second major Russian barrage on Kyiv in 48 hours, Ukrainian drones struck the Saratov oil refinery, the Engels strategic-bomber airbase, an oil depot in Kaluga and a warehouse in Samara some 500 miles from the front, killing at least eight across Udmurtia, Saratov and Belgorod. Russia claimed it downed 635 drones; Zelenskyy again flagged a critical shortage of US Patriot interceptors."
    },
    {
-    "lead": "A Gaza disarmament roadmap inched forward.",
-    "text": "UN Secretary-General António Guterres called the US-brokered plan to disarm Hamas 'the only good news in recent days,' under which a full weapons inventory is due within 14 days. Hamas continued to tie each step to a verified Israeli withdrawal, and more than 1,100 Palestinians have been killed since the October 2025 ceasefire took hold."
+    "lead": "The Gaza disarmament plan drew cautious optimism but no proof.",
+    "text": "Under the Board of Peace framework announced July 31, Hamas has been given up to 90 days to hand over rocket launchers and missiles, with a full weapons inventory due within 14 days. Hamas continued to tie each step to a verified Israeli withdrawal, and analysts openly questioned whether Israel is truly prepared to pull back."
    },
    {
-    "lead": "Russia hammered Kyiv again.",
-    "text": "Russian ballistic missiles and drones struck the Ukrainian capital overnight into August 1, killing at least nine and wounding dozens — the second major barrage in 48 hours — as Ukraine's US-supplied air defenses strained to keep pace and Poland scrambled jets to guard its own airspace."
+    "lead": "Israel kept expanding its footprint in Gaza.",
+    "text": "Israeli forces held roughly 64% of the territory, with Prime Minister Netanyahu vowing to push toward 70%, as residents of Deir al-Balah, Khan Younis and Rafah reported repeated forced evacuations even as the disarmament roadmap advanced on paper."
    },
    {
-    "lead": "Israel widened its Gaza footprint.",
-    "text": "Israeli forces expanded their occupation zone to roughly 64% of Gaza, with Prime Minister Netanyahu vowing to push it toward 70%, as residents of Deir al-Balah, Khan Younis and Rafah reported repeated forced evacuations."
+    "lead": "Washington's warnings to Americans abroad still stood.",
+    "text": "The State Department's directive for US citizens to leave more than a dozen Middle Eastern countries remained in force through the weekend, and reporting that US Patriot interceptor stocks had fallen below 827 from about 2,300 since the conflict began underscored how thin the margin for renewed escalation had grown."
    }
   ],
-  "sources": "CNN; Al Jazeera; Reuters/Investing.com; Bloomberg; CNBC; TheStreet; Yahoo Finance; Forbes; The Hill; NPR; Democracy Now; Morgan Stanley"
+  "sources": "Al Jazeera; The Washington Post/AP; Bloomberg; Reuters; CNBC; TheStreet; Kyiv Independent; CNN; Forbes; Morgan Stanley; CME FedWatch"
  },
  {
   "date": "2026-08-01",
