@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-03",
+  "label": "Mon · Aug 3",
+  "weekday": "Monday, August 3, 2026",
+  "marketsClose": "Jul 31",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Wall Street opens August at record highs after Amazon's blowout capped its best month in years, but the calm is fragile: US-Iran negotiations begin today, a hawkish Fed has left rate-hike odds on the table, and a make-or-break jobs-and-inflation week now decides whether crude's war premium and a 4.74% 10-year yield deflate or dig in.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.53
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.7
+   },
+   {
+    "name": "Nasdaq",
+    "v": 1.0
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.5
+   },
+   {
+    "name": "WTI Crude",
+    "v": 0.6
+   },
+   {
+    "name": "Brent",
+    "v": 0.5
+   }
+  ],
+  "marketsNote": "Friday's Jul 31 close still stands into Monday's open, and it was a strong finish to a wild July — the S&P 500 (7,489.72) and Nasdaq eked out record closes, the Dow logged a fourth straight winning month, and July ranked as Wall Street's best month in years on the AI trade. But breadth was thin: the small-cap Russell 2000 fell 0.5% even as mega-cap tech led, oil carried a war premium after a roughly 20% July surge, and the 10-year Treasury yield sat near a 4.74% cycle high heading into a heavy data week.",
+  "lead": {
+   "headline": "Amazon's blowout powers stocks to records as Wall Street closes out its best month in years — then braces for a hawkish Fed and jobs week",
+   "tag": "Markets · Aug 3",
+   "body": [
+    "Amazon jumped more than 15% on Friday after reporting far stronger profit than analysts expected — evidence that its heavy AI and AWS buildout is finally converting into earnings — lifting the S&P 500 and Nasdaq to record closes and capping a turbulent July as Wall Street's best month in years. Apple sank about 9% on a soft revenue forecast, and the four largest hyperscalers now guide to a combined $720–745 billion of 2026 capital spending, keeping the AI-capex trade at the center of the market.",
+    "The mood turns cautious with the new month. The Federal Reserve held its benchmark at 3.50%–3.75% last week with three officials dissenting in favor of a hike, and Chair Kevin Warsh reaffirmed a hard 2% inflation target as energy-driven price pressure builds — pushing traders to price real odds of a rate increase later in 2026 and lifting the 10-year yield toward 4.74%. That sets up a make-or-break week: US-Iran negotiations open today, and Friday's July payrolls report will test whether a resilient labor market validates the Fed's hawkish tilt."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "The Fed held, but hawks are stirring.",
+    "text": "The FOMC left the federal funds target at 3.50%–3.75% at its late-July meeting, with three members dissenting in favor of a quarter-point hike — an unusually hawkish split. Chair Kevin Warsh insisted there is 'only a target and it's 2%,' and futures now imply meaningful odds of a rate increase, not a cut, before year-end as oil-driven inflation lingers."
+   },
+   {
+    "lead": "Rates are squeezing the long end.",
+    "text": "The 10-year Treasury yield climbed to about 4.74%, a cycle high, as the war premium in crude and the Fed's inflation resolve reprice the curve. Higher-for-longer keeps pressure on bank net-interest margins, commercial real estate and mortgage volumes, and raises the stakes for Friday's jobs print."
+   },
+   {
+    "lead": "The IPO window is wide open.",
+    "text": "More than $250 billion has been raised in US listings so far in 2026, led by SpaceX's blockbuster debut, and JPMorgan and Morgan Stanley bankers say the market has entered a new era. A pipeline that includes potential OpenAI and Anthropic listings has Goldman Sachs and Morgan Stanley jockeying for lead roles."
+   },
+   {
+    "lead": "Dealmaking is powering the banks.",
+    "text": "Second-quarter results across the big banks came in strong, propelled by booming trading and advisory revenue tied to the SpaceX IPO and Iran-war volatility; Morgan Stanley topped estimates on trading and dealmaking strength. The macro backdrop has revived the investment-banking engine that stalled in prior years."
+   },
+   {
+    "lead": "Bank M&A is running hot.",
+    "text": "US bank M&A is on pace for its highest deal value in seven years, with consolidation accelerating as lenders chase scale and efficiency amid the risk-on rally. The tracker points to one of the busiest years for depository tie-ups since the last cycle peak."
+   }
+  ],
+  "watch": {
+   "title": "Jobs Friday tests the hawks",
+   "lead": "The data calendar reopens with the Fed on edge.",
+   "text": "Friday's July payrolls report is the week's hinge. A hot number would harden the case the dissenting Fed hawks are making and cement rate-hike odds; a soft one would revive cut hopes and cap the 10-year's climb. Layered on top: today's US-Iran talks, which decide whether crude's roughly 20% July war premium deflates or entrenches ahead of the ISM and inflation prints."
+  },
+  "world": [
+   {
+    "lead": "US-Iran talks open today.",
+    "text": "Trump said negotiations with Tehran will begin Monday and signaled a deal is near, backing off threatened strikes after Gulf allies pushed for restraint. Tehran warned it would deliver a 'decisive response' to any US aggression, leaving the diplomatic track fragile even as it offers the first real off-ramp in the Strait of Hormuz crisis."
+   },
+   {
+    "lead": "Hormuz shipping is recovering.",
+    "text": "Commercial crude flows through the Strait of Hormuz picked back up late last week, easing the acute supply fear that had driven oil higher; WTI and Brent slipped only modestly Friday even so, and both still logged gains of roughly 20% for July on the Middle East conflict."
+   },
+   {
+    "lead": "Russia hammers Kyiv.",
+    "text": "A fresh wave of Russian suicide drones and missiles struck Kyiv overnight, with explosions leaving craters and burning vehicles across the capital, as the war grinds on with no ceasefire in sight."
+   },
+   {
+    "lead": "New US tariffs take hold.",
+    "text": "Washington's latest trade salvo — duties of roughly 10% to 12.5% on some 60 trading partners, framed around forced-labor concerns — is now in effect, rebuilding the tariff regime and adding another input to the inflation picture the Fed is watching."
+   },
+   {
+    "lead": "A record-hot July.",
+    "text": "Scientists flagged another exceptionally warm month globally, with a 'fiery July' of heat waves and wildfires underscoring the strain of an intensifying climate on energy demand and insurance markets."
+   }
+  ],
+  "sources": "The Street; Yahoo Finance; The Epoch Times; Barchart; Business Journal; CNBC; Reuters; Al Jazeera; CNN; NBC News; Bloomberg; U.S. Bank; Mercer Capital; Stocktwits"
+ },
+ {
   "date": "2026-08-02",
   "label": "Sun · Aug 2",
   "weekday": "Sunday, August 2, 2026",
