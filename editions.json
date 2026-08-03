@@ -3,95 +3,95 @@
   "date": "2026-08-03",
   "label": "Mon · Aug 3",
   "weekday": "Monday, August 3, 2026",
-  "marketsClose": "Jul 31",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Wall Street opens August at record highs after Amazon's blowout capped its best month in years, but the calm is fragile: US-Iran negotiations begin today, a hawkish Fed has left rate-hike odds on the table, and a make-or-break jobs-and-inflation week now decides whether crude's war premium and a 4.74% 10-year yield deflate or dig in.",
+  "marketsClose": "Aug 3",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Trump's abrupt cancellation of a 'massive' strike on Iran sent crude crashing about 7% and powered the Dow to a record close above 53,000, capping a broad tech-led rally — then Palantir crushed earnings after the bell with 93% revenue growth.",
   "markets": [
    {
     "name": "Dow",
-    "v": 0.53
+    "v": 1.31
    },
    {
     "name": "S&P 500",
-    "v": 0.7
+    "v": 1.47
    },
    {
     "name": "Nasdaq",
-    "v": 1.0
+    "v": 2.12
    },
    {
     "name": "Russell 2000",
-    "v": -0.5
+    "v": 1.55
    },
    {
     "name": "WTI Crude",
-    "v": 0.6
+    "v": -7.0
    },
    {
     "name": "Brent",
-    "v": 0.5
+    "v": -5.0
    }
   ],
-  "marketsNote": "Friday's Jul 31 close still stands into Monday's open, and it was a strong finish to a wild July — the S&P 500 (7,489.72) and Nasdaq eked out record closes, the Dow logged a fourth straight winning month, and July ranked as Wall Street's best month in years on the AI trade. But breadth was thin: the small-cap Russell 2000 fell 0.5% even as mega-cap tech led, oil carried a war premium after a roughly 20% July surge, and the 10-year Treasury yield sat near a 4.74% cycle high heading into a heavy data week.",
+  "marketsNote": "Stocks opened August with a powerful rally as a plunge in oil eased inflation fears and mega-cap tech led the tape. The Dow jumped roughly 693 points (1.3%) to a record close above 53,000, the S&P 500 gained about 1.5% back toward its early-June all-time high, and the Nasdaq surged 2.1%; small caps joined in with the Russell 2000 up around 1.6%. The move was fueled by President Trump calling off planned strikes on Iran, which sent WTI down about 7% to roughly $78.59 and Brent off about 5% to near $83.46 — unwinding much of July's war premium.",
   "lead": {
-   "headline": "Amazon's blowout powers stocks to records as Wall Street closes out its best month in years — then braces for a hawkish Fed and jobs week",
+   "headline": "Stocks storm to a record close as oil craters on Trump's abrupt Iran reversal",
    "tag": "Markets · Aug 3",
    "body": [
-    "Amazon jumped more than 15% on Friday after reporting far stronger profit than analysts expected — evidence that its heavy AI and AWS buildout is finally converting into earnings — lifting the S&P 500 and Nasdaq to record closes and capping a turbulent July as Wall Street's best month in years. Apple sank about 9% on a soft revenue forecast, and the four largest hyperscalers now guide to a combined $720–745 billion of 2026 capital spending, keeping the AI-capex trade at the center of the market.",
-    "The mood turns cautious with the new month. The Federal Reserve held its benchmark at 3.50%–3.75% last week with three officials dissenting in favor of a hike, and Chair Kevin Warsh reaffirmed a hard 2% inflation target as energy-driven price pressure builds — pushing traders to price real odds of a rate increase later in 2026 and lifting the 10-year yield toward 4.74%. That sets up a make-or-break week: US-Iran negotiations open today, and Friday's July payrolls report will test whether a resilient labor market validates the Fed's hawkish tilt."
+    "Wall Street began August with its strongest session in weeks after President Trump said he had called off what he described as a 'massive' strike on Iran — 'the biggest attack since World War II' — in favor of negotiations, sending crude tumbling and lifting risk assets across the board. WTI fell about 7% to roughly $78.59 a barrel and Brent dropped about 5% to near $83.46, unwinding a large slice of the roughly 20% war premium oil had built up in July. The relief rippled straight into equities: the Dow climbed about 693 points (1.3%) to a record close above 53,000, the S&P 500 rose about 1.5% back toward its early-June peak, and the tech-heavy Nasdaq jumped 2.1%.",
+    "The rally was as much about tech as geopolitics. Mega-cap growth names powered the Nasdaq's outperformance heading into a heavy earnings week that includes Palantir, AMD, McDonald's, Disney and SpaceX's first-ever quarterly report. But the day's calm sat atop an uneasy macro backdrop: the July ISM manufacturing index climbed to 55.6% while its prices-paid gauge flagged inflation pressure that one survey called worse than the pandemic era, complicating the Fed's path just days before Friday's make-or-break jobs report. Traders treated the Iran de-escalation as the dominant signal, but Tehran publicly disputed Trump's account, leaving the détente — and oil's relief — on shaky ground."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "The Fed held, but hawks are stirring.",
-    "text": "The FOMC left the federal funds target at 3.50%–3.75% at its late-July meeting, with three members dissenting in favor of a quarter-point hike — an unusually hawkish split. Chair Kevin Warsh insisted there is 'only a target and it's 2%,' and futures now imply meaningful odds of a rate increase, not a cut, before year-end as oil-driven inflation lingers."
+    "lead": "Palantir crushed the quarter after the bell.",
+    "text": "Palantir posted a blowout Q2, with total revenue up 93% year over year and U.S. commercial revenue soaring 149%, and raised full-year guidance across the board — lifting its FY2026 revenue growth outlook to about 82% and U.S. commercial growth to roughly 134%, well ahead of consensus. Shares, down more than 30% for 2026 heading in, spiked above $140 in after-hours trading on what one desk called an 'otherworldly' double beat."
    },
    {
-    "lead": "Rates are squeezing the long end.",
-    "text": "The 10-year Treasury yield climbed to about 4.74%, a cycle high, as the war premium in crude and the Fed's inflation resolve reprice the curve. Higher-for-longer keeps pressure on bank net-interest margins, commercial real estate and mortgage volumes, and raises the stakes for Friday's jobs print."
+    "lead": "Energy shares bore the brunt of the oil slide.",
+    "text": "The roughly 7% drop in WTI that cheered the broad market hit oil producers and services names, dragging on the energy sector even as financials and tech rallied. The unwind of crude's war premium reshaped the day's leadership, rewarding rate-sensitive and growth stocks while punishing commodity-linked cyclicals."
    },
    {
-    "lead": "The IPO window is wide open.",
-    "text": "More than $250 billion has been raised in US listings so far in 2026, led by SpaceX's blockbuster debut, and JPMorgan and Morgan Stanley bankers say the market has entered a new era. A pipeline that includes potential OpenAI and Anthropic listings has Goldman Sachs and Morgan Stanley jockeying for lead roles."
+    "lead": "The Fed's path got murkier heading into payrolls.",
+    "text": "July ISM manufacturing rose to 55.6%, up 2.3 points from June, but the survey's prices-paid component pointed to intensifying input inflation that respondents likened to pandemic-era stress — muddying the case for a September rate cut. Markets are leaning toward easing but now hang on Friday's jobs report and this week's JOLTS and jobless-claims data for confirmation."
    },
    {
-    "lead": "Dealmaking is powering the banks.",
-    "text": "Second-quarter results across the big banks came in strong, propelled by booming trading and advisory revenue tied to the SpaceX IPO and Iran-war volatility; Morgan Stanley topped estimates on trading and dealmaking strength. The macro backdrop has revived the investment-banking engine that stalled in prior years."
+    "lead": "Wall Street dealmaking momentum stayed in focus.",
+    "text": "Bankers continue to point to a reviving 2026 M&A and capital-markets pipeline after a busy first half, with Goldman Sachs's lead role on SpaceX's record-breaking IPO emblematic of the fee bonanza. Attention now turns to how a lower-oil, risk-on tape and a possible Fed pivot could accelerate the issuance and advisory backlog into the fall."
    },
    {
-    "lead": "Bank M&A is running hot.",
-    "text": "US bank M&A is on pace for its highest deal value in seven years, with consolidation accelerating as lenders chase scale and efficiency amid the risk-on rally. The tracker points to one of the busiest years for depository tie-ups since the last cycle peak."
+    "lead": "Big Tech did the heavy lifting.",
+    "text": "Mega-cap technology and AI names drove the Nasdaq's 2.1% jump and much of the S&P 500's advance, extending the AI-led trade that made July Wall Street's best month in years. The concentration underscores how much the market's record run still leans on a handful of large-cap winners ahead of AMD's results."
    }
   ],
   "watch": {
-   "title": "Jobs Friday tests the hawks",
-   "lead": "The data calendar reopens with the Fed on edge.",
-   "text": "Friday's July payrolls report is the week's hinge. A hot number would harden the case the dissenting Fed hawks are making and cement rate-hike odds; a soft one would revive cut hopes and cap the 10-year's climb. Layered on top: today's US-Iran talks, which decide whether crude's roughly 20% July war premium deflates or entrenches ahead of the ISM and inflation prints."
+   "title": "SpaceX's first-ever earnings",
+   "lead": "SpaceX reports quarterly results for the first time as a public company on Tuesday.",
+   "text": "The debut report will put Elon Musk's roughly $1.4 trillion valuation and his heavy AI and Starlink capex under a Wall Street microscope for the first time — investors want to see whether Starlink's growth can keep funding the spending. SpaceX shares slipped nearly 2% ahead of the print; a miss or cautious guidance could test the enthusiasm powering the AI trade, while a beat would reinforce the mega-cap momentum that led today's rally."
   },
   "world": [
    {
-    "lead": "US-Iran talks open today.",
-    "text": "Trump said negotiations with Tehran will begin Monday and signaled a deal is near, backing off threatened strikes after Gulf allies pushed for restraint. Tehran warned it would deliver a 'decisive response' to any US aggression, leaving the diplomatic track fragile even as it offers the first real off-ramp in the Strait of Hormuz crisis."
+    "lead": "Trump called off a strike on Iran, but the détente looks fragile.",
+    "text": "Trump said he canceled what he called a 'massive' strike — 'the biggest attack since World War II' — after Saudi Arabia, the UAE, Qatar and Iran urged restraint, and declared a deal 'imminent' on reopening the Strait of Hormuz and Iran's denuclearization, with talks set to begin Monday afternoon. Iranian military sources, via Mehr News Agency, rejected his account as 'simply a new lie,' and Tehran did not confirm any negotiations, leaving the de-escalation that drove markets unverified."
    },
    {
-    "lead": "Hormuz shipping is recovering.",
-    "text": "Commercial crude flows through the Strait of Hormuz picked back up late last week, easing the acute supply fear that had driven oil higher; WTI and Brent slipped only modestly Friday even so, and both still logged gains of roughly 20% for July on the Middle East conflict."
+    "lead": "Israel struck Gaza for a second straight day.",
+    "text": "Israeli warplanes hit Gaza City, Deir al-Balah and Khan Younis, killing at least 13 Palestinians in the highest daily toll in weeks — a sharp counterpoint to Trump's claims of ceasefire progress. Hamas urged mediators to press Israel toward a truce as the humanitarian situation deteriorated."
    },
    {
-    "lead": "Russia hammers Kyiv.",
-    "text": "A fresh wave of Russian suicide drones and missiles struck Kyiv overnight, with explosions leaving craters and burning vehicles across the capital, as the war grinds on with no ceasefire in sight."
+    "lead": "Russia hammered Zaporizhzhia with glide bombs.",
+    "text": "Russian aircraft dropped eight powerful glide bombs on the Ukrainian city in about 90 minutes, killing one person and wounding 31, including a 16-year-old, and damaging 22 apartment buildings across four districts. The barrage underscored the grinding intensity of Russia's air campaign despite intermittent truce talk this year."
    },
    {
-    "lead": "New US tariffs take hold.",
-    "text": "Washington's latest trade salvo — duties of roughly 10% to 12.5% on some 60 trading partners, framed around forced-labor concerns — is now in effect, rebuilding the tariff regime and adding another input to the inflation picture the Fed is watching."
+    "lead": "The US sharpened its warning to China in the Indo-Pacific.",
+    "text": "Admiral Samuel Paparo, head of U.S. Pacific Command, warned that 'coercive actions by China and other actors are challenging regional stability' and said Washington will not permit any nation to dominate the region, criticizing what he called 'false claims of legitimacy' used to justify intimidation."
    },
    {
-    "lead": "A record-hot July.",
-    "text": "Scientists flagged another exceptionally warm month globally, with a 'fiery July' of heat waves and wildfires underscoring the strain of an intensifying climate on energy demand and insurance markets."
+    "lead": "A make-or-break US data week is underway.",
+    "text": "With the July jobs report due Friday and JOLTS, jobless claims and further ISM readings on tap, investors are watching for confirmation of a cooling labor market that could cement a September Fed cut — the macro backdrop that will decide whether today's record run has legs."
    }
   ],
-  "sources": "The Street; Yahoo Finance; The Epoch Times; Barchart; Business Journal; CNBC; Reuters; Al Jazeera; CNN; NBC News; Bloomberg; U.S. Bank; Mercer Capital; Stocktwits"
+  "sources": "TheStreet; CNBC; Yahoo Finance; Bloomberg; Reuters; Forbes; Fortune; Benzinga; NBC News; The Washington Post; RFE/RL; The American Legion"
  },
  {
   "date": "2026-08-02",
