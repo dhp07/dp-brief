@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-04",
+  "label": "Tue · Aug 4",
+  "weekday": "Tuesday, August 4, 2026",
+  "marketsClose": "Aug 3",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Stocks enter Tuesday near record highs after Trump's Iran climbdown crushed oil and lit a tech-led rally — Palantir spiked on a blowout beat, and SpaceX reports its first-ever results as a public company today.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 1.32
+   },
+   {
+    "name": "S&P 500",
+    "v": 1.47
+   },
+   {
+    "name": "Nasdaq",
+    "v": 2.12
+   },
+   {
+    "name": "Russell 2000",
+    "v": 1.7
+   },
+   {
+    "name": "WTI Crude",
+    "v": -6.21
+   },
+   {
+    "name": "Brent",
+    "v": -5.11
+   }
+  ],
+  "marketsNote": "Breadth was broad to start August: the Dow jumped about 693 points (1.3%) to a record close near 53,178, the S&P 500 gained roughly 1.5% back to within a whisker of its all-time high, and the Nasdaq surged 2.1% as mega-cap tech led. Small caps joined the move with the Russell 2000 up around 1.7%, while crude tumbled — WTI off 6.2% to about $79.41 and Brent down 5.1% to roughly $83.24 — and Treasury yields eased on the cooler inflation read.",
+  "lead": {
+   "headline": "Dow storms to a record as Trump's Iran retreat sinks oil and ignites Big Tech",
+   "tag": "Markets · Aug 3",
+   "body": [
+    "Wall Street opened August with a powerful risk-on rally after President Trump called off planned strikes on Iran over the weekend, pledging to pursue negotiations over the Strait of Hormuz instead. The retreat drained the war premium out of crude — WTI fell 6.2% to about $79.41 and Brent dropped 5.1% to roughly $83.24 — easing the inflation fears that had whipsawed oil between $72 and $102 through July and clearing the way for stocks to run.",
+    "The Dow Jones Industrial Average climbed 693 points, or 1.3%, to a record close of 53,178.41, while the S&P 500 added about 1.5% to sit just 0.1% below its all-time high and the Nasdaq Composite jumped 2.1%. Big Tech did the heavy lifting: Amazon rose more than 4% to cross a $3 trillion market cap, with Meta up about 6%, Alphabet and Microsoft each up roughly 5%, and Nvidia adding 3% as investors bet the cloud and AI capex cycle keeps paying off."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Palantir crushed the quarter after the bell.",
+    "text": "Palantir posted a blowout Q2 after Monday's close, with total revenue up about 93% year over year and U.S. commercial revenue soaring roughly 149%, and lifted its full-year guidance across the board. Shares — down more than 30% for 2026 heading into the print — spiked above $140 in after-hours trading, setting a bullish tone for the AI-software trade as the earnings week ramps up."
+   },
+   {
+    "lead": "The Fed is holding, and split about it.",
+    "text": "The Federal Reserve left its benchmark rate at 3.50%–3.75% at its late-July meeting in a divided vote, with policymakers signaling little urgency to move as they weigh sticky services inflation against a softening labor market. Monday's oil plunge strengthens the disinflation case, and futures nudged up the odds of a cut later this year as Treasury yields slipped."
+   },
+   {
+    "lead": "Earnings season is running hot.",
+    "text": "With more than 60% of the S&P 500 reported, roughly 85% of companies have beaten estimates and blended profit growth is tracking above 47% year over year — far ahead of pre-season expectations. Micron, Alphabet, Chevron, Amazon and Nvidia have been the biggest index contributors, reinforcing the mega-cap concentration driving the tape."
+   },
+   {
+    "lead": "SpaceX's lockup is the market's next test.",
+    "text": "SpaceX, which IPO'd June 12 at $135 a share and peaked near $225 days later, faces an August 6 lockup expiration that could free roughly 930 million shares — about $100 billion of stock — into the market. The overhang has traders watching Tuesday's debut earnings closely for any sign that Starlink's growth can keep funding Elon Musk's heavy AI and launch capex."
+   },
+   {
+    "lead": "A busy print calendar looms.",
+    "text": "Beyond SpaceX on Tuesday, AMD, McDonald's and Disney headline a heavy week of results, while the economic calendar turns to JOLTS job openings, weekly jobless claims and Friday's July employment report — the labor data most likely to shape the Fed's next move."
+   }
+  ],
+  "watch": {
+   "title": "SpaceX's first-ever earnings",
+   "lead": "SpaceX reports quarterly results for the first time as a public company on Tuesday.",
+   "text": "The debut report puts Elon Musk's roughly $1.4 trillion valuation and his heavy Starlink and AI capex under a Wall Street microscope for the first time, days before an August 6 lockup could unleash about $100 billion in stock. Investors want proof that Starlink's growth can bankroll the spending; a beat would reinforce the mega-cap momentum that led Monday's rally, while a miss or cautious guidance could test the enthusiasm powering the AI trade."
+  },
+  "world": [
+   {
+    "lead": "Trump called off an Iran strike, but the détente looks shaky.",
+    "text": "Trump said he canceled planned strikes on Iran and declared a deal 'imminent' on reopening the Strait of Hormuz, with talks set to begin Monday afternoon after Gulf states urged restraint. Iranian state media disputed his account, saying Tehran was not currently negotiating with Washington, leaving the de-escalation that drove markets unverified and fragile."
+   },
+   {
+    "lead": "Israeli strikes hit Gaza despite ceasefire talk.",
+    "text": "Israeli warplanes struck Gaza City, Deir al-Balah and Khan Younis on Sunday, killing at least 13 Palestinians, even as Trump touted a breakthrough in implementing last year's ceasefire agreement. The renewed bombardment underscored how far apart the parties remain on the ground."
+   },
+   {
+    "lead": "Russia pounded Zaporizhzhia with glide bombs.",
+    "text": "Russian forces dropped eight powerful glide bombs on residential areas of Zaporizhzhia, Ukraine, within 90 minutes, killing one person, wounding dozens and damaging 22 apartment buildings. The barrage extended Moscow's intensified summer air campaign against Ukrainian cities."
+   },
+   {
+    "lead": "The US drew a line in the Indo-Pacific.",
+    "text": "Admiral Samuel Paparo, head of U.S. Indo-Pacific Command, warned that Washington 'will not allow any nation to dominate the Indo-Pacific,' citing coercive moves by China and others. The remarks signaled continued friction with Beijing over regional security and freedom of navigation."
+   },
+   {
+    "lead": "Washington edged away from a shutdown.",
+    "text": "Senate negotiators reached a short-term spending deal aimed at averting a government shutdown through December, buying time for a broader budget fight. The stopgap removes one near-term risk hanging over markets already focused on earnings and the Fed."
+   }
+  ],
+  "sources": "CNBC; TheStreet; Yahoo Finance; The Epoch Times; UPI; Centered Financial; Reuters; American Legion; Al Jazeera; U.S. Bank"
+ },
+ {
   "date": "2026-08-03",
   "label": "Mon · Aug 3",
   "weekday": "Monday, August 3, 2026",
