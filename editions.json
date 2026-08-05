@@ -3,95 +3,95 @@
   "date": "2026-08-05",
   "label": "Wed · Aug 5",
   "weekday": "Wednesday, August 5, 2026",
-  "marketsClose": "Aug 4",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Stocks ripped to record highs as crude oil plunged on signs the Strait of Hormuz is reopening and Palantir's blowout earnings reignited the AI trade.",
+  "marketsClose": "Aug 5",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "The Dow closed at a fresh record, but the AI-fueled rally stalled as SpaceX and AMD slid and the Nasdaq fell — while Trump signaled a Strait of Hormuz deal could land within days.",
   "markets": [
    {
     "name": "Dow",
-    "v": 1.71
+    "v": 0.74
    },
    {
     "name": "S&P 500",
-    "v": 1.79
+    "v": 0.07
    },
    {
     "name": "Nasdaq",
-    "v": 2.59
+    "v": -0.49
    },
    {
     "name": "Russell 2000",
-    "v": 1.5
+    "v": -0.36
    },
    {
     "name": "WTI Crude",
-    "v": -5.1
+    "v": -0.6
    },
    {
     "name": "Brent",
-    "v": -4.7
+    "v": -0.85
    }
   ],
-  "marketsNote": "Breadth was broad and risk-on: the S&P 500 and Dow (past 54,000) set fresh records, tech jumped about 4.2%, and small caps joined the rally as tumbling crude eased inflation and rate-hike fears.",
+  "marketsNote": "The Dow's 0.74% climb to a record 54,488.68 masked a rotation out of tech: the Nasdaq fell 0.49% and the S&P 500 finished essentially flat (+0.07%) as SpaceX and AMD slumped, small caps slipped, and crude eased for a third straight day on hopes for a Hormuz deal.",
   "lead": {
-   "headline": "Wall Street storms to records as Hormuz de-escalation sinks oil and Palantir supercharges the AI trade",
-   "tag": "Markets · Aug 4",
+   "headline": "Dow notches another record, but the AI trade that powered Tuesday's rally cools as SpaceX and AMD slide",
+   "tag": "Markets · Aug 5",
    "body": [
-    "U.S. stocks surged Tuesday, with the S&P 500 closing at a record 7,736.52 (+1.79%) and the Dow adding 907 points to 54,085.88 (+1.71%) as investors bet on a peaceful resolution to the Middle East conflict. The Nasdaq Composite led the majors, jumping 2.59% to 26,584.99. The catalyst was diplomatic progress toward reopening the Strait of Hormuz, with Treasury Secretary Scott Bessent signaling a potential understanding with Iran; crude oil plunged roughly 5% as a result, easing inflation worries and reducing the odds of further Fed tightening.",
-    "Earnings poured fuel on the fire. Palantir soared nearly 27% after blowout results and a raised full-year outlook underscored surging demand for AI. Caterpillar jumped 11.3% on $20.5 billion in quarterly revenue, and megacap tech advanced broadly, with the sector up about 4.2% on the day. SpaceX posted record revenue of $7.8 billion, while AMD's report landed after the close."
+    "Wall Street's four-day surge lost momentum Wednesday. The Dow rose 402.80 points, or 0.74%, to a record 54,488.68, but the S&P 500 crept up just 0.07% to 7,741.68 and the Nasdaq Composite fell 0.49% to 26,454.00 as investors rotated out of the megacap technology names that had led the run. The Russell 2000 slipped 0.36% to 3,026.18. The split tape reflected a market questioning the pace of the AI capital-spending boom even as the broader economic backdrop stayed firm.",
+    "The pullback centered on two of the AI trade's marquee names. SpaceX dropped about 8% despite beating earnings forecasts, as investors fixated on its heavy AI-related capital expenditure, while AMD fell after strong second-quarter results failed to clear an unusually high bar. Crude eased for a third session — WTI near $75 and Brent around $78 — after President Trump said a deal to reopen the Strait of Hormuz 'could happen, tomorrow or the next day,' keeping downward pressure on oil and, with it, inflation and rate-hike fears."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Fed keeps a hawkish tone.",
-    "text": "Fed Chair Kevin Warsh told Congress the central bank has \"no tolerance for persistent inflation\" and wants the Fed \"out of the bailout business,\" though he left the door open to emergency intervention. Tuesday's oil-driven drop in inflation expectations lowered market-implied odds of another rate hike."
+    "lead": "Wall Street bonuses are set to jump.",
+    "text": "Compensation consultant Johnson Associates projected 2026 payouts will rise across most of banking — up 20% to 30%-plus for equity sales and trading, 15% to 20% for advisory and M&A bankers, and 10% to 15% or more across investment and commercial banking — on the back of a booming stock market, the AI investment wave, and a rebound in dealmaking."
    },
    {
-    "lead": "Big banks ride the SpaceX windfall.",
-    "text": "Goldman Sachs, JPMorgan and Bank of America continue to book fees from SpaceX's $85.7 billion IPO, one of the largest on record. JPMorgan separately booked a $4.6 billion gain on its Visa stake, helping the five largest U.S. banks earn a combined $49 billion in Q2, up 39% year over year."
+    "lead": "Dealmaking is powering the windfall.",
+    "text": "Investment-banking fees jumped 46% year over year to $12.9 billion in the second quarter, while equity underwriting fees across Goldman Sachs, JPMorgan, Morgan Stanley, Bank of America and Citigroup rose 87% from a year earlier, with chip-stock volatility adding a further boost to trading desks."
    },
    {
-    "lead": "Regional M&A stays busy.",
-    "text": "First Hawaiian agreed to buy TriCo Bancshares in an all-stock deal valued near $2 billion, creating a lender with about $34 billion in assets. First Bancorp is acquiring First Carolina Bancshares in a $166 million cash-and-stock transaction adding $831 million in assets."
+    "lead": "But hiring stays frozen.",
+    "text": "Despite the surge in activity, banks are not adding staff in kind. 'Usually people hire when things are really good, and they're not really doing that,' said Johnson Associates president Alan Johnson, pointing to AI and automation as reasons headcount is staying flat even as revenue climbs."
    },
    {
-    "lead": "Fourth bank failure of 2026.",
-    "text": "Small Business Bank of Kansas failed, with Farmers State Bank assuming about $69 million in deposits. The FDIC estimates the failure will cost the Deposit Insurance Fund roughly $5.7 million."
+    "lead": "Private markets fall behind.",
+    "text": "In a reversal Johnson called a 'seismic change' after a decade of leadership, private-market pay is lagging: real estate, private equity and venture-capital bonuses are projected flat, and private credit faces flat-to-negative-10% outcomes, ceding the compensation crown back to public-market desks."
    },
    {
-    "lead": "CFPB pullback continues.",
-    "text": "Acting Director Russell Vought called the bureau \"structurally defective\" and defended sharp cuts to staffing and enforcement, extending the administration's rollback of the consumer watchdog's reach."
+    "lead": "Rate-hike odds keep receding.",
+    "text": "A third straight day of falling crude and cooling inflation expectations trimmed the market-implied odds of another Fed rate hike, reinforcing Chair Kevin Warsh's message that policy can stay patient so long as energy-driven price pressures continue to fade."
    }
   ],
   "watch": {
-   "title": "AMD earnings and the Hormuz talks",
-   "lead": "Two threads drive Wednesday.",
-   "text": "Traders will parse AMD's after-close results for confirmation that the AI capex boom is broadening beyond Nvidia and Palantir. On the geopolitical side, any concrete deal — or breakdown — over reopening the Strait of Hormuz will swing crude and, with it, the rate-cut narrative that powered Tuesday's record run."
+   "title": "The Hormuz deal and the AI-spending test",
+   "lead": "Two threads carry into Thursday.",
+   "text": "First, whether Trump's promised Strait of Hormuz agreement actually materializes — a concrete deal would push crude lower and cement the disinflation narrative, while a breakdown would jolt oil and equities. Second, whether the tech pullback deepens as investors keep scrutinizing AI capital spending after the SpaceX and AMD selloffs; a broadening rotation into cyclicals and small caps would test how much of the rally rested on a handful of megacaps."
   },
   "world": [
    {
-    "lead": "Hormuz crisis nears a deal.",
-    "text": "Iran and Oman are reportedly close to an agreement to reopen shipping through separate transit channels, negotiating a \"service fee\" structure. Overnight, a cargo ship was struck by a projectile near the strait off Oman, leaving one crew member missing; Iran denied direct talks with Washington."
+    "lead": "A Hormuz deal looks imminent.",
+    "text": "President Trump said an agreement to reopen the Strait of Hormuz 'could happen, tomorrow or the next day,' and Qatari officials described the U.S.-Iran talks — with envoy Steve Witkoff shuttling between Iranian and Omani interlocutors — as in 'very progressive stages,' raising hopes of an end to the shipping standoff."
    },
    {
-    "lead": "Yemen threats reroute tankers.",
-    "text": "Six Saudi-flagged supertankers diverted toward southern Africa after Houthi threats, adding at least 25 days to their voyages. Roughly 6,000 sailors remain stranded in the Persian Gulf since the February 28 escalation and strait closure."
+    "lead": "Yemen strikes rattle shipping.",
+    "text": "An Indian-flagged vessel capsized and sank near Yemen after being hit by a projectile from an explosive-laden boat blamed on the Houthis; all 14 crew were rescued. The Houthis separately claimed a missile attack on a Saudi oil tanker in the Red Sea, underscoring the maritime risk even as diplomacy advances."
    },
    {
-    "lead": "Ukraine strikes hit Russia.",
-    "text": "Ukrainian drone strikes killed seven people, including three children, on a beach in southwestern Russia, while overnight attacks on three warehouses killed five more, according to local officials."
+    "lead": "Russia pounds Kyiv.",
+    "text": "Overnight Russian strikes on Kyiv killed at least 17 people, while North Korean missile units carrying roughly 120 ballistic missiles were reported deploying to western Russia. The EU moved to channel €1.4 billion in interest from frozen Russian assets to support Ukraine."
    },
    {
-    "lead": "Sudan violence deepens.",
-    "text": "A Sudanese army drone strike on a civil court in Darfur killed at least 35 people, the latest mass-casualty incident in the country's escalating conflict."
+    "lead": "US missile stockpile runs low.",
+    "text": "Reuters reported that the United States has expended 'virtually all' of its global stockpile of precision long-range missiles during the Iran conflict, raising questions about deterrence capacity against Russia and China at a moment of broad geopolitical strain."
    },
    {
-    "lead": "US detention death.",
-    "text": "A Salvadoran detainee died at New Jersey's Delaney Hall detention center, the second death there in eight months amid intensified immigration enforcement."
+    "lead": "Netanyahu rebuffs a ceasefire.",
+    "text": "Israeli Prime Minister Benjamin Netanyahu rejected the latest Trump ceasefire proposal, insisting Israel will not withdraw from Gaza until Hamas fully disarms, dimming near-term prospects for a truce."
    }
   ],
-  "sources": "TheStreet; The Motley Fool; CNN Business; Yahoo Finance; CNBC; Forbes; Bank Policy Institute; Just Security"
+  "sources": "TheStreet; Yahoo Finance; CNBC; Reuters; Bloomberg; Axios; Fortune; Honolulu Star-Advertiser; Just Security"
  },
  {
   "date": "2026-08-04",
