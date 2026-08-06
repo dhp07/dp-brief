@@ -3,95 +3,95 @@
   "date": "2026-08-06",
   "label": "Thu · Aug 6",
   "weekday": "Thursday, August 6, 2026",
-  "marketsClose": "Aug 5",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "SpaceX's IPO lock-up expires today, freeing up to $123 billion in shares to trade for the first time — the biggest test yet of the year's marquee listing — after the Dow set a record and crude fell a third day on Strait of Hormuz reopening hopes.",
+  "marketsClose": "Aug 6",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "SpaceX absorbed its $99 billion lock-up expiry without breaking — shares bucked higher even as roughly 911.5 million insider shares came free — while a chip-led selloff pulled the Dow off its record and Jamie Dimon warned that market leverage has 'never been higher.'",
   "markets": [
    {
     "name": "Dow",
-    "v": 0.74
+    "v": -0.18
    },
    {
     "name": "S&P 500",
-    "v": 0.07
+    "v": -0.34
    },
    {
     "name": "Nasdaq",
-    "v": -0.49
+    "v": -0.85
    },
    {
     "name": "Russell 2000",
-    "v": -0.36
+    "v": -0.42
    },
    {
     "name": "WTI Crude",
-    "v": -1.5
+    "v": 1.45
    },
    {
     "name": "Brent",
-    "v": -1.16
+    "v": 1.1
    }
   ],
-  "marketsNote": "The Dow's 0.74% climb to a record 54,488.68 masked a rotation out of tech: the Nasdaq slipped 0.49%, the S&P 500 finished essentially flat (+0.07%) and small caps eased as SpaceX and AMD dragged, while crude fell for a third straight session — WTI to $74.63 and Brent to $78.44 — on hopes for a Hormuz shipping deal.",
+  "marketsNote": "The Dow slipped from Tuesday's record as a semiconductor selloff — SanDisk and Western Digital sank on soft guidance, dragging AMD and the broader chip complex — pushed the Nasdaq down about 0.85% and the S&P 500 lower; small caps eased with them. Crude bucked the tape, WTI climbing roughly 1.45% to about $76.31 and Brent near $80 on Red Sea shipping worries even as an Iran-Oman Hormuz deal edged closer, while the 10-year Treasury yield rose to about 4.64%.",
   "lead": {
-   "headline": "SpaceX's IPO lock-up starts expiring today, freeing up to $123 billion in shares — the biggest test yet of the year's marquee listing",
+   "headline": "SpaceX absorbs its $99 billion lock-up without cracking — shares buck higher as 911.5 million insider shares come free",
    "tag": "Markets · Aug 6",
    "body": [
-    "The first tranche of SpaceX's post-IPO lock-up expires Thursday, clearing roughly 911.5 million insider shares — as much as $123 billion at recent prices — to trade for the first time since the company's blockbuster debut. It is the market's first real read on how much of Elon Musk's rocket-and-satellite empire early investors and employees are willing to sell, and the overhang has already weighed on the stock.",
-    "SpaceX (SPCX) fell about 8% on Wednesday even after nearly doubling revenue and narrowing operating losses in its first quarter as a public company, as investors balked at its heavy AI and capital spending. Morgan Stanley, one of the lead underwriters alongside Goldman Sachs, told clients the fundamentals are 'largely unchanged' and framed any lock-up-driven weakness as an attractive entry point. How the shares absorb the new supply will shape sentiment across the richly valued growth complex."
+    "The first tranche of SpaceX's post-IPO lock-up expired Thursday, clearing roughly 911.5 million insider shares — about $99 billion at Wednesday's $108.27 close — to trade for the first time and nearly tripling the public float from 4.9% to 11.8% of shares outstanding. Against the widely held expectation that the wave of new supply would sink the stock, SPCX plumbed fresh lows early and then reversed, pulling higher in midday trade and steadying by the close as buyers stepped in to meet the freed shares.",
+    "The read from Wall Street was that the pain had been pre-positioned: JPMorgan's Doug Anmuth said the damage was 'already baked in,' Bank of America's Ron Epstein called the unlock 'a near-term technical drag' rather than a verdict on the business, and Morgan Stanley — a lead underwriter alongside Goldman Sachs — stuck with its constructive stance. Even Morningstar, which had warned that most low-cost-basis holders would sell, watched the float roughly double without a rout. Nvidia gained on word that SpaceX will exclusively use its chips for AI services, one of the few bright spots in an otherwise heavy day for tech."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Small banks are the year's quiet winner.",
-    "text": "The S&P Regional Bank ETF has returned about 18.9% year-to-date, far outpacing the S&P 500's roughly 7.5% gain, as a normalizing yield curve and a broadening rally lift smaller lenders. The Russell 2000 is up around 17.7% on the same rotation."
+    "lead": "Dimon sounds the leverage siren.",
+    "text": "Speaking on CNBC's 'Closing Bell Overtime,' JPMorgan CEO Jamie Dimon warned that margin debt is 'the highest it has ever been' and that hidden borrowing across prime brokers, hedge funds, ETFs and Treasury arbitrage means a single blowup 'could disrupt the market' quickly. He stressed conditions differ from 2008 and that leverage alone is not systemic."
    },
    {
-    "lead": "The Fed sits accommodative into September.",
-    "text": "The federal funds target sits near 3.63% after cuts begun in 2024-25, with the Taylor-rule-implied neutral rate closer to 4.68%. Traders are watching incoming jobs and inflation data ahead of the Sept. 16 FOMC for confirmation of another cut."
+    "lead": "The warning has a fresh cautionary tale.",
+    "text": "Dimon spoke days after Leopold Aschenbrenner's AI-focused Situational Awareness fund — once worth roughly $45 billion — imploded in a matter of days on leveraged tech bets, triggering margin calls and a forced unwind. JPMorgan was a prime broker; Dimon noted the market absorbed the failure without contagion, evidence of resilience even as he flagged the risk."
    },
    {
-    "lead": "Bank earnings kept compounding in Q2.",
-    "text": "Lenders across peer groups posted double-digit year-over-year EPS growth, with community and regional banks holding a median ROA of 1.28% and ROTCE of 14.3% as net interest margins widened roughly 25 basis points."
+    "lead": "Payments earnings turned brutal.",
+    "text": "Fiserv tumbled about 12% after cutting its full-year profit forecast, extending a rough stretch for fintech and payments names and underscoring how quickly investors are punishing any guidance miss in a richly valued market."
    },
    {
-    "lead": "Deal-making stays measured, not frenzied.",
-    "text": "Bank M&A ran to 96 announced transactions through July 30 (an annualized pace near 170). The median target held about $808 million in assets and priced at 152% of tangible book and 14.7x earnings, with earn-back periods around 2.4 years."
+    "lead": "Labor data cooled just enough for the Fed.",
+    "text": "Weekly initial jobless claims held near record lows around 199,000, while Challenger reported July job cuts fell 27% month over month to 33,429 — the lowest in about three years. The resilient-but-not-overheating reads keep a Sept. 16 rate cut in play ahead of Friday's July payrolls."
    },
    {
-    "lead": "The IPO window is open but selective.",
-    "text": "Three financial-services listings have priced in 2026, including Forbright Bank, founded by former congressman John Delaney, and First Carolina Financial Services, which came in below guidance at $12.50 — a reminder that investors are rewarding quality over hype."
+    "lead": "Underwriters got their float test.",
+    "text": "SpaceX's orderly absorption of nearly a billion unlocked shares is an early proof point for lead banks Goldman Sachs and Morgan Stanley and for the year's marquee IPO, suggesting the equity market can digest large supply — a constructive signal for the selective 2026 new-issue pipeline."
    }
   ],
   "watch": {
-   "title": "A Hormuz deal — and where oil goes next",
-   "lead": "Crude has fallen three straight sessions.",
-   "text": "President Trump says a U.S.-Iran agreement to reopen the Strait of Hormuz — the chokepoint for nearly 20% of global oil flows — could land 'tomorrow or the next day,' with Qatar mediating. But a fresh strike on a transiting vessel and disputes over transit fees have stalled talks. A confirmed deal would extend the oil slide and the equity risk-on mood; a breakdown would snap both."
+   "title": "A Hormuz deal — now agreed 'in principle'",
+   "lead": "Iran and Oman reached an understanding today.",
+   "text": "The two sides agreed in principle to a 60-day arrangement reopening the Strait of Hormuz — inbound ships hugging the Iranian coast, outbound the Omani side, with no transit fees — pending sign-off from Iran's Supreme National Security Council, which could come within days. Approval would activate Paragraph 5 of the U.S.-Iran peace memo and likely pressure crude; a stall, or Iran's threat to hit Gulf energy sites if struck, would snap oil back the other way."
   },
   "world": [
    {
-    "lead": "Hormuz talks hit a snag.",
-    "text": "A new attack on a vessel crossing the Strait of Hormuz complicated reopening negotiations as Iran pressed demands to oversee inbound shipping. Internal strain also showed, with Ayatollah Mojtaba Khamenei signaling he would accept President Pezeshkian's resignation if resubmitted."
+    "lead": "Hormuz reopening moves from stalled to imminent.",
+    "text": "Iran said a deal with Oman on a Strait of Hormuz shipping route was 'agreed in principle,' a sharp advance from this morning's impasse. The 60-day, fee-free arrangement awaits Iran's security council and would trigger the safe-navigation clause of the June U.S.-Iran peace memorandum, with indirect contacts described as in their final stage."
    },
    {
-    "lead": "Israel-Lebanon diplomacy resumes in Rome.",
-    "text": "U.S.-brokered talks opened as Beirut sought a phased Israeli withdrawal over Hezbollah's objections. Prime Minister Netanyahu reiterated that Israel will not leave Gaza until Hamas is 'completely disarmed,' at odds with recent U.S. peace proposals."
+    "lead": "Tehran paired the diplomacy with a threat.",
+    "text": "Foreign Minister Abbas Araqchi, meeting Saudi, Turkish and Qatari counterparts, warned that if the U.S. strikes Iran's infrastructure again, Iran would retaliate against Gulf energy facilities. President Pezeshkian said communication with new Supreme Leader Mojtaba Khamenei remains 'very difficult' after his father's death in the earlier strikes."
    },
    {
-    "lead": "Russia pounds Ukraine's capital and grid.",
-    "text": "Overnight strikes on Kyiv killed 14 people and injured 27, while Moscow has hit nearly 250 Ukrainian gas facilities in retaliation for refinery attacks. Kyiv reported a North Korean missile unit arriving in western Russia with as many as 120 ballistic missiles."
+    "lead": "Russia and Ukraine trade deep strikes.",
+    "text": "Overnight Russian attacks killed at least six across Kharkiv and Sumy regions and wounded dozens; a Guinea-Bissau-flagged grain ship was hit in the Black Sea. Moscow said it downed 605 Ukrainian drones, while Kyiv reported striking two Russian refineries — Bashneft-Novoil and Slavneft-Yanos — pressing its energy-infrastructure campaign."
    },
    {
-    "lead": "Washington tightens the tech screws on Beijing.",
-    "text": "The Trump administration is drafting a ban on Chinese-made data-center components to protect U.S. AI infrastructure, while Taiwan launched major military drills and opened probes into 17 Chinese firms suspected of illegally poaching chip talent."
+    "lead": "Gulf allies turn on Israel over Gaza.",
+    "text": "The UAE joined Turkey and Saudi Arabia in accusing Israel of undermining President Trump's Gaza plan, deepening a rift with Washington's mediators. In southern Lebanon, the IDF said an interceptor was accidentally fired toward Israeli troops during operations, with no injuries reported."
    },
    {
-    "lead": "US trims its diplomatic footprint.",
-    "text": "The administration is moving to close five smaller embassies across Africa, Asia and the Americas, and officials flagged that the Army depleted nearly all of its long-range precision missiles during the recent Iran conflict."
+    "lead": "Washington keeps the tech screws on Beijing.",
+    "text": "The administration's push to bar Chinese-made data-center components advanced as officials framed it as protecting U.S. AI infrastructure, while Taiwan pressed military drills and probes into chip-talent poaching — the backdrop to Nvidia's exclusive SpaceX supply win and the day's semiconductor volatility."
    }
   ],
-  "sources": "TheStreet; Yahoo Finance; Reuters; Bloomberg; CNBC; Fortune; Spokesman-Review; Mercer Capital Bank Watch; The Motley Fool; Investing.com; FDD Overnight Brief"
+  "sources": "TheStreet; Yahoo Finance; CNBC; Bloomberg; Reuters; The Motley Fool; Forbes; Charles Schwab; Benzinga; Quartz; Al Jazeera; Times of Israel; CNN; NBC News"
  },
  {
   "date": "2026-08-05",
