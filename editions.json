@@ -1,5 +1,103 @@
 [
  {
+  "date": "2026-08-07",
+  "label": "Fri · Aug 7",
+  "weekday": "Friday, August 7, 2026",
+  "marketsClose": "Aug 7",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "The U.S. economy unexpectedly shed 23,000 jobs in July — the first payroll drop in months — flipping the Fed from a feared September hike to expected cuts and sending the Nasdaq up 1% to a record even as gold blew past $4,400.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -0.12
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.35
+   },
+   {
+    "name": "Nasdaq",
+    "v": 1.02
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.58
+   },
+   {
+    "name": "WTI Crude",
+    "v": -0.52
+   },
+   {
+    "name": "Brent",
+    "v": -0.45
+   }
+  ],
+  "marketsNote": "A shockingly weak July jobs report reset the tape: the Nasdaq jumped about 1.02% to 26,615.98 and the S&P 500 added roughly 0.35% to 7,737.31, a record close, as rate-cut bets lifted megacap tech. The Dow lagged, slipping about 0.12% to 53,819.82, and small caps fell around 0.58% to 3,001.55 as the growth scare bit cyclicals. The real move was in havens — gold surged about 2.6% to roughly $4,412 an ounce and silver spiked near 5% — while Treasury yields tumbled on the dovish repricing and crude eased, WTI off about 0.52% near $76.89 and Brent near $80.",
+  "lead": {
+   "headline": "U.S. payrolls unexpectedly shrink in July — first drop in months upends the Fed's rate path",
+   "tag": "Markets · Aug 7",
+   "body": [
+    "The July employment report landed as a genuine shock: nonfarm payrolls fell by 23,000 — the first outright contraction in months, against forecasts for a gain of roughly 80,000 — and June was revised down to a loss of about 20,000. The unemployment rate ticked lower to 4.1% from an expected 4.2%, but the internals were soft: labor-force participation slid to 61.4%, its lowest in more than five years, a sign that the headline jobless rate held only because people stopped looking. The read across Wall Street was that hiring has stalled, not merely cooled.",
+    "The market reaction was swift and dovish. Coming into the day, traders had been pricing meaningful odds of a Fed rate HIKE in September; those odds tumbled after the report, with markets swinging to bet on cuts to defend a fraying labor market. Rate-sensitive tech led the rally — the Nasdaq closed up about 1.02% at a record — while Treasury yields fell and the dollar softened. Havens caught a bid too, gold vaulting past $4,400. Beneath the index moves, earnings drove violent single-name swings: Doximity soared roughly 81% and Atlassian jumped about 32% on strong results, while The Trade Desk cratered near 28% on a weak outlook and nuclear-power name Oklo added about 7%."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "The Fed calculus flipped in an afternoon.",
+    "text": "The soft July payrolls print did more to reset Fed expectations than any speech has this summer: a September hike that markets had partly priced is now off the table, and futures swung toward at least one cut by year-end. For banks that reshapes the second-half script — lower policy rates squeeze net interest margins on deposits but revive the deal engine, and lenders spent the day recalibrating loan-growth and NIM guidance around a dovish path."
+   },
+   {
+    "lead": "Financials split down the middle.",
+    "text": "The rate move cut two ways across the sector. Falling yields pressured net-interest-income-heavy regional banks even as the prospect of easier policy and a cheaper cost of capital buoyed capital-markets and asset-heavy franchises. Big-bank trading and advisory desks, coming off a blockbuster first half, stand to gain most if lower rates keep the IPO and M&A pipeline flowing into the fall."
+   },
+   {
+    "lead": "Dimon's leverage warning gets a stress test.",
+    "text": "A day after Jamie Dimon cautioned that market leverage has 'never been higher,' a soft-labor, dovish-Fed backdrop is exactly the fragility he flagged — cheap money layered on stretched positioning. With the 2025–26 private-credit strains still simmering, a growth scare that pushes the Fed to ease could either relieve borrowers or expose how much risk migrated off bank balance sheets into less-regulated corners."
+   },
+   {
+    "lead": "SpaceX's post-lock-up float holds up.",
+    "text": "Following Thursday's expiry that freed roughly 911.5 million insider shares, SpaceX stock steadied rather than cracked, vindicating underwriters Goldman Sachs and Morgan Stanley and the 'pain already baked in' calls from JPMorgan and Bank of America. A clean absorption of that supply keeps the door open for the next wave of mega-IPOs the Street is banking on for 2026 fees."
+   },
+   {
+    "lead": "Gold's record run rewrites the haven trade.",
+    "text": "Bullion surged about 2.6% to roughly $4,412 an ounce and silver spiked near 5% as the weak jobs data, falling real yields and a softer dollar sent money into metals. The move underscores how aggressively investors are hedging against both a Fed forced to ease into weakness and the persistent geopolitical and fiscal risks weighing on paper assets."
+   },
+   {
+    "lead": "Yields tumble, curve steepens.",
+    "text": "Treasuries rallied hard on the dovish repricing, with front-end yields falling fastest as the market pulled forward cut expectations and the curve steepened. That bull-steepening is a mixed blessing for lenders — cheaper funding and a friendlier deposit backdrop, but thinner reinvestment yields on securities books that many banks are still working to reposition."
+   }
+  ],
+  "watch": {
+   "title": "CPI and the September FOMC",
+   "lead": "One weak print doesn't make a trend.",
+   "text": "With a September cut now the market's base case, the next inflation reading and Fed commentary become decisive: a hot CPI would collide with the dovish jobs message and force the Fed to choose between a fraying labor market and sticky prices. Watch for Fed speakers to push back on — or ratify — the market's rapid dovish swing, and for whether August data confirm that hiring has genuinely stalled rather than paused."
+  },
+  "world": [
+   {
+    "lead": "Israel digs in on Lebanon.",
+    "text": "Israel is refusing further withdrawals from southern Lebanon amid disputes over verifying Hezbollah's disarmament, after IDF reservists Maj. Harel Birenstock and Sgt. Maj. Tamir Vaknin were killed August 5 by a roadside bomb; the IDF answered with strikes on Hezbollah positions even as U.S. officials claimed progress in the talks."
+   },
+   {
+    "lead": "A new anti-Iran bloc takes shape.",
+    "text": "Turkey, Saudi Arabia and Pakistan are preparing to sign a joint defense agreement aimed at containing Iran, a significant regional realignment, with senior Saudi officials warning they expect potential attacks from both northern and southern directions."
+   },
+   {
+    "lead": "Gaza force inches forward.",
+    "text": "Uganda approved deploying troops to a planned international force in Gaza as Israel eased the tempo of its strikes, a move an official tied to the ceasefire proposal called 'steps in the right direction'; IDF chief Lt. Gen. Eyal Zamir visited Gaza pledging to keep 'operating proactively' against Hamas."
+   },
+   {
+    "lead": "Ukraine and Russia keep trading blows.",
+    "text": "There was no letup on the battlefield: recent days saw Russia and Ukraine exchange heavy long-range strikes that killed at least 27 people, with Kyiv pressing deep hits on Russian military and space infrastructure as diplomacy remained stalled."
+   },
+   {
+    "lead": "Israeli politics fractures before elections.",
+    "text": "Multiple Israeli politicians are bolting established parties to form new alliances ahead of expected elections, deepening domestic turmoil as the prime minister faces fresh criticism — including from a former chief of staff — over one-man rule and demands for personal loyalty."
+   }
+  ],
+  "sources": "TheStreet; Yahoo Finance; CNBC; Quartz; BLS; Morningstar; Times of Israel; Al Jazeera; Reuters"
+ },
+ {
   "date": "2026-08-06",
   "label": "Thu · Aug 6",
   "weekday": "Thursday, August 6, 2026",
