@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-08",
+  "label": "Sat · Aug 8",
+  "weekday": "Saturday, August 8, 2026",
+  "marketsClose": "Aug 7",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "A shock July jobs loss knocked down Fed rate-hike odds, sending the S&P 500 and Nasdaq to record closes to cap a winning week.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.28
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.62
+   },
+   {
+    "name": "Nasdaq",
+    "v": 1.3
+   },
+   {
+    "name": "Russell 2000",
+    "v": 1.1
+   },
+   {
+    "name": "WTI Crude",
+    "v": 2.6
+   },
+   {
+    "name": "Brent",
+    "v": 2.86
+   }
+  ],
+  "marketsNote": "Breadth was broad as small caps joined the record rally; crude jumped on renewed Strait of Hormuz tensions while the 10-year Treasury yield eased to 4.64%.",
+  "lead": {
+   "headline": "Surprise July jobs loss pushes stocks to records as Fed hike bets unwind",
+   "tag": "Markets · Aug 7",
+   "body": [
+    "U.S. stocks rallied to fresh record closes Friday after a startling July payrolls report showed the economy shed 23,000 jobs, versus expectations of an 83,000 gain, with the unemployment rate at 4.1%. Downward revisions to May and June deepened the shock, adding roughly 103,000 to the shortfall and reframing the labor market as far softer than the Fed's recent inflation-focused rhetoric had implied. The S&P 500 climbed 0.62% to a record 7,757.64, the Nasdaq jumped 1.30% to 26,690.62, the Dow added 0.28% to 54,036.93 and the small-cap Russell 2000 gained 1.10% to 3,034.49, capping a winning week.",
+    "The data flipped the rates narrative: fed funds futures cut the odds of a September rate hike to about 44% from roughly 55-57% a day earlier, with the probability the Fed holds at 3.50%-3.75% rising toward 60%. Treasury yields fell, the 10-year easing to 4.64%, and gold advanced as some investors sought safety. With about 85% of S&P 500 companies topping second-quarter earnings estimates, softer labor data plus resilient profits gave equity bulls a clean tailwind into the weekend."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Rate-hike odds tumble.",
+    "text": "Interest-rate futures slashed the probability of a September Fed hike to roughly 44% from about 55-57% before the jobs report, while the odds of holding steady at 3.50%-3.75% climbed toward 60% ahead of the Sept. 16 decision."
+   },
+   {
+    "lead": "Yields retreat.",
+    "text": "Treasury yields dropped after the surprise payrolls decline, with the 10-year note falling to about 4.64%, easing funding costs and lifting rate-sensitive corners of the market."
+   },
+   {
+    "lead": "Small caps and regionals lead.",
+    "text": "The Russell 2000 rose 1.10% in a record-close rally as lower expected rates boosted banks and other domestically focused, credit-sensitive names that benefit most from cheaper funding."
+   },
+   {
+    "lead": "Earnings underpin the tape.",
+    "text": "Roughly 85% of S&P 500 companies have beaten second-quarter profit estimates, with technology and consumer discretionary leading, keeping valuations supported even as economic momentum cools."
+   },
+   {
+    "lead": "Deal pipeline builds.",
+    "text": "Wall Street dealmaking continues to firm heading into the fall, with boutique advisers reporting rising M&A mandates and an IPO backlog that fed strong equity-underwriting fees at the big banks earlier this earnings season."
+   }
+  ],
+  "watch": {
+   "title": "Inflation is the tiebreaker",
+   "lead": "The Fed's dual mandate is pulling in two directions.",
+   "text": "With the labor market suddenly weak but policymakers still wary of price pressures, next week's inflation prints become the swing factor for the Sept. 16 meeting. A soft CPI would cement the case to hold or even cut; a hot one would revive the hawkish camp and test Friday's record highs."
+  },
+  "world": [
+   {
+    "lead": "Hormuz tensions spike crude.",
+    "text": "Iran warned Gulf states it could strike oil and electricity infrastructure if the U.S. targets its energy networks, even as Oman-mediated talks to reopen the Strait of Hormuz were said to be nearing a deal; Brent settled near $86 a barrel, up about 2.9%."
+   },
+   {
+    "lead": "Ukraine hits Russian refineries.",
+    "text": "Ukrainian forces struck two oil refineries deep inside Russian territory, extending a campaign aimed at degrading Moscow's energy revenue and fuel supply."
+   },
+   {
+    "lead": "North Korea test-fires missile.",
+    "text": "Pyongyang launched a short-range ballistic missile ahead of scheduled U.S.-South Korea military exercises, raising tensions on the peninsula."
+   },
+   {
+    "lead": "Colombia swears in new president.",
+    "text": "Abelardo de la Espriella was inaugurated as Colombia's president after narrowly winning June's runoff, shifting the country rightward from outgoing leftist Gustavo Petro."
+   },
+   {
+    "lead": "Trump threatens Canada tariffs.",
+    "text": "President Trump criticized Canada's leadership and signaled new tariffs on Canadian goods as soon as next week, reviving cross-border trade friction."
+   }
+  ],
+  "sources": "Yahoo Finance; TheStreet; STL.News; Reuters; Forbes; CNBC; Fortune; The Washington Post; Everything Briefing"
+ },
+ {
   "date": "2026-08-07",
   "label": "Fri · Aug 7",
   "weekday": "Friday, August 7, 2026",
