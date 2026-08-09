@@ -4,8 +4,8 @@
   "label": "Sun · Aug 9",
   "weekday": "Sunday, August 9, 2026",
   "marketsClose": "Aug 7",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Markets head into a pivotal week with July CPI on deck, after a shock jobs report flipped the Fed debate from a possible hike toward holding or cutting.",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Wall Street heads into an inflation-heavy week with Wednesday's July CPI now the decisive test of whether Friday's jobs shock cements a Fed hold or reopens the hike debate.",
   "markets": [
    {
     "name": "Dow",
@@ -32,66 +32,66 @@
     "v": -1.74
    }
   ],
-  "marketsNote": "Breadth was broad as small caps joined Friday's tech-led advance; Treasury yields fell (2-year to 4.16%, 10-year to 4.61%) while crude eased as diminishing Strait of Hormuz supply fears outweighed the geopolitical premium.",
+  "marketsNote": "U.S. equity and bond markets were closed for the weekend, leaving Friday's record close (S&P 500 7,757.64) as the last mark; index futures reopened Sunday evening with traders positioning cautiously ahead of an inflation-heavy data week, while Treasury yields held near post-jobs lows (2-year 4.16%, 10-year 4.61%).",
   "lead": {
-   "headline": "Wall Street enters a pivotal week as jobs shock reframes the Fed path, with July CPI looming",
+   "headline": "Markets brace for a make-or-break inflation week as Wednesday's July CPI becomes the Fed's swing factor",
    "tag": "Business & Markets · Aug 9",
    "body": [
-    "U.S. stocks capped their strongest week since April on Friday after a startling July payrolls report showed the economy shed 23,000 jobs, versus expectations for an 83,000 gain, with unemployment holding at 4.1% and labor-force participation slipping to 61.4%, its lowest in more than five years. The S&P 500 rose 0.62% to a record 7,757.64, the Nasdaq jumped 1.30% to 26,690.62, the Dow added 0.28% to 54,036.93 and the small-cap Russell 2000 gained 1.10% to 3,034.49 — a rally that ran 4.86% on the Nasdaq and 3.37% on the S&P 500 for the week.",
-    "The data flipped the rates narrative just weeks after inflation fears had put a hike back on the table. Fed funds futures cut the odds of a September rate hike to about 40% from roughly 55% before the report, and the 2-year Treasury yield fell 8 basis points to 4.16% as the 10-year eased to 4.61%. With the Sept. 16 decision now framed as a hold-or-cut debate rather than a hike, attention turns to Tuesday's July CPI print, which could tip the balance either way."
+    "U.S. stocks enter the week at record highs after Friday's shock July payrolls report — a 23,000-job contraction against forecasts for an 83,000 gain — powered their strongest week since April, lifting the S&P 500 to a record 7,757.64, the Nasdaq to 26,690.62, the Dow to 54,036.93 and the Russell 2000 to 3,034.49. With markets shut over the weekend, the next catalyst is data, not price: the rally's staying power now hinges on whether inflation confirms that a soft labor market has taken a September Fed hike off the table.",
+    "The swing factor arrives Wednesday, Aug. 12, when the July consumer price index prints at 8:30 a.m. ET — a day later than many had pencilled in — followed by producer prices Thursday and retail sales Friday in an inflation-heavy calendar. Barclays economist Pooja Sriram expects a rebound after June's unusually subdued reading, penciling in headline CPI up 0.16% and core CPI up 0.24% month over month, and sees the Fed holding its 3.50%–3.75% funds range through 2027 with risks 'skewed towards hikes' on any upside surprise. A hot print would revive hike talk despite the weak jobs data; a cool one would cement a hold ahead of the Sept. 16 FOMC decision."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Rate-hike bets unwind.",
-    "text": "Interest-rate futures slashed the probability of a September Fed hike to about 40% from roughly 55% before Friday's payrolls miss, with the odds of holding steady climbing sharply ahead of the Sept. 16 FOMC decision."
+    "lead": "Rate path stays a hold-or-cut debate.",
+    "text": "Interest-rate futures continued to lean toward the Fed holding steady on Sept. 16 after Friday's payrolls miss cut September hike odds to roughly 40% from about 55%, with Wednesday's CPI the pivot that could swing the balance either way."
    },
    {
-    "lead": "Yields retreat.",
-    "text": "Treasury yields fell after the surprise jobs loss, the 2-year dropping 8 basis points to 4.16% and the 10-year easing to 4.61% — lowering funding costs and lifting rate-sensitive financials and small caps."
+    "lead": "Deal machine revs for a record year.",
+    "text": "Wall Street's biggest banks — Morgan Stanley, Goldman Sachs and JPMorgan — are positioning for a busy second half, citing a swelling pipeline of IPOs, mergers and debt issuance as 2026 shapes up as a record M&A supercycle, a tailwind for advisory and underwriting fees."
    },
    {
-    "lead": "Deal machine revs up.",
-    "text": "Wall Street's biggest banks are positioning for a busy second half, with Morgan Stanley, Goldman Sachs and JPMorgan citing a swelling pipeline of IPOs, mergers and debt issuance as 2026 shapes up as a record M&A year."
+    "lead": "Chip and solar policy shifts the capex map.",
+    "text": "President Trump's Aug. 6 executive order to shield the U.S. polysilicon industry added tariffs on a key solar and semiconductor input, even as Washington delayed threatened tariffs on China-made chips to 2027 — a mix that reshapes financing and capital-spending calculus for industrial and tech borrowers."
    },
    {
-    "lead": "RBI holds the line.",
-    "text": "The Reserve Bank of India kept its repo rate at 5.25% while upgrading its GDP growth forecast and trimming its inflation outlook, signaling confidence in domestic momentum despite global uncertainty."
+    "lead": "Yields anchor rate-sensitive financials.",
+    "text": "Treasury yields held near their post-jobs lows into the weekend, the 2-year around 4.16% and the 10-year near 4.61%, keeping funding costs contained and underpinning banks, regional lenders and small caps."
    },
    {
-    "lead": "Gulf banks stay strong.",
-    "text": "UAE lenders posted healthy first-half loan growth and profitability, supported by infrastructure spending, tourism, real-estate demand and rising digital-banking adoption across Dubai and Abu Dhabi."
+    "lead": "Inflation call frames the week.",
+    "text": "Barclays sees July inflation rebounding from June's soft print but not enough to force the Fed's hand, projecting a hold through 2027 — a base case a hot CPI on Wednesday could quickly upend."
    }
   ],
   "watch": {
-   "title": "July CPI",
-   "lead": "Inflation data looms.",
-   "text": "Tuesday's July consumer price index is the week's swing factor: a hot print could revive talk of a Fed hike despite the soft labor market, while a cool reading would cement expectations for a hold — or open the door to a September cut."
+   "title": "July CPI (Wed)",
+   "lead": "Inflation data is the week's fulcrum.",
+   "text": "Wednesday's July CPI is the swing factor for records-priced stocks: a hot reading could reopen the Fed-hike debate despite the soft labor market, while a cool print would lock in a hold — with Thursday's PPI and Friday's retail sales rounding out an inflation-heavy week."
   },
   "world": [
    {
+    "lead": "Russia sanctions bill advances.",
+    "text": "The Senate advanced the Lindsey O. Graham Sanctioning Russia and Iran Act on an 86-12 vote — authorizing tariffs up to 200% on the five largest buyers of Russian oil and gas and extending Iran sanctions to 2031 — with the measure named for the late senator and awaiting final passage and House action after the recess."
+   },
+   {
+    "lead": "Israel escalates in Gaza.",
+    "text": "Israeli forces intensified strikes on Gaza despite President Trump's Hamas-disarmament framework, as a Board of Peace envoy warned that full, verified execution of the plan is the 'only guarantee' that Oct. 7 will not recur."
+   },
+   {
+    "lead": "Leak scandal rattles Jerusalem.",
+    "text": "Three advisers to Prime Minister Netanyahu allegedly leaked classified intelligence on Egyptian military movements while on Qatar's payroll, with defense officials fearing the breach could strain the Egypt peace agreement and complicate hostage negotiations."
+   },
+   {
+    "lead": "Hormuz tension simmers.",
+    "text": "Iran rejected direct U.S. talks over the Strait of Hormuz while Houthi forces claimed a drone attack on a Saudi refinery in Jizan, keeping a geopolitical bid under crude even as broader supply fears had eased."
+   },
+   {
     "lead": "War grinds on in Ukraine.",
-    "text": "Russian strikes on the Kyiv region killed three civilians, including a child, as the U.S. Senate advanced sweeping new sanctions targeting Russia's energy-sector revenue."
-   },
-   {
-    "lead": "Hormuz premium fades.",
-    "text": "Crude slipped as Strait of Hormuz supply fears eased, with President Trump saying the waterway would reopen 'soon' days after Houthi forces claimed an attack on a Saudi oil tanker."
-   },
-   {
-    "lead": "Balkan diplomacy.",
-    "text": "Serbian President Aleksandar Vucic hosted Ukraine's Volodymyr Zelenskyy in Belgrade, a meeting read as signaling to both Brussels and Moscow amid the country's balancing act."
-   },
-   {
-    "lead": "Attack in Rotterdam.",
-    "text": "A 26-year-old was arrested after a random stabbing in Rotterdam left two people injured, the latest in a string of knife attacks unsettling parts of Europe."
-   },
-   {
-    "lead": "Ballroom blocked.",
-    "text": "A U.S. appeals court halted construction of a new White House ballroom pushed by the Trump administration, ruling the project requires congressional approval."
+    "text": "Russian strikes continued to pound Ukrainian regions over the weekend, sustaining civilian casualties as Kyiv pressed Western partners on air defense and the U.S. sanctions package moved toward the finish line."
    }
   ],
-  "sources": "TheStreet; CNBC; Reuters; Forbes; STL.News; Yahoo Finance; Euronews; Boston Institute of Analytics"
+  "sources": "CNBC; TheStreet; Reuters; Kiplinger; Capital Street FX; RFE/RL; The Washington Post; Times of Israel; Al Jazeera; U.S. News; Boston Institute of Analytics"
  },
  {
   "date": "2026-08-08",
