@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-10",
+  "label": "Mon · Aug 10",
+  "weekday": "Monday, August 10, 2026",
+  "marketsClose": "Aug 7",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Stocks open the week at record highs after Friday's shock 23,000-job loss slashed Fed hike odds, but a weekend Houthi strike on Saudi Aramco's Jazan refinery is pushing crude higher and clouding Wednesday's pivotal CPI print.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.28
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.62
+   },
+   {
+    "name": "Nasdaq",
+    "v": 1.3
+   },
+   {
+    "name": "Russell 2000",
+    "v": 1.1
+   },
+   {
+    "name": "WTI Crude",
+    "v": -1.35
+   },
+   {
+    "name": "Brent",
+    "v": -1.74
+   }
+  ],
+  "marketsNote": "Friday's tape (last close, Aug 7) was broad and risk-on, with small caps and the Nasdaq leading on rate-cut hopes even as crude slid on demand worries; that oil weakness reversed over the weekend after the Aramco strike, and Monday futures pointed higher (Dow ~54,150, S&P +0.16%) with WTI back near $78 and Brent near $83.5.",
+  "lead": {
+   "headline": "Shock July job losses send stocks to records and reset the Fed's path just before a make-or-break CPI",
+   "tag": "Business & Markets · Aug 7",
+   "body": [
+    "The U.S. economy unexpectedly shed 23,000 jobs in July against forecasts for an 80,000 gain, even as the unemployment rate ticked down to 4.1%, the sharpest downside labor surprise of the year. Rather than spook investors, the weakness was read as a green light for the Federal Reserve to stand pat: the S&P 500 rose 0.6% to a record 7,757.64, the Nasdaq jumped 1.3% and the Russell 2000 added 1.1%, capping the strongest week since April with the Nasdaq up roughly 5%.",
+    "The report reframes Chair Kevin Warsh's hawkish July 29 stance almost overnight. CME futures now price only a 44% chance of a September rate hike, down from 67% a week earlier, with the next move a genuine coin flip. That leaves Wednesday's July CPI as the decisive test: a soft print would cement a Fed hold, while any upside surprise reopens the hike debate just as a fresh Middle East oil shock threatens to feed back into inflation."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Rate path repriced.",
+    "text": "Friday's job losses gutted expectations for further tightening: markets now see just a 44% chance of a September hike versus 67% a week ago, and Chair Kevin Warsh's warning that the Fed has 'no tolerance' for persistent inflation collides with a labor market that is suddenly cooling. Wednesday's CPI is the swing factor."
+   },
+   {
+    "lead": "Wall Street's windfall holds.",
+    "text": "The five largest U.S. banks booked a combined $49 billion in Q2 profit, up 39% year over year with every firm beating estimates, as loan-loss provisions fell across the board. JPMorgan cited a 14.1% CET1 ratio and a $4.6 billion gain from trimming its Visa stake."
+   },
+   {
+    "lead": "The IPO machine roars.",
+    "text": "A doubling of U.S. IPO proceeds is powering fee income, with Goldman Sachs pointing to underwriting work on SpaceX's roughly $85.7 billion listing. Bankers say a full 2026 pipeline of AI-linked issuers and mega-deals is fueling the busiest capital-markets stretch in years."
+   },
+   {
+    "lead": "Regional consolidation.",
+    "text": "First Hawaiian agreed to acquire California's TriCo Bancshares in a roughly $2 billion all-stock deal, creating a lender with about $34 billion in assets — the latest sign that scale pressure is reviving community- and mid-cap bank M&A."
+   },
+   {
+    "lead": "Fourth failure of the year.",
+    "text": "Kansas-based Small Business Bank was closed by regulators, with Farmers State Bank assuming its deposits at an estimated $5.7 million cost to the FDIC — the fourth U.S. bank failure of 2026, a reminder that smaller lenders remain under funding and credit strain."
+   }
+  ],
+  "watch": {
+   "title": "Wednesday's CPI, oil, and a light data week",
+   "lead": "Inflation is the week's hinge.",
+   "text": "July CPI lands Wednesday and will effectively settle the September Fed debate now that jobs have softened; economists expect the print to guide whether one final hike stays on the table for December. Complicating it, crude is climbing on Middle East supply fears, threatening to reheat headline inflation just as the labor side cools. Watch earnings from Applied Materials, Cisco and CoreWeave, plus any diplomatic movement on reopening the Strait of Hormuz."
+  },
+  "world": [
+   {
+    "lead": "Strike on Saudi oil.",
+    "text": "Yemen's Houthis hit Saudi Aramco's Jazan refinery with drones and ballistic missiles on Aug 9; Riyadh said the fire was extinguished with no casualties and only 'some production interruptions.' Spokesman Yahya Saree called it retaliation for Saudi airspace violations. The group also struck the Red Sea port of al-Makha, where seven were killed."
+   },
+   {
+    "lead": "Arsenal running low.",
+    "text": "A Pentagon memo from Deputy Defense Secretary Steve Feinberg gives contractors 21 days to submit plans to dramatically accelerate weapons output, warning 'years-long development cycles are not acceptable.' Five months of war with Iran have cut Patriot interceptor stocks about 65% (from 2,330 to under 830) and THAAD stocks roughly 38%."
+   },
+   {
+    "lead": "Crude's war premium.",
+    "text": "Oil pushed higher into Monday — WTI near $78 and Brent near $83.5, each up more than 1% — as a senior Saudi official warned the Houthis and Iran-aligned Iraqi groups were planning coordinated strikes on energy infrastructure and ports. Two Saudi tankers were hit in the Red Sea over the prior week."
+   },
+   {
+    "lead": "New alliances form.",
+    "text": "Amid the U.S.–Israel war on Iran, Saudi Arabia signed a defense pact with Turkey and Pakistan on Aug 7, deepening a regional realignment as Gulf states hedge against escalation and the risk of attacks on their own soil."
+   },
+   {
+    "lead": "Hormuz on edge.",
+    "text": "Tehran signaled that talks with Oman on safe shipping routes are progressing but cautioned against expecting an 'immediate reopening' of the Strait of Hormuz, keeping a supply-risk premium in crude and safety flows into Treasuries and gold intact."
+   }
+  ],
+  "sources": "CNBC; Reuters; Yahoo Finance; Fortune; Forbes; Al Jazeera; NBC News; OilPrice; FXStreet; Global Finance; Boston Institute of Analytics"
+ },
+ {
   "date": "2026-08-09",
   "label": "Sun · Aug 9",
   "weekday": "Sunday, August 9, 2026",
