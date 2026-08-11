@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-11",
+  "label": "Tue · Aug 11",
+  "weekday": "Tuesday, August 11, 2026",
+  "marketsClose": "Aug 11",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Wall Street ground out fresh record closes in the year's narrowest trading range as investors sat tight before Wednesday's CPI — then AI bellwethers CoreWeave and Super Micro ripped higher after the bell on booming demand.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.18
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.14
+   },
+   {
+    "name": "Nasdaq",
+    "v": 0.05
+   },
+   {
+    "name": "Russell 2000",
+    "v": 0.3
+   },
+   {
+    "name": "WTI Crude",
+    "v": 2.3
+   },
+   {
+    "name": "Brent",
+    "v": 1.9
+   }
+  ],
+  "marketsNote": "Stocks inched to new records in the tightest daily range of 2026 as traders refused to commit before Wednesday's inflation print: the Dow added about 0.18% to hold near 54,100, the S&P 500 rose 0.14% to a fresh closing high around 7,763 and the Nasdaq was barely green (+0.05%), while the Russell 2000 kept its small-cap bid up 0.30%. Energy stayed the pressure point as WTI settled near $81 (+2.3%) and Brent near $86 (+1.9%), Brent briefly spiking above $90 intraday before easing, on the still-unresolved Strait of Hormuz standoff. The real action came after the close, where AI infrastructure names CoreWeave and Super Micro jumped on strong results.",
+  "lead": {
+   "headline": "Wall Street eeks out record closes in the year's calmest session before CPI, then CoreWeave and Super Micro rip higher after the bell",
+   "tag": "Business & Markets · Aug 11",
+   "body": [
+    "U.S. stocks nudged to fresh record highs Tuesday in what strategists called the narrowest trading band of the year, as investors declined to place big bets 24 hours before a make-or-break consumer-price report. The S&P 500 edged up about 0.14% to a new closing high near 7,763, the Dow rose roughly 0.18% to cling to the 54,000 line and the Nasdaq finished a whisker higher, with gains in industrials and semiconductors offsetting softness in megacap tech and consumer names. Traders are pricing roughly even odds — near 51% — of a September Federal Reserve rate move, leaving Wednesday's CPI as the swing factor for the record rally.",
+    "The day's decisive action arrived after the closing bell. AI cloud provider CoreWeave and server maker Super Micro Computer both surged in extended trading as quarterly results reinforced the accelerating-demand thesis underpinning this year's advance: CoreWeave, which had shed more than 30% since its May report, rallied on a revenue backlog that ballooned toward roughly $104 billion even as capital spending near $7.9 billion for the quarter underscored just how much cash the buildout is consuming. Overhanging it all was crude, which stayed elevated as the U.S.–Iran impasse over the Strait of Hormuz dragged into another day."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "The whole tape hinges on one number.",
+    "text": "Rate-path bets stayed split heading into Wednesday's CPI, with futures pricing roughly 51% odds of a September Fed move after Friday's softer jobs report muddied the picture. A hot print would threaten equity valuations stretched to records; a cool one would cement the soft-landing narrative Wall Street has ridden to fresh highs."
+   },
+   {
+    "lead": "The dealmaking renaissance is minting fees.",
+    "text": "Goldman Sachs and JPMorgan again topped first-half 2026 M&A league tables as boards embraced bolder transactions, with Goldman leading global rankings on roughly $1.48 trillion of announced deals. The rebound in advisory volumes is powering an investment-banking fee recovery that has analysts and commentators like Jim Cramer flagging Goldman and Morgan Stanley as the cleanest ways to play accelerating deal flow."
+   },
+   {
+    "lead": "Intel leaned on a hungry market.",
+    "text": "Intel moved to upsize its stock sale, capitalizing on buoyant equity conditions and appetite for chip exposure to shore up its balance sheet amid a costly turnaround and foundry buildout. The upsizing is a reminder that capital-markets desks are busy again as issuers rush to tap near-record valuations before CPI reshuffles the board."
+   },
+   {
+    "lead": "AI's capital appetite is a financing story.",
+    "text": "CoreWeave's after-hours pop came alongside a backlog swelling toward $104 billion and quarterly capex near $7.9 billion — figures that turn the AI boom into a balance-sheet and credit question as much as a demand one. Lenders, private-credit funds and equity underwriters are increasingly the plumbing behind the data-center arms race, keeping Wall Street's structured-finance and syndication desks humming."
+   },
+   {
+    "lead": "Bank stocks tracked the risk mood.",
+    "text": "Financials held near their highs alongside the broad market, with the group buoyed by the M&A upswing, resilient net-interest income and hopes that a benign CPI keeps the Fed from tightening. The sector remains a favored 2026 trade on the twin tailwinds of a dealmaking recovery and a still-steep yield curve."
+   }
+  ],
+  "watch": {
+   "title": "Wednesday's CPI",
+   "lead": "The month's most important data point lands at 8:30 a.m. ET.",
+   "text": "July consumer prices are the catalyst the whole market has been waiting on, with producer prices following Thursday. A firmer-than-expected reading would revive rate-hike fears and test record-high valuations; a soft print would likely extend the melt-up and pull September hike odds back down. Energy's Hormuz-driven climb makes the inflation math trickier — watch the core and services components closely."
+  },
+  "world": [
+   {
+    "lead": "The Hormuz standoff hardened again.",
+    "text": "President Trump described the U.S. naval posture at the Strait of Hormuz as a 'steel wall' and demanded Iran compensate the U.S. for past casualties, while Tehran's foreign minister rejected reopening talks without redress for earlier U.S. 'violations.' The impasse kept crude elevated and dashed hopes for the quick reopening deal that had looked near-final a week ago."
+   },
+   {
+    "lead": "Russia pressed its air war on Ukraine.",
+    "text": "Russian strikes killed at least six civilians in Zaporizhzhia and three more in Dnipropetrovsk, with reports that North Korean-supplied ballistic missiles were used. Kyiv is exploring alternative grain-export routes by rail through Moldova to bypass repeated attacks on the port of Odesa."
+   },
+   {
+    "lead": "A Syrian court condemned Assad in absentia.",
+    "text": "A court sentenced former President Bashar al-Assad to death in absentia for war crimes and crimes against humanity, a landmark ruling for the post-Assad government seeking accountability for the years of civil war."
+   },
+   {
+    "lead": "A powerful quake struck Colombia.",
+    "text": "A magnitude-7.4 earthquake killed at least 111 people in Colombia, with rescue efforts underway and the toll expected to shift as remote areas are reached."
+   },
+   {
+    "lead": "Turkey advanced its Kurdish peace push.",
+    "text": "Turkey's parliament passed legislation advancing peace negotiations with the Kurdish PKK, a potentially historic step toward ending a decades-long conflict."
+   }
+  ],
+  "sources": "Yahoo Finance; CNBC; Sunday Guardian; Bloomberg; Benzinga; ION Analytics/Mergermarket; Just Security; Reuters"
+ },
+ {
   "date": "2026-08-10",
   "label": "Mon · Aug 10",
   "weekday": "Monday, August 10, 2026",
