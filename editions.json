@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-12",
+  "label": "Wed · Aug 12",
+  "weekday": "Wednesday, August 12, 2026",
+  "marketsClose": "Aug 12",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Cooler-than-feared July inflation sent Wall Street to fresh record highs and all but locked in a September Fed cut, with traders now betting on a possible half-point move after Treasury Secretary Bessent openly pushed for one.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.83
+   },
+   {
+    "name": "S&P 500",
+    "v": 1.05
+   },
+   {
+    "name": "Nasdaq",
+    "v": 1.42
+   },
+   {
+    "name": "Russell 2000",
+    "v": 1.78
+   },
+   {
+    "name": "WTI Crude",
+    "v": 0.6
+   },
+   {
+    "name": "Brent",
+    "v": 0.45
+   }
+  ],
+  "marketsNote": "A tame July CPI print unleashed the rate-cut trade that markets had been sitting on all week. The Dow jumped roughly 450 points (+0.83%) to hold above 54,000, the S&P 500 climbed about 1.05% to a fresh record, and the Nasdaq led the majors up around 1.42% as AI-infrastructure names ripped higher. Rate-sensitive small caps outperformed, with the Russell 2000 up about 1.78% as traders fully priced a September Fed cut. Oil stayed firm on Middle East risk, WTI edging up about 0.6% toward $83.70 and Brent hovering near $90 on the unresolved Strait of Hormuz standoff.",
+  "lead": {
+   "headline": "Tame July CPI clears the runway: stocks close at records as a September Fed cut gets fully priced",
+   "tag": "Business & Markets · Aug 12",
+   "body": [
+    "U.S. stocks surged to fresh record highs Wednesday after the July Consumer Price Index came in cooler than markets feared, removing the last major obstacle to a near-term Federal Reserve rate cut. Headline CPI rose just 0.1% on the month and cooled to a 3.4% annual pace from 3.5% in June, while core CPI rose 0.2% and eased to 2.5% year-over-year from 2.6% — with shelter still doing most of the heavy lifting and energy prices falling 1.5%. The Dow jumped about 450 points (+0.83%), the S&P 500 added roughly 1.05% to a new closing high, and the Nasdaq led the advance up about 1.42% as investors piled back into the AI and small-cap trades that thrive on cheaper money.",
+    "The decisive catalyst came from Treasury Secretary Scott Bessent, who publicly urged the Fed toward '150 to 175 basis points' of cuts and floated 'a 50 basis point rate cut in September.' By Wednesday afternoon CME FedWatch data showed traders had fully priced a September move, with a growing minority betting on a half-point cut. AI-infrastructure bellwethers powered the tape: CoreWeave jumped roughly 18% after reporting Q2 revenue doubled to about $2.58 billion and a backlog swelling to $104 billion, Nebius surged around 34% and Super Micro added close to 9% in a broad 'neocloud' rally. The lone caution flag was energy, where the Strait of Hormuz standoff kept crude bid even as equities celebrated."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Bessent leans on the Fed.",
+    "text": "Treasury Secretary Scott Bessent publicly called for a 50 basis point September cut and 150-175 basis points of easing overall, an unusually direct push from the administration that helped ignite Wednesday's rally and raised fresh questions about Fed independence heading into the September 16-17 FOMC meeting."
+   },
+   {
+    "lead": "A September cut is now fully priced.",
+    "text": "CME FedWatch data showed markets pricing a near-certainty of a September cut after the CPI print, with a growing share betting on 50 basis points. A steeper, lower path for rates lifts the outlook for bank net interest margins, mortgage volumes and the dealmaking pipeline that fueled a strong first half for the big banks."
+   },
+   {
+    "lead": "AI infrastructure keeps tapping capital markets.",
+    "text": "CoreWeave's Q2 revenue doubled to roughly $2.58 billion with a $104 billion backlog, sending its shares up about 18% and Nebius up around 34%. The 'neocloud' boom is one of the largest ongoing draws on debt and equity financing on Wall Street, keeping capital-markets desks busy but concentrating credit exposure in a capital-hungry, fast-moving sector."
+   },
+   {
+    "lead": "IPO window stays wide open.",
+    "text": "With more than $250 billion raised across global listings this year, bankers at JPMorgan and Morgan Stanley say the IPO market has entered a new era, and a fully-priced rate cut only strengthens the backdrop for the deals and secondary offerings queued up for the autumn."
+   },
+   {
+    "lead": "Treasury eases anti-illicit-finance rules.",
+    "text": "The Treasury Department moved to exempt U.S. companies and individuals from beneficial-ownership reporting requirements, rolling back a 2021 anti-money-laundering law — a meaningful shift in the compliance landscape for banks, private funds and corporate advisers."
+   }
+  ],
+  "watch": {
+   "title": "Next: PPI and the rate-cut stress test",
+   "lead": "The inflation story isn't finished.",
+   "text": "Thursday's July producer-price index and weekly jobless claims are the next tests of the disinflation narrative that powered Wednesday's records; a hot PPI could quickly temper the half-point-cut chatter. Beyond the data, the Fed's late-August Jackson Hole symposium looms as the venue where Chair Powell may finally validate — or push back on — the market's aggressive easing bets."
+  },
+  "world": [
+   {
+    "lead": "Deadly strike keeps the Red Sea on edge.",
+    "text": "Houthi rebels hit a cargo ship with three ballistic missiles in the Bab al-Mandeb strait, killing six people — three Pakistani and one Indonesian crew member plus two rescuers — as the unresolved Strait of Hormuz standoff kept oil elevated and shipping lanes fraught."
+   },
+   {
+    "lead": "U.S. tightens its naval squeeze on Iran.",
+    "text": "A U.S. Navy MH-60 helicopter fired two Hellfire missiles at a Panama-flagged cargo ship off Pakistan in the Gulf of Oman for breaching the blockade on Iranian ports, as the Trump administration leans on sanctions and naval pressure — a strategy mediators warn may not force Tehran to fold."
+   },
+   {
+    "lead": "Ukraine dials back energy-infrastructure strikes.",
+    "text": "Vice President JD Vance asked President Zelenskyy to halt attacks on non-Russian tankers and the Caspian Pipeline Consortium terminal at Novorossiysk, and Kyiv reportedly complied; Zelenskyy separately submitted fresh peace proposals to U.S. negotiators."
+   },
+   {
+    "lead": "NATO warns of daily 'hybrid' attacks.",
+    "text": "Germany's top military officer said hybrid attacks are now taking place every day across NATO countries as Russia probes Western responses, while Hungary elected former Supreme Court head András Baka as president, a critic of Orbán's grip on state institutions."
+   },
+   {
+    "lead": "Courts and costs shadow Washington.",
+    "text": "A federal judge expanded the block on President Trump's mail-in voting executive order to all 50 states ahead of the November 3 midterms, as the National Guard deployment in Washington, D.C. was projected to cost an additional $1.4 billion through 2029."
+   }
+  ],
+  "sources": "TheStreet; CNBC; Yahoo Finance; Barchart; Reuters; Bloomberg; BLS; Al Jazeera; Just Security; JPMorgan."
+ },
+ {
   "date": "2026-08-11",
   "label": "Tue · Aug 11",
   "weekday": "Tuesday, August 11, 2026",
