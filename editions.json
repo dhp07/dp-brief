@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-13",
+  "label": "Thu · Aug 13",
+  "weekday": "Thursday, August 13, 2026",
+  "marketsClose": "Aug 12",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "In-line July inflation of 3.4% keeps the Fed on hold and pushes September rate-hike odds down to about 38%, while AI earnings carry the Nasdaq to a fresh advance.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -0.1
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.3
+   },
+   {
+    "name": "Nasdaq",
+    "v": 0.5
+   },
+   {
+    "name": "Russell 2000",
+    "v": 0.6
+   },
+   {
+    "name": "WTI Crude",
+    "v": 0.67
+   },
+   {
+    "name": "Brent",
+    "v": 0.33
+   }
+  ],
+  "marketsNote": "Breadth favored risk-on corners even as the Dow slipped: the S&P 500 closed at 7,748.50 (+0.30%), the Nasdaq led at 26,588.49 (+0.50%) and the rate-sensitive Russell 2000 outperformed at 3,045.48 (+0.60%) after a tame CPI print eased Treasury yields. The Dow lagged at 53,770.27 (-0.10%) on rotation out of defensives. Crude firmed on Middle East risk, WTI near $83.78 (+0.67%) and Brent around $89.26 (+0.33%) with the Strait of Hormuz standoff unresolved.",
+  "lead": {
+   "headline": "July inflation lands in line at 3.4%, keeping the Fed on hold as AI earnings lift stocks",
+   "tag": "Business & Markets · Aug 12",
+   "body": [
+    "The July Consumer Price Index rose 0.1% on the month and cooled to a 3.4% annual pace from 3.5% in June, matching economists' forecasts, while core CPI rose 0.2% and eased to 2.5% year-over-year from 2.6%. The in-line reading did little to resolve the Fed's dilemma: at 3.4%, headline inflation remains well above the 2% target even as last week's jobs report showed nonfarm payrolls unexpectedly contracting by 23,000. Stocks took the print as a green light for the AI trade, with the S&P 500 adding 0.30% to 7,748.50, the Nasdaq climbing 0.50% and the small-cap Russell 2000 up 0.60%; the Dow slipped 0.10%.",
+    "The data pushed the odds of a September rate hike down to roughly 38% on CME FedWatch from 48% a day earlier, lifting the probability the Fed holds its 3.50%-3.75% range to about 62%. The July FOMC had split three ways, with three members dissenting in favor of a hike, and Morgan Stanley's chief economist said the tame print keeps the 'no need to hike' narrative intact. Beneath the index moves, AI-infrastructure names led again: Nvidia and Super Micro Computer paced gains on fresh signals that corporate spending on AI capacity is still accelerating."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "CPI cools the September hike bet.",
+    "text": "July headline CPI held at a 3.4% annual rate with core at 2.5%, both in line with forecasts. Rate futures cut the odds of a September Fed hike to roughly 38% from 48%, leaving a hold at 3.50%-3.75% as the base case and easing pressure on bank funding costs and net interest margins."
+   },
+   {
+    "lead": "A divided Fed keeps the tightening door ajar.",
+    "text": "Three FOMC members dissented in favor of a hike in July, and with inflation still 1.4 points above target the central bank remains unusually split. A soft July payrolls print of -23,000, against expectations near +80,000, is the counterweight keeping policymakers on hold rather than tightening into a cooling labor market."
+   },
+   {
+    "lead": "Wall Street's deal machine stays hot.",
+    "text": "Global investment-banking revenue topped $100 billion for the first time in 2025, and executives at JPMorgan, Morgan Stanley and Wells Fargo describe M&A and IPO pipelines as the strongest in years heading into the autumn, concentrated in healthcare and industrials."
+   },
+   {
+    "lead": "The IPO window is wide open.",
+    "text": "Bankers point to a marquee 2026 listing pipeline that reportedly includes OpenAI, SpaceX and AI chipmaker Cerebras, with private-equity and venture firms expected to accelerate exits as valuations recover and financing costs ease."
+   },
+   {
+    "lead": "Mega-LBOs are back.",
+    "text": "Electronic Arts' roughly $55 billion take-private, which would rank as the largest leveraged buyout in history if completed, headlines a revival in sponsor-led megadeals and the leveraged-finance activity that fuels bank fee income."
+   }
+  ],
+  "watch": {
+   "title": "Next: PPI and jobless claims",
+   "lead": "The inflation read isn't finished.",
+   "text": "Thursday's July producer-price index and weekly jobless claims are the next tests of the disinflation trend; a hot PPI would revive September hike chatter, while another soft labor print would harden the case for the Fed to simply hold. Chair Powell's late-August Jackson Hole address looms as the venue to reset expectations."
+  },
+  "world": [
+   {
+    "lead": "Colombia reels from its worst quake since 1970.",
+    "text": "A massive earthquake killed more than 250 people with over 2,700 reported missing, devastating the city of Pereira as rescue crews raced to reach survivors in the strongest tremor to strike the country in 55 years."
+   },
+   {
+    "lead": "The Strait of Hormuz standoff escalates.",
+    "text": "A U.S. Navy vessel fired on a Panama-flagged cargo ship trying to breach the blockade of Iranian ports, while Iran and Oman advanced talks over splitting control of the strait into northern and southern shipping lanes, keeping crude prices bid."
+   },
+   {
+    "lead": "An assassination threat shadows Trump abroad.",
+    "text": "President Trump was quietly moved off Air Force One at a NATO summit in Turkey, boarding a smaller military plane after intelligence flagged an Iranian threat, while staff and journalists remained aboard the presidential jet."
+   },
+   {
+    "lead": "Drone strikes hit Ukraine and Russia overnight.",
+    "text": "At least four civilians were killed in cross-border drone attacks as former detainees testified to the UN about torture in Russian custody, and a Moscow court barred the main antiwar party from September's parliamentary elections."
+   },
+   {
+    "lead": "Ebola surges in the DRC.",
+    "text": "Confirmed cases surpassed 4,000 in what has become the second-largest Ebola outbreak on record, with the WHO director-general warning the virus is spreading 'really, really fast.'"
+   }
+  ],
+  "sources": "Yahoo Finance; CNBC; The Motley Fool; Benzinga; Forbes; Reuters; Bloomberg; BLS; Democracy Now."
+ },
+ {
   "date": "2026-08-12",
   "label": "Wed · Aug 12",
   "weekday": "Wednesday, August 12, 2026",
