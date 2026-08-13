@@ -3,21 +3,21 @@
   "date": "2026-08-13",
   "label": "Thu · Aug 13",
   "weekday": "Thursday, August 13, 2026",
-  "marketsClose": "Aug 12",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "In-line July inflation of 3.4% keeps the Fed on hold and pushes September rate-hike odds down to about 38%, while AI earnings carry the Nasdaq to a fresh advance.",
+  "marketsClose": "Aug 13",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "A flat July PPI, following Wednesday's in-line CPI, all but takes a September Fed hike off the table and lifts the S&P 500 to a record close.",
   "markets": [
    {
     "name": "Dow",
-    "v": -0.1
+    "v": -0.18
    },
    {
     "name": "S&P 500",
-    "v": 0.3
+    "v": 0.43
    },
    {
     "name": "Nasdaq",
-    "v": 0.5
+    "v": 0.58
    },
    {
     "name": "Russell 2000",
@@ -25,73 +25,73 @@
    },
    {
     "name": "WTI Crude",
-    "v": 0.67
+    "v": -1.84
    },
    {
     "name": "Brent",
-    "v": 0.33
+    "v": -1.8
    }
   ],
-  "marketsNote": "Breadth favored risk-on corners even as the Dow slipped: the S&P 500 closed at 7,748.50 (+0.30%), the Nasdaq led at 26,588.49 (+0.50%) and the rate-sensitive Russell 2000 outperformed at 3,045.48 (+0.60%) after a tame CPI print eased Treasury yields. The Dow lagged at 53,770.27 (-0.10%) on rotation out of defensives. Crude firmed on Middle East risk, WTI near $83.78 (+0.67%) and Brent around $89.26 (+0.33%) with the Strait of Hormuz standoff unresolved.",
+  "marketsNote": "The S&P 500 closed at a record 7,781.59 (+0.43%) after touching an all-time intraday high of 7,816.70, and the Nasdaq Composite added 0.58% to 26,741.66 as semiconductors led — Sandisk jumped about 16% and Micron roughly 6.7% on AI-infrastructure optimism, while easing Treasury yields buoyed growth stocks. The Russell 2000 pushed above 3,060 for a fresh small-cap record. The Dow was the outlier, slipping 0.18% to 53,674.13 as Cisco fell about 9% and shaved roughly 64 points off the price-weighted average. Crude sank on demand worries even with the Hormuz standoff unresolved: WTI fell 1.84% to $81.74 and Brent dropped 1.80% to $87.38.",
   "lead": {
-   "headline": "July inflation lands in line at 3.4%, keeping the Fed on hold as AI earnings lift stocks",
-   "tag": "Business & Markets · Aug 12",
+   "headline": "Flat July PPI seals the case for a Fed hold, lifting the S&P 500 to a record close",
+   "tag": "Business & Markets · Aug 13",
    "body": [
-    "The July Consumer Price Index rose 0.1% on the month and cooled to a 3.4% annual pace from 3.5% in June, matching economists' forecasts, while core CPI rose 0.2% and eased to 2.5% year-over-year from 2.6%. The in-line reading did little to resolve the Fed's dilemma: at 3.4%, headline inflation remains well above the 2% target even as last week's jobs report showed nonfarm payrolls unexpectedly contracting by 23,000. Stocks took the print as a green light for the AI trade, with the S&P 500 adding 0.30% to 7,748.50, the Nasdaq climbing 0.50% and the small-cap Russell 2000 up 0.60%; the Dow slipped 0.10%.",
-    "The data pushed the odds of a September rate hike down to roughly 38% on CME FedWatch from 48% a day earlier, lifting the probability the Fed holds its 3.50%-3.75% range to about 62%. The July FOMC had split three ways, with three members dissenting in favor of a hike, and Morgan Stanley's chief economist said the tame print keeps the 'no need to hike' narrative intact. Beneath the index moves, AI-infrastructure names led again: Nvidia and Super Micro Computer paced gains on fresh signals that corporate spending on AI capacity is still accelerating."
+    "The July Producer Price Index was unchanged on the month, below forecasts for a 0.2% rise, and cooled to a 4.7% annual pace from 5.5% — the softest wholesale reading since March. Coming a day after in-line CPI of 3.4%, the data pushed economists to conclude a September rate hike is now 'looking unlikely,' in the words of Capital Economics' Stephen Brown. Treasury yields eased and stocks rallied: the S&P 500 set a record close of 7,781.59 (+0.43%) after an intraday high of 7,816.70, the Nasdaq added 0.58% to 26,741.66, and the Russell 2000 pushed above 3,060 for a small-cap record.",
+    "Beneath the surface the AI-infrastructure trade did the heavy lifting — Sandisk surged about 16% and Micron gained roughly 6.7% on fresh signs of accelerating memory demand — while the Dow bucked the tape, slipping 0.18% as Cisco Systems tumbled about 9% after results. Core wholesale prices were less benign, with PPI ex-food, energy and trade up 0.4% against the 0.3% expected, a reminder that goods costs, including a 1.4% monthly jump in IT commodities, remain firm. Even so, markets now lean toward the Fed holding its 3.50%-3.75% range in September, and some houses — Goldman Sachs among them — are again floating a path to rate cuts."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "CPI cools the September hike bet.",
-    "text": "July headline CPI held at a 3.4% annual rate with core at 2.5%, both in line with forecasts. Rate futures cut the odds of a September Fed hike to roughly 38% from 48%, leaving a hold at 3.50%-3.75% as the base case and easing pressure on bank funding costs and net interest margins."
+    "lead": "The September hike is fading from the curve.",
+    "text": "After a flat July PPI and Wednesday's in-line CPI, Capital Economics called a September rate increase 'unlikely,' and futures now price a hold in the 3.50%-3.75% range as the base case — relief for bank funding costs and net interest margins after a summer of tightening fears."
    },
    {
-    "lead": "A divided Fed keeps the tightening door ajar.",
-    "text": "Three FOMC members dissented in favor of a hike in July, and with inflation still 1.4 points above target the central bank remains unusually split. A soft July payrolls print of -23,000, against expectations near +80,000, is the counterweight keeping policymakers on hold rather than tightening into a cooling labor market."
+    "lead": "Easing yields reshape the lending setup.",
+    "text": "Treasury yields fell after the PPI print, and Goldman Sachs is again projecting a 50-basis-point cut to 3.25% before year-end. A lower-rate path would revive borrowing demand and mortgage volume even as it pressures asset yields, sharpening the focus on deposit betas into the fourth quarter."
    },
    {
     "lead": "Wall Street's deal machine stays hot.",
-    "text": "Global investment-banking revenue topped $100 billion for the first time in 2025, and executives at JPMorgan, Morgan Stanley and Wells Fargo describe M&A and IPO pipelines as the strongest in years heading into the autumn, concentrated in healthcare and industrials."
+    "text": "Global investment-banking revenue topped $100 billion for the first time in 2025, and executives at JPMorgan, Morgan Stanley and Wells Fargo describe M&A and IPO pipelines as the strongest in years heading into autumn, concentrated in healthcare and industrials."
    },
    {
-    "lead": "The IPO window is wide open.",
-    "text": "Bankers point to a marquee 2026 listing pipeline that reportedly includes OpenAI, SpaceX and AI chipmaker Cerebras, with private-equity and venture firms expected to accelerate exits as valuations recover and financing costs ease."
+    "lead": "The IPO window stays wide open — but selectively.",
+    "text": "A calmer rate outlook keeps a marquee 2026 listing pipeline on track, reportedly including OpenAI, SpaceX and AI chipmaker Cerebras, though Cerebras shares slid roughly 15% intraday on its latest results — a reminder that public investors are still pricing AI names on execution, not hype."
    },
    {
     "lead": "Mega-LBOs are back.",
-    "text": "Electronic Arts' roughly $55 billion take-private, which would rank as the largest leveraged buyout in history if completed, headlines a revival in sponsor-led megadeals and the leveraged-finance activity that fuels bank fee income."
+    "text": "Electronic Arts' roughly $55 billion take-private, which would rank as the largest leveraged buyout in history if completed, headlines a revival in sponsor-led megadeals and the leveraged-finance activity that fuels bank fee income into year-end."
    }
   ],
   "watch": {
-   "title": "Next: PPI and jobless claims",
-   "lead": "The inflation read isn't finished.",
-   "text": "Thursday's July producer-price index and weekly jobless claims are the next tests of the disinflation trend; a hot PPI would revive September hike chatter, while another soft labor print would harden the case for the Fed to simply hold. Chair Powell's late-August Jackson Hole address looms as the venue to reset expectations."
+   "title": "Next: retail sales and Jackson Hole",
+   "lead": "The macro read pivots to Powell.",
+   "text": "With CPI and PPI now in hand, attention shifts to Friday's July retail sales and the University of Michigan sentiment gauge, then Chair Powell's late-August Jackson Hole address — the venue to confirm whether a September hold is a pause or the start of an easing cycle. A hot retail print would test the market's newfound conviction that the Fed is done."
   },
   "world": [
    {
-    "lead": "Colombia reels from its worst quake since 1970.",
-    "text": "A massive earthquake killed more than 250 people with over 2,700 reported missing, devastating the city of Pereira as rescue crews raced to reach survivors in the strongest tremor to strike the country in 55 years."
+    "lead": "Colombia's quake toll climbs past 260.",
+    "text": "The death toll from the country's strongest earthquake in 55 years rose to about 265 with hundreds still reported missing, as rescue crews in Pereira and San José del Palmar dug through rubble days after the 7.4-magnitude tremor devastated the region."
    },
    {
-    "lead": "The Strait of Hormuz standoff escalates.",
-    "text": "A U.S. Navy vessel fired on a Panama-flagged cargo ship trying to breach the blockade of Iranian ports, while Iran and Oman advanced talks over splitting control of the strait into northern and southern shipping lanes, keeping crude prices bid."
+    "lead": "Hormuz stays throttled as stockpiles drain.",
+    "text": "Shipping traffic through the Strait of Hormuz remained near a standstill and the world kept burning through oil inventories, yet crude fell on the day as demand fears outweighed supply risk — WTI slid to $81.74 and Brent to $87.38 — leaving the standoff over control of the strait unresolved."
    },
    {
-    "lead": "An assassination threat shadows Trump abroad.",
-    "text": "President Trump was quietly moved off Air Force One at a NATO summit in Turkey, boarding a smaller military plane after intelligence flagged an Iranian threat, while staff and journalists remained aboard the presidential jet."
+    "lead": "Congo's Ebola outbreak turns deadlier.",
+    "text": "Confirmed cases climbed to roughly 4,381 with about 2,011 deaths, making it the second-largest Ebola epidemic on record as the WHO warned the virus is still spreading fast across the eastern DRC and into neighboring Uganda."
    },
    {
-    "lead": "Drone strikes hit Ukraine and Russia overnight.",
-    "text": "At least four civilians were killed in cross-border drone attacks as former detainees testified to the UN about torture in Russian custody, and a Moscow court barred the main antiwar party from September's parliamentary elections."
+    "lead": "The drone war grinds on across the border.",
+    "text": "Overnight drone exchanges again killed civilians on both sides, as former detainees testified to the UN about torture in Russian custody and a Moscow court's ban on the main antiwar party clouded the run-up to September's parliamentary vote."
    },
    {
-    "lead": "Ebola surges in the DRC.",
-    "text": "Confirmed cases surpassed 4,000 in what has become the second-largest Ebola outbreak on record, with the WHO director-general warning the virus is spreading 'really, really fast.'"
+    "lead": "An Iran threat still shadows Trump abroad.",
+    "text": "A day after intelligence flagged an Iranian threat that saw the president quietly moved to a smaller aircraft at a NATO summit in Turkey, Washington pressed allies for a coordinated response to the Hormuz blockade and the wider West Asia standoff."
    }
   ],
-  "sources": "Yahoo Finance; CNBC; The Motley Fool; Benzinga; Forbes; Reuters; Bloomberg; BLS; Democracy Now."
+  "sources": "TheStreet; CNBC; Yahoo Finance; STL.News; 24/7 Wall St.; Reuters; Bloomberg; BLS; CNN; Khaama Press; WHO."
  },
  {
   "date": "2026-08-12",
