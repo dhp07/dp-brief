@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-14",
+  "label": "Fri · Aug 14",
+  "weekday": "Friday, August 14, 2026",
+  "marketsClose": "Aug 13",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "A cooler-than-expected July PPI locks in a Fed hold and lifts the S&P 500 and Russell 2000 to record closes, as Workday jumps 18% on a Silver Lake buyout approach.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -0.18
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.43
+   },
+   {
+    "name": "Nasdaq",
+    "v": 0.58
+   },
+   {
+    "name": "Russell 2000",
+    "v": 0.6
+   },
+   {
+    "name": "WTI Crude",
+    "v": -1.84
+   },
+   {
+    "name": "Brent",
+    "v": -1.8
+   }
+  ],
+  "marketsNote": "The S&P 500 finished at a record 7,781.59 (+0.43%) after touching an all-time intraday high of 7,816.70, and the Nasdaq added 0.58% to 26,741.66 as semiconductors led — Sandisk jumped about 16% and Micron roughly 6.7% on AI-memory optimism — while easing Treasury yields buoyed growth names. The Russell 2000 pushed above 3,060 for a fresh small-cap record on rate-relief hopes. The Dow was the outlier, slipping 0.18% to 53,674.13 as Cisco fell about 9% after results. Crude sank on demand worries despite the unresolved Hormuz standoff: WTI dropped 1.84% to $81.74 and Brent 1.8% to $87.38.",
+  "lead": {
+   "headline": "Flat July PPI cements a Fed hold as the S&P 500 and Russell 2000 notch record closes",
+   "tag": "Business & Markets · Aug 13",
+   "body": [
+    "The July Producer Price Index was unchanged on the month against forecasts for a 0.2% rise, and slowed to a 4.7% annual pace from 4.9% — the softest wholesale reading in months. Landing a day after in-line CPI of 3.4%, the data pushed economists to declare a September rate increase 'unlikely,' in the words of Capital Economics' Stephen Brown, and CME futures now price a hold in the 3.50%-3.75% range as the base case, with September-hike odds sliding to roughly 40% from about 54% a week earlier. Treasury yields eased and the risk trade broadened: the S&P 500 set a record close of 7,781.59 (+0.43%), the Nasdaq added 0.58% to 26,741.66, and the Russell 2000 cleared 3,060 for a small-cap record, its year-to-date gain running near 23%.",
+    "Under the surface the AI-infrastructure trade did the heavy lifting, with Sandisk up about 16% and Micron near 6.7% on accelerating memory demand, while the price-weighted Dow bucked the tape and slipped 0.18% as Cisco Systems tumbled roughly 9% on its results. The core reading was less benign — PPI ex-food, energy and trade rose 0.4% versus 0.3% expected — a reminder that goods costs remain firm even as headline inflation cools. Deal news added fuel late: Workday surged about 18% after reports that Silver Lake had approached the software maker about a take-private, reviving talk of a sponsor-led megadeal wave into the fourth quarter."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "The September hike is off the curve.",
+    "text": "After the flat July PPI and Wednesday's in-line CPI, futures now price a Fed hold in the 3.50%-3.75% range as the clear base case, with September-hike odds down near 40%. A steadier rate path is relief for bank funding costs and net interest margins after a summer of tightening fears, and Goldman Sachs is again floating a path toward a 25-to-50-basis-point cut before year-end."
+   },
+   {
+    "lead": "Silver Lake circles Workday in a would-be megadeal.",
+    "text": "Workday jumped roughly 18% on reports that private-equity firm Silver Lake approached the enterprise-software company about a take-private that would rank among the largest leveraged buyouts on record — a marquee test of sponsor appetite and the leveraged-finance pipeline that drives bank fee income into year-end."
+   },
+   {
+    "lead": "Easing yields reshape the lending setup.",
+    "text": "The 10-year Treasury yield fell after the PPI print, and a lower-rate path would revive borrowing demand and mortgage volume even as it pressures asset yields — sharpening the focus on deposit betas and net interest margins as banks head into the fourth quarter."
+   },
+   {
+    "lead": "The IPO window stays open, but selective.",
+    "text": "A calmer rate outlook keeps a marquee 2026 listing pipeline on track, reportedly including OpenAI and SpaceX, yet StubHub sank about 20% on its latest results and Cerebras slid roughly 15% — a reminder that public investors are pricing new issues and AI names on execution, not hype."
+   },
+   {
+    "lead": "Wall Street's deal machine stays hot.",
+    "text": "Executives at JPMorgan, Morgan Stanley and Goldman Sachs describe M&A and IPO pipelines as the strongest in years heading into autumn, concentrated in technology, healthcare and industrials, with the reviving sponsor-led buyout activity a key swing factor for advisory and leveraged-finance revenue."
+   }
+  ],
+  "watch": {
+   "title": "Next: retail sales and Jackson Hole",
+   "lead": "The macro read pivots from inflation to demand — and to Powell.",
+   "text": "With CPI and PPI now in hand, attention turns to Friday's July retail sales and the University of Michigan sentiment gauge, then Chair Powell's late-August Jackson Hole address — the venue to confirm whether a September hold is a pause or the start of an easing cycle. A hot retail print would test the market's newfound conviction that the Fed is finished tightening."
+  },
+  "world": [
+   {
+    "lead": "MSF condemns Israel's Gaza blockade.",
+    "text": "Médecins Sans Frontières said supply shortages in Gaza amount to 'not isolated shortages' but 'a policy of attrition by design,' as aid groups warned of deepening hunger and the blockade on food and medical supplies drew renewed international criticism."
+   },
+   {
+    "lead": "Hormuz stays throttled as crude falls anyway.",
+    "text": "Shipping through the Strait of Hormuz remained near a standstill amid the unresolved U.S.-Iran standoff over control of the strait, yet oil fell on the day as demand fears outweighed supply risk, with WTI sliding to $81.74 and Brent to $87.38."
+   },
+   {
+    "lead": "A Pentagon report tallies Yemen civilian deaths.",
+    "text": "A declassified Pentagon assessment found U.S. operations killed 153 civilians in Yemen over the past year and wounded 243 more, intensifying scrutiny of the American campaign as the broader West Asia conflict grinds on."
+   },
+   {
+    "lead": "Leavitt to exit the White House podium.",
+    "text": "Press Secretary Karoline Leavitt announced she will resign effective at the end of the month, opening a high-profile vacancy in the administration's communications team amid a crowded political and geopolitical agenda."
+   },
+   {
+    "lead": "Congo's Ebola outbreak turns deadlier.",
+    "text": "Confirmed cases climbed toward 4,400 with roughly 2,000 deaths, making it among the largest Ebola epidemics on record as the WHO warned the virus is still spreading across the eastern DRC and toward neighboring Uganda."
+   }
+  ],
+  "sources": "TheStreet; CNBC; Yahoo Finance; STL.News; Schaeffer's Investment Research; Reuters; Bloomberg; Fortune; BLS; Democracy Now."
+ },
+ {
   "date": "2026-08-13",
   "label": "Thu · Aug 13",
   "weekday": "Thursday, August 13, 2026",
