@@ -3,95 +3,95 @@
   "date": "2026-08-14",
   "label": "Fri · Aug 14",
   "weekday": "Friday, August 14, 2026",
-  "marketsClose": "Aug 13",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "A cooler-than-expected July PPI locks in a Fed hold and lifts the S&P 500 and Russell 2000 to record closes, as Workday jumps 18% on a Silver Lake buyout approach.",
+  "marketsClose": "Aug 14",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "A double miss on July retail sales and consumer sentiment stalls the record rally, dragging the S&P 500, Dow and Nasdaq lower even as the Russell 2000 eked out a fresh small-cap record and Broadcom slid 6% on debt-financing scrutiny.",
   "markets": [
    {
     "name": "Dow",
-    "v": -0.18
+    "v": -0.2
    },
    {
     "name": "S&P 500",
-    "v": 0.43
+    "v": -0.17
    },
    {
     "name": "Nasdaq",
-    "v": 0.58
+    "v": -0.28
    },
    {
     "name": "Russell 2000",
-    "v": 0.6
+    "v": 0.51
    },
    {
     "name": "WTI Crude",
-    "v": -1.84
+    "v": 1.65
    },
    {
     "name": "Brent",
-    "v": -1.8
+    "v": 1.35
    }
   ],
-  "marketsNote": "The S&P 500 finished at a record 7,781.59 (+0.43%) after touching an all-time intraday high of 7,816.70, and the Nasdaq added 0.58% to 26,741.66 as semiconductors led — Sandisk jumped about 16% and Micron roughly 6.7% on AI-memory optimism — while easing Treasury yields buoyed growth names. The Russell 2000 pushed above 3,060 for a fresh small-cap record on rate-relief hopes. The Dow was the outlier, slipping 0.18% to 53,674.13 as Cisco fell about 9% after results. Crude sank on demand worries despite the unresolved Hormuz standoff: WTI dropped 1.84% to $81.74 and Brent 1.8% to $87.38.",
+  "marketsNote": "The record rally stalled as a double miss on consumer data snapped the S&P 500's run: the index eased 0.17% to 7,785.76, the Dow slipped 0.20% to 53,732.41 and the Nasdaq fell 0.28% to 26,729.16, with Broadcom off about 6% on questions over a potential $370 billion AI debt-financing structure and Applied Materials down roughly 5% despite an earnings beat. The Russell 2000 bucked the tape, adding 0.51% to a fresh small-cap record of 3,068.42 on rate-cut hopes, and all three major indexes still booked a third straight weekly gain. The 10-year Treasury yield fell to about 4.69%, while crude reversed higher — WTI up near 1.7% toward $83 and Brent up about 1.4% near $88.5 — after Washington threatened the 'economic isolation' of Iran over the Strait of Hormuz.",
   "lead": {
-   "headline": "Flat July PPI cements a Fed hold as the S&P 500 and Russell 2000 notch record closes",
-   "tag": "Business & Markets · Aug 13",
+   "headline": "A retail-sales and sentiment double miss stalls the record rally as Broadcom slides on debt-financing scrutiny",
+   "tag": "Business & Markets · Aug 14",
    "body": [
-    "The July Producer Price Index was unchanged on the month against forecasts for a 0.2% rise, and slowed to a 4.7% annual pace from 4.9% — the softest wholesale reading in months. Landing a day after in-line CPI of 3.4%, the data pushed economists to declare a September rate increase 'unlikely,' in the words of Capital Economics' Stephen Brown, and CME futures now price a hold in the 3.50%-3.75% range as the base case, with September-hike odds sliding to roughly 40% from about 54% a week earlier. Treasury yields eased and the risk trade broadened: the S&P 500 set a record close of 7,781.59 (+0.43%), the Nasdaq added 0.58% to 26,741.66, and the Russell 2000 cleared 3,060 for a small-cap record, its year-to-date gain running near 23%.",
-    "Under the surface the AI-infrastructure trade did the heavy lifting, with Sandisk up about 16% and Micron near 6.7% on accelerating memory demand, while the price-weighted Dow bucked the tape and slipped 0.18% as Cisco Systems tumbled roughly 9% on its results. The core reading was less benign — PPI ex-food, energy and trade rose 0.4% versus 0.3% expected — a reminder that goods costs remain firm even as headline inflation cools. Deal news added fuel late: Workday surged about 18% after reports that Silver Lake had approached the software maker about a take-private, reviving talk of a sponsor-led megadeal wave into the fourth quarter."
+    "July retail sales fell 0.6% against forecasts for a 0.1% gain, and the University of Michigan's preliminary consumer-sentiment index slid to 51.0 from 55.2 — a 'colossal double miss,' in one strategist's words — reviving worries about the health of the U.S. consumer just as inflation had appeared to cool. The data pulled the major indexes back from Thursday's records: the S&P 500 eased 0.17% to 7,785.76, the Dow lost 0.20% to 53,732.41 and the Nasdaq fell 0.28% to 26,729.16, snapping the S&P's record run. The small-cap Russell 2000 was the exception, rising 0.51% to a fresh record of 3,068.42 on hopes that softer data cements a Fed hold and pulls forward rate cuts; the 10-year Treasury yield dropped to about 4.69%, and all three large-cap benchmarks still closed out a third consecutive winning week.",
+    "Semiconductors led the pullback. Broadcom sank roughly 6% after Bank of America analysts pressed the company on a potential $370 billion debt-financing structure tied to its AI buildout — a sign that scrutiny is shifting from how much hyperscalers spend to how they pay for it — while Applied Materials fell about 5% despite beating estimates, as investors had wanted bigger margin gains. Bright spots were narrow: Reddit surged about 13% after S&P Global said it will join the S&P 500 on Tuesday, forcing index funds to buy, and gold edged up 0.26% to around $4,432. With the soft data reinforcing the case for patience, futures now price roughly a two-thirds chance the Fed holds its 3.50%-3.75% range in September, and traders leaned back toward a cut before year-end."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "The September hike is off the curve.",
-    "text": "After the flat July PPI and Wednesday's in-line CPI, futures now price a Fed hold in the 3.50%-3.75% range as the clear base case, with September-hike odds down near 40%. A steadier rate path is relief for bank funding costs and net interest margins after a summer of tightening fears, and Goldman Sachs is again floating a path toward a 25-to-50-basis-point cut before year-end."
+    "lead": "The double miss firms up the Fed-hold trade.",
+    "text": "After July retail sales fell 0.6% and consumer sentiment tumbled to 51.0, futures now price roughly a two-thirds probability the Fed leaves rates at 3.50%-3.75% in September, and the odds of a cut before year-end firmed. A lower-for-longer path with falling yields — the 10-year slipped to about 4.69% — is broadly supportive for bank funding costs and net interest margins even as it revives the deposit-beta debate heading into the fourth quarter."
    },
    {
-    "lead": "Silver Lake circles Workday in a would-be megadeal.",
-    "text": "Workday jumped roughly 18% on reports that private-equity firm Silver Lake approached the enterprise-software company about a take-private that would rank among the largest leveraged buyouts on record — a marquee test of sponsor appetite and the leveraged-finance pipeline that drives bank fee income into year-end."
+    "lead": "Broadcom's $370 billion question puts AI credit in focus.",
+    "text": "Broadcom fell about 6% after Bank of America analysts probed a potential $370 billion debt-financing structure behind its AI expansion, a reminder that the next leg of the buildout runs through the credit and leveraged-finance markets that banks underwrite. How hyperscalers and their suppliers fund capacity — and how much of it lands on bank balance sheets versus private credit — is fast becoming the sector's key swing factor into 2027."
    },
    {
-    "lead": "Easing yields reshape the lending setup.",
-    "text": "The 10-year Treasury yield fell after the PPI print, and a lower-rate path would revive borrowing demand and mortgage volume even as it pressures asset yields — sharpening the focus on deposit betas and net interest margins as banks head into the fourth quarter."
+    "lead": "Reddit's S&P 500 entry triggers forced buying.",
+    "text": "Reddit jumped roughly 13% after S&P Global said the platform will join the S&P 500 on Tuesday, compelling index and passive funds to buy the stock and rewarding its underwriters and post-IPO backers. The move underscores that index-inclusion mechanics remain a reliable, rules-based catalyst even in a choppy tape."
    },
    {
-    "lead": "The IPO window stays open, but selective.",
-    "text": "A calmer rate outlook keeps a marquee 2026 listing pipeline on track, reportedly including OpenAI and SpaceX, yet StubHub sank about 20% on its latest results and Cerebras slid roughly 15% — a reminder that public investors are pricing new issues and AI names on execution, not hype."
+    "lead": "Silver Lake's Workday approach keeps the sponsor pipeline live.",
+    "text": "Following this morning's report that Silver Lake approached Workday about a take-private that would rank among the largest leveraged buyouts on record, sponsor appetite stayed the day's connective thread for the leveraged-finance desks that drive bank fee income. A steadier rate outlook only sharpens the case for a sponsor-led megadeal wave into the fourth quarter."
    },
    {
-    "lead": "Wall Street's deal machine stays hot.",
-    "text": "Executives at JPMorgan, Morgan Stanley and Goldman Sachs describe M&A and IPO pipelines as the strongest in years heading into autumn, concentrated in technology, healthcare and industrials, with the reviving sponsor-led buyout activity a key swing factor for advisory and leveraged-finance revenue."
+    "lead": "Falling yields reshape the fourth-quarter lending setup.",
+    "text": "With the 10-year yield easing toward 4.69% on the soft data, a lower-rate path would revive borrowing demand and mortgage volume while pressuring asset yields — leaving deposit costs and net interest margins as the metrics to watch as banks close the year. Long-dated supply remains a caveat, with a recent 30-year auction clearing above 5.2% on deficit and inflation concerns."
    }
   ],
   "watch": {
-   "title": "Next: retail sales and Jackson Hole",
-   "lead": "The macro read pivots from inflation to demand — and to Powell.",
-   "text": "With CPI and PPI now in hand, attention turns to Friday's July retail sales and the University of Michigan sentiment gauge, then Chair Powell's late-August Jackson Hole address — the venue to confirm whether a September hold is a pause or the start of an easing cycle. A hot retail print would test the market's newfound conviction that the Fed is finished tightening."
+   "title": "Iran, Hormuz and oil",
+   "lead": "Washington's 'economic isolation' threat put a geopolitical bid back under crude.",
+   "text": "Oil reversed higher — WTI up near 1.7% and Brent about 1.4% — after the U.S. threatened the 'economic isolation' of Iran over the Strait of Hormuz standoff, with the Navy moving the USS George Washington in to relieve the long-deployed USS Abraham Lincoln. A sustained rise in energy prices would complicate the disinflation story that has fed the Fed-cut trade, so watch whether the Hormuz brinkmanship escalates and how it feeds into the next round of inflation data."
   },
   "world": [
    {
-    "lead": "MSF condemns Israel's Gaza blockade.",
-    "text": "Médecins Sans Frontières said supply shortages in Gaza amount to 'not isolated shortages' but 'a policy of attrition by design,' as aid groups warned of deepening hunger and the blockade on food and medical supplies drew renewed international criticism."
+    "lead": "Poland says it foiled a Russian plot on NATO soil.",
+    "text": "Prime Minister Donald Tusk said Poland thwarted a Russia-directed plot to assassinate a Ukrainian-American citizen in Warsaw, calling it the first known case of someone acting on Russian orders targeting an American on another NATO country's territory. Separately, NATO jets shot down a drone that crossed into Latvian airspace, adding to the alliance's growing list of airspace incidents."
    },
    {
-    "lead": "Hormuz stays throttled as crude falls anyway.",
-    "text": "Shipping through the Strait of Hormuz remained near a standstill amid the unresolved U.S.-Iran standoff over control of the strait, yet oil fell on the day as demand fears outweighed supply risk, with WTI sliding to $81.74 and Brent to $87.38."
+    "lead": "The U.S. ratchets up pressure on Iran.",
+    "text": "Washington threatened the 'economic isolation' of Iran amid the unresolved Strait of Hormuz standoff, lifting crude prices, and the Navy is deploying the USS George Washington to replace the USS Abraham Lincoln after a strained deployment stretching beyond 250 days. Yemen's Houthis added to regional tensions by striking a Saudi Aramco refinery with two drones."
    },
    {
-    "lead": "A Pentagon report tallies Yemen civilian deaths.",
-    "text": "A declassified Pentagon assessment found U.S. operations killed 153 civilians in Yemen over the past year and wounded 243 more, intensifying scrutiny of the American campaign as the broader West Asia conflict grinds on."
+    "lead": "Mangione is expected to plead guilty in the UnitedHealthcare case.",
+    "text": "Luigi Mangione, charged in the killing of UnitedHealthcare chief executive Brian Thompson, is expected to plead guilty to the federal counts against him, a step toward resolving a case that has drawn intense national attention. The move would shift focus to sentencing and any remaining state charges."
    },
    {
-    "lead": "Leavitt to exit the White House podium.",
-    "text": "Press Secretary Karoline Leavitt announced she will resign effective at the end of the month, opening a high-profile vacancy in the administration's communications team amid a crowded political and geopolitical agenda."
+    "lead": "Courts hand the Trump administration two setbacks.",
+    "text": "A Nevada judge dismissed charges against six Republicans accused of posing as 2020 presidential electors for Donald Trump, citing insufficient evidence of intent to defraud, while a federal judge in Boston threw out the administration's antisemitism lawsuit against Harvard University. Both rulings can be appealed."
    },
    {
-    "lead": "Congo's Ebola outbreak turns deadlier.",
-    "text": "Confirmed cases climbed toward 4,400 with roughly 2,000 deaths, making it among the largest Ebola epidemics on record as the WHO warned the virus is still spreading across the eastern DRC and toward neighboring Uganda."
+    "lead": "Oversight questions dog immigration and border agencies.",
+    "text": "Reports detailed Department of Homeland Security scrutiny of left-leaning groups protesting the administration's immigration crackdown in Minnesota, alongside findings that some Customs and Border Protection employees misused law-enforcement databases to track colleagues and romantic interests over more than a decade. The disclosures add to accountability pressure on the agencies at the center of the crackdown."
    }
   ],
-  "sources": "TheStreet; CNBC; Yahoo Finance; STL.News; Schaeffer's Investment Research; Reuters; Bloomberg; Fortune; BLS; Democracy Now."
+  "sources": "TheStreet; CNBC; Reuters; Bloomberg; Yahoo Finance; Kiplinger; MarketScreener; Forbes; Just Security"
  },
  {
   "date": "2026-08-13",
