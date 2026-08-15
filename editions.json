@@ -4,8 +4,8 @@
   "label": "Sat · Aug 15",
   "weekday": "Saturday, August 15, 2026",
   "marketsClose": "Aug 14",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Wall Street eased off record highs Friday as a 0.6% drop in July retail sales and souring consumer sentiment capped a third straight weekly gain, even as cooler July inflation quieted fears of a September Fed rate hike.",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "With markets shut for the weekend, Wall Street braced for a pivotal week of Home Depot, Target and Walmart earnings and July Fed minutes, even as Putin's visit to the disputed Kuril Islands ignited a fresh diplomatic clash with Japan.",
   "markets": [
    {
     "name": "Dow",
@@ -32,70 +32,66 @@
     "v": 0.62
    }
   ],
-  "marketsNote": "Breadth stayed firm even as megacaps slipped: the small-cap Russell 2000 closed at a fresh record while a firmer oil tape lifted energy names.",
+  "marketsNote": "Exchanges were dark for the weekend, leaving Friday's close on the board: the S&P 500 at 7,785.76 and the Dow at 53,732.41 both slipped after softer retail sales and dour Michigan sentiment, while a record-setting Russell 2000 and firmer oil pointed to resilient breadth heading into a heavy data week.",
   "lead": {
-   "headline": "Record rally stalls as weak consumer data offsets cooler inflation",
-   "tag": "Markets · Aug 14",
+   "headline": "Wall Street eyes a make-or-break retail-and-Fed week after record rally stalls",
+   "tag": "Markets · Aug 15",
    "body": [
-    "U.S. stocks pulled back modestly from record territory Friday after a preliminary University of Michigan reading showed August consumer sentiment weakening, with households growing more downbeat as inflation stayed top of mind. The S&P 500 slipped 0.17% to 7,785.76, the Dow fell 0.20% to 53,732.41 and the Nasdaq Composite eased 0.28% to 26,729.16, while the Russell 2000 bucked the trend with a 0.51% gain to a fresh record of 3,068.42.",
-    "The soft close capped a resilient week: the S&P 500 still notched a third consecutive weekly advance after Wednesday's July CPI print showed prices up just 0.1% on the month and 3.4% year over year, easing worries that the Fed would need to tighten again in September. Data Friday cut the other way, with retail sales falling 0.6% in July — the steepest monthly drop in more than a year — underscoring a cooling consumer even as markets sit near highs."
+    "The stock market took the weekend off after a wobble to end the week, with the S&P 500 closing Friday at 7,785.76 (-0.17%), the Dow at 53,732.41 (-0.20%) and the Nasdaq at 26,729.16 (-0.28%). The pullback from record highs came as July retail sales posted their biggest drop in more than a year and a preliminary University of Michigan survey showed consumers turning more downbeat with inflation still front of mind. Even so, all three benchmarks logged a positive week, with the S&P notching a third straight weekly gain and the small-cap Russell 2000 finishing at a fresh record.",
+    "The days ahead will test whether the rally has legs. Home Depot reports Tuesday, Target and Lowe's on Wednesday, and Walmart on Thursday, giving investors their clearest read yet on whether households are still spending as prices bite. The Fed's July meeting minutes land Wednesday and will be parsed for how close policymakers came to cutting, with the rate of inflation still sitting solidly above 3% and a summer climb in oil keeping upward pressure on gasoline. A firmer crude tape—WTI up 0.86% and Brent up 0.62% Friday—only sharpens that inflation question."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Inflation cools, Fed odds shift.",
-    "text": "July CPI rose 0.1% on the month and 3.4% annually, softer than feared, and Friday's producer-price data reinforced the disinflation narrative. Traders trimmed bets on a September rate hike, though some strategists still warn a firmer read could keep the Fed hawkish into the fall."
+    "lead": "Bonus boom is back.",
+    "text": "A rebound in dealmaking and trading has consultancies projecting Wall Street's biggest pay increases in years, with M&A bankers in line for jumps of roughly 20% to 30% as the deal pipeline swells into the back half of 2026."
    },
    {
-    "lead": "Consumer pulls back.",
-    "text": "Retail sales dropped 0.6% in July to $763.6 billion, missing forecasts for a 0.1% gain and marking the largest decline in over a year — a caution flag for banks with heavy card and consumer-lending exposure heading into next week's retail earnings."
+    "lead": "Fed minutes in focus.",
+    "text": "Wednesday's release of the July FOMC minutes is the week's marquee macro event, offering clues on how divided officials were over a rate move while headline inflation holds above 3% and energy costs edge higher."
    },
    {
-    "lead": "Fintech earnings shine.",
-    "text": "Nu Holdings jumped roughly 11-12% after posting record second-quarter results, with net income topping $1 billion for the first time as the Latin American digital bank kept adding customers and expanding margins."
+    "lead": "Consumer flashes caution.",
+    "text": "Friday's data—retail sales falling the most in over a year and University of Michigan sentiment souring—hangs over the coming bank-adjacent read on the consumer, with next week's big-box results set to confirm or ease those worries."
    },
    {
-    "lead": "Reddit joins the S&P 500.",
-    "text": "Reddit surged more than 15% premarket after being named to the S&P 500 effective August 18, forcing index funds to buy the stock and marking another milestone for the post-IPO social platform."
+    "lead": "Oil pressures the tape.",
+    "text": "Crude's grind higher in thin summer trading is lifting energy names but complicating the disinflation story, a tension banks and rate strategists are watching closely ahead of the Fed minutes."
    },
    {
-    "lead": "Dealmaking boom rolls on.",
-    "text": "Wall Street's investment banks are riding a wave of IPOs, mergers and new debt issuance, with mega-dealmakers on pace for one of their best years ever as advisory and underwriting pipelines stay full into the second half of 2026."
-   },
-   {
-    "lead": "Broadcom slides.",
-    "text": "Broadcom fell 5.94% to $392.99, its worst session in weeks, as investors took profits on the AI-chip leader and scrutinized its debt-financing plans ahead of a heavy stretch of tech earnings."
+    "lead": "Deal machine hums.",
+    "text": "Bankers are shifting focus to a busy remaining 2026 after a first-half surge in transactions, with revived IPO and M&A activity underpinning both revenue forecasts and the rosier bonus outlook."
    }
   ],
   "watch": {
-   "title": "Retail earnings on deck",
-   "lead": "Consumers under the microscope.",
-   "text": "Walmart and Target report next week, offering the clearest read yet on whether July's retail-sales drop is a blip or a trend, with Nvidia's closely watched results due August 26 to test the AI trade."
+   "title": "The week ahead",
+   "lead": "Retail earnings meet Fed minutes.",
+   "text": "Home Depot (Tue), Target and Lowe's (Wed) and Walmart (Thu) will show whether consumer spending is holding up, while Wednesday's July Fed minutes reveal how seriously policymakers weighed a cut—together the clearest signal yet on the September rate path."
   },
   "world": [
    {
-    "lead": "Europe darkens.",
-    "text": "A rare total solar eclipse swept across Europe on August 12, plunging parts of Spain into total darkness and drawing an estimated half a million visitors along the path from the French Pyrenees southward."
-   },
-   {
-    "lead": "Odesa under fire.",
-    "text": "Russian drone strikes hit passenger trains in Ukraine's Odesa region, killing a train driver in one attack and causing further casualties when a second train was struck soon after."
-   },
-   {
     "lead": "Kuril flashpoint.",
-    "text": "President Vladimir Putin made his first official visit to the disputed Kuril Islands, prompting a sharp diplomatic protest from Tokyo over the contested territory."
+    "text": "Putin's August 13 trip to Iturup—his first presidential visit to the disputed island chain—escalated into a diplomatic clash as Japanese PM Sanae Takaichi called it 'absolutely unacceptable' and Tokyo summoned Russia's ambassador, while Moscow dismissed the protest as 'unfounded.'"
    },
    {
-    "lead": "Rotterdam blast.",
-    "text": "An explosion at a Gunvor Energy refinery and fuel terminal in the port of Rotterdam killed one person and injured several others, disrupting operations at one of Europe's key energy hubs."
+    "lead": "Hormuz declaration.",
+    "text": "President Trump said he would soon declare the Strait of Hormuz 'a territory of the United States' after what he described as defeating Iran, injecting fresh uncertainty into the world's most critical oil chokepoint."
    },
    {
-    "lead": "Plot foiled.",
-    "text": "Polish Prime Minister Donald Tusk said authorities thwarted a Russian plot to assassinate a Ukrainian-American citizen on NATO territory, calling it an unprecedented escalation."
+    "lead": "Yemen violence.",
+    "text": "Government forces reported 27 Houthi fighters killed and 19 wounded over three days in Taiz province, while four civilians died in a Houthi missile strike on the Red Sea port of Mocha."
+   },
+   {
+    "lead": "Europe swelters.",
+    "text": "Belgium logged its hottest day on record, with Uccle hitting 35.9°C, as France's Constitutional Council struck down a parliamentary bid to ban social media for under-15s as an excessive limit on free expression."
+   },
+   {
+    "lead": "Central Asia blackout.",
+    "text": "Kazakhstan, Uzbekistan and Tajikistan were hit by simultaneous power outages, underscoring the fragility of the region's interconnected grid during a punishing summer."
    }
   ],
-  "sources": "TheStreet; Yahoo Finance; CNBC; Forbes; Euronews; Reuters"
+  "sources": "Yahoo Finance; TheStreet; CNBC; Washington Post; Bloomberg; Reuters; Anadolu Agency; Rio Times"
  },
  {
   "date": "2026-08-14",
