@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-16",
+  "label": "Sun · Aug 16",
+  "weekday": "Sunday, August 16, 2026",
+  "marketsClose": "Aug 14",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Wall Street heads into a make-or-break week for the American consumer, with Walmart, Target and Home Depot earnings and the Fed's July minutes set to test a record rally that stumbled on soft retail sales.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -0.2
+   },
+   {
+    "name": "S&P 500",
+    "v": -0.17
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.28
+   },
+   {
+    "name": "Russell 2000",
+    "v": 0.51
+   },
+   {
+    "name": "WTI Crude",
+    "v": 0.86
+   },
+   {
+    "name": "Brent",
+    "v": 0.62
+   }
+  ],
+  "marketsNote": "With exchanges closed for the weekend, Friday's tape stands: the S&P 500 at 7,785.76 and the Dow at 53,732.41 eased from record territory after weak retail sales, but a record-high Russell 2000 and firmer crude signaled the small-cap and value rotation still has a pulse heading into a data-heavy week.",
+  "lead": {
+   "headline": "The consumer goes on trial as retail earnings and Fed minutes headline the week",
+   "tag": "Markets · Aug 16",
+   "body": [
+    "After a wobble ended an otherwise winning week, Wall Street enters five sessions built around one question: is the American consumer cracking? July retail sales fell 0.6%, the sharpest drop in more than a year, and a preliminary University of Michigan sentiment reading slid to 51.0 from a July final of 54.4, a reminder that households remain rattled by prices even as inflation cools. The S&P 500 still logged a third straight weekly gain and the small-cap Russell 2000 closed at a fresh record, but Friday's pullback from all-time highs left investors hunting for confirmation.",
+    "That confirmation arrives fast. Home Depot reports Tuesday, Target and Lowe's on Wednesday and retail bellwether Walmart on Thursday, together offering the clearest read on whether spending is buckling under the weight of higher prices. Sandwiched between them, minutes from the Fed's July 29 meeting land Wednesday and will be dissected for how seriously policymakers weighed a rate hike: the Fed held at 3.5%-3.75% in a 9-3 vote, with three dissenters pushing for an increase and inflation still sitting above 3%. Softer data has since trimmed the odds of a September hike, tilting the debate toward a hold and, some argue, an eventual cut."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "The Fed's next move hangs on the data.",
+    "text": "Chair Kevin Warsh's committee held the benchmark rate at 3.5%-3.75% on July 29 in a 9-3 vote, with Hammack, Kashkari and Logan dissenting in favor of a hike to guard against sticky inflation. Wednesday's minutes will show how divided the room really was, but cooler CPI and PPI prints plus a soft July retail sales report have already pushed futures away from a September increase."
+   },
+   {
+    "lead": "Basel endgame is back on the table.",
+    "text": "US regulators are reworking the long-delayed Basel III capital overhaul, a redo Fed officials have signaled could land in coming months. The revised framework pits the trading- and markets-heavy Goldman Sachs against lending giant JPMorgan, with each set to gain or lose depending on how capital charges for market risk versus loans are recalibrated."
+   },
+   {
+    "lead": "A REIT megadeal reshapes the index.",
+    "text": "Equity Residential's takeover of apartment landlord AvalonBay Communities is forcing AvalonBay out of the S&P 500, underscoring a wave of consolidation among large residential real estate owners and freeing up an index seat that Reddit is about to claim."
+   },
+   {
+    "lead": "Reddit joins the big leagues.",
+    "text": "Reddit shares jumped about 15% to $182 on news it will be added to the S&P 500 before the open on Tuesday, Aug. 18, replacing AvalonBay. Inclusion forces index funds like Vanguard's and BlackRock's S&P 500 ETFs to buy the stock, though history shows the post-inclusion bounce can fade."
+   },
+   {
+    "lead": "Dealmakers eye a record year.",
+    "text": "Wall Street's rebound in M&A and IPOs is fueling talk of a banner 2026, with Morgan Stanley executives flagging a pipeline that could make it a record year for investment banking. A reopened new-issue market spanning AI, fintech and space names is expected to keep underwriting fees flowing into the autumn."
+   }
+  ],
+  "watch": {
+   "title": "Reddit's index debut",
+   "lead": "Watch the passive bid.",
+   "text": "When Reddit formally enters the S&P 500 before Tuesday's open, index-tracking funds must scramble to buy roughly index-weight positions, a mechanical flow that often spikes volume and volatility around inclusion. Whether the stock holds its 15% pop or follows the fade seen in some past additions will test how much of the move was fundamentals versus forced buying."
+  },
+  "world": [
+   {
+    "lead": "A powerful quake strikes Indonesia.",
+    "text": "A magnitude 7.7 earthquake off Indonesia's coast early Saturday collapsed buildings and killed at least 47 people, with rescue crews still searching rubble in one of the world's most seismically active regions."
+   },
+   {
+    "lead": "Ukraine squeezes Crimea.",
+    "text": "Ukrainian drone strikes are disrupting Russia's grip on occupied Crimea through power outages and fuel shortages, even as the latest round of Russia-Ukraine talks wrapped up without a ceasefire or a firm plan for leaders to meet."
+   },
+   {
+    "lead": "Lebanon counts an ecological toll.",
+    "text": "Soil in southern Lebanon has been poisoned with heavy metals and white phosphorus from Israel's conflict with Hezbollah, contamination that scientists warn will scar farmland and water supplies for years."
+   },
+   {
+    "lead": "Five years of Taliban rule.",
+    "text": "Half a decade after the Taliban's return to power in Afghanistan, both girls' and boys' education has deteriorated as the curriculum tilts toward religious instruction, deepening a generational learning crisis."
+   },
+   {
+    "lead": "Europe watches the sky go dark.",
+    "text": "Millions gathered for a total solar eclipse whose path of totality crossed Greenland, Iceland, Spain and Portugal, marking Spain's first total eclipse in more than a century."
+   }
+  ],
+  "sources": "TheStreet; CNBC; Reuters; Forbes; Bloomberg; Yahoo Finance; CNN; NPR; Fox Business; University of Michigan"
+ },
+ {
   "date": "2026-08-15",
   "label": "Sat · Aug 15",
   "weekday": "Saturday, August 15, 2026",
