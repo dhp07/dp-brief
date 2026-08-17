@@ -3,95 +3,95 @@
   "date": "2026-08-17",
   "label": "Mon · Aug 17",
   "weekday": "Monday, August 17, 2026",
-  "marketsClose": "Aug 14",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Wall Street closed a third straight winning week near records as cooler inflation offset a surprise drop in July retail sales, and the small-cap Russell 2000 notched a fresh record high.",
+  "marketsClose": "Aug 17",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "The 30-year Treasury yield spiked to 5.29%, its highest since 2007, as a debt-driven bond rout pulled stocks off record highs and crude jumped on U.S.–Iran tensions.",
   "markets": [
    {
     "name": "Dow",
-    "v": -0.2
+    "v": -0.51
    },
    {
     "name": "S&P 500",
-    "v": -0.17
+    "v": -0.52
    },
    {
     "name": "Nasdaq",
-    "v": -0.28
+    "v": -0.32
    },
    {
     "name": "Russell 2000",
-    "v": 0.51
+    "v": -0.35
    },
    {
     "name": "WTI Crude",
-    "v": 0.57
+    "v": 1.92
    },
    {
     "name": "Brent",
-    "v": 0.14
+    "v": 1.64
    }
   ],
-  "marketsNote": "Breadth favored small caps: the Russell 2000 set a record near 3,068 even as megacap-heavy indexes eased, while crude firmed on Gulf shipping tensions.",
+  "marketsNote": "A selloff in long-dated Treasuries set the tone: the 30-year yield hit 5.29%, its highest since 2007, dragging all four equity gauges off Friday's records while energy bucked the slide as crude climbed on Middle East risk.",
   "lead": {
-   "headline": "Stocks cap third straight weekly gain near records as inflation cools, retail sales miss",
-   "tag": "Markets · Aug 14",
+   "headline": "Bond rout sends 30-year yield to highest since 2007, knocking stocks off record highs",
+   "tag": "Markets · Aug 17",
    "body": [
-    "U.S. equities finished Friday modestly lower but held near all-time highs, closing out a third consecutive weekly advance. The S&P 500 slipped 13 points (-0.17%) to 7,785, failing for a second day to sustain a hold above 7,800, while the Dow fell 107 points (-0.20%) to 53,732 and the Nasdaq Composite gave back 0.28% to 26,729. The small-cap Russell 2000 bucked the trend, rising 0.51% to about 3,068 for a fresh record close.",
-    "The week's tone was set by softer-than-expected inflation data that eased fears the Federal Reserve would need to tighten again in September, buoying rate-sensitive small caps. Friday brought a jarring offset: July retail sales fell 0.6% to $763.6 billion, well below forecasts for a 0.1% gain, reviving questions about the strength of the U.S. consumer heading into the second half."
+    "A sharp selloff in long-dated government debt dominated Monday's session, pushing the 30-year Treasury yield to about 5.29% — its highest level since 2007 — and pulling equities down from Friday's records. The S&P 500 fell 40.70 points (-0.52%) to 7,745.06, the Dow dropped 272.63 (-0.51%) to 53,459.78, the Nasdaq Composite eased 0.32% to 26,644.91, and the small-cap Russell 2000 slipped 0.35% to 3,057.54, giving back part of last week's record run.",
+    "Traders pinned the yield surge on investor angst over the surging national debt, inflation still stuck above the Fed's target — the consumer price index is running near 3.4% year-over-year — and a flood of long-dated bond supply meeting waning demand, aggravated by heavy corporate borrowing to fund AI projects. Weighing further on sentiment, a report showed consumer sentiment sliding to 51 in August, and richly valued chipmakers sold off, with Applied Materials down about 5.1% and Broadcom off roughly 5.9% on fresh doubts about AI valuations. Energy was the lone bright spot as crude rallied on Gulf tensions."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Fed path.",
-    "text": "Cooler July inflation prints reduced market expectations for another Fed rate hike in September, with traders now leaning toward a hold; attention turns to the Jackson Hole symposium later this month for Chair Powell's guidance."
+    "lead": "Bond rout.",
+    "text": "The 30-year Treasury yield jumped to about 5.29%, its highest since 2007, as investors balked at ballooning federal deficits, sticky 3.4% inflation and a wave of long-dated issuance — a punishing backdrop for rates desks and any borrower eyeing the long end of the curve."
    },
    {
-    "lead": "Consumer softens.",
-    "text": "July retail sales dropped 0.6% to $763.6 billion versus a forecast +0.1%, the weakest reading in months and a caution flag for banks with large consumer-credit and card exposures."
+    "lead": "Fed minutes ahead.",
+    "text": "Wall Street turns to Wednesday's release of minutes from the late-July FOMC meeting for clues on the September decision, with rate-hike odds now under one-third and the debate shifting toward whether policymakers lean to a hold or a cut into the fall."
    },
    {
-    "lead": "Fintech M&A.",
-    "text": "PayPal shares climbed on reports it is exploring acquisition options in the payments space, with Advent International and Stripe named in negotiations — the latest sign the fintech consolidation window is reopening for dealmakers."
+    "lead": "Retail earnings week.",
+    "text": "Walmart, Home Depot, Target and Lowe's all report this week, giving banks with large consumer-credit and card exposures a fresh read on the American shopper after July retail sales unexpectedly fell 0.6%."
    },
    {
-    "lead": "EM lender beats.",
-    "text": "Digital bank Nu Holdings posted stronger-than-expected Q2 results, with net profit of roughly $1.06 billion topping consensus and underscoring continued momentum for Latin American neobanks."
+    "lead": "AI-fueled supply.",
+    "text": "Debt-capital-markets desks flagged a surge in long-dated corporate issuance tied to AI infrastructure spending, adding to the supply glut that helped drive the long end of the Treasury curve to multi-decade high yields."
    },
    {
-    "lead": "Issuance window.",
-    "text": "Reddit surged double digits on its addition to the S&P 500, and August IPO activity has roughly doubled year-on-year as companies rush to seize a receptive new-issue market — a boon for equity-capital-markets desks."
+    "lead": "Consumer wobble.",
+    "text": "A drop in August consumer sentiment to 51, alongside the soft July sales print, sharpened concern about second-half spending — a caution flag for credit-card issuers, autos and the broader consumer-finance complex."
    }
   ],
   "watch": {
-   "title": "Jackson Hole & Powell",
-   "lead": "Fed guidance ahead.",
-   "text": "With inflation cooling but the consumer wobbling, markets look to the Kansas City Fed's Jackson Hole symposium later in August for signals on whether a September cut — or a pause — is coming. Any hint on the balance between softening growth and lingering price pressure could reset rate expectations across the curve."
+   "title": "Fed minutes & retail earnings",
+   "lead": "Consumer and rates read ahead.",
+   "text": "Wednesday's July FOMC minutes and this week's results from Walmart, Home Depot, Target and Lowe's will test two live questions at once: whether the Fed is edging toward a September move, and whether the American consumer is holding up after a weak retail-sales report. Either could reset a jittery rates market where the long end is already at its highest yields since 2007."
   },
   "world": [
    {
-    "lead": "Gaza diplomacy.",
-    "text": "Trump envoy Jared Kushner shuttled between Cairo and Israel to salvage a stalled postwar Gaza plan; a Hamas delegation led by Khalil al-Hayya met Egypt's intelligence chief over a 15-point roadmap that Prime Minister Netanyahu has rejected."
+    "lead": "U.S.–Iran tensions.",
+    "text": "Washington and Tehran blew past their 60-day nuclear negotiating deadline set in June, with President Trump saying he doesn't see the conflict ending soon and warning Oman against interfering in the Strait of Hormuz — comments that helped push Brent crude toward $90 a barrel."
+   },
+   {
+    "lead": "Gulf realignment.",
+    "text": "Frustration with Trump's approach deepened as Saudi Arabia, Turkey and Pakistan signed a mutual-defense pact widely read as a signal to the U.S., even as Iran accused Qatar of capturing three of its bomber pilots — a claim Doha denied."
    },
    {
     "lead": "Lebanon strikes.",
-    "text": "Israeli airstrikes killed 11 people in southern Lebanon following a Hezbollah drone attack that wounded three IDF soldiers, raising fears of a wider flare-up along the northern border."
+    "text": "Israeli airstrikes killed at least 11 people in southern Lebanon over the weekend, including strikes on Ansar, where seven died, three of them children, and Deir al-Zahrani, keeping the northern front on edge."
    },
    {
-    "lead": "Iran clampdown.",
-    "text": "Iran's parliament approved legislation criminalizing contact with hostile foreign media, including U.S. and Israeli outlets, with penalties of six months to two years — as Washington reportedly maintains a quiet backchannel to Tehran."
+    "lead": "Gaza diplomacy.",
+    "text": "Trump envoy Jared Kushner held a roughly two-hour meeting in Egypt with Hamas negotiator Khalil al-Hayya over implementation of a postwar Gaza plan and disarmament commitments, as mediators pressed to keep the stalled roadmap alive."
    },
    {
-    "lead": "West Bank clashes.",
-    "text": "Settlers and Palestinians clashed overnight in Hebron, leaving two Israelis and about 10 Palestinians injured, amid a broader spike in West Bank friction."
-   },
-   {
-    "lead": "Gulf shipping.",
-    "text": "Iranian attacks on shipping vessels and U.S. threats of an indefinite naval blockade kept a geopolitical risk premium in crude, with WTI near $81.71 and Brent around $87.19 a barrel."
+    "lead": "Ukraine war.",
+    "text": "Russian overnight strikes killed two at a steel plant while Ukraine launched heavy drone attacks on Moscow and Romania shot down a drone that breached its airspace, one year on from the Alaska summit, as France, Germany and the UK worked on negotiation formats to guard European interests."
    }
   ],
-  "sources": "TheStreet; CNBC; Forbes; Reuters; CNN; The Times of Israel; The Washington Post"
+  "sources": "TheStreet; CNBC; Yahoo Finance; Bloomberg; Reuters; Fortune; Trading Economics; FDD Overnight Brief; Just Security"
  },
  {
   "date": "2026-08-16",
