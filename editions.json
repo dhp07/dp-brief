@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-17",
+  "label": "Mon · Aug 17",
+  "weekday": "Monday, August 17, 2026",
+  "marketsClose": "Aug 14",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Wall Street closed a third straight winning week near records as cooler inflation offset a surprise drop in July retail sales, and the small-cap Russell 2000 notched a fresh record high.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -0.2
+   },
+   {
+    "name": "S&P 500",
+    "v": -0.17
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.28
+   },
+   {
+    "name": "Russell 2000",
+    "v": 0.51
+   },
+   {
+    "name": "WTI Crude",
+    "v": 0.57
+   },
+   {
+    "name": "Brent",
+    "v": 0.14
+   }
+  ],
+  "marketsNote": "Breadth favored small caps: the Russell 2000 set a record near 3,068 even as megacap-heavy indexes eased, while crude firmed on Gulf shipping tensions.",
+  "lead": {
+   "headline": "Stocks cap third straight weekly gain near records as inflation cools, retail sales miss",
+   "tag": "Markets · Aug 14",
+   "body": [
+    "U.S. equities finished Friday modestly lower but held near all-time highs, closing out a third consecutive weekly advance. The S&P 500 slipped 13 points (-0.17%) to 7,785, failing for a second day to sustain a hold above 7,800, while the Dow fell 107 points (-0.20%) to 53,732 and the Nasdaq Composite gave back 0.28% to 26,729. The small-cap Russell 2000 bucked the trend, rising 0.51% to about 3,068 for a fresh record close.",
+    "The week's tone was set by softer-than-expected inflation data that eased fears the Federal Reserve would need to tighten again in September, buoying rate-sensitive small caps. Friday brought a jarring offset: July retail sales fell 0.6% to $763.6 billion, well below forecasts for a 0.1% gain, reviving questions about the strength of the U.S. consumer heading into the second half."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Fed path.",
+    "text": "Cooler July inflation prints reduced market expectations for another Fed rate hike in September, with traders now leaning toward a hold; attention turns to the Jackson Hole symposium later this month for Chair Powell's guidance."
+   },
+   {
+    "lead": "Consumer softens.",
+    "text": "July retail sales dropped 0.6% to $763.6 billion versus a forecast +0.1%, the weakest reading in months and a caution flag for banks with large consumer-credit and card exposures."
+   },
+   {
+    "lead": "Fintech M&A.",
+    "text": "PayPal shares climbed on reports it is exploring acquisition options in the payments space, with Advent International and Stripe named in negotiations — the latest sign the fintech consolidation window is reopening for dealmakers."
+   },
+   {
+    "lead": "EM lender beats.",
+    "text": "Digital bank Nu Holdings posted stronger-than-expected Q2 results, with net profit of roughly $1.06 billion topping consensus and underscoring continued momentum for Latin American neobanks."
+   },
+   {
+    "lead": "Issuance window.",
+    "text": "Reddit surged double digits on its addition to the S&P 500, and August IPO activity has roughly doubled year-on-year as companies rush to seize a receptive new-issue market — a boon for equity-capital-markets desks."
+   }
+  ],
+  "watch": {
+   "title": "Jackson Hole & Powell",
+   "lead": "Fed guidance ahead.",
+   "text": "With inflation cooling but the consumer wobbling, markets look to the Kansas City Fed's Jackson Hole symposium later in August for signals on whether a September cut — or a pause — is coming. Any hint on the balance between softening growth and lingering price pressure could reset rate expectations across the curve."
+  },
+  "world": [
+   {
+    "lead": "Gaza diplomacy.",
+    "text": "Trump envoy Jared Kushner shuttled between Cairo and Israel to salvage a stalled postwar Gaza plan; a Hamas delegation led by Khalil al-Hayya met Egypt's intelligence chief over a 15-point roadmap that Prime Minister Netanyahu has rejected."
+   },
+   {
+    "lead": "Lebanon strikes.",
+    "text": "Israeli airstrikes killed 11 people in southern Lebanon following a Hezbollah drone attack that wounded three IDF soldiers, raising fears of a wider flare-up along the northern border."
+   },
+   {
+    "lead": "Iran clampdown.",
+    "text": "Iran's parliament approved legislation criminalizing contact with hostile foreign media, including U.S. and Israeli outlets, with penalties of six months to two years — as Washington reportedly maintains a quiet backchannel to Tehran."
+   },
+   {
+    "lead": "West Bank clashes.",
+    "text": "Settlers and Palestinians clashed overnight in Hebron, leaving two Israelis and about 10 Palestinians injured, amid a broader spike in West Bank friction."
+   },
+   {
+    "lead": "Gulf shipping.",
+    "text": "Iranian attacks on shipping vessels and U.S. threats of an indefinite naval blockade kept a geopolitical risk premium in crude, with WTI near $81.71 and Brent around $87.19 a barrel."
+   }
+  ],
+  "sources": "TheStreet; CNBC; Forbes; Reuters; CNN; The Times of Israel; The Washington Post"
+ },
+ {
   "date": "2026-08-16",
   "label": "Sun · Aug 16",
   "weekday": "Sunday, August 16, 2026",
