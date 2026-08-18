@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-18",
+  "label": "Tue · Aug 18",
+  "weekday": "Tuesday, August 18, 2026",
+  "marketsClose": "Aug 18",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "The 30-year Treasury yield spiked to a 19-year high above 5.33% as expiring U.S.-Iran diplomacy and deficit worries dragged Wall Street to a third straight loss.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -0.21
+   },
+   {
+    "name": "S&P 500",
+    "v": -0.58
+   },
+   {
+    "name": "Nasdaq",
+    "v": -1.02
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.35
+   },
+   {
+    "name": "WTI Crude",
+    "v": 0.4
+   },
+   {
+    "name": "Brent",
+    "v": -0.18
+   }
+  ],
+  "marketsNote": "Stocks slid for a third session, led lower by chipmakers, as long-dated Treasury yields punched to their highest levels since 2007 and oil stayed elevated on Middle East risk.",
+  "lead": {
+   "headline": "Bond-yield surge and chip selloff pull stocks lower for a third day as Iran deadline passes",
+   "tag": "Markets · Aug 18",
+   "body": [
+    "Long-term borrowing costs did the damage on Tuesday. The 30-year Treasury yield climbed past 5.33% — a fresh 19-year high — as investors demanded more compensation to hold U.S. debt amid sticky inflation, heavy government borrowing and a run of soft, high-yield auctions. The move rippled straight into equities: the Nasdaq fell about 1%, the S&P 500 slipped roughly 0.6% and the Dow shed around 0.2%, marking a third consecutive decline. The small-cap Russell 2000 dropped about 0.35%.",
+    "Semiconductors bore the brunt of the rate pressure and profit-taking, with CoreWeave down 8.3%, Teradyne off 8% and Lumentum losing 7.7%. Overhanging it all was geopolitics: President Trump declined to extend a 60-day U.S.-Iran ceasefire that lapsed this week, keeping crude elevated — WTI hovered near $85 and Brent around $91 — and reviving inflation fears just as the bond market was already flashing warnings. Energy was a rare bright spot, with Targa Resources jumping 6.7% on new ExxonMobil contracts."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "The bond market is setting the tone.",
+    "text": "The 30-year Treasury yield topped 5.33% intraday, a 19-year high, extending a selloff fueled by inflation stickiness, ballooning issuance and a string of weak auctions — the recent 30-year sale drew the highest yield since roughly 2001. Rising long-end rates squeeze mortgage and lending demand even as they can lift bank net-interest margins, and they raise the cost of financing the leveraged buyouts and refinancings that drive deal fees."
+   },
+   {
+    "lead": "Dealmaking momentum is the 2026 story bankers are watching.",
+    "text": "Wall Street's investment-banking desks have leaned on a reviving M&A and financing pipeline this year after a bumper 2025, with advisory and underwriting fees climbing at Goldman Sachs, Morgan Stanley and JPMorgan. The open question into the fall is whether a fresh spike in long-term yields and Middle East risk cools the risk appetite that has kept deal volumes and equity issuance humming."
+   },
+   {
+    "lead": "Home Depot set the tone for the retail-earnings wave.",
+    "text": "Home Depot beat expectations before the open, posting adjusted EPS of $4.92 on net sales of $47.9 billion, up 5.7% year over year, with comparable sales up 1.7%. The bellwether reaffirmed its full-year outlook, a reassuring read on the consumer as Walmart, Target and Lowe's report later this week."
+   },
+   {
+    "lead": "Chip financing names led the tech unwind.",
+    "text": "AI-infrastructure and semiconductor-equipment stocks were the hardest hit as yields climbed, with CoreWeave falling 8.3%, Teradyne down 8% and Lumentum off 7.7% — a reminder of how sensitive richly valued growth and capital-intensive AI plays are to the long end of the curve."
+   },
+   {
+    "lead": "Energy provided a counterweight.",
+    "text": "Targa Resources surged 6.7% after securing new contracts tied to ExxonMobil, and the broader energy complex firmed as crude held near multi-week highs on the U.S.-Iran standoff — a rare pocket of strength on an otherwise red day."
+   }
+  ],
+  "watch": {
+   "title": "Retail earnings and Jackson Hole",
+   "lead": "The consumer read and the Fed's tone are the next catalysts.",
+   "text": "Walmart, Target and Lowe's report over the coming days, giving a fuller picture of household spending against high rates. Traders are also positioning for the Fed's Jackson Hole symposium, where any signal on the path of policy — with the long end already at 19-year highs — could set the direction into September."
+  },
+  "world": [
+   {
+    "lead": "U.S.-Iran diplomacy collapsed as the ceasefire lapsed.",
+    "text": "President Trump declined to extend a 60-day ceasefire that expired this week, calling on Tehran to capitulate and threatening action against Oman if it obstructs efforts to reopen the Strait of Hormuz. Iranian officials warned of a 'fully offensive' posture and 'timely and precise' strikes; a vessel in the Strait suffered engine damage and casualties from an unidentified projectile on Tuesday."
+   },
+   {
+    "lead": "Russia's war on Ukraine intensified.",
+    "text": "Russian missiles killed 10 civilians in the Kharkiv region on Tuesday, while Ukraine launched some 620 drones overnight toward Moscow, of which Russia claimed to intercept 180. Moscow's London embassy warned Britain of consequences over British-made drones used in long-range strikes on Russian territory."
+   },
+   {
+    "lead": "Israel struck inside Syria.",
+    "text": "Israeli airstrikes hit the Abu al-Duhur military airbase in Syria early Tuesday, adding to a widening regional confrontation that markets are watching for its effect on oil supply routes."
+   },
+   {
+    "lead": "The Red Sea threat resurfaced.",
+    "text": "Houthi forces claimed attacks on Saudi naval vessels in the Red Sea, with Yemen's government reporting six missiles fired at a military ship, as the UN's human-rights chief warned of escalating conflict endangering Yemen's population."
+   },
+   {
+    "lead": "Courts checked the Trump administration at home.",
+    "text": "Federal courts blocked the administration's FBI headquarters relocation and rejected its interim U.S. Attorney appointment strategy, while the Supreme Court again declined to take up Trump's appeal in the E. Jean Carroll civil case."
+   }
+  ],
+  "sources": "TheStreet; CNBC; Yahoo Finance; Reuters/Bloomberg; StockTitan; Just Security"
+ },
+ {
   "date": "2026-08-17",
   "label": "Mon · Aug 17",
   "weekday": "Monday, August 17, 2026",
