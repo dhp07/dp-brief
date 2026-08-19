@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-19",
+  "label": "Wed · Aug 19",
+  "weekday": "Wednesday, August 19, 2026",
+  "marketsClose": "Aug 18",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Stocks closed lower for a third straight session as the 30-year Treasury yield hit a 19-year high and AI chip names sold off, while a collapsed U.S.-Iran ceasefire pushed crude sharply higher.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -0.22
+   },
+   {
+    "name": "S&P 500",
+    "v": -0.69
+   },
+   {
+    "name": "Nasdaq",
+    "v": -1.33
+   },
+   {
+    "name": "Russell 2000",
+    "v": -1.3
+   },
+   {
+    "name": "WTI Crude",
+    "v": 2.5
+   },
+   {
+    "name": "Brent",
+    "v": 2.65
+   }
+  ],
+  "marketsNote": "Breadth was weak as the Nasdaq and small-cap Russell 2000 each lost about 1.3%; long-dated yields at their highest since 2007 pressured richly valued growth stocks while crude jumped on Middle East risk.",
+  "lead": {
+   "headline": "Long-end yields at a 19-year high drag Wall Street to a third straight loss as AI chips sink",
+   "tag": "Markets · Aug 18",
+   "body": [
+    "Confirmed closing figures showed the selloff deepened into the bell on Tuesday. The S&P 500 finished down 53.30 points, or 0.7%, at 7,691.76, while the tech-heavy Nasdaq Composite dropped 355.20 points, or 1.3%, to 26,289.71. The Dow Jones Industrial Average held up better, off 116.38 points, or 0.2%, at 53,343.40, but the small-cap Russell 2000 fell 1.3% to 3,017.89 — a sign the pain ran well beyond megacap tech.",
+    "The driver was the bond market: the 30-year Treasury yield pushed past 5.3%, its highest since 2007, as investors demanded more compensation to hold long-dated debt amid sticky inflation in the mid-3% range and heavy government issuance. That rate pressure hit capital-intensive AI and semiconductor names hardest, with CoreWeave down 8.3%, Teradyne off 8% and Lumentum falling 7.7%, and it dragged bellwethers Nvidia, Micron and Broadcom lower. Energy was the exception as crude surged on the collapse of U.S.-Iran diplomacy — Targa Resources climbed 6.7% on new ExxonMobil contracts."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "The long end of the curve is now the market's main risk.",
+    "text": "The 30-year Treasury yield's break above 5.3% — a level unseen since 2007 — reflects a bear steepening driven by inflation stickiness, ballooning federal issuance and soft demand at recent auctions. Higher long rates can widen bank net-interest margins, but they also raise financing costs for the leveraged buyouts and refinancings that generate deal fees, and they cool mortgage and corporate borrowing demand."
+   },
+   {
+    "lead": "All eyes turn to Warsh's first Jackson Hole as Fed chair.",
+    "text": "The Kansas City Fed's symposium runs August 27-29, with Chair Kevin Warsh delivering his first keynote in the role on Friday, August 28. Markets have pared bets on a September move — odds of a hike at the September 16 FOMC have slipped from about 58% after July's meeting to roughly a third — as July payrolls fell 23,000 even with inflation running in the mid-3s, leaving the policy path genuinely uncertain."
+   },
+   {
+    "lead": "The IPO pipeline keeps building despite the volatility.",
+    "text": "General Atlantic has revived its long-delayed IPO, hiring JPMorgan, Goldman Sachs and Morgan Stanley to lead a potential listing as soon as this year. The New York private-equity firm manages roughly $129 billion across more than 900 staff in 20 countries, with holdings including Anthropic and OneStream — a marquee mandate for Wall Street's equity-capital-markets desks."
+   },
+   {
+    "lead": "2026 has been a banner year for new-issue fees.",
+    "text": "U.S. IPO proceeds surged 646% year over year to about $128 billion through June, even as overall deal count fell 35% — activity has concentrated in semiconductors, AI and space. The recent Anthropic mandate won by Morgan Stanley and Goldman Sachs underscores how the AI boom is funneling underwriting fees to the top-tier banks."
+   },
+   {
+    "lead": "Rate sensitivity is reshaping where the money flows.",
+    "text": "With the long end at 19-year highs, capital-intensive AI-infrastructure plays and high-multiple growth names are bearing the brunt of the repricing, while banks and insurers stand to benefit from a steeper curve. The tension into the fall is whether renewed Middle East risk and rising yields cool the risk appetite that has kept equity issuance and M&A humming."
+   }
+  ],
+  "watch": {
+   "title": "Jackson Hole and the September Fed",
+   "lead": "The Fed's tone is the next macro catalyst.",
+   "text": "Before the September 16 FOMC decision, traders get the July PCE inflation reading on August 26, then Warsh's Jackson Hole keynote on August 28 — his first as chair. Nvidia earnings and the tail end of retail results also land in the window, and with 30-year yields already at 2007 highs, any hawkish signal could push long rates higher still and keep pressure on growth stocks."
+  },
+  "world": [
+   {
+    "lead": "U.S.-Iran diplomacy collapsed as the ceasefire lapsed.",
+    "text": "President Trump declined to extend the expired interim agreement, demanding Tehran's 'surrender' and threatening to strike Oman, the mediator, if it obstructs efforts to reopen the Strait of Hormuz. Iranian military officials warned of a 'fully offensive' posture and 'timely and precise' attacks to break the U.S. naval blockade, and a vessel in the Strait suffered engine damage and a crew casualty from an unidentified projectile."
+   },
+   {
+    "lead": "Russia's war on Ukraine ground on.",
+    "text": "A Russian missile attack killed 10 civilians in Ukraine's Kharkiv region, while Ukraine launched roughly 620 drones toward Moscow overnight — Russia claimed to have downed 180. Moscow's London embassy warned Britain of consequences over British-supplied long-range strike drones used against Russian territory."
+   },
+   {
+    "lead": "Gaza talks inched forward amid mixed signals.",
+    "text": "Jared Kushner met Prime Minister Netanyahu, and the two sides agreed to set up working groups on disarmament and public health in Gaza, though an Israeli official called progress 'work in progress.' Trump publicly broke with his own envoy, telling Fox News that Israel should halt airstrikes because Hamas has agreed to disarm."
+   },
+   {
+    "lead": "The Red Sea threat flared again.",
+    "text": "Houthi forces claimed missile attacks on Saudi naval vessels in the Red Sea, with separate reports of a six-missile strike on an out-of-service ship. The UN's human-rights chief warned against a return to full-scale conflict after the group's deadliest attack in years killed 58 government troops."
+   },
+   {
+    "lead": "Courts checked the Trump administration at home.",
+    "text": "The Supreme Court rejected Trump's appeal in the E. Jean Carroll civil case, and he paid a $5 million settlement. A federal appeals court blocked his interim U.S. Attorney appointment strategy, and a federal judge halted the planned FBI headquarters relocation to Washington, ruling the prior Maryland facility plans had been illegally discarded."
+   }
+  ],
+  "sources": "TheStreet; CNBC; Yahoo Finance; Fortune; Eastern Herald; Reuters/Bloomberg; Just Security; Federal Reserve Bank of Kansas City"
+ },
+ {
   "date": "2026-08-18",
   "label": "Tue · Aug 18",
   "weekday": "Tuesday, August 18, 2026",
