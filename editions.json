@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-20",
+  "label": "Thu · Aug 20",
+  "weekday": "Thursday, August 20, 2026",
+  "marketsClose": "Aug 19",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Stocks snapped a three-day skid as the Treasury doubled long-dated debt buybacks and cooled a bond-market rout, while Moderna soared 176% on a melanoma-vaccine breakthrough and FOMC minutes showed three officials pushing for a rate hike.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.22
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.21
+   },
+   {
+    "name": "Nasdaq",
+    "v": 0.16
+   },
+   {
+    "name": "Russell 2000",
+    "v": 0.5
+   },
+   {
+    "name": "WTI Crude",
+    "v": 1.56
+   },
+   {
+    "name": "Brent",
+    "v": 1.27
+   }
+  ],
+  "marketsNote": "Breadth improved as the small-cap Russell 2000 led with a 0.5% gain and the 10-year Treasury yield eased about 5 basis points to 4.65%; crude firmed for a second session on supply risk.",
+  "lead": {
+   "headline": "Treasury doubles debt buybacks, easing yields and snapping Wall Street's three-day losing streak",
+   "tag": "Markets · Aug 19",
+   "body": [
+    "The major indexes turned higher on Wednesday after the Treasury Department said it would more than double the size of its buybacks of long-dated government debt, a move that pulled yields off multi-year highs and steadied a jittery bond market. The S&P 500 closed up 16.22 points, or 0.2%, at 7,707.98, the Dow Jones Industrial Average added 119.65 points, or 0.2%, to 53,463.05, and the Nasdaq Composite rose 41.38 points, or 0.2%, to 26,331.09. The small-cap Russell 2000 outperformed, climbing 0.5% to 3,032.94 as easing rates lifted the most rate-sensitive corners of the market.",
+    "The catalyst was a plan to increase buybacks of securities from the 10-year to 30-year sector by at least double, which sent the 10-year yield down about 5 basis points to 4.65% after the long end had hit its highest levels in nearly two decades earlier in the week. Strong spring profit reports added fuel: Estée Lauder jumped roughly 18% on an earnings and revenue beat with upbeat 2027 guidance, and Target posted solid results. Healthcare and cyclicals led while chipmakers lagged, leaving the advance broad but modest."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Treasury steps in to calm the long end of the curve.",
+    "text": "The Treasury said it will at least double buybacks of 10- to 30-year debt, a liquidity backstop aimed at the sector where a bear steepening had driven the 30-year yield to a near-two-decade high. The 10-year fell about 5 basis points to 4.65% on the news, easing pressure on bank funding costs and richly valued growth stocks alike."
+   },
+   {
+    "lead": "FOMC minutes reveal a hawkish minority.",
+    "text": "Minutes from the July 28-29 meeting, released Wednesday, showed the Fed held its policy rate at 3.50-3.75% but that three regional presidents — Lorie Logan, Beth Hammack and Neel Kashkari — dissented in favor of a 25-basis-point hike, warning that supply shocks and the AI investment boom could entrench inflation. Softer July CPI and PPI and a weak payrolls print have since tilted markets toward a September hold, now priced near 65%."
+   },
+   {
+    "lead": "Each meeting is now 'live' under Chair Warsh.",
+    "text": "Chair Kevin Warsh has stepped back from explicit forward guidance, leaving every meeting effectively open and steepening the Treasury curve as investors reprice uncertainty. Traders are looking past the backward-looking minutes toward his Jackson Hole debut later this month for the clearest read on the policy path."
+   },
+   {
+    "lead": "Retail earnings power the tape.",
+    "text": "Estée Lauder surged about 18% on a top- and bottom-line beat and optimistic fiscal-2027 guidance that signaled its turnaround is gaining traction, while Target delivered a strong spring quarter. The prints helped offset weakness in semiconductors and reinforced a rotation toward consumer and healthcare names."
+   },
+   {
+    "lead": "Biotech breakout jolts markets.",
+    "text": "Moderna rocketed about 176% and partner Merck rose around 12% after their personalized mRNA cancer vaccine, paired with Merck's Keytruda, met its primary endpoint in a late-stage melanoma trial. The result revived investor enthusiasm for mRNA platforms and marked one of the largest single-session moves in a large-cap biotech in years."
+   }
+  ],
+  "watch": {
+   "title": "Jackson Hole looms",
+   "lead": "Warsh's first symposium as chair is the next big catalyst.",
+   "text": "With the Kansas City Fed's Jackson Hole symposium approaching, markets are focused on Kevin Warsh's inaugural keynote as chair for signals on whether the Fed leans toward a September cut, a hold, or the hike its dissenters favor. Coming amid a bond-market selloff and mixed inflation and jobs data, the speech could set the tone for rates into the fall."
+  },
+  "world": [
+   {
+    "lead": "Trump delays tariffs on Canada.",
+    "text": "President Trump announced a last-minute deal with Ottawa to delay a planned 50% tariff on Canadian imports, averting an immediate escalation in the cross-border trade dispute while negotiations continue."
+   },
+   {
+    "lead": "Russia's war rattles its home front.",
+    "text": "A Russian drone strike on a civilian minibus in Ukraine killed at least four people and wounded four more, while inside Russia savers are reported to be pulling billions from banks on fears the Kremlin could tap deposits to fund the war."
+   },
+   {
+    "lead": "NATO's eastern edge on alert.",
+    "text": "Latvia is confronting a mounting security crisis along its border with Belarus, contending with migrant pressure, drone incursions and rising fears of wider conflict spilling from the war in Ukraine."
+   },
+   {
+    "lead": "Ukraine's political turmoil deepens.",
+    "text": "Sacked Ukrainian Defense Minister Mykhailo Fedorov called for presidential elections following his removal, adding domestic political strain as Kyiv presses its war effort."
+   },
+   {
+    "lead": "Wildfires scorch southern Europe.",
+    "text": "Blazes across Spain and France have burned some 17,000 hectares amid a punishing drought, which in Rome has fallen the Tiber low enough to expose the ancient remains of a bridge built under Emperor Nero."
+   }
+  ],
+  "sources": "TheStreet; ABC News; Yahoo Finance; Fortune; Bloomberg; STAT News; CNN; Reuters; Newsquawk; Euronews; Federal Reserve"
+ },
+ {
   "date": "2026-08-19",
   "label": "Wed · Aug 19",
   "weekday": "Wednesday, August 19, 2026",
