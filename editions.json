@@ -3,95 +3,95 @@
   "date": "2026-08-20",
   "label": "Thu · Aug 20",
   "weekday": "Thursday, August 20, 2026",
-  "marketsClose": "Aug 19",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Stocks snapped a three-day skid as the Treasury doubled long-dated debt buybacks and cooled a bond-market rout, while Moderna soared 176% on a melanoma-vaccine breakthrough and FOMC minutes showed three officials pushing for a rate hike.",
+  "marketsClose": "Aug 20",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Wall Street's one-day bounce faded as Walmart tumbled about 7% on soft comparable sales and the Treasury-fueled bond relief evaporated, while crude jumped nearly 3% and the UAE slapped a full embargo on Iran amid a widening US pressure campaign.",
   "markets": [
    {
     "name": "Dow",
-    "v": 0.22
+    "v": -0.68
    },
    {
     "name": "S&P 500",
-    "v": 0.21
+    "v": -0.38
    },
    {
     "name": "Nasdaq",
-    "v": 0.16
+    "v": -0.5
    },
    {
     "name": "Russell 2000",
-    "v": 0.5
+    "v": 0.42
    },
    {
     "name": "WTI Crude",
-    "v": 1.56
+    "v": 2.83
    },
    {
     "name": "Brent",
-    "v": 1.27
+    "v": 2.58
    }
   ],
-  "marketsNote": "Breadth improved as the small-cap Russell 2000 led with a 0.5% gain and the 10-year Treasury yield eased about 5 basis points to 4.65%; crude firmed for a second session on supply risk.",
+  "marketsNote": "The rebound reversed as long-dated Treasury yields firmed and a roughly 7% drop in Walmart weighed on the Dow; small caps held on to a modest gain while energy surged on the Iran-driven oil spike.",
   "lead": {
-   "headline": "Treasury doubles debt buybacks, easing yields and snapping Wall Street's three-day losing streak",
-   "tag": "Markets · Aug 19",
+   "headline": "Wall Street's bounce fades as Walmart slides and bond relief evaporates; oil jumps on Iran tensions",
+   "tag": "Markets · Aug 20",
    "body": [
-    "The major indexes turned higher on Wednesday after the Treasury Department said it would more than double the size of its buybacks of long-dated government debt, a move that pulled yields off multi-year highs and steadied a jittery bond market. The S&P 500 closed up 16.22 points, or 0.2%, at 7,707.98, the Dow Jones Industrial Average added 119.65 points, or 0.2%, to 53,463.05, and the Nasdaq Composite rose 41.38 points, or 0.2%, to 26,331.09. The small-cap Russell 2000 outperformed, climbing 0.5% to 3,032.94 as easing rates lifted the most rate-sensitive corners of the market.",
-    "The catalyst was a plan to increase buybacks of securities from the 10-year to 30-year sector by at least double, which sent the 10-year yield down about 5 basis points to 4.65% after the long end had hit its highest levels in nearly two decades earlier in the week. Strong spring profit reports added fuel: Estée Lauder jumped roughly 18% on an earnings and revenue beat with upbeat 2027 guidance, and Target posted solid results. Healthcare and cyclicals led while chipmakers lagged, leaving the advance broad but modest."
+    "The relief rally that snapped Wall Street's three-day skid on Wednesday proved short-lived. Stocks slipped Thursday as the Treasury-buyback boost to bonds faded, long-dated yields firmed again, and a steep drop in Dow component Walmart dragged on the blue chips. The Dow Jones Industrial Average fell roughly 0.7%, the S&P 500 eased about 0.4% and the Nasdaq Composite lost around 0.5%, while the small-cap Russell 2000 clung to a gain of about 0.4% as the most rate-sensitive names outperformed.",
+    "Walmart was the day's dominant story, sinking about 7% to its lowest level since November even after beating on earnings, as U.S. comparable sales grew just 2.6% against a 3.7% forecast and a raised full-year outlook fell short of elevated expectations. Moderna gave back roughly a quarter of Wednesday's 176% melanoma-vaccine surge on profit-taking, and chipmakers stayed soft. Crude was the standout, with WTI up about 2.8% to near $87 and Brent up 2.6% to about $94, as an intensifying U.S. campaign against Iran and a UAE trade embargo stoked supply fears."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Treasury steps in to calm the long end of the curve.",
-    "text": "The Treasury said it will at least double buybacks of 10- to 30-year debt, a liquidity backstop aimed at the sector where a bear steepening had driven the 30-year yield to a near-two-decade high. The 10-year fell about 5 basis points to 4.65% on the news, easing pressure on bank funding costs and richly valued growth stocks alike."
+    "lead": "The Treasury-buyback bond bounce fades.",
+    "text": "One day after Treasury Secretary Scott Bessent's plan to more than double buybacks of 10- to 30-year debt pulled the 10-year yield down to about 4.65%, the relief unwound. Long-dated yields firmed again as investors weighed heavy supply against a bond-market backstop, leaving the curve steep and pressuring rate-sensitive equities. The episode underscored how fragile sentiment at the long end remains after the 30-year hit a near-two-decade high earlier in the week."
    },
    {
-    "lead": "FOMC minutes reveal a hawkish minority.",
-    "text": "Minutes from the July 28-29 meeting, released Wednesday, showed the Fed held its policy rate at 3.50-3.75% but that three regional presidents — Lorie Logan, Beth Hammack and Neel Kashkari — dissented in favor of a 25-basis-point hike, warning that supply shocks and the AI investment boom could entrench inflation. Softer July CPI and PPI and a weak payrolls print have since tilted markets toward a September hold, now priced near 65%."
+    "lead": "Walmart's miss rattles the retail read-through.",
+    "text": "Walmart slid about 7% to roughly $106 despite an 81-cent adjusted profit that topped the 74-cent estimate, as 2.6% U.S. comparable sales growth undershot the 3.7% consensus and a raised outlook disappointed traders who had positioned unusually bullish. The world's largest retailer erased its 2026 gain, and the print revived questions about the health of the U.S. consumer heading into the back half of the year."
    },
    {
-    "lead": "Each meeting is now 'live' under Chair Warsh.",
-    "text": "Chair Kevin Warsh has stepped back from explicit forward guidance, leaving every meeting effectively open and steepening the Treasury curve as investors reprice uncertainty. Traders are looking past the backward-looking minutes toward his Jackson Hole debut later this month for the clearest read on the policy path."
+    "lead": "The national debt tops $40 trillion.",
+    "text": "The U.S. gross national debt surpassed the $40 trillion mark, a milestone that sharpened focus on the fiscal backdrop behind the bond-market strain and gave Iran's foreign minister a talking point to deflect Washington's economic threats. The figure adds to the supply pressure weighing on long-dated Treasuries even as the department leans on buybacks to steady the market."
    },
    {
-    "lead": "Retail earnings power the tape.",
-    "text": "Estée Lauder surged about 18% on a top- and bottom-line beat and optimistic fiscal-2027 guidance that signaled its turnaround is gaining traction, while Target delivered a strong spring quarter. The prints helped offset weakness in semiconductors and reinforced a rotation toward consumer and healthcare names."
+    "lead": "Crypto rips as Bitcoin surges past $71,000.",
+    "text": "Bitcoin jumped roughly 11.5% to about $71,800 around a Washington crypto summit, lifting Coinbase about 5.8% and Michael Saylor's Strategy some 4.6%. The risk-on move in digital assets stood in sharp contrast to the softer equity tape and reflected renewed appetite for the sector even as broader indexes slipped."
    },
    {
-    "lead": "Biotech breakout jolts markets.",
-    "text": "Moderna rocketed about 176% and partner Merck rose around 12% after their personalized mRNA cancer vaccine, paired with Merck's Keytruda, met its primary endpoint in a late-stage melanoma trial. The result revived investor enthusiasm for mRNA platforms and marked one of the largest single-session moves in a large-cap biotech in years."
+    "lead": "Jackson Hole moves into view.",
+    "text": "With the Kansas City Fed's symposium set for Aug. 27-29, markets are counting down to Chair Kevin Warsh's first keynote for a signal on whether September brings a cut, a hold or the hike three regional presidents favored in the July minutes. September is still priced near a hold, but a live-meeting Fed and a restless bond market leave the speech as the next major macro catalyst."
    }
   ],
   "watch": {
-   "title": "Jackson Hole looms",
-   "lead": "Warsh's first symposium as chair is the next big catalyst.",
-   "text": "With the Kansas City Fed's Jackson Hole symposium approaching, markets are focused on Kevin Warsh's inaugural keynote as chair for signals on whether the Fed leans toward a September cut, a hold, or the hike its dissenters favor. Coming amid a bond-market selloff and mixed inflation and jobs data, the speech could set the tone for rates into the fall."
+   "title": "Oil and the Iran shock",
+   "lead": "A widening pressure campaign is jolting crude.",
+   "text": "The near-3% jump in oil, the UAE's full embargo on Iran and a U.S. naval blockade that has now turned back 60 vessels bound for Iranian ports put energy prices and Gulf supply routes at the center of the near-term outlook. A sustained crude spike would complicate the disinflation story just as the Fed debates its next move, making the Strait of Hormuz a key market variable into month-end."
   },
   "world": [
    {
-    "lead": "Trump delays tariffs on Canada.",
-    "text": "President Trump announced a last-minute deal with Ottawa to delay a planned 50% tariff on Canadian imports, averting an immediate escalation in the cross-border trade dispute while negotiations continue."
+    "lead": "The U.S.-Iran confrontation escalates.",
+    "text": "President Trump threatened 'tremendous economic consequences' for any nation doing business with Iran, and the United Arab Emirates responded with a complete trade and financial embargo after a call with Sheikh Mohammed bin Zayed. A U.S. naval blockade has blocked 60 vessels from Iranian ports since mid-July, and the Defense Department says more than 750 American service members have been wounded since the conflict began."
    },
    {
-    "lead": "Russia's war rattles its home front.",
-    "text": "A Russian drone strike on a civilian minibus in Ukraine killed at least four people and wounded four more, while inside Russia savers are reported to be pulling billions from banks on fears the Kremlin could tap deposits to fund the war."
+    "lead": "Russia pounds Kyiv overnight.",
+    "text": "Russian strikes killed at least 14 people in Kyiv and hit 28 other locations, with President Zelenskyy saying the attacks targeted civilian infrastructure. The U.N. warned that intensifying drone attacks on civilians and aid workers are crippling humanitarian operations, particularly around Kherson."
    },
    {
-    "lead": "NATO's eastern edge on alert.",
-    "text": "Latvia is confronting a mounting security crisis along its border with Belarus, contending with migrant pressure, drone incursions and rising fears of wider conflict spilling from the war in Ukraine."
+    "lead": "Israel faces fresh scrutiny in Gaza.",
+    "text": "An Israeli airstrike killed nine Palestinians at a Gaza police station as the military announced criminal investigations into several high-profile killings. Canadian officials, visiting Lebanon this week, condemned what they called Israel's 'unlawful invasion' of the country."
    },
    {
-    "lead": "Ukraine's political turmoil deepens.",
-    "text": "Sacked Ukrainian Defense Minister Mykhailo Fedorov called for presidential elections following his removal, adding domestic political strain as Kyiv presses its war effort."
+    "lead": "Taiwan boosts its defense budget.",
+    "text": "Taipei proposed a record $35 billion military budget, an 18% increase, as regional tensions climb. Separately, Trump signaled he intends to meet North Korean leader Kim Jong Un before year-end, hinting at a revived diplomatic track."
    },
    {
-    "lead": "Wildfires scorch southern Europe.",
-    "text": "Blazes across Spain and France have burned some 17,000 hectares amid a punishing drought, which in Rome has fallen the Tiber low enough to expose the ancient remains of a bridge built under Emperor Nero."
+    "lead": "The ICC pushes back on Washington.",
+    "text": "The International Criminal Court called U.S. sanctions against its senior staff a 'flagrant attack' on its independence, deepening a rift between the Trump administration and the tribunal. The clash adds to a widening set of disputes between Washington and international institutions."
    }
   ],
-  "sources": "TheStreet; ABC News; Yahoo Finance; Fortune; Bloomberg; STAT News; CNN; Reuters; Newsquawk; Euronews; Federal Reserve"
+  "sources": "TheStreet; CNBC; Yahoo Finance; Schaeffer's Investment Research; Bloomberg; Just Security; Al Jazeera; Reuters; Federal Reserve"
  },
  {
   "date": "2026-08-19",
