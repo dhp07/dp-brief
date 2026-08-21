@@ -3,99 +3,99 @@
   "date": "2026-08-21",
   "label": "Fri · Aug 21",
   "weekday": "Friday, August 21, 2026",
-  "marketsClose": "Aug 20",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Stocks logged their worst day in three weeks as a fleeting Treasury bond-buyback rally reversed and Trump's 'economic D-Day' threat against Iran drove crude higher, sending the Dow down about 700 points.",
+  "marketsClose": "Aug 21",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Stocks bounced back Friday but closed a losing week as Treasury Secretary Bessent vowed even bigger bond buybacks after a yield surge erased his relief rally, pushing the 10-year back above 4.7% and U.S. debt past $40 trillion.",
   "markets": [
    {
     "name": "Dow",
-    "v": -1.3
+    "v": 0.98
    },
    {
     "name": "S&P 500",
-    "v": -0.9
+    "v": 0.43
    },
    {
     "name": "Nasdaq",
-    "v": -1.0
+    "v": 0.43
    },
    {
     "name": "Russell 2000",
-    "v": -1.3
+    "v": 0.88
    },
    {
     "name": "WTI Crude",
-    "v": 2.9
+    "v": -0.13
    },
    {
     "name": "Brent",
-    "v": 2.0
+    "v": -0.11
    }
   ],
-  "marketsNote": "Breadth was broadly negative as long-dated Treasury yields firmed again—the 10-year near 4.71% and the 30-year around 5.25%, close to two-decade highs—while energy was the lone bright spot on the Iran-driven crude spike.",
+  "marketsNote": "A late rebound lifted all four equity gauges Friday — the Dow closed up 517 points at 53,276.81 and small caps outperformed — but every major index still finished the week lower, dragged by a punishing Treasury sell-off. Oil eased slightly while gold jumped and bitcoin capped its best week in two years near $77,000.",
   "lead": {
-   "headline": "Stocks post worst day in three weeks as bond relief evaporates and oil jumps on Iran threat",
-   "tag": "Markets · Aug 20",
+   "headline": "Bond-market turmoil overshadows Friday's equity bounce as Bessent pledges bigger buybacks",
+   "tag": "Markets · Aug 21",
    "body": [
-    "Wall Street's brief midweek bounce collapsed on Thursday, handing the major averages their steepest loss in three weeks. The relief that followed the Treasury's surprise plan to more than double buybacks of long-dated debt faded fast: the 10-year yield rose about four basis points to roughly 4.71% and the 30-year climbed to around 5.25%, back near its highest level in nearly two decades. The Dow Jones Industrial Average fell about 1.3%, or roughly 700 points, the S&P 500 lost 0.9%, the Nasdaq Composite slid 1.0% and the small-cap Russell 2000 dropped 1.3% as rate-sensitive names bore the brunt.",
-    "Two forces drove the risk-off tone. President Trump's threat of an 'economic D-Day' against Iran pushed West Texas Intermediate crude up nearly 3% toward $87 and Brent above $93, reviving inflation worries just as bond markets were already jittery. And Dow component Walmart tumbled more than 9% after comparable sales rose only 2.6% versus the roughly 3.8% expected, with executives citing shoppers making 'trade-offs' amid high gas prices. Bitcoin bucked the gloom, surging more than 11% toward $72,000 on the Treasury buyback news."
+    "Wall Street clawed back some ground on Friday, with the Dow rising 0.98% to 53,276.81, the S&P 500 and Nasdaq each adding 0.43%, and the Russell 2000 climbing 0.88%. But the rebound couldn't rescue a bruising week: all four benchmarks finished lower, undone by a Treasury sell-off that repeatedly overwhelmed Washington's attempts to steady it.",
+    "The pressure point was the long end of the curve. The 10-year yield pushed back above 4.7% — erasing the brief dip that followed Treasury Secretary Scott Bessent's mid-week decision to at least double bond buybacks to $4 billion per issue. On Friday Bessent said he was ready to go bigger still, telling markets the buybacks 'could be more than $4 billion.' Analysts were unconvinced: Evercore ISI's Krishna Guha dismissed the effort as 'a weak form Operation Twist' with 'little enduring impact,' warning it could even signal funding stress. The backdrop is unforgiving — widening deficits, sticky inflation, a soft dollar and a wave of AI-driven corporate issuance, with U.S. national debt crossing $40 trillion this week."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Treasury doubles down.",
-    "text": "Secretary Scott Bessent said the Treasury will more than double repurchases of 10-, 20- and 30-year debt over coming months, with individual buyback operations potentially exceeding $4 billion per issue, an extraordinary attempt to cap long-end yields. Analysts warned the relief may prove limited against $40 trillion in debt and heavy issuance."
+    "lead": "Bessent doubles down on buybacks.",
+    "text": "Treasury will at least double buybacks of 10-, 20- and 30-year bonds to $4 billion per issue when operations run Sept. 9 through Nov. 4, and Bessent signaled Friday he could push the size higher to force long-term yields down."
    },
    {
-    "lead": "Debt crosses a threshold.",
-    "text": "U.S. national debt topped $40 trillion for the first time, roughly double the level of a decade ago. Bessent downplayed the milestone, arguing 'there's nothing magic about the $40 trillion number' and that the economy can 'grow our way out of that.'"
+    "lead": "The bond market called the bluff.",
+    "text": "Long yields snapped back to pre-announcement levels, with the 10-year climbing above 4.7% from a mid-week low near 4.64% — a sign traders see deficits and issuance, not Fed policy, as the real driver."
    },
    {
-    "lead": "Hawkish Fed in focus.",
-    "text": "Minutes from the latest FOMC meeting read more hawkish than expected, reinforcing policymakers' inflation vigilance. Chair Kevin Warsh's debut Jackson Hole address on Aug. 27–29 is now the market's next major catalyst for the rate path."
+    "lead": "Wall Street is skeptical of the fix.",
+    "text": "Evercore ISI's Krishna Guha branded the program 'a weak form Operation Twist' likely to backfire by advertising funding worries, echoing broader doubt that Treasury can suppress rates while fundamentals push the other way."
    },
    {
-    "lead": "Bank shares hold their bid.",
-    "text": "Even amid the selloff, the year's rally in U.S. bank stocks has been resilient. A BofA fund-manager survey showed record expectations for a 'no landing' scenario, and strategists argue a Warsh-led Fed is unlikely to derail lenders' net-interest-margin tailwinds."
+    "lead": "The Fed keeps its distance.",
+    "text": "St. Louis Fed President Alberto Musalem told CNBC the central bank sets monetary policy 'independent of debt management or fiscal policy,' underscoring that Bessent's buybacks are a Treasury operation, not a rate cut."
    },
    {
-    "lead": "Deal engine still humming.",
-    "text": "Investment-banking pipelines remain robust heading into the fall, with Goldman Sachs and Morgan Stanley pointing to a busier M&A and IPO calendar. Bankers who cashed in on a strong first half are refocusing on a deal boom expected to build through year-end."
+    "lead": "AI issuance is feeding the strain.",
+    "text": "A record wave of corporate bond sales from technology firms funding data-center and AI buildouts is adding supply to a market already digesting $40 trillion in federal debt, keeping upward pressure on long rates."
    },
    {
-    "lead": "Crypto catches a bid.",
-    "text": "Bitcoin jumped more than 11% to roughly $72,000 after the Treasury's buyback announcement, as traders read the move as a signal of looser financial conditions and rotated into risk assets even as equities fell."
+    "lead": "Risk appetite found a home in crypto.",
+    "text": "Bitcoin surged roughly 7% toward $77,000 to cap its strongest week in two years, and MicroStrategy jumped in sympathy — a rare bright spot as bond volatility punished rate-sensitive tech equities."
    }
   ],
   "watch": {
-   "title": "Jackson Hole looms",
-   "lead": "All eyes on Warsh.",
-   "text": "The Kansas City Fed's Jackson Hole symposium runs Aug. 27–29, and Chair Kevin Warsh's first keynote as Fed chief is expected to set the tone for rates into year-end. With long yields near 20-year highs and a hawkish set of minutes just out, any hint on the balance between inflation-fighting and growth could swing bonds, banks and small caps sharply."
+   "title": "Can the buybacks bite",
+   "lead": "Yields, not stocks, are steering the market.",
+   "text": "The real test comes when Treasury's enlarged buybacks actually begin Sept. 9 — if the 10-year stays pinned above 4.7%, expect louder calls for the Fed to step in and fresh scrutiny of the $40 trillion debt load. Watch, too, for Monday, when Bessent unveils the administration's Iran economic-isolation plan, a wildcard for energy prices and global risk sentiment."
   },
   "world": [
    {
-    "lead": "Economic D-Day.",
-    "text": "President Trump threatened an 'economic D-Day' against Iran, with Bessent pledging 'the toughest sanctions in history' plus a blockade aimed at collapsing the regime and penalties for any country trading with Tehran. Oil spiked in response, with Brent topping $93."
+    "lead": "The Iran conflict enters an economic phase.",
+    "text": "VP JD Vance said the confrontation has shifted to economic pressure, and Bessent promised 'the greatest coordinated economic isolation in the history of the world,' with details due Monday and the U.S. pressing China to join; Tehran warned any response would be 'devastating.'"
    },
    {
-    "lead": "Tehran pushes back.",
-    "text": "Iran dismissed the threats as hollow, with Foreign Minister Abbas Araghchi pointing to America's 'unprecedented debt & surging interest costs.' Some Iranian lawmakers called for withdrawing from the Nuclear Non-Proliferation Treaty as talks over the Strait of Hormuz stall."
+    "lead": "Hezbollah is back in the crosshairs.",
+    "text": "The Treasury re-designated Hezbollah over its ties to Iran's IRGC Quds Force, while Houthi spokesman Yahya Saree claimed two drone attacks on Saudi Arabia targeting Najran airport and Aramco facilities."
    },
    {
-    "lead": "$40 trillion mark.",
-    "text": "The U.S. gross national debt crossed $40 trillion for the first time, a milestone that drew fresh scrutiny of Washington's fiscal trajectory even as the Treasury leaned on bond buybacks to steady long-term rates."
+    "lead": "Gaza strikes draw regional condemnation.",
+    "text": "Turkey, Egypt and Qatar denounced Israeli strikes that have killed at least 16 Palestinians since Tuesday, as the Trump administration moved to block Palestinian Authority President Mahmoud Abbas from addressing the UN General Assembly."
    },
    {
-    "lead": "China in the middle.",
-    "text": "Enforcement of any Iran squeeze hinges on China, Tehran's largest trading partner, complicating the campaign as Beijing weighs a potential Xi Jinping visit to the U.S. and its own trade priorities."
+    "lead": "Settlement expansion splits Israel from allies.",
+    "text": "The UK, France, Germany, Italy, the Netherlands, Canada and Norway called Israel's E1 settlement plans 'unacceptable' and the EU weighed a sanctions package, even as thirty Israeli families resettled the Kadim outpost after a 21-year closure."
    },
    {
-    "lead": "Truce holds.",
-    "text": "The 2026 Russo-Ukrainian truce remained in place, offering a rare pocket of geopolitical calm even as energy markets stayed on edge over the Middle East."
+    "lead": "The war spills toward NATO's edge.",
+    "text": "Romania scrambled F-16s to destroy an explosive drone near its Neptun Deep gas platform in the Black Sea, while Russian authorities arrested eight people accused of plotting attacks on defense plants for Ukraine."
    }
   ],
-  "sources": "TheStreet; Yahoo Finance; CNBC; Benzinga; Reuters; Fortune; NBC News; Euronews; Boston Globe; TIME; Washington Post; The Associated Press (via Yakima Herald)"
+  "sources": "Yahoo Finance; TheStreet; CNBC; Reuters; Euronews; Fortune; Just Security; CNN"
  },
  {
   "date": "2026-08-20",
