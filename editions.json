@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-22",
+  "label": "Sat · Aug 22",
+  "weekday": "Saturday, August 22, 2026",
+  "marketsClose": "Aug 21",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Wall Street rebounded Friday but capped a losing week as Treasury's doubled bond buybacks failed to tame surging long-term yields, teeing up new Fed Chair Kevin Warsh's Jackson Hole debut next week — with bitcoin fresh off its best week in two years.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.98
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.43
+   },
+   {
+    "name": "Nasdaq",
+    "v": 0.43
+   },
+   {
+    "name": "Russell 2000",
+    "v": 0.88
+   },
+   {
+    "name": "WTI Crude",
+    "v": -0.13
+   },
+   {
+    "name": "Brent",
+    "v": -0.11
+   }
+  ],
+  "marketsNote": "A late rebound lifted all four equity gauges Friday — the Dow closed up 517 points at 53,276.81 and small caps led with the Russell 2000 up 0.9% — yet every major index still finished the week lower under a punishing Treasury sell-off. Crude eased slightly, while gold set a record near $4,680 (+2.4%) and bitcoin capped its best week in two years around $77,000 (+6%) as investors hunted for shelter from the bond rout.",
+  "lead": {
+   "headline": "Markets limp into the weekend as bond turmoil sets up a high-stakes Jackson Hole",
+   "tag": "Markets · Aug 22",
+   "body": [
+    "Wall Street salvaged Friday but not the week. The Dow rose 0.98% to 53,276.81, the S&P 500 and Nasdaq each added 0.43%, and the Russell 2000 climbed 0.88%, helped by a beat from Ross Stores and a report showing solid U.S. business activity. Even so, all four benchmarks finished the week lower, dragged down by a Treasury sell-off that repeatedly overwhelmed Washington's attempts to steady it.",
+    "The pressure sits at the long end of the curve. The 10-year yield snapped back above 4.7%, erasing the brief relief that followed Treasury Secretary Scott Bessent's mid-week decision to at least double bond buybacks to $4 billion per operation. With deficits widening, inflation sticky, the dollar soft and U.S. debt past $40 trillion, attention now shifts to Jackson Hole (Aug. 27–29), where Kevin Warsh delivers his first symposium keynote as Fed chair on Friday — his read on rates, and on Treasury's market intervention, could set the tone into September."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Treasury's buyback bid meets a skeptical bond market.",
+    "text": "Bessent's move to at least double buybacks of longer-dated Treasurys to $4 billion per operation steadied yields only briefly; the 10- and 30-year snapped back to prior highs, and analysts likened the effort to 'a weak form Operation Twist' with limited enduring impact as $40 trillion in federal debt and heavy corporate issuance weigh on the long end."
+   },
+   {
+    "lead": "September rate odds swing on soft jobs data.",
+    "text": "Market-implied odds of a September rate hike fell to roughly one-in-three from about 60%, after July nonfarm payrolls dropped 23,000 versus expectations for an 85,000 gain. July's FOMC decision drew three hawkish dissenters pushing for an immediate increase — the most fractured Fed vote in nearly a decade."
+   },
+   {
+    "lead": "Bitcoin logs its best week in two years.",
+    "text": "Bitcoin jumped about 6% Friday to near $77,065, capping its strongest week since 2023 as bond-market volatility pushed investors toward alternative stores of value. The rally rippled through crypto-linked equities and payments names heading into the weekend."
+   },
+   {
+    "lead": "Gold sets a record as havens rally.",
+    "text": "Gold climbed 2.4% to roughly $4,680 an ounce, a fresh record, as the Treasury rout and a softening dollar drove safe-haven demand — a notable divergence from equities during a week defined by rate anxiety."
+   },
+   {
+    "lead": "Dealmakers gear up for a busy 2026.",
+    "text": "Wall Street bankers are shifting focus to a fuller 2026 pipeline after a strong run of large deals, with Morgan Stanley and peers signaling stronger M&A and capital-markets activity ahead — though this week's rate volatility is a reminder that financing conditions remain the swing factor for IPOs and leveraged deals."
+   }
+  ],
+  "watch": {
+   "title": "Warsh's Jackson Hole debut",
+   "lead": "The Fed's new chair takes the podium.",
+   "text": "Kevin Warsh delivers his first Jackson Hole keynote as Fed chair around 10 a.m. ET on Friday, Aug. 28. Roughly 69% of fund managers surveyed by BofA expect a neutral tone, so the market impact hinges on surprises — especially whether Warsh addresses Treasury's bond buybacks and any threat they pose to Fed independence heading into the September FOMC."
+  },
+  "world": [
+   {
+    "lead": "U.S. tightens the screws on Iran.",
+    "text": "Treasury Secretary Bessent announced what he called 'the greatest coordinated economic isolation in history' against Iran, warning allies they are 'either with us or against us,' as the carrier USS George Washington arrived in the Middle East to relieve the USS Abraham Lincoln after a record 270-day deployment."
+   },
+   {
+    "lead": "Yemen sees its worst fighting since 2022.",
+    "text": "Houthi forces and Yemeni government troops clashed in the heaviest combat in years, with the government claiming 81 attacks in 24 hours while Houthis struck facilities inside Saudi Arabia — raising fresh risk to regional shipping and energy flows."
+   },
+   {
+    "lead": "Sudan's humanitarian crisis deepens.",
+    "text": "Some 200,000 people were newly displaced in Kordofan amid fighting between the military and the Rapid Support Forces, while flooding in North Darfur damaged hundreds of homes, compounding one of the world's largest displacement emergencies."
+   },
+   {
+    "lead": "A milestone in a California special election.",
+    "text": "Aisha Wahab won a U.S. House special election with 53% of the vote, becoming the first Afghan American in Congress after overcoming roughly $6 million in outside spending against her."
+   },
+   {
+    "lead": "Protests swell in Tunisia.",
+    "text": "Hundreds marched in Tunis demanding the ouster of President Kais Saied, chanting for the fall of the regime amid deteriorating public services and shortages — a rare show of mass dissent under his consolidated rule."
+   }
+  ],
+  "sources": "TheStreet; CNBC; Reuters; Fortune; Yahoo Finance; Yakima Herald (AP); TechTimes; Democracy Now"
+ },
+ {
   "date": "2026-08-21",
   "label": "Fri · Aug 21",
   "weekday": "Friday, August 21, 2026",
