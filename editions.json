@@ -4,8 +4,8 @@
   "label": "Sat · Aug 22",
   "weekday": "Saturday, August 22, 2026",
   "marketsClose": "Aug 21",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Wall Street rebounded Friday but capped a losing week as Treasury's doubled bond buybacks failed to tame surging long-term yields, teeing up new Fed Chair Kevin Warsh's Jackson Hole debut next week — with bitcoin fresh off its best week in two years.",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Bitcoin ripped past $78,000 in weekend trading — capping its best week since 2024 as the Treasury rout sent money into hard assets — while Wall Street braces for a pivotal week: Bessent's 'toughest sanctions in history' on Iran land Monday and new Fed chief Kevin Warsh makes his Jackson Hole debut Friday.",
   "markets": [
    {
     "name": "Dow",
@@ -32,66 +32,66 @@
     "v": -0.11
    }
   ],
-  "marketsNote": "A late rebound lifted all four equity gauges Friday — the Dow closed up 517 points at 53,276.81 and small caps led with the Russell 2000 up 0.9% — yet every major index still finished the week lower under a punishing Treasury sell-off. Crude eased slightly, while gold set a record near $4,680 (+2.4%) and bitcoin capped its best week in two years around $77,000 (+6%) as investors hunted for shelter from the bond rout.",
+  "marketsNote": "Equities were dark for the weekend after Friday's late rebound left the Dow at 53,276.81 (+0.98%) yet every major index lower on the week under the Treasury sell-off. The action moved to markets that never close: bitcoin extended its run to about $78,335 (+7%) — a roughly 22% weekly surge and its best week since 2024 — with ether near $2,515 (+8%) and XRP up double digits, while gold held a record near $4,680 as the soft dollar and the bond rout kept haven demand alive into a make-or-break week.",
   "lead": {
-   "headline": "Markets limp into the weekend as bond turmoil sets up a high-stakes Jackson Hole",
+   "headline": "Crypto surge extends into the weekend as Wall Street braces for Iran sanctions and Warsh's Fed debut",
    "tag": "Markets · Aug 22",
    "body": [
-    "Wall Street salvaged Friday but not the week. The Dow rose 0.98% to 53,276.81, the S&P 500 and Nasdaq each added 0.43%, and the Russell 2000 climbed 0.88%, helped by a beat from Ross Stores and a report showing solid U.S. business activity. Even so, all four benchmarks finished the week lower, dragged down by a Treasury sell-off that repeatedly overwhelmed Washington's attempts to steady it.",
-    "The pressure sits at the long end of the curve. The 10-year yield snapped back above 4.7%, erasing the brief relief that followed Treasury Secretary Scott Bessent's mid-week decision to at least double bond buybacks to $4 billion per operation. With deficits widening, inflation sticky, the dollar soft and U.S. debt past $40 trillion, attention now shifts to Jackson Hole (Aug. 27–29), where Kevin Warsh delivers his first symposium keynote as Fed chair on Friday — his read on rates, and on Treasury's market intervention, could set the tone into September."
+    "With U.S. equity markets shut for the weekend, the story stayed in the assets that trade around the clock. Bitcoin pushed to roughly $78,335, up about 7% on the day and some 22% on the week — its strongest week since 2024 — as the punishing Treasury sell-off drove investors toward alternative stores of value. Ether climbed to about $2,515 (+8%), Solana to near $93.65, and XRP jumped double digits, while gold clung to a record near $4,680. A softening dollar and swelling federal deficits are doing the heavy lifting behind the flight from paper into hard and digital assets.",
+    "The rally sets up one of the most consequential weeks of the year. Treasury Secretary Scott Bessent is expected to unveil what he calls the 'toughest sanctions in history' on Iran at a Monday press conference, part of a coordinated 'economic isolation' campaign that has already prompted the UAE to sever ties with Tehran. Then attention turns to Jackson Hole (Aug. 27–29), where new Fed Chair Kevin Warsh delivers his first symposium keynote Friday — with the 10-year yield back above 4.7%, markets want his read on rates and on Treasury's controversial bond buybacks. Goldman Sachs is already warning clients to brace for amplified currency-market volatility around the speech."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Treasury's buyback bid meets a skeptical bond market.",
-    "text": "Bessent's move to at least double buybacks of longer-dated Treasurys to $4 billion per operation steadied yields only briefly; the 10- and 30-year snapped back to prior highs, and analysts likened the effort to 'a weak form Operation Twist' with limited enduring impact as $40 trillion in federal debt and heavy corporate issuance weigh on the long end."
+    "lead": "Bitcoin caps its best week since 2024.",
+    "text": "Bitcoin extended gains through the weekend to around $78,335, up roughly 7% on the day and about 22% for the week — its strongest stretch in two years. Ether rose about 8% to near $2,515, Solana traded around $93.65, and XRP surged more than 14%, with institutional inflows into spot bitcoin ETFs and a weakening dollar cited as the main drivers."
    },
    {
-    "lead": "September rate odds swing on soft jobs data.",
-    "text": "Market-implied odds of a September rate hike fell to roughly one-in-three from about 60%, after July nonfarm payrolls dropped 23,000 versus expectations for an 85,000 gain. July's FOMC decision drew three hawkish dissenters pushing for an immediate increase — the most fractured Fed vote in nearly a decade."
+    "lead": "Gold holds a record as the haven trade endures.",
+    "text": "Gold stayed pinned near its record around $4,680 an ounce after Friday's push, as persistent worries over $40 trillion-plus in federal debt, sticky inflation and a soft dollar kept safe-haven demand firm heading into a week dominated by Iran sanctions and Jackson Hole."
    },
    {
-    "lead": "Bitcoin logs its best week in two years.",
-    "text": "Bitcoin jumped about 6% Friday to near $77,065, capping its strongest week since 2023 as bond-market volatility pushed investors toward alternative stores of value. The rally rippled through crypto-linked equities and payments names heading into the weekend."
+    "lead": "Treasury's buyback fix still isn't sticking.",
+    "text": "The 10-year yield remained above 4.7% into the weekend, with Bessent's move to at least double longer-dated bond buybacks to $4 billion per operation having steadied the market only briefly. Analysts continue to liken the effort to a 'weak form Operation Twist,' leaving the long end of the curve as the market's central worry."
    },
    {
-    "lead": "Gold sets a record as havens rally.",
-    "text": "Gold climbed 2.4% to roughly $4,680 an ounce, a fresh record, as the Treasury rout and a softening dollar drove safe-haven demand — a notable divergence from equities during a week defined by rate anxiety."
+    "lead": "Goldman flags FX risk around Warsh.",
+    "text": "Goldman Sachs told clients to prepare for amplified foreign-exchange volatility around Kevin Warsh's Jackson Hole debut Friday, warning that any surprise in tone from the new Fed chair — particularly on Treasury's market intervention and Fed independence — could ripple hard through the dollar just 19 days before the September FOMC decision."
    },
    {
-    "lead": "Dealmakers gear up for a busy 2026.",
-    "text": "Wall Street bankers are shifting focus to a fuller 2026 pipeline after a strong run of large deals, with Morgan Stanley and peers signaling stronger M&A and capital-markets activity ahead — though this week's rate volatility is a reminder that financing conditions remain the swing factor for IPOs and leveraged deals."
+    "lead": "September rate path still hangs on a split Fed.",
+    "text": "Market-implied odds of a September rate hike sit near one-in-three after July payrolls fell 23,000 against expectations for an 85,000 gain, and with the July FOMC drawing three hawkish dissenters — the most fractured Fed vote in nearly a decade. Warsh's Friday remarks are the next major input before the decision."
    }
   ],
   "watch": {
-   "title": "Warsh's Jackson Hole debut",
-   "lead": "The Fed's new chair takes the podium.",
-   "text": "Kevin Warsh delivers his first Jackson Hole keynote as Fed chair around 10 a.m. ET on Friday, Aug. 28. Roughly 69% of fund managers surveyed by BofA expect a neutral tone, so the market impact hinges on surprises — especially whether Warsh addresses Treasury's bond buybacks and any threat they pose to Fed independence heading into the September FOMC."
+   "title": "A make-or-break week",
+   "lead": "Two catalysts land in quick succession.",
+   "text": "Bessent's Iran sanctions unveiling is expected early next week, followed by Warsh's first Jackson Hole keynote around 10 a.m. ET Friday, Aug. 28. With bond yields elevated, crypto surging and oil sensitive to any Gulf escalation, the two events together could set the market's direction into September — watch whether Warsh addresses Treasury's buybacks and whether new Iran measures disrupt energy flows."
   },
   "world": [
    {
-    "lead": "U.S. tightens the screws on Iran.",
-    "text": "Treasury Secretary Bessent announced what he called 'the greatest coordinated economic isolation in history' against Iran, warning allies they are 'either with us or against us,' as the carrier USS George Washington arrived in the Middle East to relieve the USS Abraham Lincoln after a record 270-day deployment."
+    "lead": "Iran pushes back as sanctions loom Monday.",
+    "text": "Tehran publicly criticized Washington's coming measures as an overreach of 'extraterritorial sovereignty' ahead of Bessent's Monday rollout of what he bills as the 'toughest sanctions in history.' The Treasury chief has told allies they are 'either with us or against us'; the UAE has already cut trade and financial ties, and Iran's central bank says oil exports have fallen to near zero."
    },
    {
-    "lead": "Yemen sees its worst fighting since 2022.",
-    "text": "Houthi forces and Yemeni government troops clashed in the heaviest combat in years, with the government claiming 81 attacks in 24 hours while Houthis struck facilities inside Saudi Arabia — raising fresh risk to regional shipping and energy flows."
+    "lead": "Hormuz tensions keep energy markets on edge.",
+    "text": "Ship traffic through the Strait of Hormuz has thinned sharply amid the standoff, and President Trump inflamed matters by posting a map labeling the strategic waterway as 'NEW U.S. Territory' and threatening consequences for nations still trading with Iran — raising the risk of a supply shock just as sanctions escalate."
    },
    {
-    "lead": "Sudan's humanitarian crisis deepens.",
-    "text": "Some 200,000 people were newly displaced in Kordofan amid fighting between the military and the Rapid Support Forces, while flooding in North Darfur damaged hundreds of homes, compounding one of the world's largest displacement emergencies."
+    "lead": "Houthis strike inside Saudi Arabia.",
+    "text": "Yemen's Houthis claimed attacks on a Saudi airport and an Aramco facility in Najran, extending the worst fighting in years with Yemeni government forces. Analysts warn the escalation could reignite regional conflict and threaten global oil supplies at an already fragile moment for the Gulf."
    },
    {
-    "lead": "A milestone in a California special election.",
-    "text": "Aisha Wahab won a U.S. House special election with 53% of the vote, becoming the first Afghan American in Congress after overcoming roughly $6 million in outside spending against her."
+    "lead": "Russia signals openness, on its own terms.",
+    "text": "Deputy Foreign Minister Sergey Ryabkov said Moscow is 'ready to listen to any reasonable proposals' on Ukraine that align with Putin's goals — even as the Kremlin holds to demands that Kyiv cede the entire Donbas, demilitarize and forswear NATO. Putin has dismissed recent Ukrainian proposals as too 'exotic,' leaving a durable ceasefire elusive."
    },
    {
-    "lead": "Protests swell in Tunisia.",
-    "text": "Hundreds marched in Tunis demanding the ouster of President Kais Saied, chanting for the fall of the regime amid deteriorating public services and shortages — a rare show of mass dissent under his consolidated rule."
+    "lead": "Israel strikes deepen regional friction.",
+    "text": "Israel bombed a Syrian military airbase it said Turkish troops were preparing to occupy, drawing condemnation from Turkey, Egypt and Qatar, who demanded compliance with ceasefire terms — a fresh strain on an already combustible Middle East as the U.S.-Iran confrontation sharpens."
    }
   ],
-  "sources": "TheStreet; CNBC; Reuters; Fortune; Yahoo Finance; Yakima Herald (AP); TechTimes; Democracy Now"
+  "sources": "CNBC; Reuters; Bloomberg; The National; Al Jazeera; Fortune; TechTimes; Seeking Alpha; FDD; Rio Times"
  },
  {
   "date": "2026-08-21",
