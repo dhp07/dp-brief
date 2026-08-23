@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-23",
+  "label": "Sun · Aug 23",
+  "weekday": "Sunday, August 23, 2026",
+  "marketsClose": "Aug 21",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Wall Street opens the most consequential week of the year: Treasury Secretary Bessent unveils his 'toughest sanctions in history' on Iran on Monday, with the 10-year above 4.7% and oil near $87, before new Fed chief Kevin Warsh's Jackson Hole debut Friday.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.98
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.43
+   },
+   {
+    "name": "Nasdaq",
+    "v": 0.43
+   },
+   {
+    "name": "Russell 2000",
+    "v": 0.88
+   },
+   {
+    "name": "WTI Crude",
+    "v": -0.13
+   },
+   {
+    "name": "Brent",
+    "v": -0.11
+   }
+  ],
+  "marketsNote": "U.S. markets are shut for the weekend, leaving Friday's late rebound as the reference point: the Dow closed at 53,276.81 (+0.98%), the S&P 500 and Nasdaq each rose 0.43% and the Russell 2000 added 0.88%, yet every major index still finished lower on the week under a punishing Treasury sell-off that pushed the 10-year yield back above 4.7%. Oil stayed elevated on Iran risk, with WTI near $87 and Brent around $95, while bitcoin held close to $78,000 after its best week since 2024.",
+  "lead": {
+   "headline": "Wall Street opens a make-or-break week with Iran sanctions Monday and Warsh's Fed debut in view",
+   "tag": "Markets · Aug 23",
+   "body": [
+    "Investors head into Monday facing one of the busiest catalyst weeks of the year. Treasury Secretary Scott Bessent is expected to detail what he has billed as the 'toughest sanctions in history' on Iran, the centerpiece of a coordinated campaign he calls 'the greatest coordinated economic isolation in the history of the world.' The plan pairs a naval blockade with secondary sanctions on any country that buys Iranian oil or moves its money — an ultimatum Bessent framed as 'you're either with us or against us' — though he has pointedly declined to say publicly whether China, which takes roughly half of Gulf energy exports, will be a direct target.",
+    "The other half of the week belongs to the Fed. New Chair Kevin Warsh delivers his first Jackson Hole keynote Friday (the symposium runs Aug. 27–29) with the bond market unusually fragile: the 10-year yield sits above 4.7% after a week-long rout, and July FOMC minutes released Aug. 19 showed officials warning a rate hike could be needed if inflation fails to cool. Bessent's move to at least double longer-dated Treasury buybacks to $4 billion per operation steadied yields only briefly, and Goldman Sachs has already told clients to brace for amplified currency-market swings around Warsh's remarks."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "The Fed's September path splits the Street.",
+    "text": "The FOMC held its benchmark rate at 3.50%–3.75% in July, and minutes published Aug. 19 revealed officials who saw a case for a rate hike should inflation prove sticky. Market-implied odds of a September hike sit near one-in-three, leaving Warsh's Jackson Hole debut Friday as the week's pivotal read on the rate path."
+   },
+   {
+    "lead": "Treasury's buyback fix still isn't sticking.",
+    "text": "The 10-year yield remained above 4.7% into the weekend despite Bessent's decision to at least double longer-dated bond buybacks to $4 billion per operation. Markets have largely treated the move as a limited patch on a deficit-driven sell-off rather than a durable floor for Treasurys."
+   },
+   {
+    "lead": "Crypto caps its best week since 2024.",
+    "text": "Bitcoin held near $78,000 into the weekend after a roughly 22% weekly surge — its strongest stretch in two years — as the bond rout and a softer dollar pushed money toward hard and digital assets. The move rippled into crypto-linked equities, with Robinhood up about 11% and Coinbase up 8.5% on Friday."
+   },
+   {
+    "lead": "Dealmakers eye a busy autumn.",
+    "text": "Wall Street's investment banks are positioning for a heavier deal calendar after a strong second quarter for trading and advisory fees. Recent closings underscore the momentum: CoStar Group wrapped its acquisition of home-data firm Zonda, while the Real Brokerage–RE/MAX combination and the TWO–CrossCountry Mortgage merger both cleared their final approvals."
+   },
+   {
+    "lead": "Goldman flags FX risk around Warsh.",
+    "text": "Goldman Sachs advised clients to prepare for amplified foreign-exchange volatility around Warsh's first Jackson Hole address, warning that any surprise in tone on rates or on Treasury's controversial buyback program could jolt an already jittery dollar."
+   }
+  ],
+  "watch": {
+   "title": "A make-or-break week",
+   "lead": "Two catalysts land in quick succession.",
+   "text": "Bessent's Iran sanctions unveiling is expected at a Monday press conference, followed by Warsh's first Jackson Hole keynote around 10 a.m. ET Friday, Aug. 28. With the 10-year above 4.7%, oil near $87 on Hormuz risk and crypto fresh off a record week, positioning is tense — any surprise on sanctions scope or the rate path could set the tone for markets into September."
+  },
+  "world": [
+   {
+    "lead": "Iran sanctions land Monday.",
+    "text": "Bessent is set to roll out sweeping measures — a naval blockade plus 'the toughest sanctions in history' — as part of a campaign to isolate Tehran's economy. Iran has publicly attacked the coming steps as an overreach of 'extraterritorial sovereignty,' and both capitals kept up hostile rhetoric through the weekend."
+   },
+   {
+    "lead": "Hormuz standoff keeps oil on edge.",
+    "text": "Ship traffic through the Strait of Hormuz has thinned sharply since the February war, keeping crude elevated near $87 WTI and $95 Brent. Washington's threat of secondary sanctions on Iran's trading partners raises the stakes for China, which accounts for roughly half of Gulf energy imports."
+   },
+   {
+    "lead": "Pope Leo XIV carries a peace message.",
+    "text": "The pontiff visited San Marino and Rimini, delivering appeals for peace and reconnecting with the Communion and Liberation movement during a weekend of diplomacy."
+   },
+   {
+    "lead": "Floods batter northern Italy.",
+    "text": "Torrential rain triggered flooding across Liguria, Lombardy and Tuscany, forcing evacuations and disrupting transport as emergency crews responded to the deluge."
+   },
+   {
+    "lead": "Sword attack hits a Swedish school.",
+    "text": "One person was killed and two teenagers injured in a sword attack at a high school in Sweden, the latest in a series of violent incidents to unsettle the country."
+   }
+  ],
+  "sources": "CNBC; Reuters; Bloomberg; Yahoo Finance; TheStreet; Al Jazeera; NBC News; The National; Fortune; Euronews"
+ },
+ {
   "date": "2026-08-22",
   "label": "Sat · Aug 22",
   "weekday": "Saturday, August 22, 2026",
