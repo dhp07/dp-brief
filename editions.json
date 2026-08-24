@@ -1,5 +1,95 @@
 [
  {
+  "date": "2026-08-24",
+  "label": "Mon · Aug 24",
+  "weekday": "Monday, August 24, 2026",
+  "marketsClose": "Aug 24",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Treasury Secretary Scott Bessent unveiled his long-promised 'economic D-Day' on Iran — secondary sanctions on any nation still trading with Tehran — but a light-on-detail rollout, a fresh chip sell-off before Nvidia's earnings and a still-fragile bond market left Wall Street mixed as the Dow eked out a gain and the Nasdaq slid.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.2
+   },
+   {
+    "name": "S&P 500",
+    "v": -0.27
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.63
+   },
+   {
+    "name": "Russell 2000",
+    "v": 0.85
+   },
+   {
+    "name": "WTI Crude",
+    "v": -1.3
+   },
+   {
+    "name": "Brent",
+    "v": -1.1
+   }
+  ],
+  "marketsNote": "Stocks split along familiar lines to open the week: the Dow added 0.20% to 53,386.15 (+109.14) as healthcare and materials led, and the small-cap Russell 2000 jumped 0.85% to 3,017.87, but the S&P 500 slipped 0.27% to 7,653.64 and the Nasdaq fell 0.63% to 26,016.13 as chips buckled — Micron dropped about 6% and Nvidia lost 2.1% two days before its earnings. Eight of eleven S&P sectors finished higher even so. The 10-year Treasury yield ended near 4.73% and the 30-year around 5.27%, each up roughly three basis points, after paring an intraday climb on a report that Bessent could tap the Treasury's cash pile to fund buybacks. Oil eased — WTI settled near $85.93, down 1.30% — as traders judged the new Iran sanctions long on rhetoric and short on fresh enforcement, while bitcoin held near $77,000 and Coinbase rose 8.2%.",
+  "lead": {
+   "headline": "Bessent unveils his 'economic D-Day' on Iran, but a thin rollout leaves markets unmoved and oil lower",
+   "tag": "World · Aug 24",
+   "body": [
+    "Treasury Secretary Scott Bessent on Monday formally rolled out what he has branded an 'economic D-Day' against Iran, centered on secondary sanctions aimed at any country or company that keeps doing business with Tehran as the war nears its six-month mark. Bessent named China, Russia, India, Pakistan, Qatar and Turkey among the nations still buying Iranian oil or moving its money, pairing the threat with a U.S. naval blockade he said is already 'cutting off the lifeblood of the economy.' The pressure is biting inside Iran: the rial slid to roughly two million to the dollar, a historic low, and Parliament Speaker Mohammad Bagher Ghalibaf warned that 'if people are hungry… we will not endure.'",
+    "The market verdict was skeptical. Analysts and several outlets noted the measures largely restate authorities that already exist but have been only loosely enforced, and Bessent again declined to say publicly whether Washington will directly punish China, which takes a large share of Gulf energy. Rather than spike on supply fears, crude fell — WTI down 1.30% to about $85.93 — as traders concluded the blockade was already priced in and the 'D-Day' framing outran the details. Equities took it in stride, with the Dow higher and losses concentrated in semiconductors rather than any broad risk-off move."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Bessent eyes a $1 trillion cash pile to fight the bond rout.",
+    "text": "A CNBC report Monday said the Treasury could pull almost $1 trillion from its General Account — the government's checking account at the Fed — to fund larger bond buybacks, a marked escalation in Bessent's effort to cap surging long-term yields. Treasurys briefly rallied on the headline before giving it back: the 10-year still closed up about three basis points near 4.73% and the 30-year near 5.27%, a sign markets remain unconvinced the tactic can durably offset deficit-driven supply."
+   },
+   {
+    "lead": "Warsh's Jackson Hole debut is now the week's main event.",
+    "text": "New Fed Chair Kevin Warsh delivers his first Jackson Hole keynote Friday, with the symposium running Aug. 27–29 and the bond market unusually jumpy. July FOMC minutes released Aug. 19 showed officials floating the case for a rate hike if inflation fails to cool, and market-implied odds of a September hike sit near one-in-three, leaving Warsh's tone as the pivotal read on the path."
+   },
+   {
+    "lead": "Chips crack ahead of Nvidia's Wednesday print.",
+    "text": "Semiconductors led the Nasdaq lower as investors de-risked before Nvidia's earnings after Wednesday's close. Micron fell about 6% on memory-bandwidth and China-supply worries, Applied Optoelectronics plunged 11% on a $600 million equity raise, and Nvidia slid 2.1% — even as AI buyers like Alphabet, up 1.7%, bucked the sector."
+   },
+   {
+    "lead": "Crypto keeps its momentum.",
+    "text": "Bitcoin held near $77,000 after a roughly 22% weekly surge, its best stretch since 2024, as a softer dollar and the Treasury sell-off pushed money toward hard and digital assets. The move again lifted crypto-linked equities, with Coinbase climbing about 8.2% on the day."
+   },
+   {
+    "lead": "Small caps and defensives quietly outperform.",
+    "text": "Beneath the tech weakness, the rotation that has defined recent sessions held: the Russell 2000 rose 0.85% and the healthcare and materials sectors led the S&P, with their sector ETFs up 1.3% and 2.2%. Eight of eleven S&P 500 groups finished in the green, underscoring that Monday's slide was narrow rather than broad."
+   }
+  ],
+  "watch": {
+   "title": "Nvidia + Jackson Hole",
+   "lead": "Two catalysts bookend the week.",
+   "text": "Nvidia reports after Wednesday's close in what the Street is treating as a referendum on stretched AI valuations, and Warsh's Jackson Hole keynote follows Friday with the 10-year still hovering near 4.73%. A soft Nvidia guide or a hawkish Warsh could each reignite the bond-and-tech volatility that has whipsawed markets — watch whether Bessent's buyback threat can actually put a floor under long yields."
+  },
+  "world": [
+   {
+    "lead": "U.S.-Canada trade talks have collapsed.",
+    "text": "Prime Minister Mark Carney said negotiations broke down after a last-minute U.S. 'power play,' calling the new American tariffs a 'miscalculation' and vowing retaliatory duties that take effect Sept. 8. The rupture between the two largest trading partners added a fresh macro worry for markets already digesting Iran and the bond rout."
+   },
+   {
+    "lead": "Iran's economy buckles under the blockade.",
+    "text": "The rial's slide to about two million per dollar underscored how hard the naval blockade and existing sanctions are already squeezing Tehran even before Monday's escalation. Iranian officials publicly warned of hunger and unrest, raising the stakes on whether Bessent's pressure campaign forces concessions or hardens resistance."
+   },
+   {
+    "lead": "The war nears a grim six-month mark.",
+    "text": "With no ceasefire in sight, the conflict is approaching half a year, and Washington's shift toward economic strangulation over further military action signals a longer war of attrition. Trump has said no talks are underway and previously tied any negotiations to Iranian compensation."
+   },
+   {
+    "lead": "Oil shrugs off the escalation.",
+    "text": "Despite the sharpened sanctions rhetoric, crude fell on the day — WTI down 1.30% to roughly $85.93 and Brent easing in tandem — as markets bet the blockade's supply hit is already reflected in prices and fresh enforcement remains uncertain. The move offered rare relief on the inflation front even as yields stayed elevated."
+   }
+  ],
+  "sources": "TheStreet; CNBC; Yahoo Finance; The Motley Fool; Axios; NPR; NBC News; CNN; Global News; Seeking Alpha"
+ },
+ {
   "date": "2026-08-23",
   "label": "Sun · Aug 23",
   "weekday": "Sunday, August 23, 2026",
