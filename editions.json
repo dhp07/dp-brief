@@ -3,95 +3,95 @@
   "date": "2026-08-25",
   "label": "Tue · Aug 25",
   "weekday": "Tuesday, August 25, 2026",
-  "marketsClose": "Aug 24",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "A chip-led slide dragged the S&P and Nasdaq lower before Nvidia's earnings, even as bank stocks lifted the Dow and Washington unveiled an 'economic D-Day' sanctions push on Iran.",
+  "marketsClose": "Aug 25",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Chips rebounded to lift all three indexes into the close on the eve of Nvidia's earnings, even as Canada answered Washington's levies with up to 50% tariffs on $20 billion of U.S. goods.",
   "markets": [
    {
     "name": "Dow",
-    "v": 0.28
+    "v": 0.29
    },
    {
     "name": "S&P 500",
-    "v": -0.18
+    "v": 0.31
    },
    {
     "name": "Nasdaq",
-    "v": -0.38
+    "v": 0.64
    },
    {
     "name": "Russell 2000",
-    "v": 0.15
+    "v": 0.5
    },
    {
     "name": "WTI Crude",
-    "v": -1.83
+    "v": -3.7
    },
    {
     "name": "Brent",
-    "v": -1.35
+    "v": -3.1
    }
   ],
-  "marketsNote": "Breadth was split: financials (+1.19%) and value names offset a 2.6% drop in the Philadelphia Semiconductor Index, while crude fell despite fresh Iran tensions as demand fears outweighed supply risk.",
+  "marketsNote": "The chip complex reversed Monday's slide — the Philadelphia Semiconductor Index rose nearly 2% with Nvidia +2.5%, Marvell +7% and AMD +4.3% — while a roughly 3.7% drop in crude and a 10-year yield easing to about 4.66% relieved pressure across the tape.",
   "lead": {
-   "headline": "Chip selloff sinks Nasdaq before Nvidia; banks prop up the Dow",
+   "headline": "Chips rebound lifts Wall Street into the close ahead of Nvidia",
    "tag": "Business & Markets · Aug 25",
    "body": [
-    "Wall Street opened the week defensively. The Nasdaq Composite fell 0.38% to 26,081 and the S&P 500 slipped 0.18% to 7,660.85 as semiconductors led the retreat ahead of Nvidia's results later this week. Micron Technology tumbled 5.76%, Nvidia lost 2.03% and Broadcom fell 1.74%, dragging the Philadelphia Semiconductor Index down 2.64% to a three-week low.",
-    "The Dow Jones Industrial Average bucked the trend, rising 146.59 points, or 0.28%, to 53,423.60, powered by financials. JPMorgan Chase gained 1.49% and Visa added 2.64% as the sector rose 1.19% overall. Investors also weighed geopolitics, with the U.S. pledging an 'economic D-Day' against Iran, and positioned ahead of Wednesday's core PCE inflation reading and Fed Chair Kevin Warsh's Jackson Hole keynote on Friday."
+    "Wall Street clawed back Monday's losses. The Nasdaq Composite closed up 0.64% at 26,145, the S&P 500 added 0.31% to 7,676.62 and the Dow Jones Industrial Average rose 0.29% to 53,572.91, with the small-cap Russell 2000 up 0.50%. The rebound was led by semiconductors, which had dragged the market to three-week lows a day earlier: Nvidia gained about 2.5% to snap a seven-session losing streak, Marvell jumped roughly 7%, AMD rose more than 4% on a Raymond James upgrade, and the Philadelphia Semiconductor Index recovered nearly 2%.",
+    "Easing bond and oil pressure did the rest of the work. Longer-dated Treasury yields fell — the 10-year slipped to about 4.66% — as investors digested Treasury Secretary Scott Bessent's plan to expand buybacks, while WTI crude dropped roughly 3.7% to one-week lows near $82. Financials and utilities stayed in the green; the notable laggard was Dick's Sporting Goods, which cratered after missing revenue and cutting guidance. All of it was positioning ahead of Nvidia's results Wednesday and Wednesday's core PCE inflation print."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Financials lead the tape.",
-    "text": "Banks and payments were the day's bright spot, with the S&P financials sector up 1.19%. JPMorgan Chase rose 1.49% and Visa jumped 2.64%, together providing much of the Dow's lift as tech sagged."
+    "lead": "Treasury leans on buybacks.",
+    "text": "Bessent's move to expand Treasury buybacks helped pull longer-dated yields lower into the close, easing the bond-market strain that had unsettled equities last week. The 10-year yield eased to roughly 4.66% and the 30-year held its recent range, giving rate-sensitive growth names room to rally."
    },
    {
-    "lead": "Treasury eyes buybacks.",
-    "text": "Treasury Secretary Scott Bessent flagged potential use of the Treasury General Account to fund bond buybacks, aimed at smoothing supply as the 30-year yield held above 5%. The 10-year eased to about 4.69%."
+    "lead": "Financials hold the line.",
+    "text": "Banks and payments again sat among the day's steadier groups, with the S&P financials sector in the green as the broader tape recovered. Steady credit and a calmer yield backdrop kept the sector's recent leadership intact even as tech reclaimed the spotlight."
    },
    {
-    "lead": "Warsh at Jackson Hole.",
-    "text": "Fed Chair Kevin Warsh delivers the closely watched keynote at the Kansas City Fed's Jackson Hole symposium on Friday, Aug. 28, with markets hunting for clues on the rate path into the September FOMC meeting."
+    "lead": "Nvidia is the whole ballgame.",
+    "text": "Nvidia reports Wednesday after the close, and Tuesday's chip rebound was almost entirely pre-earnings positioning. As the largest weighting in the S&P 500 and the bellwether for the AI capital-spending trade, its guidance on data-center demand will set the tone for valuations across the market."
    },
    {
-    "lead": "Inflation data on deck.",
-    "text": "The Fed's preferred gauge — core PCE for July — lands Wednesday alongside Q2 GDP. Economists expect readings cool enough to keep the FOMC on hold, reinforcing a data-dependent, wait-and-see stance."
+    "lead": "Inflation data lands Wednesday.",
+    "text": "The Fed's preferred gauge — core PCE for July — arrives Wednesday alongside a Q2 GDP revision. A reading in line with expectations would reinforce a data-dependent Fed and support the market's bet on a September rate cut; an upside surprise would do the opposite."
    },
    {
-    "lead": "Nvidia sets the tone.",
-    "text": "Nvidia's quarterly report Wednesday is the week's marquee event for markets. Nervous positioning ahead of it, plus Micron's 5.76% slide, pulled the whole chip complex to three-week lows."
+    "lead": "Warsh headlines Jackson Hole.",
+    "text": "Fed Chair Kevin Warsh delivers his first Jackson Hole keynote Friday, Aug. 28, with traders hunting for any signal on the path into the September FOMC meeting. Markets are currently leaning toward a cut, leaving room for a hawkish surprise to reset expectations."
+   },
+   {
+    "lead": "Chip upgrades fuel the bid.",
+    "text": "Sell-side calls added momentum to the semiconductor bounce: AMD rose more than 4% after a Raymond James upgrade, Marvell surged about 7%, and Intel gained over 3%. The moves lifted the SOX index nearly 2% and helped erase Monday's 2.6% chip-sector drop."
    }
   ],
   "watch": {
-   "title": "Nvidia earnings & PCE",
-   "lead": "Two catalysts frame the week.",
-   "text": "Nvidia reports Wednesday after the close, a bellwether for the AI trade and the chip sector that just led markets lower. The same day brings core PCE inflation and Q2 GDP, and Fed Chair Warsh caps the week at Jackson Hole on Friday — any of the three could reset rate-cut expectations."
+   "title": "Nvidia earnings & core PCE",
+   "lead": "Wednesday is the hinge of the week.",
+   "text": "Nvidia's report after Wednesday's close is the marquee test for the AI trade that just led the market both down and back up. The same morning brings core PCE inflation and a Q2 GDP revision, and Warsh caps the week at Jackson Hole on Friday — any of the three could reset September rate-cut odds and the market's fragile risk appetite."
   },
   "world": [
    {
-    "lead": "U.S. targets Iran's economy.",
-    "text": "Treasury Secretary Scott Bessent unveiled 'Operation Economic Outcast,' an 'economic D-Day' campaign to sever Iran's financial and oil lifelines. Washington threatened secondary sanctions on any country or firm that keeps buying Iranian oil or doing business with Tehran."
+    "lead": "Canada answers Washington's tariffs.",
+    "text": "Ottawa unveiled counter-tariffs of up to 15%, 25% and 50% on roughly $20 billion of U.S. imports — more than 700 products spanning steel, seafood, cheese, clothing, electronics and toys — effective Sept. 8. Finance Minister François-Philippe Champagne said each Canadian duty 'would match the American tariff on the same type of Canadian goods' after weekend trade talks collapsed."
    },
    {
-    "lead": "U.S.–Canada trade war escalates.",
-    "text": "The U.S. slapped 50% tariffs on roughly $20 billion of Canadian imports after PM Mark Carney suspended talks and declared the 'old relationship is over.' Trump said Canada 'wants the benefits of being a state, without being one.'"
+    "lead": "U.S. tightens the screws on Iran.",
+    "text": "Under 'Operation Economic Outcast,' the Treasury sanctioned nearly 60 entities, individuals and vessels tied to Iran's nuclear, missile, cyber and oil-smuggling networks, and expanded secondary-sanctions categories to digital assets, gold, aviation and shipping. Bessent signaled a major financial institution could face sanctions by week's end and said the U.S. does 'not have infinite patience.'"
    },
    {
-    "lead": "Gas prices climb.",
-    "text": "The U.S. average pump price rose to $4.09 a gallon, pinned on Middle East conflict risk — even as crude futures fell on the day amid competing demand worries."
+    "lead": "Crude sinks despite Iran risk.",
+    "text": "Oil fell to one-week lows, with WTI down about 3.7% near $82 and Brent off roughly 3%, as demand worries and ample supply outweighed the geopolitical premium from the Iran campaign. The drop helped cool inflation fears and supported the equity rebound."
    },
    {
-    "lead": "Visa ban struck down.",
-    "text": "A federal judge struck down the Trump administration's travel-and-visa ban covering 75 countries, a fresh legal setback for the White House's immigration agenda."
-   },
-   {
-    "lead": "Nancy Kassebaum Baker dies at 94.",
-    "text": "The Kansas Republican — the first woman elected to the Senate in her own right without succeeding a husband, and a co-author of the HIPAA health-privacy law — has died at 94."
+    "lead": "Jackson Hole comes into view.",
+    "text": "The Kansas City Fed's symposium runs Aug. 27–29 in Wyoming, with Chair Warsh's closely watched keynote set for Friday. It is his first as chair, and markets are treating it as a potential signal on whether a September cut is on the table."
    }
   ],
-  "sources": "TheStreet; CNBC; Yahoo Finance/AP; The Spokesman-Review (Reuters); Forbes Advisor; Kiplinger; Al Jazeera; NPR; CNN; The Motley Fool"
+  "sources": "Reuters/Yahoo Finance; CNBC; TheStreet; The Motley Fool; HDFCSky (Reuters); Time; NBC News; Axios; NPR; Bloomberg"
  },
  {
   "date": "2026-08-24",
