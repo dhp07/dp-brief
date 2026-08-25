@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-25",
+  "label": "Tue · Aug 25",
+  "weekday": "Tuesday, August 25, 2026",
+  "marketsClose": "Aug 24",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "A chip-led slide dragged the S&P and Nasdaq lower before Nvidia's earnings, even as bank stocks lifted the Dow and Washington unveiled an 'economic D-Day' sanctions push on Iran.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.28
+   },
+   {
+    "name": "S&P 500",
+    "v": -0.18
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.38
+   },
+   {
+    "name": "Russell 2000",
+    "v": 0.15
+   },
+   {
+    "name": "WTI Crude",
+    "v": -1.83
+   },
+   {
+    "name": "Brent",
+    "v": -1.35
+   }
+  ],
+  "marketsNote": "Breadth was split: financials (+1.19%) and value names offset a 2.6% drop in the Philadelphia Semiconductor Index, while crude fell despite fresh Iran tensions as demand fears outweighed supply risk.",
+  "lead": {
+   "headline": "Chip selloff sinks Nasdaq before Nvidia; banks prop up the Dow",
+   "tag": "Business & Markets · Aug 25",
+   "body": [
+    "Wall Street opened the week defensively. The Nasdaq Composite fell 0.38% to 26,081 and the S&P 500 slipped 0.18% to 7,660.85 as semiconductors led the retreat ahead of Nvidia's results later this week. Micron Technology tumbled 5.76%, Nvidia lost 2.03% and Broadcom fell 1.74%, dragging the Philadelphia Semiconductor Index down 2.64% to a three-week low.",
+    "The Dow Jones Industrial Average bucked the trend, rising 146.59 points, or 0.28%, to 53,423.60, powered by financials. JPMorgan Chase gained 1.49% and Visa added 2.64% as the sector rose 1.19% overall. Investors also weighed geopolitics, with the U.S. pledging an 'economic D-Day' against Iran, and positioned ahead of Wednesday's core PCE inflation reading and Fed Chair Kevin Warsh's Jackson Hole keynote on Friday."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Financials lead the tape.",
+    "text": "Banks and payments were the day's bright spot, with the S&P financials sector up 1.19%. JPMorgan Chase rose 1.49% and Visa jumped 2.64%, together providing much of the Dow's lift as tech sagged."
+   },
+   {
+    "lead": "Treasury eyes buybacks.",
+    "text": "Treasury Secretary Scott Bessent flagged potential use of the Treasury General Account to fund bond buybacks, aimed at smoothing supply as the 30-year yield held above 5%. The 10-year eased to about 4.69%."
+   },
+   {
+    "lead": "Warsh at Jackson Hole.",
+    "text": "Fed Chair Kevin Warsh delivers the closely watched keynote at the Kansas City Fed's Jackson Hole symposium on Friday, Aug. 28, with markets hunting for clues on the rate path into the September FOMC meeting."
+   },
+   {
+    "lead": "Inflation data on deck.",
+    "text": "The Fed's preferred gauge — core PCE for July — lands Wednesday alongside Q2 GDP. Economists expect readings cool enough to keep the FOMC on hold, reinforcing a data-dependent, wait-and-see stance."
+   },
+   {
+    "lead": "Nvidia sets the tone.",
+    "text": "Nvidia's quarterly report Wednesday is the week's marquee event for markets. Nervous positioning ahead of it, plus Micron's 5.76% slide, pulled the whole chip complex to three-week lows."
+   }
+  ],
+  "watch": {
+   "title": "Nvidia earnings & PCE",
+   "lead": "Two catalysts frame the week.",
+   "text": "Nvidia reports Wednesday after the close, a bellwether for the AI trade and the chip sector that just led markets lower. The same day brings core PCE inflation and Q2 GDP, and Fed Chair Warsh caps the week at Jackson Hole on Friday — any of the three could reset rate-cut expectations."
+  },
+  "world": [
+   {
+    "lead": "U.S. targets Iran's economy.",
+    "text": "Treasury Secretary Scott Bessent unveiled 'Operation Economic Outcast,' an 'economic D-Day' campaign to sever Iran's financial and oil lifelines. Washington threatened secondary sanctions on any country or firm that keeps buying Iranian oil or doing business with Tehran."
+   },
+   {
+    "lead": "U.S.–Canada trade war escalates.",
+    "text": "The U.S. slapped 50% tariffs on roughly $20 billion of Canadian imports after PM Mark Carney suspended talks and declared the 'old relationship is over.' Trump said Canada 'wants the benefits of being a state, without being one.'"
+   },
+   {
+    "lead": "Gas prices climb.",
+    "text": "The U.S. average pump price rose to $4.09 a gallon, pinned on Middle East conflict risk — even as crude futures fell on the day amid competing demand worries."
+   },
+   {
+    "lead": "Visa ban struck down.",
+    "text": "A federal judge struck down the Trump administration's travel-and-visa ban covering 75 countries, a fresh legal setback for the White House's immigration agenda."
+   },
+   {
+    "lead": "Nancy Kassebaum Baker dies at 94.",
+    "text": "The Kansas Republican — the first woman elected to the Senate in her own right without succeeding a husband, and a co-author of the HIPAA health-privacy law — has died at 94."
+   }
+  ],
+  "sources": "TheStreet; CNBC; Yahoo Finance/AP; The Spokesman-Review (Reuters); Forbes Advisor; Kiplinger; Al Jazeera; NPR; CNN; The Motley Fool"
+ },
+ {
   "date": "2026-08-24",
   "label": "Mon · Aug 24",
   "weekday": "Monday, August 24, 2026",
