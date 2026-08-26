@@ -3,95 +3,99 @@
   "date": "2026-08-26",
   "label": "Wed · Aug 26",
   "weekday": "Wednesday, August 26, 2026",
-  "marketsClose": "Aug 25",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Stocks clawed back Monday's losses as chips rebounded before Nvidia's earnings and crude sank on reports of U.S.-Iran ceasefire talks, unwinding the war premium.",
+  "marketsClose": "Aug 26",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Nvidia cleared the AI trade's highest bar after the bell — record $96.2B revenue, $108B next-quarter guidance and a swing to a ~5% after-hours gain — while stocks closed narrowly mixed and crude sank on hopes for a Strait of Hormuz reopening.",
   "markets": [
    {
     "name": "Dow",
-    "v": 0.22
+    "v": 0.17
    },
    {
     "name": "S&P 500",
-    "v": 0.28
+    "v": -0.02
    },
    {
     "name": "Nasdaq",
-    "v": 0.48
+    "v": 0.38
    },
    {
     "name": "Russell 2000",
-    "v": 0.29
+    "v": 0.45
    },
    {
     "name": "WTI Crude",
-    "v": -3.15
+    "v": -2.55
    },
    {
     "name": "Brent",
-    "v": -2.67
+    "v": -2.2
    }
   ],
-  "marketsNote": "Breadth was broadly positive as retreating Treasury yields and a semiconductor bounce lifted all four indexes, while crude tumbled the most in weeks as a possible Iran ceasefire drained the geopolitical premium.",
+  "marketsNote": "Indexes finished mixed and little changed as investors sat on their hands ahead of Nvidia's post-close report, with a chip bid lifting the Nasdaq while a sticky PCE reading capped the Dow and S&P; crude slid a second straight day as Iran-Oman talks on reopening the Strait of Hormuz drained the war premium.",
   "lead": {
-   "headline": "Chips rebound and yields ease to push Wall Street higher before Nvidia",
-   "tag": "Markets · Aug 25",
+   "headline": "Nvidia clears the bar after the bell as a muted market waits, then rallies on its guidance",
+   "tag": "Markets · Aug 26",
    "body": [
-    "U.S. stocks recovered from Monday's chip-led sell-off on Tuesday, with the Nasdaq Composite adding 0.48%, the S&P 500 0.28%, the Dow Jones Industrial Average 0.22% and the small-cap Russell 2000 0.29%. Declining Treasury yields and a rebound in semiconductors set the tone as investors positioned ahead of Nvidia's quarterly report, the market's next major test.",
-    "Sentiment got a late lift from reports of potential U.S.-Iran ceasefire negotiations. Moderna jumped roughly 10.5% on positive cancer-vaccine trial data and Super Micro Computer rose about 8% on a Cisco partnership, while Dick's Sporting Goods cratered about 26% after missing earnings and cutting guidance. Consumer confidence, meanwhile, slid to a seven-month low of 89.4, underscoring household caution beneath the market's calm."
+    "Wall Street ground through a quiet session on Wednesday before the day's real event arrived after the close: Nvidia posted fiscal second-quarter revenue of about $96.2 billion, up roughly 106% year over year, with data-center sales near $89 billion on the Blackwell Ultra ramp and adjusted earnings of $2.22 a share. Crucially, management guided to roughly $108 billion in revenue for the current quarter, above Wall Street's estimates and a signal that the AI capital-spending cycle has not yet cooled. The stock initially slipped as much as 1.3% in after-hours trade, then reversed to trade up nearly 5% once CFO Colette Kress walked through the numbers on the call.",
+    "The cash session itself was a placeholder. The Dow edged up about 0.17% and the S&P 500 closed essentially flat at -0.02%, while a bid in semiconductors carried the Nasdaq to a modest gain and the small-cap Russell 2000 outperformed. The July core PCE price index — the Fed's preferred gauge — held at 3.3% year over year with the headline at 3.7%, a touch firmer than hoped and a reminder that inflation remains sticky heading into Friday's Jackson Hole address. Away from tech, Abercrombie & Fitch surged more than 30% on strong results and raised guidance, Meta whipsawed on a landmark $16.7 billion child-safety settlement, and crude extended its slide as Iran and Oman pushed talks toward an interim reopening of the Strait of Hormuz."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Jackson Hole looms.",
-    "text": "Investors are bracing for Fed Chair Kevin Warsh's first Jackson Hole address on Friday, where he is expected to push his agenda to scrap forward guidance rather than telegraph rate cuts. His reticence after July's meeting helped drive long-term yields to two-decade highs."
+    "lead": "Nvidia's guide anchors the AI-capex thesis.",
+    "text": "By steering to about $108 billion in current-quarter revenue and roughly 74% gross margins, Nvidia effectively underwrote the multibillion-dollar data-center buildouts that hyperscalers and neocloud borrowers are financing, keeping the credit and equity pipelines tied to AI infrastructure firmly open into month-end."
    },
    {
-    "lead": "Inflation gauge on deck.",
-    "text": "The core PCE price index, the Fed's preferred inflation measure, is due Wednesday, with the July reading projected near 3.6% year-over-year, still well above the 2% target and complicated by lingering oil-price pressure."
+    "lead": "Sticky inflation complicates the Fed.",
+    "text": "Core PCE stayed at 3.3% year over year for July with the headline at 3.7%, running well above the 2% target and giving Chair Kevin Warsh little cover to signal cuts as the market braces for his framing of policy on Friday."
    },
    {
-    "lead": "Cable megadeal advances.",
-    "text": "Charter Communications' roughly $34.5 billion combination with Cox and its acquisition of Liberty Broadband anchor a busy stretch for U.S. dealmaking, even as overall M&A volume slipped in July from June."
+    "lead": "Jackson Hole is now the main event.",
+    "text": "With Nvidia and PCE out of the way, attention pivots to Warsh's first Jackson Hole keynote, where he is expected to press his case for scrapping forward guidance and reshaping how the Fed communicates — a potential source of rate volatility into next week."
    },
    {
-    "lead": "Sponsor money stays active.",
-    "text": "Private-capital was the lone bright spot in July's M&A tally, with sponsor deal value rising in both the U.S. and globally, including a partnership of up to £2 billion in Standard Life led by CVC Capital and Prudential Financial."
+    "lead": "Meta strikes a landmark settlement.",
+    "text": "Meta agreed to pay up to roughly $16.7 billion to settle claims by California and a coalition of states that Facebook and Instagram were designed to harm children and teens, one of the largest social-media accountability deals on record and a template other platforms may be pressed to follow."
    },
    {
-    "lead": "IPO pipeline builds.",
-    "text": "Bankers remain focused on a heavy 2026 calendar after cashing in on a wave of large deals, with the post-SpaceX listing pipeline keeping equity-capital-markets desks busy heading into the fall."
+    "lead": "Alibaba taps the market for AI.",
+    "text": "Alibaba pared steep losses after unveiling a roughly $10 billion share placement to fund its artificial-intelligence push, a reminder that the capital-raising wave around AI now spans both U.S. and Chinese tech balance sheets."
+   },
+   {
+    "lead": "Dealmaking stays busy.",
+    "text": "Charter Communications' roughly $34.5 billion combination with Cox and its Liberty Broadband acquisition continue to anchor a heavy U.S. M&A stretch, with sponsor-led private capital and a building 2026 IPO calendar keeping banking desks occupied."
    }
   ],
   "watch": {
-   "title": "Nvidia earnings",
-   "lead": "The AI trade's referendum.",
-   "text": "Nvidia reports after Wednesday's close, and with the chipmaker among the market's most heavily weighted names, its data-center guidance will set the tone for the AI trade and the broader Nasdaq into month-end."
+   "title": "Jackson Hole Friday",
+   "lead": "The Fed's turn to move markets.",
+   "text": "With the AI referendum settled and PCE printed, the next catalyst is Warsh's Jackson Hole address on Friday. Any hint on the path for rates, or on his plan to overhaul Fed communications, will set the tone for Treasury yields and equities into the final days of August."
   },
   "world": [
    {
-    "lead": "Sanctions escalate on Iran.",
-    "text": "Treasury Secretary Scott Bessent unveiled 'Operation Economic Outcast,' expanding secondary sanctions across aviation, digital assets, gold, shipping and technology and hitting nearly 60 entities tied to nuclear procurement and cyber operations; Tehran called it 'economic terrorism' and threatened retaliation."
+    "lead": "Hormuz reopening moves closer.",
+    "text": "Iran and Oman pushed talks toward an interim reopening of the Strait of Hormuz, with a senior Iranian source saying the two sides — alongside the U.S. — are still working toward an accord; the prospect of restored commercial shipping through the chokepoint sent crude lower for a second straight session."
    },
    {
-    "lead": "Ceasefire hopes stir markets.",
-    "text": "Reports of possible U.S.-Iran ceasefire talks buoyed equities and pressured crude, while Pakistani officials cited 'significant progress' in separate peace efforts during a high-level visit to Tehran."
+    "lead": "Ukraine's allies press for air defense.",
+    "text": "Backers convened in Kyiv as President Zelensky sought a boost to air defenses against intensifying Russian missile and drone barrages, while Moscow signaled openness to 'new ideas' on ending the war so long as they align with Putin's stated objectives."
    },
    {
-    "lead": "Ukraine deepens Western ties.",
-    "text": "Britain and France confirmed plans to share classified missile technology to help Ukraine build an Anglo-French cruise missile, and a Ukrainian drone strike set Russia's Afipsky oil refinery ablaze, killing two people."
+    "lead": "Meta case reverberates beyond markets.",
+    "text": "The $16.7 billion child-safety settlement with U.S. states landed as a defining moment for how governments hold social platforms accountable for harms to young users, with prosecutors framing it as setting new industry standards."
    },
    {
-    "lead": "Gaza strikes continue.",
-    "text": "Israeli operations killed at least four people, including two children, across Gaza refugee camps, with the military saying it targeted Hamas weapons facilities as an Israeli NGO opened a medical clinic in the Al-Mawasi camp."
+    "lead": "Gaza operations continue.",
+    "text": "Israeli strikes persisted across Gaza, with the military again citing Hamas targets amid mounting civilian casualties, as diplomatic efforts toward a durable ceasefire remained unresolved."
    },
    {
-    "lead": "West Bank tensions rise.",
-    "text": "Israeli military leaders warned that escalating settler violence in the West Bank could ignite broader Palestinian unrest."
+    "lead": "West Bank stays on edge.",
+    "text": "Israeli commanders continued to warn that escalating settler violence in the West Bank risks igniting wider Palestinian unrest, keeping a second front of tension simmering alongside the Gaza campaign."
    }
   ],
-  "sources": "TheStreet; CNBC; Reuters; Forbes; Fortune; Yahoo Finance; Paul, Weiss; Just Security; The Washington Post"
+  "sources": "TheStreet; CNBC; Reuters; Kiplinger; CoinDesk; The Motley Fool; Trading Economics; Yahoo Finance; Bloomberg; NPR; Al Jazeera; The Japan Times"
  },
  {
   "date": "2026-08-25",
