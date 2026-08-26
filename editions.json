@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-26",
+  "label": "Wed · Aug 26",
+  "weekday": "Wednesday, August 26, 2026",
+  "marketsClose": "Aug 25",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Stocks clawed back Monday's losses as chips rebounded before Nvidia's earnings and crude sank on reports of U.S.-Iran ceasefire talks, unwinding the war premium.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.22
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.28
+   },
+   {
+    "name": "Nasdaq",
+    "v": 0.48
+   },
+   {
+    "name": "Russell 2000",
+    "v": 0.29
+   },
+   {
+    "name": "WTI Crude",
+    "v": -3.15
+   },
+   {
+    "name": "Brent",
+    "v": -2.67
+   }
+  ],
+  "marketsNote": "Breadth was broadly positive as retreating Treasury yields and a semiconductor bounce lifted all four indexes, while crude tumbled the most in weeks as a possible Iran ceasefire drained the geopolitical premium.",
+  "lead": {
+   "headline": "Chips rebound and yields ease to push Wall Street higher before Nvidia",
+   "tag": "Markets · Aug 25",
+   "body": [
+    "U.S. stocks recovered from Monday's chip-led sell-off on Tuesday, with the Nasdaq Composite adding 0.48%, the S&P 500 0.28%, the Dow Jones Industrial Average 0.22% and the small-cap Russell 2000 0.29%. Declining Treasury yields and a rebound in semiconductors set the tone as investors positioned ahead of Nvidia's quarterly report, the market's next major test.",
+    "Sentiment got a late lift from reports of potential U.S.-Iran ceasefire negotiations. Moderna jumped roughly 10.5% on positive cancer-vaccine trial data and Super Micro Computer rose about 8% on a Cisco partnership, while Dick's Sporting Goods cratered about 26% after missing earnings and cutting guidance. Consumer confidence, meanwhile, slid to a seven-month low of 89.4, underscoring household caution beneath the market's calm."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Jackson Hole looms.",
+    "text": "Investors are bracing for Fed Chair Kevin Warsh's first Jackson Hole address on Friday, where he is expected to push his agenda to scrap forward guidance rather than telegraph rate cuts. His reticence after July's meeting helped drive long-term yields to two-decade highs."
+   },
+   {
+    "lead": "Inflation gauge on deck.",
+    "text": "The core PCE price index, the Fed's preferred inflation measure, is due Wednesday, with the July reading projected near 3.6% year-over-year, still well above the 2% target and complicated by lingering oil-price pressure."
+   },
+   {
+    "lead": "Cable megadeal advances.",
+    "text": "Charter Communications' roughly $34.5 billion combination with Cox and its acquisition of Liberty Broadband anchor a busy stretch for U.S. dealmaking, even as overall M&A volume slipped in July from June."
+   },
+   {
+    "lead": "Sponsor money stays active.",
+    "text": "Private-capital was the lone bright spot in July's M&A tally, with sponsor deal value rising in both the U.S. and globally, including a partnership of up to £2 billion in Standard Life led by CVC Capital and Prudential Financial."
+   },
+   {
+    "lead": "IPO pipeline builds.",
+    "text": "Bankers remain focused on a heavy 2026 calendar after cashing in on a wave of large deals, with the post-SpaceX listing pipeline keeping equity-capital-markets desks busy heading into the fall."
+   }
+  ],
+  "watch": {
+   "title": "Nvidia earnings",
+   "lead": "The AI trade's referendum.",
+   "text": "Nvidia reports after Wednesday's close, and with the chipmaker among the market's most heavily weighted names, its data-center guidance will set the tone for the AI trade and the broader Nasdaq into month-end."
+  },
+  "world": [
+   {
+    "lead": "Sanctions escalate on Iran.",
+    "text": "Treasury Secretary Scott Bessent unveiled 'Operation Economic Outcast,' expanding secondary sanctions across aviation, digital assets, gold, shipping and technology and hitting nearly 60 entities tied to nuclear procurement and cyber operations; Tehran called it 'economic terrorism' and threatened retaliation."
+   },
+   {
+    "lead": "Ceasefire hopes stir markets.",
+    "text": "Reports of possible U.S.-Iran ceasefire talks buoyed equities and pressured crude, while Pakistani officials cited 'significant progress' in separate peace efforts during a high-level visit to Tehran."
+   },
+   {
+    "lead": "Ukraine deepens Western ties.",
+    "text": "Britain and France confirmed plans to share classified missile technology to help Ukraine build an Anglo-French cruise missile, and a Ukrainian drone strike set Russia's Afipsky oil refinery ablaze, killing two people."
+   },
+   {
+    "lead": "Gaza strikes continue.",
+    "text": "Israeli operations killed at least four people, including two children, across Gaza refugee camps, with the military saying it targeted Hamas weapons facilities as an Israeli NGO opened a medical clinic in the Al-Mawasi camp."
+   },
+   {
+    "lead": "West Bank tensions rise.",
+    "text": "Israeli military leaders warned that escalating settler violence in the West Bank could ignite broader Palestinian unrest."
+   }
+  ],
+  "sources": "TheStreet; CNBC; Reuters; Forbes; Fortune; Yahoo Finance; Paul, Weiss; Just Security; The Washington Post"
+ },
+ {
   "date": "2026-08-25",
   "label": "Tue · Aug 25",
   "weekday": "Tuesday, August 25, 2026",
