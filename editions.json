@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-27",
+  "label": "Thu · Aug 27",
+  "weekday": "Thursday, August 27, 2026",
+  "marketsClose": "Aug 26",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Nvidia's record $96.2B quarter and $108B next-quarter guidance reset the AI trade overnight as Wall Street braces for Fed Chair Warsh's first Jackson Hole keynote Friday.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -0.21
+   },
+   {
+    "name": "S&P 500",
+    "v": -0.02
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.08
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.14
+   },
+   {
+    "name": "WTI Crude",
+    "v": -0.1
+   },
+   {
+    "name": "Brent",
+    "v": -0.8
+   }
+  ],
+  "marketsNote": "Stocks drifted through a near-flat session as traders sat on their hands before Nvidia's after-the-bell report and Friday's Jackson Hole keynote, with a slightly hot PCE print keeping the Dow in the red; crude pared a steep intraday slide to settle near flat as Iran-Oman talks on reopening the Strait of Hormuz drained war premium but fresh worries over a Russian escalation in Ukraine limited the drop.",
+  "lead": {
+   "headline": "Nvidia clears the AI trade's highest bar: record $96.2B quarter, $108B guide, and a 70% growth forecast for 2028",
+   "tag": "Markets · Aug 26",
+   "body": [
+    "Nvidia delivered the print the entire market was waiting for. After Wednesday's close the chipmaker reported fiscal second-quarter revenue of about $96.2 billion, up roughly 106% from a year earlier and 18% from the prior quarter, comfortably ahead of the roughly $92 billion analysts expected. Data-center revenue reached $89.0 billion, up 117% year over year on the Blackwell Ultra ramp, while adjusted earnings came in at $2.22 a share against a $2.09 consensus. GAAP net income swelled to $59.7 billion, and gross margin held at a rich 75%.",
+    "The guidance is what moved the tape: Nvidia projected third-quarter revenue of about $108 billion, plus or minus 2%, and CEO Jensen Huang told analysts that 'AI has reached its inflection point' and forecast roughly 70% revenue growth in fiscal 2028 — far above Wall Street's models. The stock, which had closed the regular session little changed, swung to a gain of around 5% in after-hours trading, reasserting Nvidia's role as the barometer for the broader AI capital-spending cycle heading into a data-heavy Thursday and Friday's Fed symposium."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Jackson Hole takes center stage.",
+    "text": "Fed Chair Kevin Warsh delivers his first Jackson Hole keynote Friday morning, and markets are on edge for any signal on the rate path. Warsh has deliberately scrapped formal forward guidance, and economists surveyed by CNBC expect him to emphasize a robust policy debate rather than pre-commit to a move — leaving the September FOMC decision genuinely live."
+   },
+   {
+    "lead": "Sticky inflation complicates the picture.",
+    "text": "July core PCE — the Fed's preferred gauge — rose 3.3% year over year, matching expectations but still well above the 2% target, with headline PCE at 3.7%. The Fed held its benchmark at 3.5%–3.75% in July over three hawkish dissents, and futures now price a roughly 45% chance of a hike by December versus expectations for cuts earlier in the year."
+   },
+   {
+    "lead": "Bessent leans on the long end.",
+    "text": "Treasury Secretary Scott Bessent announced an expansion of long-dated bond buybacks, an unusual layer of fiscal-monetary coordination that has left the dollar and Treasury market 'on edge' ahead of Warsh's speech. Traders read the move as an attempt to steady borrowing costs against a $40 trillion federal debt load."
+   },
+   {
+    "lead": "Meta swallows a record social-media settlement.",
+    "text": "Meta agreed to pay up to $16.7 billion to settle multistate claims led by California that Facebook and Instagram fueled social-media addiction and harm to children — one of the largest consumer settlements on record. Shares rose on the news as investors treated the once-open-ended litigation risk as capped."
+   },
+   {
+    "lead": "Regional bank M&A keeps building.",
+    "text": "Bank consolidation is running at a seven-year high, and dealmakers expect the pace to accelerate into 2026 as faster regulatory approvals and stronger credit backdrops widen the buyer pool. Analysts see mid-size regionals under the most pressure to pair up or become targets."
+   }
+  ],
+  "watch": {
+   "title": "Warsh at the podium",
+   "lead": "Friday, Jackson Hole.",
+   "text": "The Fed chair's keynote is the week's marquee event. With inflation sticky, the labor market cooling and the White House pressing for lower rates, any hint on the September meeting — cut, hold or the low-probability hike markets are still pricing — will move bonds, the dollar and rate-sensitive equities immediately."
+  },
+  "world": [
+   {
+    "lead": "Putin moves to escalate in Ukraine.",
+    "text": "With peace talks at a dead end, Moscow signaled a renewed military escalation, stoking energy-supply jitters. CIA Director John Ratcliffe made an unannounced trip to Moscow following the breakdown, as Ukraine's allies convened in Kyiv over air-defense support."
+   },
+   {
+    "lead": "Iran and Oman talk Hormuz.",
+    "text": "Tehran and Muscat resumed negotiations over a revenue-sharing arrangement to manage the Strait of Hormuz under U.S. economic pressure, easing some of the war premium in oil even as Houthi attacks and mine-clearance uncertainty kept traders cautious."
+   },
+   {
+    "lead": "Canada doubles down on tariffs.",
+    "text": "Ottawa doubled steel and aluminum tariffs to 50% and slapped 15–50% duties on some 700 U.S. products, escalating the cross-border trade fight and adding a fresh input-cost worry for North American manufacturers."
+   },
+   {
+    "lead": "U.S. delists Syria as terror sponsor.",
+    "text": "Washington removed Syria from its state-sponsor-of-terrorism list following Bashar al-Assad's ouster in December 2024, clearing a major obstacle to international investment and reconstruction financing in the country."
+   },
+   {
+    "lead": "Gaza journalist toll in focus.",
+    "text": "Palestinians marked one year since an Israeli strike killed five journalists at Nasser Hospital, with Reuters again pressing Israel to explain the deaths, as scrutiny of press safety in Gaza and the occupied West Bank intensified."
+   }
+  ],
+  "sources": "TheStreet; The Epoch Times (AP markets data); Yahoo Finance; Rigzone; CNBC; Fox Business; Bloomberg; Forbes; UPI; Al Jazeera; Democracy Now; American Banker"
+ },
+ {
   "date": "2026-08-26",
   "label": "Wed · Aug 26",
   "weekday": "Wednesday, August 26, 2026",
