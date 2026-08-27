@@ -3,95 +3,95 @@
   "date": "2026-08-27",
   "label": "Thu · Aug 27",
   "weekday": "Thursday, August 27, 2026",
-  "marketsClose": "Aug 26",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Nvidia's record $96.2B quarter and $108B next-quarter guidance reset the AI trade overnight as Wall Street braces for Fed Chair Warsh's first Jackson Hole keynote Friday.",
+  "marketsClose": "Aug 27",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Nvidia surged 8.7% and Salesforce logged its best day in six years, powering a tech-led rally that lifted the Nasdaq 1.6% as Wall Street turns to Fed Chair Warsh's Jackson Hole keynote at dawn.",
   "markets": [
    {
     "name": "Dow",
-    "v": -0.21
+    "v": 0.19
    },
    {
     "name": "S&P 500",
-    "v": -0.02
+    "v": 0.72
    },
    {
     "name": "Nasdaq",
-    "v": -0.08
+    "v": 1.57
    },
    {
     "name": "Russell 2000",
-    "v": -0.14
+    "v": 0.28
    },
    {
     "name": "WTI Crude",
-    "v": -0.1
+    "v": 2.4
    },
    {
     "name": "Brent",
-    "v": -0.8
+    "v": 2.1
    }
   ],
-  "marketsNote": "Stocks drifted through a near-flat session as traders sat on their hands before Nvidia's after-the-bell report and Friday's Jackson Hole keynote, with a slightly hot PCE print keeping the Dow in the red; crude pared a steep intraday slide to settle near flat as Iran-Oman talks on reopening the Strait of Hormuz drained war premium but fresh worries over a Russian escalation in Ukraine limited the drop.",
+  "marketsNote": "Nvidia's overnight pop became a full-session surge, dragging the Nasdaq up 1.57% to a record while Information Technology stood alone as the S&P 500's clear leader; the Dow lagged with a 0.19% gain as the rally stayed concentrated in tech and AI software, and crude jumped more than $2 a barrel on reports of shifting U.S. trade policy toward Iran, leaving traders positioned into Friday's Jackson Hole keynote.",
   "lead": {
-   "headline": "Nvidia clears the AI trade's highest bar: record $96.2B quarter, $108B guide, and a 70% growth forecast for 2028",
-   "tag": "Markets · Aug 26",
+   "headline": "Nvidia's after-hours pop turns into an 8.7% surge, powering a tech-led rally into Warsh's Jackson Hole test",
+   "tag": "Markets · Aug 27",
    "body": [
-    "Nvidia delivered the print the entire market was waiting for. After Wednesday's close the chipmaker reported fiscal second-quarter revenue of about $96.2 billion, up roughly 106% from a year earlier and 18% from the prior quarter, comfortably ahead of the roughly $92 billion analysts expected. Data-center revenue reached $89.0 billion, up 117% year over year on the Blackwell Ultra ramp, while adjusted earnings came in at $2.22 a share against a $2.09 consensus. GAAP net income swelled to $59.7 billion, and gross margin held at a rich 75%.",
-    "The guidance is what moved the tape: Nvidia projected third-quarter revenue of about $108 billion, plus or minus 2%, and CEO Jensen Huang told analysts that 'AI has reached its inflection point' and forecast roughly 70% revenue growth in fiscal 2028 — far above Wall Street's models. The stock, which had closed the regular session little changed, swung to a gain of around 5% in after-hours trading, reasserting Nvidia's role as the barometer for the broader AI capital-spending cycle heading into a data-heavy Thursday and Friday's Fed symposium."
+    "The verdict came fast. Nvidia's blowout print and its roughly $108 billion revenue guide, delivered after Wednesday's close, translated into an 8.74% regular-session surge Thursday to $227.98 on volume more than double its average, as Morgan Stanley flagged that Jensen Huang's projection of near-70% revenue growth sat far above the Street's 40%-to-52% models. The gains rippled across the complex: Broadcom rose 4.49% and CrowdStrike climbed on raised guidance, while AMD slipped 0.89%. Information Technology was the S&P 500's standout sector, and the software cohort ran even harder — Salesforce jumped 22.58%, its best single day in six years, as strong results eased fears that AI would hollow out the group.",
+    "The Nasdaq Composite closed up 1.57% at 26,540.78, the S&P 500 added 0.72% to 7,730.73, and the Dow lagged with a 0.19% gain to about 53,564. A resilient labor read helped the tone — weekly jobless claims fell to 203,000, the month's lowest, ahead of a major annual payroll benchmark revision — while the second estimate of Q2 GDP held at a 1.5% annual rate. With the AI trade re-anchored, attention now swings entirely to Fed Chair Kevin Warsh's 10 a.m. ET Jackson Hole keynote Friday, his first, which markets fear could jolt bonds and rate-sensitive equities either way."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Jackson Hole takes center stage.",
-    "text": "Fed Chair Kevin Warsh delivers his first Jackson Hole keynote Friday morning, and markets are on edge for any signal on the rate path. Warsh has deliberately scrapped formal forward guidance, and economists surveyed by CNBC expect him to emphasize a robust policy debate rather than pre-commit to a move — leaving the September FOMC decision genuinely live."
+    "lead": "Warsh takes the podium at dawn.",
+    "text": "Fed Chair Kevin Warsh delivers his first Jackson Hole keynote at 10 a.m. ET Friday under intense pressure to clarify a message he has deliberately kept vague. Having scrapped formal forward guidance, he faces demands for concrete answers on whether 2026's inflation reacceleration warrants hikes toward the six-years-overshot 2% target, and on limits to Fed-Treasury coordination after Bessent's market interventions."
    },
    {
-    "lead": "Sticky inflation complicates the picture.",
-    "text": "July core PCE — the Fed's preferred gauge — rose 3.3% year over year, matching expectations but still well above the 2% target, with headline PCE at 3.7%. The Fed held its benchmark at 3.5%–3.75% in July over three hawkish dissents, and futures now price a roughly 45% chance of a hike by December versus expectations for cuts earlier in the year."
+    "lead": "Yields ease into the speech.",
+    "text": "Treasury yields drifted lower Thursday as traders squared positions ahead of the keynote and digested softer-than-feared labor and growth data. The retreat partially unwound the post-FOMC surge in long-term rates that had left the bond market skittish since July, though futures still price a roughly 45% chance of a rate hike by December."
    },
    {
-    "lead": "Bessent leans on the long end.",
-    "text": "Treasury Secretary Scott Bessent announced an expansion of long-dated bond buybacks, an unusual layer of fiscal-monetary coordination that has left the dollar and Treasury market 'on edge' ahead of Warsh's speech. Traders read the move as an attempt to steady borrowing costs against a $40 trillion federal debt load."
+    "lead": "Jobless claims underscore a firm labor market.",
+    "text": "Initial claims fell to 203,000, a second straight weekly decline and the lowest of the month, reinforcing the picture of a cooling-but-resilient labor market just as the BLS prepares a large annual payroll benchmark revision. The steadiness gives Warsh cover to keep the September FOMC decision genuinely live rather than pre-commit to a cut."
    },
    {
-    "lead": "Meta swallows a record social-media settlement.",
-    "text": "Meta agreed to pay up to $16.7 billion to settle multistate claims led by California that Facebook and Instagram fueled social-media addiction and harm to children — one of the largest consumer settlements on record. Shares rose on the news as investors treated the once-open-ended litigation risk as capped."
+    "lead": "Software rally caps AI-disruption fears.",
+    "text": "Salesforce's 22.58% jump — its best day since 2020 — and CrowdStrike's climb after raising its forecast signaled that enterprise software is capturing AI demand rather than being displaced by it, broadening a rally that had been narrowly led by chipmakers and lifting the sector's beaten-down multiples."
    },
    {
-    "lead": "Regional bank M&A keeps building.",
-    "text": "Bank consolidation is running at a seven-year high, and dealmakers expect the pace to accelerate into 2026 as faster regulatory approvals and stronger credit backdrops widen the buyer pool. Analysts see mid-size regionals under the most pressure to pair up or become targets."
+    "lead": "Meta's addiction settlement ticks higher.",
+    "text": "The multistate social-media settlement first reported around $16.7 billion firmed to roughly $17.1 billion covering 47 states, D.C. and territories, with Meta agreeing to school-hour notification pauses. Investors continued to treat the once-open-ended litigation risk as capped, and the stock held its gains."
    }
   ],
   "watch": {
    "title": "Warsh at the podium",
-   "lead": "Friday, Jackson Hole.",
-   "text": "The Fed chair's keynote is the week's marquee event. With inflation sticky, the labor market cooling and the White House pressing for lower rates, any hint on the September meeting — cut, hold or the low-probability hike markets are still pricing — will move bonds, the dollar and rate-sensitive equities immediately."
+   "lead": "Friday, 10 a.m. ET, Jackson Hole.",
+   "text": "Thursday's tech surge leaves the market fully exposed to the Fed chair's first keynote. With inflation sticky, claims firm and the Treasury encroaching on the central bank's turf, any hint on the September meeting — cut, hold, or the low-odds hike still priced — will move bonds, the dollar and rate-sensitive equities the instant he speaks."
   },
   "world": [
    {
-    "lead": "Putin moves to escalate in Ukraine.",
-    "text": "With peace talks at a dead end, Moscow signaled a renewed military escalation, stoking energy-supply jitters. CIA Director John Ratcliffe made an unannounced trip to Moscow following the breakdown, as Ukraine's allies convened in Kyiv over air-defense support."
+    "lead": "CIA chief's secret Moscow trip surfaces.",
+    "text": "Reports Thursday confirmed CIA Director John Ratcliffe traveled secretly to Moscow to warn the Kremlin against attacking NATO members — naming Estonia, Latvia and Lithuania — and to press Russia to cut ties with Iran. President Trump called the visit routine; Putin was briefed but did not attend. Russia struck Kyiv overnight with missiles and drones, most of which Ukraine downed."
    },
    {
-    "lead": "Iran and Oman talk Hormuz.",
-    "text": "Tehran and Muscat resumed negotiations over a revenue-sharing arrangement to manage the Strait of Hormuz under U.S. economic pressure, easing some of the war premium in oil even as Houthi attacks and mine-clearance uncertainty kept traders cautious."
+    "lead": "U.S. tightens the screws on Iran's oil.",
+    "text": "The Justice Department moved to activate a Civil War-era maritime prize court to seize Iranian tankers, hardening the blockade, as Qatar's prime minister visited Tehran to mediate and the Iran-Oman Strait of Hormuz accord remained unfinalized. The Hormuz war premium in crude kept compressing even as oil rose on U.S.-Iran trade headlines."
    },
    {
-    "lead": "Canada doubles down on tariffs.",
-    "text": "Ottawa doubled steel and aluminum tariffs to 50% and slapped 15–50% duties on some 700 U.S. products, escalating the cross-border trade fight and adding a fresh input-cost worry for North American manufacturers."
+    "lead": "Gaza plan shifts to implementation.",
+    "text": "The Board of Peace's Nikolay Mladenov told the U.N. Security Council the 20-point Gaza plan had moved 'from the negotiating table to the engineering table,' signaling a turn toward execution. In parallel, Israel weighed expelling British, German and Italian officials from an international Gaza support body over criticism of Netanyahu."
    },
    {
-    "lead": "U.S. delists Syria as terror sponsor.",
-    "text": "Washington removed Syria from its state-sponsor-of-terrorism list following Bashar al-Assad's ouster in December 2024, clearing a major obstacle to international investment and reconstruction financing in the country."
+    "lead": "Europe eyes frozen Russian assets.",
+    "text": "An EU coalition pressed the European Commission to restart deploying immobilized Russian sovereign assets to fund Ukraine's defense, a step long resisted over legal and financial-stability concerns. Separately, Zelenskyy awarded Elon Musk Ukraine's Order of Freedom as Kyiv seeks expanded Starlink battlefield coverage."
    },
    {
-    "lead": "Gaza journalist toll in focus.",
-    "text": "Palestinians marked one year since an Israeli strike killed five journalists at Nasser Hospital, with Reuters again pressing Israel to explain the deaths, as scrutiny of press safety in Gaza and the occupied West Bank intensified."
+    "lead": "Diesel squeeze keeps fuel costs high.",
+    "text": "Even as crude's war premium fades, U.S. distillate inventories sit at their thinnest seasonal level since 1996 at 107.1 million barrels, holding the diesel crack near $100 a barrel and pump prices elevated around $5.63 nationally — a reminder that refining capacity, not crude supply, is the binding constraint into autumn."
    }
   ],
-  "sources": "TheStreet; The Epoch Times (AP markets data); Yahoo Finance; Rigzone; CNBC; Fox Business; Bloomberg; Forbes; UPI; Al Jazeera; Democracy Now; American Banker"
+  "sources": "TheStreet; Yahoo Finance; The Motley Fool; Bloomberg; CNBC; Axios; Just Security; CBS News; CNN; UPI; Eastern Herald; BEA"
  },
  {
   "date": "2026-08-26",
