@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-28",
+  "label": "Fri · Aug 28",
+  "weekday": "Friday, August 28, 2026",
+  "marketsClose": "Aug 27",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Nvidia's blockbuster quarter and a $108B guide drove the Nasdaq up 1.6% to fresh highs — even as ten of eleven S&P sectors fell — with all eyes now on Fed Chair Warsh at Jackson Hole.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.2
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.72
+   },
+   {
+    "name": "Nasdaq",
+    "v": 1.57
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.15
+   },
+   {
+    "name": "WTI Crude",
+    "v": 0.66
+   },
+   {
+    "name": "Brent",
+    "v": 0.61
+   }
+  ],
+  "marketsNote": "Breadth was thin — ten of eleven S&P sectors closed lower as money crowded into semiconductors and software; crude firmed as U.S. diesel inventories sat at their lowest seasonal level since 1996.",
+  "lead": {
+   "headline": "Nvidia's $96B quarter and $108B guide reignite the AI trade",
+   "tag": "Business · Aug 27",
+   "body": [
+    "Nvidia's late-Wednesday results supplied the fuel for Thursday's tape. The chipmaker posted revenue of roughly $96.2 billion and EPS of $2.22, topping Street estimates of about $92.3 billion and $2.09, and — crucially — guided the current quarter to around $108 billion, well ahead of consensus. Shares jumped about 7%, dragging the semiconductor complex and the broader Nasdaq higher; the tech sector alone rose 2.3%.",
+    "The gains were narrow. The Nasdaq Composite climbed 1.57% to record territory and the S&P 500 added 0.72%, but ten of the S&P's eleven sectors finished lower as investors rotated out of defensives like healthcare and utilities and into AI names. The Dow eked out a 0.2% gain and small-cap Russell 2000 slipped fractionally. Supporting the mood, weekly jobless claims fell to 203,000, beating the 208,000 consensus and reinforcing a still-firm labor market."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Jackson Hole takes center stage.",
+    "text": "Fed Chair Kevin Warsh delivers his keynote at the Kansas City Fed's symposium Friday, the market's most-watched event of the week for clues on the rate path. Bond yields have stabilized after last week's spike as investors weigh recent Treasury intervention."
+   },
+   {
+    "lead": "Nvidia bolts on Hugging Face.",
+    "text": "Nvidia agreed to acquire the AI model-and-data platform Hugging Face for roughly $12.9 billion, a deal that deepens its grip on the AI developer ecosystem and adds to a banner year for tech M&A advisory fees."
+   },
+   {
+    "lead": "Regulators eye stablecoins.",
+    "text": "The New York Fed published research on how stablecoins collide with the classic 'Mundell-Fleming trilemma,' the latest sign policymakers are wrestling with digital-dollar plumbing as issuance scales. The EBA separately opened a consultation on operational-risk standards for banks."
+   },
+   {
+    "lead": "Wall Street's deal machine hums.",
+    "text": "Bankers are on track for one of their best years ever, with the investment-banking pipeline described as 'firing on all cylinders' and desks already shifting focus to a busy 2026 slate of mega-mergers and IPOs after cashing in on this year's advisory and underwriting boom."
+   },
+   {
+    "lead": "Supply keeps flowing.",
+    "text": "Treasury sold $44 billion of 7-year notes as part of the week's auction calendar, with demand steady amid the yield backup. July's advance goods trade balance and the Kansas City Fed manufacturing index rounded out a light data day."
+   }
+  ],
+  "watch": {
+   "title": "Warsh at Jackson Hole",
+   "lead": "The week's marquee event.",
+   "text": "Fed Chair Kevin Warsh's Friday keynote is the swing factor for rates and risk assets into month-end. With core PCE running hot at 3.3% year-over-year and the labor market still firm, any hawkish tilt could stall the AI-led melt-up; a dovish read would broaden the rally beyond megacap tech."
+  },
+  "world": [
+   {
+    "lead": "Hormuz reopens.",
+    "text": "The U.S. declared shipping lanes through the Strait of Hormuz clear of mines, with President Trump saying 'that sucker is open' — easing a chokepoint that carries roughly a fifth of global oil and helping cap crude's rise despite tight product inventories."
+   },
+   {
+    "lead": "Pressure on Tehran.",
+    "text": "The Trump administration signaled it is 'not talking' with Iran and is instead preparing new economic sanctions, including measures that could hit Chinese banks doing business with Tehran, as tensions in the region stay elevated."
+   },
+   {
+    "lead": "Carrier rotation.",
+    "text": "The USS Theodore Roosevelt strike group is set to sail from San Diego in the coming weeks for a seven-month-plus deployment, relieving the USS George Washington and sustaining a heavy U.S. naval presence in the Middle East."
+   },
+   {
+    "lead": "Lebanon track opens.",
+    "text": "Washington authorized U.S. Ambassador Michel Issa to hold talks with senior Hezbollah figures to advance disarmament, per Lebanese media — a rare diplomatic channel alongside continued IDF operations near the Syrian border."
+   },
+   {
+    "lead": "Unrest in Jerusalem.",
+    "text": "Police arrested a suspect for arson during Haredi-extremist riots against Jerusalem Light Rail construction near Mea She'arim, where damage to the project has run into the hundreds of millions of dollars."
+   }
+  ],
+  "sources": "CNBC; Reuters; Bloomberg; Trading Economics; Yahoo Finance; Associated Press; Forbes; Times of Israel; Paul Hastings; Investrade"
+ },
+ {
   "date": "2026-08-27",
   "label": "Thu · Aug 27",
   "weekday": "Thursday, August 27, 2026",
