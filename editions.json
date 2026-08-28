@@ -3,95 +3,95 @@
   "date": "2026-08-28",
   "label": "Fri · Aug 28",
   "weekday": "Friday, August 28, 2026",
-  "marketsClose": "Aug 27",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Nvidia's blockbuster quarter and a $108B guide drove the Nasdaq up 1.6% to fresh highs — even as ten of eleven S&P sectors fell — with all eyes now on Fed Chair Warsh at Jackson Hole.",
+  "marketsClose": "Aug 28",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Fed Chair Warsh used his Jackson Hole debut to warn the Fed may still have to HIKE — pushing September rate-hike odds to 46% and knocking the AI-fueled rally off its record highs.",
   "markets": [
    {
     "name": "Dow",
-    "v": 0.2
+    "v": 0.05
    },
    {
     "name": "S&P 500",
-    "v": 0.72
+    "v": -0.12
    },
    {
     "name": "Nasdaq",
-    "v": 1.57
+    "v": -0.34
    },
    {
     "name": "Russell 2000",
-    "v": -0.15
+    "v": -1.23
    },
    {
     "name": "WTI Crude",
-    "v": 0.66
+    "v": -0.41
    },
    {
     "name": "Brent",
-    "v": 0.61
+    "v": -0.3
    }
   ],
-  "marketsNote": "Breadth was thin — ten of eleven S&P sectors closed lower as money crowded into semiconductors and software; crude firmed as U.S. diesel inventories sat at their lowest seasonal level since 1996.",
+  "marketsNote": "A choppy session ended the week on a down note: the Dow clung to a fractional gain while the S&P 500 and Nasdaq slipped and small caps took the brunt, the rate-sensitive Russell 2000 dropping 1.2% as short-term yields jumped on Warsh's hawkish tilt.",
   "lead": {
-   "headline": "Nvidia's $96B quarter and $108B guide reignite the AI trade",
-   "tag": "Business · Aug 27",
+   "headline": "Warsh's hawkish Jackson Hole debut puts a rate HIKE back on the table",
+   "tag": "Markets · Aug 28",
    "body": [
-    "Nvidia's late-Wednesday results supplied the fuel for Thursday's tape. The chipmaker posted revenue of roughly $96.2 billion and EPS of $2.22, topping Street estimates of about $92.3 billion and $2.09, and — crucially — guided the current quarter to around $108 billion, well ahead of consensus. Shares jumped about 7%, dragging the semiconductor complex and the broader Nasdaq higher; the tech sector alone rose 2.3%.",
-    "The gains were narrow. The Nasdaq Composite climbed 1.57% to record territory and the S&P 500 added 0.72%, but ten of the S&P's eleven sectors finished lower as investors rotated out of defensives like healthcare and utilities and into AI names. The Dow eked out a 0.2% gain and small-cap Russell 2000 slipped fractionally. Supporting the mood, weekly jobless claims fell to 203,000, beating the 208,000 consensus and reinforcing a still-firm labor market."
+    "Fed Chair Kevin Warsh used his first Jackson Hole keynote to sharpen the inflation message rather than soothe it. 'The Fed's predominant focus right now should be on prices,' he said, noting inflation is still 'running above our 2% target,' and warned that policymakers would 'have work to do' if they lack confidence underlying inflation is heading back to goal — his closest acknowledgment yet that additional tightening may be needed. He paired the warning with optimism, saying he was 'impressed by the overall performance of the economy, which appears to have strengthened.'",
+    "Markets read it as a green light to price a possible September hike. CME data showed the probability of a rate increase next month jumping to 46% from 35% on Thursday; the 2-year Treasury yield rose about 6.6 basis points to 4.29%, its highest in a month, while the 30-year eased 3bp to 5.16% and the dollar index climbed 0.4% to 99.55. Equities whipsawed through the session before fading: the Nasdaq gave back 0.34% and the S&P 500 slipped 0.12%, trimming Thursday's Nvidia-fueled melt-up, while the Dow held a hair above flat and the Russell 2000 sank 1.2% as higher-for-longer bets punished rate-sensitive names."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "Jackson Hole takes center stage.",
-    "text": "Fed Chair Kevin Warsh delivers his keynote at the Kansas City Fed's symposium Friday, the market's most-watched event of the week for clues on the rate path. Bond yields have stabilized after last week's spike as investors weigh recent Treasury intervention."
+    "lead": "Hike odds nearly doubled off recent lows.",
+    "text": "Fed-funds futures now imply a 46% chance of a September rate increase, up from 35% a day earlier, after Warsh signaled the bar for standing pat is a credible path back to 2% inflation — a path he is not yet convinced exists."
    },
    {
-    "lead": "Nvidia bolts on Hugging Face.",
-    "text": "Nvidia agreed to acquire the AI model-and-data platform Hugging Face for roughly $12.9 billion, a deal that deepens its grip on the AI developer ecosystem and adds to a banner year for tech M&A advisory fees."
+    "lead": "The curve bear-flattened.",
+    "text": "Short-dated Treasuries bore the selling: the 2-year yield rose ~6.6bp to 4.29% (a one-month high) while the 10-year sat roughly flat at 4.67% and the 30-year slipped to 5.16%, a classic bear-flattener as traders brace for tighter policy sooner rather than later."
    },
    {
-    "lead": "Regulators eye stablecoins.",
-    "text": "The New York Fed published research on how stablecoins collide with the classic 'Mundell-Fleming trilemma,' the latest sign policymakers are wrestling with digital-dollar plumbing as issuance scales. The EBA separately opened a consultation on operational-risk standards for banks."
+    "lead": "Small caps and regional banks slid.",
+    "text": "The Russell 2000 fell 1.2%, the day's clear underperformer, as rate-sensitive financials and leveraged small caps reprice to a Fed that may not cut at all this cycle. The dollar's 0.4% climb to 99.55 underscored the repricing."
    },
    {
-    "lead": "Wall Street's deal machine hums.",
-    "text": "Bankers are on track for one of their best years ever, with the investment-banking pipeline described as 'firing on all cylinders' and desks already shifting focus to a busy 2026 slate of mega-mergers and IPOs after cashing in on this year's advisory and underwriting boom."
+    "lead": "Deal desks stay red-hot.",
+    "text": "Even against the rate scare, bankers are on track for a record year: Morgan Stanley and peers are gearing up for a 2026-into-2027 deal boom, with mega-M&A advisory and underwriting fees running at their strongest ever and the pipeline described as firing on all cylinders."
    },
    {
-    "lead": "Supply keeps flowing.",
-    "text": "Treasury sold $44 billion of 7-year notes as part of the week's auction calendar, with demand steady amid the yield backup. July's advance goods trade balance and the Kansas City Fed manufacturing index rounded out a light data day."
+    "lead": "Attention pivots to the September FOMC.",
+    "text": "With core PCE still hot and Warsh withholding the reassurance markets wanted, the next employment and inflation prints become the swing factors for whether the Fed actually pulls the trigger on a hike at its September meeting."
    }
   ],
   "watch": {
-   "title": "Warsh at Jackson Hole",
-   "lead": "The week's marquee event.",
-   "text": "Fed Chair Kevin Warsh's Friday keynote is the swing factor for rates and risk assets into month-end. With core PCE running hot at 3.3% year-over-year and the labor market still firm, any hawkish tilt could stall the AI-led melt-up; a dovish read would broaden the rally beyond megacap tech."
+   "title": "September FOMC in play",
+   "lead": "The hike question is now live.",
+   "text": "Warsh's refusal to rule out tightening turns every data point between now and the September meeting into a market mover. Watch the next jobs report and CPI/PCE readings: a firm labor market plus sticky inflation would harden the 46% hike bet and pressure equities further, while any softening would let the AI-led rally reclaim its highs."
   },
   "world": [
    {
-    "lead": "Hormuz reopens.",
-    "text": "The U.S. declared shipping lanes through the Strait of Hormuz clear of mines, with President Trump saying 'that sucker is open' — easing a chokepoint that carries roughly a fifth of global oil and helping cap crude's rise despite tight product inventories."
+    "lead": "Hormuz standoff drags on.",
+    "text": "Iran's security chief Mohsen Rezaei said Tehran is compiling conditions for reopening the Strait of Hormuz, proposing a shipping corridor if U.S. demands are met. President Trump countered that Washington is pursuing economic warfare, not talks, with Press Secretary Karoline Leavitt vowing sanctions will continue 'until Iran decides to negotiate meaningfully.'"
    },
    {
-    "lead": "Pressure on Tehran.",
-    "text": "The Trump administration signaled it is 'not talking' with Iran and is instead preparing new economic sanctions, including measures that could hit Chinese banks doing business with Tehran, as tensions in the region stay elevated."
+    "lead": "Interceptor stocks run 'beyond critical.'",
+    "text": "A U.S. defense official warned the military faces a 'beyond critical' shortage of advanced missile interceptors in Europe, largely attributed to the Iran war, as NATO confirmed depleted Patriot inventories among allied forces."
    },
    {
-    "lead": "Carrier rotation.",
-    "text": "The USS Theodore Roosevelt strike group is set to sail from San Diego in the coming weeks for a seven-month-plus deployment, relieving the USS George Washington and sustaining a heavy U.S. naval presence in the Middle East."
+    "lead": "Israel reinforces the West Bank.",
+    "text": "Israeli airstrikes killed at least three people in Gaza, while Military Chief Eyal Zamir ordered substantial troop reinforcements in the West Bank amid escalating tensions and requested additional treasury funding."
    },
    {
-    "lead": "Lebanon track opens.",
-    "text": "Washington authorized U.S. Ambassador Michel Issa to hold talks with senior Hezbollah figures to advance disarmament, per Lebanese media — a rare diplomatic channel alongside continued IDF operations near the Syrian border."
+    "lead": "A quiet U.S. channel to Moscow.",
+    "text": "CIA Director John Ratcliffe visited Moscow to privately press assessments of the Ukraine war and urge negotiations before Russia's position worsens; Trump downplayed the trip as routine even as Russian drone strikes near Kyiv killed one and damaged dozens of buildings."
    },
    {
-    "lead": "Unrest in Jerusalem.",
-    "text": "Police arrested a suspect for arson during Haredi-extremist riots against Jerusalem Light Rail construction near Mea She'arim, where damage to the project has run into the hundreds of millions of dollars."
+    "lead": "Norway mourns its king.",
+    "text": "King Harald V of Norway died at age 89, closing a decades-long reign and setting in motion the accession of his heir."
    }
   ],
-  "sources": "CNBC; Reuters; Bloomberg; Trading Economics; Yahoo Finance; Associated Press; Forbes; Times of Israel; Paul Hastings; Investrade"
+  "sources": "CNBC; Reuters; Bloomberg; Yahoo Finance; TheStreet; CME Group; Al Jazeera; Just Security"
  },
  {
   "date": "2026-08-27",
