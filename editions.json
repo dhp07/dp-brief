@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-08-29",
+  "label": "Sat · Aug 29",
+  "weekday": "Saturday, August 29, 2026",
+  "marketsClose": "Aug 28",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Wall Street heads into the weekend bracing for a September rate HIKE: by Friday's close, market-implied odds had climbed to 57% — their highest of the cycle — as traders digested Fed Chair Warsh's hawkish Jackson Hole debut.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -0.02
+   },
+   {
+    "name": "S&P 500",
+    "v": -0.25
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.52
+   },
+   {
+    "name": "Russell 2000",
+    "v": -1.39
+   },
+   {
+    "name": "WTI Crude",
+    "v": -0.16
+   },
+   {
+    "name": "Brent",
+    "v": 0.97
+   }
+  ],
+  "marketsNote": "With trading shut for the weekend, Friday's final tape stands as the reference point: the Dow closed essentially flat (53,559.99, -0.02%) while the S&P 500 (7,711.76, -0.25%) and Nasdaq (26,402.42, -0.52%) finished lower and the rate-sensitive Russell 2000 sank 1.4% to 2,972.37 — the clearest sign Warsh's inflation warning has repriced the small-cap trade. Crude was mixed, WTI easing to about $83.40 as Brent firmed near $90.55.",
+  "lead": {
+   "headline": "As Wall Street digests Warsh, a September rate HIKE becomes the base-case debate",
+   "tag": "Markets · Aug 29",
+   "body": [
+    "The hawkish read on new Fed Chair Kevin Warsh's Jackson Hole debut hardened as Friday wore on and now frames the weekend's post-mortem. By the closing bell, CME-tracked odds of a September rate increase had climbed to 57% — up from roughly 46% earlier in the session and just 35% on Thursday — after Warsh insisted 'the Fed's predominant focus right now should be on prices,' pointing to PCE inflation still running at 3.7% (3.3% core) against the 2% target. The 2-year Treasury yield jumped about 8 basis points on the message, its sharpest move in weeks, as the curve bear-flattened.",
+    "What changed over the day is the framing itself: the market conversation has flipped from 'when does the Fed cut' to 'could the Fed actually hike' at the September 16–17 meeting. Economists spent Saturday split on whether Warsh was genuinely teeing up tightening or simply reasserting inflation-fighting credibility in his first big outing. Either way, the August jobs report due September 4 and the next PCE print now become the swing factors — a firm labor market plus sticky inflation would cement the 57% bet, while any softening would hand the AI-led rally room to reclaim its records."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Hike odds settled at a cycle high.",
+    "text": "Fed-funds futures ended Friday implying a 57% chance of a September increase, up from about 46% intraday and 35% on Thursday, after Warsh withheld the reassurance markets wanted that inflation is on a credible path back to 2%. It is the highest hike probability of the cycle heading into the FOMC's quiet period."
+   },
+   {
+    "lead": "A $50 billion fintech buyout collapsed.",
+    "text": "Advent International and Stripe abandoned their roughly $50 billion pursuit of PayPal, sending PayPal shares down about 15% on Friday. In a striking split-screen, Affirm surged around 13% after reporting what it called its most profitable quarter ever — a reminder that the payments shakeout is rewarding operators over would-be acquirers."
+   },
+   {
+    "lead": "The curve bear-flattened.",
+    "text": "Short-dated Treasuries bore the brunt: the 2-year yield rose roughly 8bp as traders priced tighter policy sooner, while long yields moved far less — a classic bear-flattener that pressured rate-sensitive financials and drove the Russell 2000's 1.4% decline, the day's clear underperformer."
+   },
+   {
+    "lead": "IPO issuance is entering a new era.",
+    "text": "Even against the rate scare, primary markets are booming: more than $250 billion has been raised in equity offerings this year, and JPMorgan and Morgan Stanley bankers say the pipeline points to a structurally busier issuance backdrop into 2026, with mega-M&A advisory and underwriting fees tracking record levels."
+   },
+   {
+    "lead": "Attention pivots to the September FOMC.",
+    "text": "With core PCE still hot and Warsh signaling the bar for standing pat is a convincing disinflation path, the August employment report (Sept 4) and the next inflation readings become the decisive inputs for whether the Fed pulls the trigger on a hike at its September meeting."
+   }
+  ],
+  "watch": {
+   "title": "September FOMC in play",
+   "lead": "The hike question is now live.",
+   "text": "Warsh's refusal to rule out tightening turns every data point between now and September 16–17 into a market mover. Watch the August jobs report on September 4 and the following CPI/PCE prints: a resilient labor market plus sticky inflation would harden the 57% hike bet and pressure equities — especially small caps and rate-sensitive financials — while any clear softening would let the AI-led rally push back toward its highs."
+  },
+  "world": [
+   {
+    "lead": "Niger repels a coup attempt.",
+    "text": "Mutinying soldiers attacked the presidential palace and military barracks in Niamey around 1 a.m., triggering hours of heavy gunfire. Defense Minister Gen. Salifou Mody said security forces 'gradually took back control' of the targeted sites, and by late Saturday morning residents reported calm restored; the presidential guard remained loyal to junta leader Gen. Abdourahamane Tiani."
+   },
+   {
+    "lead": "Norway mourns King Harald V.",
+    "text": "King Harald V of Norway has died at age 89, ending a 35-year reign. His son ascends the throne as King Haakon VIII, and world leaders paid tribute to the late monarch as the constitutional monarchy begins its transition."
+   },
+   {
+    "lead": "A U.S.–Venezuela oil pact takes shape.",
+    "text": "Washington and Caracas are reported to have reached a major agreement involving control over more than 65 billion barrels of Venezuelan crude reserves — a potentially significant swing factor for global supply that markets will weigh alongside a firmer Brent price near $90."
+   },
+   {
+    "lead": "Germany reinforces NATO's east.",
+    "text": "Berlin is expanding its 'Schakal' fleet deployment toward NATO's eastern flank, underscoring heightened European security posture as the alliance shores up defenses along its frontier with Russia."
+   },
+   {
+    "lead": "Italy hit by climate extremes.",
+    "text": "Italy is split by violent weather, with southern regions recording temperatures above 44°C while the north is battered by heavy downpours — the latest in a run of European weather extremes following deadly glacier-linked flooding in Nepal."
+   }
+  ],
+  "sources": "CNBC; Reuters; Bloomberg; Yahoo Finance; The Washington Post; NPR; Fortune; Euronews; The New Arab; PYMNTS"
+ },
+ {
   "date": "2026-08-28",
   "label": "Fri · Aug 28",
   "weekday": "Friday, August 28, 2026",
