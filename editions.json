@@ -1,5 +1,103 @@
 [
  {
+  "date": "2026-08-30",
+  "label": "Sun · Aug 30",
+  "weekday": "Sunday, August 30, 2026",
+  "marketsClose": "Aug 28",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Wall Street heads into September with a rate HIKE at a coin flip: futures now price 55.7% odds of a 25bp Fed increase — up from 35% before Warsh — making Friday's jobs report the decisive swing factor for the Sept 15–16 meeting.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -0.02
+   },
+   {
+    "name": "S&P 500",
+    "v": -0.25
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.52
+   },
+   {
+    "name": "Russell 2000",
+    "v": -1.39
+   },
+   {
+    "name": "WTI Crude",
+    "v": -0.16
+   },
+   {
+    "name": "Brent",
+    "v": 0.97
+   }
+  ],
+  "marketsNote": "With markets shut through the weekend, Friday's tape remains the reference: the Dow finished essentially flat at 53,559.99 (-0.02%) while the S&P 500 (7,711.76, -0.25%) and Nasdaq (26,402.42, -0.52%) slipped and the rate-sensitive Russell 2000 sank 1.4% to 2,972.37 — the clearest read on how Warsh's inflation warning has repriced the higher-for-longer trade. Crude held near $83.40 WTI with Brent around $90.55; gold, which sold off 2.9% Friday to $4,529.90, is the weekend's other tell on rate expectations.",
+  "lead": {
+   "headline": "A September rate HIKE hardens into a coin flip as Wall Street braces for a jobs-CPI-Fed gauntlet",
+   "tag": "Markets · Aug 30",
+   "body": [
+    "The weekend brought no reprieve from the repricing that defined the week's end. By Sunday evening, CME FedWatch had a 25-basis-point September rate increase at 55.7% — up from just 35.4% the day before Fed Chair Kevin Warsh's hawkish Jackson Hole debut — while the odds of the Fed holding steady through year-end have collapsed to 14.8% from 25.9%. What began Friday as a hawkish surprise has now settled into the market's base case: a genuine coin flip on the first hike of the Warsh era, with the Treasury curve already adjusted, two-year yields at 4.3%, tens at 4.67% and the long bond at 5.16%.",
+    "The debate now hinges entirely on the calendar. The August jobs report lands Friday, Sept 4, followed by CPI on Sept 11 — the last two major data points before the FOMC convenes Sept 15–16 with the funds rate still anchored at 3.50%–3.75%. Warsh's message that 'inflation is running above our 2% target' and that 'the Fed's predominant focus right now should be on prices' has left traders treating a soft payrolls print as the only clear off-ramp from a hike. Anything hot, and September's decision may already be made."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "The hawkish repricing is now entrenched.",
+    "text": "CME FedWatch closed the week pricing a 55.7% chance of a September quarter-point hike, up from 35.4% the prior session, as odds of no move through December fell to 14.8%. It is the most hawkish the front end has been all cycle, and the shift held through the weekend rather than fading."
+   },
+   {
+    "lead": "The Treasury curve has done the heavy lifting.",
+    "text": "Two-year yields sit at 4.3%, the 10-year at 4.67% and the 30-year at 5.16% — a repricing that most punished the rate-sensitive corners of equities, with the Russell 2000's 1.4% Friday drop the sharpest single-day signal that small caps are recalibrating for higher-for-longer."
+   },
+   {
+    "lead": "Fintech's biggest deal of the year is dead.",
+    "text": "The collapse of the Stripe-and-Advent consortium's roughly $50 billion pursuit of PayPal, confirmed Friday, sent PayPal down about 12% into the close after a 17% pre-market plunge. The unwinding removes a marquee catalyst from the payments sector and reframes the fintech M&A outlook heading into the fall."
+   },
+   {
+    "lead": "The data calendar is now the whole story.",
+    "text": "August payrolls hit Friday, Sept 4, at 8:30am ET, CPI follows Sept 11, and the FOMC decides Sept 15–16 with fresh projections. With PCE closing the month on Sept 30, the next three weeks amount to a live stress test of whether disinflation is stalling enough to force Warsh's hand."
+   },
+   {
+    "lead": "Gold flashed a rate warning too.",
+    "text": "Bullion tumbled 2.9% Friday to $4,529.90 as real-yield expectations reset, an unusually large single-session move for the metal and a corroborating signal that markets are taking the prospect of a hike — not the long-assumed cut — seriously."
+   },
+   {
+    "lead": "The AI trade is rotating, not breaking.",
+    "text": "Nvidia's strong post-earnings surge earlier in the week cushioned the tape even as Marvell and PayPal dragged, leaving the market mid-rotation: megacap tech holding up while rate-exposed and cyclical names absorb the brunt of the Warsh repricing."
+   }
+  ],
+  "watch": {
+   "title": "Friday's payrolls print",
+   "lead": "The Sept 4 jobs report is the swing factor.",
+   "text": "With a September hike at a coin flip, August payrolls have become the single release most likely to settle it. A soft number — cooling job growth, easing wage pressure — would hand doves the argument that the labor market is loosening enough to wait; a firm print, against Warsh's stated focus on prices, would likely lock in a September move before CPI even arrives. Watch the unemployment rate and average hourly earnings as closely as the headline."
+  },
+  "world": [
+   {
+    "lead": "Iran's diplomatic freeze deepens.",
+    "text": "The Trump administration has rejected reviving June's memorandum of understanding, leaning instead on 'Operation Economic Outcast' sanctions, while Iran's security chief laid out conditions for reopening the Strait of Hormuz. Six months after airstrikes wounded Mojtaba Khamenei, he has still not appeared publicly, leaving a visible leadership vacuum in Tehran."
+   },
+   {
+    "lead": "The Russo-Ukrainian war is in full escalation.",
+    "text": "With the spring truce long collapsed and fighting raging across the front, Russian strikes destroyed Nova Poshta logistics hubs near Kyiv and in Sumy. A Black Sea wheat-export collapse is threatening global food supply — the two nations account for roughly a quarter of world production — and NATO is warning of a 'beyond critical' shortage of Patriot interceptors."
+   },
+   {
+    "lead": "Gaza strikes continue as Israel eyes an election.",
+    "text": "Israeli airstrikes killed multiple Palestinians across Gaza this week as Netanyahu and Defense Minister Katz denied plans to reopen the Erez crossing. Traders are already flagging the Oct 27 Israeli elections as a swing factor that could move the shekel by as much as 3%."
+   },
+   {
+    "lead": "Taiwan doubles down on deterrence.",
+    "text": "Taipei's legislature approved roughly $7 billion in drone funding over six years to counter Chinese pressure, even as Beijing's CNOOC signaled interest in U.S. energy partnerships — a rare cooperative note against an otherwise tightening cross-strait standoff and expanding allied chip-export enforcement."
+   },
+   {
+    "lead": "A catastrophe unfolds in Nepal.",
+    "text": "Flash floods have killed more than 469 people with over 1,500 still missing, and a newly formed glacial lake threatens further inundation. Elsewhere, Norway's reform-minded King Harald died at 89, and former Bosnian Serb general Ratko Mladic, convicted for the Srebrenica genocide, died at 83 in custody."
+   }
+  ],
+  "sources": "CNBC; Yahoo Finance; Bloomberg; Reuters; Small World FS; GO Markets; Quartz; Axios; PYMNTS; FDD Overnight Brief; NCRI; Al Jazeera; Wikipedia"
+ },
+ {
   "date": "2026-08-29",
   "label": "Sat · Aug 29",
   "weekday": "Saturday, August 29, 2026",
