@@ -1,5 +1,103 @@
 [
  {
+  "date": "2026-08-31",
+  "label": "Mon · Aug 31",
+  "weekday": "Monday, August 31, 2026",
+  "marketsClose": "Aug 31",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "A U.S.–Iran flare-up over the Strait of Hormuz sent crude surging ~3.6% and knocked stocks lower on the first trading day since Warsh's hawkish turn — pushing September rate-hike odds above 60% even as the S&P still closed out August up 2.6%.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -0.6
+   },
+   {
+    "name": "S&P 500",
+    "v": -0.3
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.12
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.63
+   },
+   {
+    "name": "WTI Crude",
+    "v": 3.6
+   },
+   {
+    "name": "Brent",
+    "v": 3.4
+   }
+  ],
+  "marketsNote": "Geopolitics overrode everything else on the last session of August. The Dow gave up 316 points to close near 53,238 (-0.60%), more than double the S&P 500's slide to about 7,688 (-0.30%); the Nasdaq (≈26,371, -0.12%) held up best as Tesla (+3.7% on Optimus) and CrowdStrike (+3.9%) cushioned the tape, while the small-cap Russell 2000 fell to roughly 2,956 (-0.63%). The real move was in energy: WTI jumped 3.6% to about $86.39 and Brent 3.4% to near $91.10 after U.S. strikes near the Strait of Hormuz. The 10-year Treasury yield backed up to 4.76% and gold eased 0.6% to about $4,466. Despite the down day, the S&P 500 still banked a 2.6% gain for August.",
+  "lead": {
+   "headline": "Oil spikes and stocks slip as a U.S.–Iran clash over the Strait of Hormuz reopens after a month's calm",
+   "tag": "Markets · Aug 31",
+   "body": [
+    "The first trading day after Kevin Warsh's hawkish Jackson Hole debut was hijacked by the Middle East. Over the weekend U.S. forces struck two Iranian rocket launchers on Larak Island in the Strait of Hormuz, saying they were being prepared to seed the waterway with sea mines; Iran's Revolutionary Guards answered with ballistic missiles and drones aimed at American forces at bases in Jordan and the UAE. Jordan said it shot down eight missiles that crossed its airspace and the UAE intercepted drones over its waters, but the exchange — the first major one since July 29 — was enough to jolt a market that had spent the summer pricing geopolitical risk out. Crude did the talking: WTI leapt 3.6% and Brent 3.4%, dragging equities lower and sending energy to the top of the leaderboard while industrials and materials lagged.",
+    "The cruel twist for the Fed is that the oil shock lands exactly as traders had convinced themselves a rate HIKE is coming. A supply-driven crude spike is precisely the kind of inflation impulse Warsh warned about at Jackson Hole, and by Monday's close CME FedWatch had a September increase priced at roughly 62% — with some reads as high as 66% — up from 55.7% over the weekend and about 40% a week ago. The setup now is a genuine gauntlet: the August jobs report Friday, Sept 4, then CPI on Sept 11, feed straight into the FOMC's Sept 15–16 meeting, with the funds rate still parked at 3.50%–3.75% and a fresh war premium in every barrel of oil."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "The hike trade tightened again.",
+    "text": "CME FedWatch put a 25bp September increase near 62% by Monday's close — some models as high as 66% — versus 55.7% over the weekend and roughly 40% a week ago. The move is now the market's clear base case rather than a tail risk, and it is Warsh's hawkish framing plus a live oil shock, not softening data, doing the work."
+   },
+   {
+    "lead": "The oil spike is the Fed's worst-timed variable.",
+    "text": "A ~3.6% jump in crude on Strait of Hormuz supply fears feeds directly into the headline inflation Warsh said is 'running too hot.' It hands hawks a fresh argument days before the data that will settle the September call, and complicates any dovish read of a soft payrolls print."
+   },
+   {
+    "lead": "The curve kept repricing higher-for-longer.",
+    "text": "The 10-year Treasury yield rose to 4.76% as the war premium and hike odds compounded, extending the back-up that began Friday. Rate-sensitive corners paid the price — the Russell 2000 underperformed again — while the long end signals traders now expect policy to stay restrictive well into 2027."
+   },
+   {
+    "lead": "Utilities took a regulatory beating.",
+    "text": "Edison International cratered 22.3% and PG&E fell 19.4% after California lawmakers failed to pass wildfire-liability reform, reopening the tail-risk that torched the sector in prior fire seasons. It was the day's most violent single-sector move and a reminder that policy risk, not just rates, can gut a 'defensive' trade."
+   },
+   {
+    "lead": "Crypto-linked names bucked the selloff.",
+    "text": "Strategy (MSTR) climbed 4.42% after signaling resumed Bitcoin purchases, and Circle Internet Group and other digital-asset stocks advanced on broader crypto strength — a rare pocket of risk appetite on a day the blue-chip Dow shed 316 points."
+   },
+   {
+    "lead": "The data calendar is now everything.",
+    "text": "August payrolls land Friday, Sept 4, CPI on Sept 11, and the FOMC decides Sept 15–16 with the funds rate at 3.50%–3.75%. With an oil-driven inflation impulse layered on top, even a weak jobs number may no longer be a clean off-ramp from a hike."
+   }
+  ],
+  "watch": {
+   "title": "Friday's jobs report",
+   "lead": "The Sept 4 payrolls print just got more loaded.",
+   "text": "A soft August number was supposed to be the market's escape hatch from a September hike, but Monday's oil spike muddies that logic: a war-driven inflation impulse gives hawks cover to look through labor-market softness. Watch the payrolls headline, the unemployment rate and average hourly earnings together — and watch crude, because if Brent holds above $90 into the Sept 15–16 FOMC, the Fed's inflation case writes itself regardless of the jobs data."
+  },
+  "world": [
+   {
+    "lead": "The U.S.–Iran war reignited over the Strait of Hormuz.",
+    "text": "U.S. strikes on Iranian rocket launchers at Larak Island — Washington said they were staged to mine the strait — drew ballistic-missile and drone retaliation on American forces at bases in Jordan and the UAE, ending a month-long pause. President Pezeshkian said Iran does 'not seek war' but 'will not stand by'; the strait carries a fifth of the world's seaborne oil, which is why every barrel now trades with a war premium."
+   },
+   {
+    "lead": "Trump escalated the rhetoric but ruled out the nuclear option.",
+    "text": "The president posted an AI-generated video purporting to show a missile strike on Iran's Kharg Island oil terminal — which Tehran's oil ministry dismissed as fabricated, with no evidence of any actual attack — and warned 'we're going to hit them hard.' Asked about using a nuclear weapon, he called it 'a stupid question,' taking that path off the table even as conventional strikes widen."
+   },
+   {
+    "lead": "Russia's war on Ukraine turned deadlier still.",
+    "text": "A Russian strike on a weapons depot killed 38 people — described as Moscow's deadliest single attack of the year — and follow-on strikes on Kyiv killed a two-year-old girl. The escalation deepens the humanitarian toll as any negotiated pause remains out of reach heading into autumn."
+   },
+   {
+    "lead": "Israel widened operations into the West Bank.",
+    "text": "An Israeli airstrike on Jenin killed three Palestinians — the first West Bank airstrike in months — while strikes in central Gaza killed two more, including a three-year-old boy; more than 1,200 Palestinians have died since October's ceasefire nominally began. Masked settlers also attacked an NBC News crew documenting violence, underscoring a broadening front."
+   },
+   {
+    "lead": "A catastrophe still unfolds on the Nepal–Tibet border.",
+    "text": "Confirmed deaths from the Himalayan flooding topped 900 with more than 4,700 people missing, and over 900 workers remain trapped in hydropower tunnels. It is shaping up as one of the region's deadliest disasters in years, with rescue crews racing washed-out access routes."
+   }
+  ],
+  "sources": "CNBC; Yahoo Finance; The Motley Fool; TheStreet; 24/7 Wall St; Forbes; Reuters; Bloomberg; NPR; Al Jazeera; CNN; Washington Times; Democracy Now; FDD Overnight Brief; Times of Israel"
+ },
+ {
   "date": "2026-08-30",
   "label": "Sun · Aug 30",
   "weekday": "Sunday, August 30, 2026",
