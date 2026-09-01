@@ -3,95 +3,95 @@
   "date": "2026-09-01",
   "label": "Tue · Sep 1",
   "weekday": "Tuesday, September 1, 2026",
-  "marketsClose": "Aug 31",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Renewed U.S.–Iran strikes in the Strait of Hormuz sent crude surging and nudged stocks lower to close out August, while Fed chief Warsh's hawkish turn pushed September rate-hike odds to a coin flip near 58%.",
+  "marketsClose": "Sep 1",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Fresh U.S. strikes on Iran near the Strait of Hormuz sent oil higher and 10-year yields to a 20-month peak, while September rate-hike odds jumped toward two-thirds and dragged megacap tech to lead a broad stock selloff.",
   "markets": [
    {
     "name": "Dow",
-    "v": -0.7
+    "v": -0.76
    },
    {
     "name": "S&P 500",
-    "v": -0.33
+    "v": -0.61
    },
    {
     "name": "Nasdaq",
-    "v": -0.12
+    "v": -1.29
    },
    {
     "name": "Russell 2000",
-    "v": -0.54
+    "v": -1.12
    },
    {
     "name": "WTI Crude",
-    "v": 2.83
+    "v": 2.5
    },
    {
     "name": "Brent",
-    "v": 2.71
+    "v": 1.9
    }
   ],
-  "marketsNote": "Breadth was negative and small caps trailed as energy did the only real winning. The Dow shed 374 points to 53,186 (-0.70%), the S&P 500 eased to 7,686 (-0.33%), the Nasdaq held up best at 26,371 (-0.12%) and the Russell 2000 slipped to 2,956 (-0.54%). WTI jumped 2.83% to $85.76 and Brent 2.71% to $90.49 after U.S. strikes near the Strait of Hormuz, with the 10-year Treasury yield holding near 4.72%. Even with Monday's dip, the S&P 500 still banked a roughly 2.6% gain for August.",
+  "marketsNote": "The morning's soft open turned into a tech-led rout by the close. The Dow shed roughly 404 points to 52,782 (-0.76%), the S&P 500 slipped to 7,640 (-0.61%) and the Nasdaq bore the brunt at -1.29% to about 26,031 as megacap growth names cracked under the jump in yields. The small-cap Russell 2000 fell 1.12% to 2,923. WTI settled up about 2.5% near $88 and Brent near $92 after a new round of U.S. strikes on Iran, and the 10-year Treasury yield pushed to roughly 4.79% — its highest in about 20 months. Energy names such as Chevron and ExxonMobil were among the few winners; Amazon lagged after the FTC and 22 state attorneys general sued it over ad-pricing practices.",
   "lead": {
-   "headline": "Oil shock and a hawkish Fed sour the last session of a winning August",
-   "tag": "Markets · Aug 31",
+   "headline": "Tech leads a broad selloff as oil, yields and rate-hike bets all climb",
+   "tag": "Markets · Sep 1",
    "body": [
-    "Stocks closed August on a down note as renewed U.S.–Iran military exchanges near the Strait of Hormuz reignited energy prices. The Dow fell 374 points, or 0.70%, to 53,186; the S&P 500 lost 0.33% to 7,686; the Nasdaq Composite dipped 0.12% to 26,371; and the small-cap Russell 2000 gave up 0.54% to 2,956. WTI crude surged 2.83% to $85.76 a barrel and Brent added 2.71% to $90.49, though both remain well below their April peak above $100. Despite the pullback, the S&P still finished the month up about 2.6%.",
-    "Adding to the caution, Fed Chair Kevin Warsh's Jackson Hole remarks continued to reverberate: markets now price roughly a 58% chance of a September rate increase, up from 36% a day earlier, after he warned that summer inflation gains 'do not tell me that underlying trends have meaningfully improved' and that the central bank has 'work to do.' The 2-year Treasury yield jumped 11 basis points on the repricing while the 10-year held near 4.72%."
+    "Stocks that opened the day soft ended it sharply lower, with the selling concentrated in the megacap technology names most exposed to rising rates. The Nasdaq's 1.29% drop to about 26,031 was roughly double the S&P 500's 0.61% slide to 7,640, while the Dow gave up around 404 points to 52,782 and the Russell 2000 fell 1.12% to 2,923. Industrials and financials held up better than growth, underscoring that the damage was a valuation-multiple story rather than a broad-based flight from risk.",
+    "The pressure came from two directions at once. A fresh U.S. air campaign against Iran near the Strait of Hormuz lifted WTI crude about 2.5% toward $88 and Brent near $92, and the renewed inflation premium drove the 10-year Treasury yield to roughly 4.79%, a 20-month high. At the same time, CME FedWatch odds of a September rate hike climbed to about 66% from near 58% this morning, tightening the screws on the long-duration tech trade even as some strategists urged patience with Chair Kevin Warsh's still-evolving Fed."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "The Fed repriced overnight.",
-    "text": "Warsh's hawkish Jackson Hole tone lifted September rate-hike odds to about 58% from 36%, turning the meeting into a live coin flip and sending the 2-year yield up 11 basis points. Not everyone is convinced — several analysts still see the Fed holding, citing a cooling labor market."
+    "lead": "Rate-hike odds jumped again.",
+    "text": "CME FedWatch odds of a 25-basis-point September hike to 3.75%–4% rose to roughly 66% by the close, up from about 58% this morning, after Warsh's team highlighted that 54% of core PCE components ran above 3% in July. The 2-year and 10-year yields both climbed, with the 10-year near 4.79%, a 20-month high."
    },
    {
-    "lead": "General Atlantic revived its IPO.",
-    "text": "The growth-equity firm, which manages roughly $129 billion across 900-plus professionals in 20 countries, is targeting a public debut as soon as this year, with JPMorgan, Goldman Sachs and Morgan Stanley advising. It is a second attempt after a 2022-23 effort was shelved amid high inflation and rising rates; its book spans Anthropic, OneStream, Nurix and past winners Airbnb and Uber."
+    "lead": "Bank stocks stayed resilient.",
+    "text": "Financials again outperformed the tape as a higher-for-longer Warsh Fed supports net interest margins. Analysts continue to frame regional and money-center banks as relative winners of the hawkish repricing, even as rising yields pressure the broader market's valuations."
    },
    {
-    "lead": "Bank shares kept climbing.",
-    "text": "Analysts argue a higher-for-longer Warsh Fed does little to derail the rally in U.S. bank stocks, with steeper-for-longer rates supporting net interest margins even as loan demand softens. Credit conditions stayed benign, with high-yield spreads tightening from about 270 to 260 basis points."
+    "lead": "A contrarian pushed back on the hike.",
+    "text": "Investor Louis Navellier called the PCE gauge 'irrelevant' and told markets to take a 'chill pill,' arguing he would be 'shocked' by a September move while Warsh is still remaking the Fed through five newly created internal task forces. The split leaves the mid-September FOMC a genuine coin flip on some measures."
    },
    {
-    "lead": "Warsh may put the Fed at odds with Treasury.",
-    "text": "Strategists in a Jackson Hole roundup flagged growing friction between a hawkish central bank and an administration pressing for lower borrowing costs, a tension that could inject volatility into rates and bank funding markets into the fall."
+    "lead": "General Atlantic's IPO stayed on track.",
+    "text": "The growth-equity firm, managing roughly $129 billion, is still pressing toward a public debut as soon as this year with JPMorgan, Goldman Sachs and Morgan Stanley advising — a marquee test of whether the sponsor-IPO window can stay open against a backdrop of rising rates and oil-driven volatility."
    },
    {
-    "lead": "Dealmakers rode a busy 2026.",
-    "text": "Goldman Sachs and JPMorgan continue to top Wall Street's M&A league tables as a 'dealmaking renaissance' powers advisory fees, with bankers already shifting focus to a heavy pipeline heading into year-end."
+    "lead": "Dealmakers eyed a volatile fall.",
+    "text": "Goldman Sachs and JPMorgan continue to lead Wall Street's M&A league tables in a busy 2026, but bankers now weigh how a hawkish Fed, a 20-month-high 10-year and an unresolved oil shock could reprice financing costs and slow the advisory pipeline into year-end."
    }
   ],
   "watch": {
    "title": "September FOMC",
-   "lead": "The next Fed decision is now a genuine toss-up.",
-   "text": "With hike odds near 58%, the mid-September FOMC meeting is the pivot point for markets. Watch incoming inflation and jobs data, whether oil's geopolitical premium sticks, and any escalation in the Warsh–Treasury standoff — each could swing the decision and the rates-sensitive bank and small-cap trades."
+   "lead": "The mid-September decision looks increasingly like a live hike.",
+   "text": "With CME odds near 66% and the 10-year at a 20-month high, the FOMC is the market's pivot point. Watch whether the oil premium from Hormuz sticks, incoming inflation and jobs prints, and any thaw between Warsh's Fed and a Treasury pressing for lower borrowing costs — each could swing both the decision and the rate-sensitive bank and small-cap trades."
   },
   "world": [
    {
-    "lead": "The U.S. struck Iran again.",
-    "text": "American forces hit Iranian rocket launchers on Larak Island in the Strait of Hormuz on August 31 — the first U.S. military action there in a month — with Iranian state media reporting two killed and several wounded."
+    "lead": "The U.S. hit Iran again.",
+    "text": "U.S. Central Command launched a new barrage against Islamic Revolutionary Guard Corps targets on September 1, with explosions reported in Bandar Abbas and Chabahar in southern Iran, days after strikes on rocket launchers near the Strait of Hormuz."
    },
    {
-    "lead": "Iran retaliated across the Gulf.",
-    "text": "Tehran fired ballistic missiles at U.S. bases in Jordan, eight of which were intercepted, and launched a drone at the UAE that was also shot down, widening the confrontation beyond the strait."
+    "lead": "Trump threatened more strikes.",
+    "text": "President Trump, who has called the conflict 'a relatively little war,' signaled further action, saying the U.S. would 'hit them very hard' following the latest attacks on commercial shipping and American forces in the region."
    },
    {
-    "lead": "Tankers were hit near Hormuz.",
-    "text": "Two oil tankers were struck by unknown projectiles the evening of August 31: the South Korean-owned Senegal Prosperity took three hits, and the Saudi-flagged Sidr was struck minutes earlier, both in the southern shipping corridor near Oman."
+    "lead": "Iran urged a return to the deal.",
+    "text": "President Masoud Pezeshkian pressed Washington to comply with the collapsed interim agreement, blaming 'a return to a policy of pressure and threats' for the breakdown and voicing deep skepticism about resuming negotiations."
    },
    {
-    "lead": "Trump vowed to hit back hard.",
-    "text": "President Trump called the conflict 'a relatively little war' and said the U.S. would 'hit them hard,' even posting an AI-generated video depicting a strike on Iran's Kharg Island."
+    "lead": "The oil chokepoint stayed disrupted.",
+    "text": "Fresh tanker attacks and the widening strikes kept traffic through the world's most important oil passage unsettled; crude has now climbed more than 45% since the start of the year, embedding a persistent inflation premium in energy markets."
    },
    {
-    "lead": "The Hormuz crisis grinds on.",
-    "text": "The flare-up is the latest chapter in a crisis that began in February 2026 and once drove Brent above $126 a barrel; shipping through the world's most important oil chokepoint remains disrupted, keeping an inflation premium in energy markets."
+    "lead": "Amazon drew a major antitrust suit.",
+    "text": "The FTC and 22 state attorneys general sued Amazon, alleging it systematically overcharged advertisers — a regulatory overhang that weighed on the megacap complex during Tuesday's tech-led selloff."
    }
   ],
-  "sources": "STL.News; The Motley Fool; Yahoo Finance; CNBC; Bloomberg; CBS News; Benzinga; Penn Mutual Asset Management; Washington Post; Wikipedia"
+  "sources": "TheStreet; CNBC; Yahoo Finance; 24/7 Wall St.; Benzinga; The Spokesman-Review; U.S. News; Al Jazeera; Britannica"
  },
  {
   "date": "2026-08-31",
