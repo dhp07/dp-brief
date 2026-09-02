@@ -3,99 +3,95 @@
   "date": "2026-09-02",
   "label": "Wed · Sep 2",
   "weekday": "Wednesday, September 2, 2026",
-  "marketsClose": "Sep 1",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "U.S. strikes on Iran near the Strait of Hormuz drove crude up more than 5% and pulled stocks lower, while Fed hawkishness lifted the 10-year Treasury yield to a 20-month high ahead of Friday's jobs report.",
+  "marketsClose": "Sep 2",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Stocks clawed back their September-opening losses even as a surprisingly weak ADP jobs report collided with a fresh climb in bond yields, leaving Friday's payrolls to decide whether the Fed hikes this month.",
   "markets": [
    {
     "name": "Dow",
-    "v": -0.79
+    "v": 0.53
    },
    {
     "name": "S&P 500",
-    "v": -0.71
+    "v": 0.2
    },
    {
     "name": "Nasdaq",
-    "v": -1.03
+    "v": 0.03
    },
    {
     "name": "Russell 2000",
-    "v": -1.23
+    "v": 0.75
    },
    {
     "name": "WTI Crude",
-    "v": 5.2
+    "v": -0.57
    },
    {
     "name": "Brent",
-    "v": 4.6
+    "v": -0.45
    }
   ],
-  "marketsNote": "September opened in the red as a widening U.S.-Iran conflict and a fresh climb in Treasury yields hit risk appetite. The Dow fell about 418 points to 52,767 (-0.79%), the S&P 500 slipped to 7,631 (-0.71%) and the Nasdaq led the losses at -1.03% to roughly 26,099, its worst-hit corner again the rate-sensitive megacap tech complex. The Russell 2000 dropped 1.23% to 2,920 as small caps lagged. The action was in commodities: WTI crude surged 5.2% to settle near $90.22 and Brent jumped 4.6% to about $94.65 after U.S. forces struck Iranian targets around the Strait of Hormuz, while the 10-year Treasury yield held near 4.8%, its highest since January 2025. Energy, healthcare and consumer staples outperformed; technology and utilities were the day's weakest links.",
+  "marketsNote": "Wall Street steadied after Monday's slide, with the rebound broadest in the rate-sensitive corners that had been hit hardest. The Dow added about 277 points to 53,044 (+0.53%), the S&P 500 edged up to 7,647 (+0.20%) and the Nasdaq finished essentially flat at 26,107 (+0.03%) as megacap tech lagged. The small-cap Russell 2000 led the tape, gaining 0.75% to 2,942. Oil cooled modestly, with WTI settling at $89.71 (-0.57%) and Brent easing about 0.45%, but the calm belied a sharp move in rates: a softer-than-expected ADP jobs print did nothing to stop the 10-year Treasury yield from climbing to 4.81%, its highest since November 2023, as the Hormuz oil-inflation premium kept upward pressure on yields. Financials and small caps outperformed; long-duration tech and utilities remained the laggards.",
   "lead": {
-   "headline": "Oil spikes and stocks slide as the U.S.-Iran conflict escalates around Hormuz",
-   "tag": "Markets · Sep 1",
+   "headline": "Weak ADP print meets rising yields as stocks rebound and the Fed call stays a coin flip",
+   "tag": "Markets · Sep 2",
    "body": [
-    "A sharp jump in crude oil and a fresh leg higher in Treasury yields sent U.S. equities lower to start September, with the selling again heaviest in the megacap technology names most sensitive to rising rates. WTI settled up 5.2% near $90 a barrel and Brent rose 4.6% to about $95 after U.S. Central Command carried out fresh strikes on Iranian targets near the Strait of Hormuz, the world's most important oil chokepoint. The Nasdaq's 1.03% decline outpaced the S&P 500's 0.71% slide and the Dow's 0.79% drop, while the small-cap Russell 2000 fell 1.23%.",
-    "The oil shock layered a renewed inflation premium onto an already hawkish rates backdrop. Days after Fed Chair Kevin Warsh warned at Jackson Hole that inflation progress was insufficient and hinted at a possible September rate hike, the 10-year Treasury yield pushed to roughly 4.8%, a 20-month high, tightening financial conditions and pressuring long-duration equity valuations. With the mid-September FOMC meeting now shaping up as a genuine coin flip, investors turn to this week's employment data — ADP on Wednesday and nonfarm payrolls on Friday — for the next read on the Fed's path."
+    "U.S. equities recovered from the September-opening rout, but the day's defining tension was the collision between a soft labor-market read and stubbornly rising interest rates. Private employers added just 38,000 jobs in August, ADP reported Wednesday, well below the roughly 48,000 economists expected and the slowest pace since January, even as July was revised up to 46,000. Hiring was concentrated in education and health services (+45,000) and leisure and hospitality (+16,000), while financial activities added a modest 6,000; ADP chief economist Nela Richardson pointed to 'choppy hiring' shaped by demographics, persistent inflation and AI's growing footprint. The Dow closed up 0.53%, the S&P 500 gained 0.20%, the Nasdaq was flat and the Russell 2000 led at +0.75%.",
+    "Ordinarily a weak jobs number would cool the case for a Fed hike, but the 10-year Treasury yield instead pushed to 4.81%, its highest since November 2023, and global yields rose in lockstep across the U.K., Germany, France and Japan, the latter approaching multidecade highs. The reason is the oil-inflation premium from the U.S.-Iran conflict around the Strait of Hormuz, which is keeping a floor under yields even as growth data softens. That leaves the mid-September FOMC meeting a genuine coin flip: Chair Kevin Warsh's Jackson Hole hawkishness argued for tightening, but a decelerating labor market gives doves fresh ammunition. Friday's nonfarm payrolls report now looms as the tiebreaker."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "September rate-hike odds firmed.",
-    "text": "Following Chair Kevin Warsh's hawkish Jackson Hole remarks that inflation progress had been insufficient, markets moved to price a live chance of a 25-basis-point hike at the mid-September FOMC meeting. The 10-year Treasury yield climbed toward 4.8%, its highest level since January 2025, while shorter maturities also backed up on the repricing."
+    "lead": "ADP undershot, flashing a softer labor market.",
+    "text": "Private payrolls rose just 38,000 in August against forecasts near 48,000, the weakest since January, though July was revised up to 46,000. Gains clustered in education and health services (+45,000) and leisure and hospitality (+16,000); financial activities added 6,000. The 'choppy hiring' framing from ADP's Nela Richardson gave the Fed's doves a data point to argue for patience into September."
    },
    {
-    "lead": "Jobs data moves to center stage.",
-    "text": "With the Fed's next move uncertain, this week's labor prints become the swing factor: ADP private payrolls land Wednesday and the government's nonfarm payrolls report follows Friday. A hot number would reinforce Warsh's case for tightening, while any softening could stay the Fed's hand into September."
+    "lead": "Yields climbed despite the weak data.",
+    "text": "In a telling divergence, the 10-year Treasury yield rose to 4.81%, its highest since November 2023, even after the soft ADP print — a sign the Hormuz oil-inflation premium is now driving the long end. The move was global: benchmark yields backed up across the U.K., Germany and France, while Japan's approached multidecade highs, tightening financial conditions worldwide."
    },
    {
-    "lead": "Financials held up as tech cracked.",
-    "text": "Bank stocks were relative outperformers as a higher-for-longer rate path supports net interest margins, extending a pattern in which money-center and regional lenders weather the hawkish repricing better than the rate-sensitive growth complex that led the broader market lower."
+    "lead": "The September Fed decision stayed a coin flip.",
+    "text": "The clash between decelerating jobs growth and an energy-driven inflation premium left markets split on whether the FOMC hikes 25 basis points in mid-September. Warsh's hawkish Jackson Hole message still argues for action, but a cooling labor market complicates the call, keeping rate-path uncertainty elevated heading into Friday's payrolls."
    },
    {
-    "lead": "Morgan Stanley upgraded Robinhood.",
-    "text": "Morgan Stanley raised Robinhood (HOOD) to Overweight and lifted its price target to $150, citing improved customer economics; the shares gained about 2% against a down tape. The call underscores continued analyst enthusiasm for the retail-brokerage and crypto-adjacent platforms even amid the volatility."
+    "lead": "Financials and small caps led the rebound.",
+    "text": "Bank stocks and the small-cap Russell 2000 (+0.75%) outperformed as a higher-for-longer rate backdrop supports net interest margins, extending the pattern in which lenders weather the hawkish repricing better than the rate-sensitive megacap growth names that dragged on the Nasdaq."
    },
    {
-    "lead": "Roche struck a China licensing deal.",
-    "text": "Simcere Pharmaceutical granted Roche exclusive global rights to develop SIM0660, with $75 million upfront and up to $1.46 billion in potential milestone payments — the latest cross-border pharma licensing tie-up as large-cap drugmakers hunt for pipeline assets."
-   },
-   {
-    "lead": "AI infrastructure spending kept flowing.",
-    "text": "Anthropic agreed to a roughly $35 billion computing arrangement with Nvidia-backed cloud provider Lambda, with the data-center buildout to be handled by bitcoin miner Hut 8 in Texas — a fresh sign that the capital pouring into AI compute is holding up even as broader tech sold off."
+    "lead": "A heavy earnings slate loomed after the bell.",
+    "text": "Broadcom, Snowflake and Hewlett Packard Enterprise were among the marquee names due to report, keeping the AI-capex trade and enterprise-software demand in focus. With dealmakers signaling a busy pipeline into year-end, results from the chip and cloud complex offer the next read on whether AI-driven spending can offset the drag from higher rates."
    }
   ],
   "watch": {
-   "title": "Friday's jobs report",
-   "lead": "The nonfarm payrolls print is the week's pivot for the Fed.",
-   "text": "With a September hike hanging in the balance, Friday's employment report — previewed by Wednesday's ADP figures — could settle the debate. A strong reading would harden Warsh's hawkish tilt and push yields higher still; a weak one would give doves room to argue for patience. Watch whether the Hormuz oil premium sticks, since a durable spike in energy prices complicates the Fed's inflation fight either way."
+   "title": "Friday's payrolls",
+   "lead": "The government jobs report is the week's tiebreaker for the Fed.",
+   "text": "With ADP flagging a softer labor market but yields still rising on the oil premium, Friday's nonfarm payrolls print becomes decisive. A weak number would strengthen the doves' case for patience and could finally pull yields lower; a firm one would validate Warsh's hawkish tilt and keep a September hike live. Watch whether the Hormuz inflation premium holds, since a durable spike in energy prices muddies the Fed's read either way."
   },
   "world": [
    {
-    "lead": "The U.S. struck Iranian oil tankers.",
-    "text": "In a first, U.S. forces hit two Iranian government tankers off Iran's coast in retaliation for attacks on Gulf shipping, part of a new 'tanker for tanker' policy approved by President Trump that targeted roughly 100 objectives including IRGC air defenses, radars and missile launchers near the Strait of Hormuz."
+    "lead": "U.S. strikes hit a wedding in southern Iran.",
+    "text": "American forces struck Iranian air-defense, radar and maritime targets on Tuesday, but one strike hit a home hosting a wedding in Kuhestak, killing five people including a child and wounding at least 68, in the deadliest civilian toll yet of the Hormuz campaign."
    },
    {
-    "lead": "Iran launched a wide missile and drone response.",
-    "text": "Tehran fired roughly 25 ballistic missiles — about half reaching Jordanian airspace, with ten intercepted and three landing without casualties — plus some two dozen drones aimed at U.S. bases in Bahrain and positions in Kuwait and Iraq, most of which were intercepted. U.S. officials said the strikes 'bought at least a month' of reduced threat to shipping."
+    "lead": "Trump ruled out talks and claimed control of Hormuz.",
+    "text": "President Trump rejected negotiations, saying 'I like our position now much better, with almost total control of the Hormuz Strait,' and warned that further Iranian retaliation would draw stronger responses. Iranian President Masoud Pezeshkian's offer to revive a June ceasefire if Washington reciprocated was rebuffed in favor of continued military pressure."
    },
    {
-    "lead": "Russia pounded Kyiv for a sixth day.",
-    "text": "Russian airstrikes killed at least 12 people across Kyiv and surrounding regions on September 1, the sixth consecutive day of assaults, with port infrastructure and a border crossing near Odesa also targeted as the war ground on."
+    "lead": "Iran pressed its missile and drone retaliation.",
+    "text": "Tehran launched ballistic missiles at a U.S. base near the Gulf of Aqaba in Jordan — ten intercepted and three landing in unpopulated areas — alongside drone attacks on U.S. forces in Bahrain and Kuwait that were largely intercepted, as U.S. pump prices averaged about $4.10 a gallon."
    },
    {
-    "lead": "A Putin-Xi-Trump summit floated.",
-    "text": "The Kremlin said a trilateral meeting of Presidents Putin, Xi and Trump was possible, as leaders gathered for the Shanghai Cooperation Organization summit in Bishkek, where Indian PM Narendra Modi pressed Putin to end the Ukraine war 'for the sake of humanity.'"
+    "lead": "Russia escalated its assault on Kyiv.",
+    "text": "A sixth straight night of strikes killed at least 12 people in Kyiv, including six railway workers when a ballistic missile tore through a Ukrzaliznytsia depot, with four more dead in Boryspil. Russia fired a composite package of roughly 218 drones plus ballistic, cruise and anti-radar missiles; Ukraine intercepted 199. President Zelensky warned airlines and insurers that Russian airspace was becoming 'completely unsafe.'"
    },
    {
-    "lead": "The Army lost its top civilian leader.",
-    "text": "Army Secretary Dan Driscoll resigned after months of friction with Defense Secretary Pete Hegseth, leaving the service without a Senate-confirmed civilian or military head amid the escalating Middle East campaign."
+    "lead": "Putin vowed massive strikes on Ukraine's grid.",
+    "text": "Speaking at the Shanghai Cooperation Organization summit in Bishkek, President Putin said Russian forces had been ordered to 'prepare and launch massive strikes on Ukraine's energy infrastructure,' dismissed Zelensky's airspace warning as 'state terrorism,' and signaled little near-term appetite for diplomacy beyond back-channel contacts."
    }
   ],
-  "sources": "CNBC; Reuters; Axios; Yahoo Finance; The Washington Times; Just Security; Bloomberg; NPR; Al Jazeera"
+  "sources": "CNBC; Yahoo Finance; Fox Business; ADP; NPR; Al Jazeera; HNGN; Reuters"
  },
  {
   "date": "2026-09-01",
