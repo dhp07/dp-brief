@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-09-03",
+  "label": "Thu · Sep 3",
+  "weekday": "Thursday, September 3, 2026",
+  "marketsClose": "Sep 2",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Stocks rebounded from a shaky September open — the Dow rose 0.6% and small caps jumped 1.1% as tech led the bounce and oil steadied — but a 10-year yield near 4.81% and Friday's payrolls leave the Fed's September call on a knife's edge.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.6
+   },
+   {
+    "name": "S&P 500",
+    "v": 0.5
+   },
+   {
+    "name": "Nasdaq",
+    "v": 0.5
+   },
+   {
+    "name": "Russell 2000",
+    "v": 1.1
+   },
+   {
+    "name": "WTI Crude",
+    "v": -0.6
+   },
+   {
+    "name": "Brent",
+    "v": -0.4
+   }
+  ],
+  "marketsNote": "Breadth was the story: the rebound ran widest through the rate-sensitive corners hit hardest earlier in the week. The Dow added 295 points to 53,061.95 (+0.6%), the S&P 500 rose to 7,666.60 (+0.5%) and the Nasdaq climbed to 26,217.83 (+0.5%), helped by a 3%-plus rally in Nvidia. The small-cap Russell 2000 led, up 1.1% to 2,953.17. Oil cooled after its Iran-driven spike, with WTI around $89.70 (-0.6%) and Brent easing about 0.4%, but rates stayed tense — the 10-year Treasury yield sat near 4.81%, its highest since November 2023, with UK, German and Japanese long yields also near multi-year or multi-decade peaks.",
+  "lead": {
+   "headline": "Wall Street claws back September losses as tech leads and oil cools",
+   "tag": "Markets · Sep 2",
+   "body": [
+    "U.S. stocks recovered from a rocky start to September, with all four major benchmarks finishing higher after two straight losing sessions that had knocked the Dow down more than 400 points on Tuesday. The rebound was led by megacap technology — Nvidia rallied more than 3% — and by rate-sensitive small caps, with the Russell 2000 outpacing the blue chips at +1.1%.",
+    "The bounce came against an uneasy macro backdrop. Crude prices, which had surged on renewed U.S.-Iran hostilities and fears over the Strait of Hormuz, steadied on the session, taking some pressure off the tape. But the oil-inflation premium kept global bond yields elevated: the 10-year Treasury touched 4.814%, its highest since November 2023, even as a soft ADP jobs report hinted at a cooling labor market. Investors now look to Friday's August payrolls report to settle a sharpening debate over whether the Fed cuts, holds, or even hikes at its September meeting."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Yields at multi-year highs.",
+    "text": "The 10-year Treasury yield climbed to 4.814%, its highest since November 2023, as a Middle East oil-supply premium fed inflation worries. Long-dated government yields in the UK, Germany, France and Japan also sat near multi-year or multi-decade peaks, tightening financial conditions worldwide."
+   },
+   {
+    "lead": "Hiring loses steam.",
+    "text": "ADP said private employers added just 38,000 jobs in August, well below the roughly 47,000 expected and the weakest reading since January. The soft print revived questions about labor-market momentum and put more weight on Friday's official BLS payrolls report."
+   },
+   {
+    "lead": "Fed on a knife's edge.",
+    "text": "The collision of a cooling jobs market with an oil-driven inflation spike has split Wall Street ahead of the mid-September FOMC. Desks including Goldman Sachs and JPMorgan have offered diverging calls — from a delayed cut to warnings against betting on a hike — leaving the September decision unusually uncertain."
+   },
+   {
+    "lead": "Financials outperform.",
+    "text": "Rising yields and a steeper curve lifted bank and small-cap financials, which have led the recent rebound, while long-duration tech and utilities lagged on the earlier down days. The move underscores how sensitive the tape has become to the rates picture."
+   },
+   {
+    "lead": "Bank M&A running hot.",
+    "text": "Dealmaking among lenders remains brisk: S&P Global Market Intelligence pegged first-quarter 2026 bank M&A on pace for its highest deal value in seven years, as faster regulatory approvals and pressure on regional banks fuel consolidation."
+   }
+  ],
+  "watch": {
+   "title": "August payrolls",
+   "lead": "Friday's jobs report.",
+   "text": "The Labor Department's August nonfarm payrolls report, due Friday, is the pivotal data point before the September 16-17 FOMC. After ADP's weak 38,000 private-hiring figure, a soft headline number would strengthen the case for a rate cut, while a hot print — layered on top of oil-driven inflation — could reopen talk of a Fed hold or even a hike."
+  },
+  "world": [
+   {
+    "lead": "U.S. strikes Iran.",
+    "text": "U.S. Central Command said it hit roughly 100 Iranian facilities — air defenses, radar, naval assets, mine-laying capability and IRGC communications — in a major escalation of the widening conflict. Tehran reported IRGC and Basij personnel killed and rejected U.S. claims about civilian casualties."
+   },
+   {
+    "lead": "Iran retaliates regionally.",
+    "text": "Iranian missiles and drones targeted U.S. facilities across the Gulf: Jordan intercepted 10 of 13 ballistic missiles, Kuwait and Bahrain downed drones and missiles, and 10 explosive drones were shot down over Erbil, Iraq."
+   },
+   {
+    "lead": "Hormuz oil route at risk.",
+    "text": "The Strait of Hormuz — which carries about 17 million barrels of oil a day — was thrown into crisis, with Iran claiming two tankers were damaged by naval mines and Saudi Arabia's Sidr tanker reportedly attacked, killing two crew. The threat to global supply is what has kept crude and bond yields on edge."
+   },
+   {
+    "lead": "Gaza and Lebanon strikes.",
+    "text": "Israeli operations killed several Palestinians in Jabalia, Deir al-Balah and al-Mughayyir, including a drone strike near displacement tents in al-Mawasi. In Lebanon, Israeli airstrikes hit Nabatieh after Hezbollah launched drones toward Israeli forces."
+   },
+   {
+    "lead": "Ukraine intercepts drone barrage.",
+    "text": "Ukraine's Air Force said it downed 141 Russian drones overnight as Moscow again struck logistics and energy infrastructure around Kyiv and Odesa, keeping pressure on the country's power grid."
+   }
+  ],
+  "sources": "ABC News/AP; CNBC; TheStreet; Yahoo Finance; Reuters; Forbes; ADP; Fortune; Profile News"
+ },
+ {
   "date": "2026-09-02",
   "label": "Wed · Sep 2",
   "weekday": "Wednesday, September 2, 2026",
