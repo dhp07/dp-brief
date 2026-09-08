@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-09-08",
+  "label": "Tue · Sep 8",
+  "weekday": "Tuesday, September 8, 2026",
+  "marketsClose": "Sep 8",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Oil roared toward $100 — Brent brushing $99 and WTI up 2.7% to about $94 — after Houthi strikes set Saudi energy facilities ablaze and US-Iran naval clashes stoked supply fears, dragging the Dow down 628 points to close the day sharply lower.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -1.18
+   },
+   {
+    "name": "S&P 500",
+    "v": -0.58
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.31
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.65
+   },
+   {
+    "name": "WTI Crude",
+    "v": 2.7
+   },
+   {
+    "name": "Brent",
+    "v": 2.3
+   }
+  ],
+  "marketsNote": "Stocks sold off hard as an energy-price shock met rising rate-hike fears: the Dow shed about 628 points to 52,786, the S&P 500 fell 0.6% to 7,674 and the Nasdaq held up best at -0.3%, cushioned by chip strength, while crude jumped and gold slipped.",
+  "lead": {
+   "headline": "Crude spikes toward $100 on Gulf attacks, sending Wall Street lower",
+   "tag": "Markets · Sep 8",
+   "body": [
+    "Oil was the day's engine. WTI climbed 2.7% to roughly $94 a barrel and Brent rose 2.3% to about $98.50 — briefly crossing $99 for the first time in years — after Iran-backed Houthi forces attacked Saudi cities and energy facilities, wounding some 73 people and igniting fires at oil installations. Saudi Arabia halted operations at southern energy sites in response. The move came days after US Central Command destroyed Iranian vessels following ballistic-missile fire at two US Navy ships, and as Tehran threatened Gulf energy infrastructure and floated a 'restricted zone' near the Strait of Hormuz.",
+    "The energy shock rippled straight into equities and rates. The Dow fell about 1.2% (roughly 628 points) to 52,786, the S&P 500 slipped 0.6% to 7,674 and the Nasdaq eased 0.3% to 26,424, buoyed by chip names — Intel jumped 9% on price increases and Qualcomm rose 3% on an Amazon AI-chip deal. Amgen (-10%) and Novartis (-14%) sank on a cardiac-drug trial setback. Goldman Sachs, flagging a global deficit near 1 million barrels a day, said Brent could reach $120 if Gulf supply stays disrupted, and lifted its December targets to $85 Brent and $80 WTI."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Rate-hike odds climbed.",
+    "text": "With energy-driven inflation back in focus, markets moved to price roughly a 60% chance of a 25-basis-point Fed hike at next week's FOMC meeting — a striking reversal from the rate-cut hopes that dominated the summer."
+   },
+   {
+    "lead": "Yields ground higher.",
+    "text": "The 10-year Treasury yield firmed to around 4.77% as rising oil and hot labor data kept inflation risk elevated, tightening financial conditions even as stocks fell."
+   },
+   {
+    "lead": "Jobs data hardened the hawkish case.",
+    "text": "August payrolls of 162,000 came in nearly triple the 56,000 forecast, reinforcing the view that the Fed has little room to ease and leaving bond bulls on the back foot."
+   },
+   {
+    "lead": "Bank stocks caught between forces.",
+    "text": "Higher-for-longer rates support net interest margins, but the broad risk-off tone and recession-if-oil-persists worries capped financials; investors are watching how a possible hike reshapes the 2026 lending outlook."
+   },
+   {
+    "lead": "Energy trades in the spotlight.",
+    "text": "The crude spike is a windfall for commodity desks and energy underwriters but a headwind for deal-making and leveraged credit, where higher funding costs squeeze the buyout pipeline that powered a busy 2026."
+   }
+  ],
+  "watch": {
+   "title": "The Fed's knife-edge call",
+   "lead": "All eyes on next week's FOMC decision.",
+   "text": "An oil-price shock colliding with a strong jobs print has flipped the debate from when the Fed cuts to whether it hikes. Watch Brent's $100 line, any escalation around the Strait of Hormuz, and Fed communications for signals on whether policymakers treat the energy spike as transitory or as a reason to tighten."
+  },
+  "world": [
+   {
+    "lead": "Gulf conflict widened.",
+    "text": "Houthi forces struck Saudi cities and energy facilities, wounding about 73 people, while the US destroyed Iranian vessels after Iran's Revolutionary Guard fired missiles at US warships; Iran threatened Gulf energy assets and a Hormuz 'restricted zone,' with the UAE and Qatar signaling they are seeking alternative export routes."
+   },
+   {
+    "lead": "Lebanon and Gaza strikes drew condemnation.",
+    "text": "Israeli airstrikes on Kfar Roummane killed at least 12 people, including two children and a medic, with no evacuation warning, and further strikes killed Palestinians in Gaza as the UK moved to restrict goods from Israeli settlements."
+   },
+   {
+    "lead": "Ukraine diplomacy showed movement.",
+    "text": "US envoys Steve Witkoff and Jared Kushner shuttled between the parties, with Witkoff citing 'substantive progress,' even as Russian drone and missile strikes on Kyiv killed two, ending a pause that had coincided with the talks."
+   },
+   {
+    "lead": "US-Canada trade war escalated.",
+    "text": "Canada's retaliatory tariffs on roughly $20 billion of US goods took effect after midnight, and President Trump threatened Bombardier's access to the US market, adding a fresh drag to North American supply chains."
+   },
+   {
+    "lead": "Europe's far right surged.",
+    "text": "Germany's AfD won about 44% in the Saxony-Anhalt state election on 77% turnout, a milestone result, as authorities probed 21 explosive devices found near power-grid infrastructure amid a widening sabotage investigation."
+   }
+  ],
+  "sources": "CNBC; Reuters; Bloomberg; Yahoo Finance; The Motley Fool; Trading Economics; CNN; NPR; Iran International; Just Security"
+ },
+ {
   "date": "2026-09-03",
   "label": "Thu · Sep 3",
   "weekday": "Thursday, September 3, 2026",
