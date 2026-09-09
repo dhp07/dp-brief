@@ -1,5 +1,103 @@
 [
  {
+  "date": "2026-09-09",
+  "label": "Wed · Sep 9",
+  "weekday": "Wednesday, September 9, 2026",
+  "marketsClose": "Sep 8",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "Wall Street enters the session on the back foot after an oil-driven selloff dragged the Dow down 1.2%, with traders now bracing for the Fed to actually raise rates next week rather than cut.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -1.18
+   },
+   {
+    "name": "S&P 500",
+    "v": -0.58
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.32
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.52
+   },
+   {
+    "name": "WTI Crude",
+    "v": 1.67
+   },
+   {
+    "name": "Brent",
+    "v": 2.3
+   }
+  ],
+  "marketsNote": "Breadth was ugly beneath the surface: the Dow shed 626 points to 52,786 and the equal-weight S&P fell nearly double the cap-weighted 0.6% loss, as an energy shock met hardening rate-hike fears; only mega-cap chips kept the Nasdaq to -0.3%, while crude ripped toward $100 and small caps slid.",
+  "lead": {
+   "headline": "Oil surge toward $100 flips Wall Street into rate-hike mode ahead of the Fed",
+   "tag": "Markets · Sep 8",
+   "body": [
+    "Energy was the market's engine and its wrecking ball on Tuesday. WTI crude climbed about 1.7% to roughly $93.50 a barrel and Brent rose 2.3% toward $100 after Iran-backed Houthi forces struck Saudi cities and energy facilities, wounding more than 70 people and igniting fires at oil installations. Saudi Arabia halted operations at several southern energy sites, and Iran's Supreme National Security Council floated a maritime 'exclusion zone' near the Strait of Hormuz, through which roughly a fifth of the world's oil flows. The Dow tumbled 626 points, or 1.18%, to 52,786.07, the S&P 500 lost 0.58% to 7,673.52, and the Russell 2000 fell 0.52%.",
+    "The bigger shift was in rate expectations. With crude threatening to reignite inflation just days before the September 15-16 FOMC meeting, futures markets swung toward pricing a 25-basis-point Fed rate hike, a sharp reversal from the cuts investors had penciled in this summer. Commentators read recent signals, including remarks tied to Fed contender Kevin Warsh, as endorsing tighter policy, though not everyone on the committee is convinced. The Nasdaq held up best, down just 0.32% to 26,421.41, cushioned by a fresh wave of AI-chip dealmaking."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "The Fed is back in play, and the direction has flipped.",
+    "text": "Traders now assign meaningful odds to a 25bp rate hike at the September 15-16 FOMC meeting, up from near-certainty of a hold or cut earlier this summer, as the oil spike revives inflation worries. A hike would steepen a repricing across credit, mortgages and bank net-interest margins, and would mark one of the more abrupt Fed pivots in recent memory."
+   },
+   {
+    "lead": "Chip dealmaking is minting the year's marquee tie-ups.",
+    "text": "Qualcomm signed a 'multi-generational' agreement with Amazon to supply custom silicon for AI data centers, sending QCOM shares up about 8%; reports pegged the arrangement's value in the tens of billions. The deal underscores how hyperscaler capex is reshaping the semiconductor supply chain and feeding a rich pipeline of strategic partnerships for bankers."
+   },
+   {
+    "lead": "A double-digit-billion M&A print landed in aerospace.",
+    "text": "GE Aerospace agreed to acquire Consolidated Precision Products for $11.75 billion, one of the larger strategic deals of the quarter and a vote of confidence in defense and commercial-aviation supply chains. It adds to a late-2026 dealmaking rush that JPMorgan and others have flagged as potentially record-setting."
+   },
+   {
+    "lead": "AI infrastructure backlogs are becoming their own asset class.",
+    "text": "CoreWeave disclosed a roughly $104 billion contracted backlog, an eye-watering figure that highlights the capital intensity, and financing demand, behind the AI buildout. Such backlogs are increasingly central to how lenders and equity investors underwrite the sector."
+   },
+   {
+    "lead": "Goldman leaned into the oil trade.",
+    "text": "Goldman Sachs raised its crude price targets amid the Gulf attacks, projecting Brent around $85 and WTI near $80 by December even after the near-term spike, a reminder that the Street sees elevated but not permanently triple-digit oil. Energy strategists remain split on how much of the geopolitical premium sticks."
+   },
+   {
+    "lead": "The IPO window keeps creaking open.",
+    "text": "Fintech and payments firms are again plotting listings as conditions improve, extending a tentative 2026 reopening led by AI, fintech and space names. Bankers caution that a hawkish Fed and a jumpy tape could quickly narrow that window again."
+   }
+  ],
+  "watch": {
+   "title": "FOMC + CPI",
+   "lead": "Next week reprices everything.",
+   "text": "The August CPI print and the September 15-16 FOMC decision now sit at the center of the market. If inflation data confirms the oil-driven pressure, a Fed hike, once unthinkable for this year, would ripple through rates, bank margins, the dollar and the dealmaking calendar. Watch the dot plot and Chair commentary for whether this is a one-off insurance move or the start of a new tightening leg."
+  },
+  "world": [
+   {
+    "lead": "The Middle East is the market's biggest tail risk.",
+    "text": "Houthi forces attacked Saudi cities and energy sites, injuring more than 70 people, in retaliation for a wave of Saudi strikes on Yemen; Iran signaled a possible maritime exclusion zone near the Strait of Hormuz, and the US Energy Secretary conceded a nuclear deal with Iran 'may not' materialize."
+   },
+   {
+    "lead": "Strikes intensified across the eastern Mediterranean.",
+    "text": "Israeli strikes killed at least 11 people in southern Lebanon, including two children, while separate attacks in Gaza killed more children; a 19-year-old Palestinian was shot dead in the West Bank. The escalation adds to the regional pressure driving oil."
+   },
+   {
+    "lead": "The Ukraine war reignited after a brief lull.",
+    "text": "Russian drone and missile attacks on Kyiv killed at least two and wounded 10 as a three-day pause collapsed following US envoy visits to Putin and Zelensky. Separately, Ukraine's prosecutor general resigned after anti-corruption raids on his office."
+   },
+   {
+    "lead": "Germany's far right notched a historic result.",
+    "text": "The AfD took 43.8% in a Saxony-Anhalt regional election, its strongest showing since the Nazi era, while mainstream parties reiterated pledges not to enter coalitions with it, deepening questions about Europe's political center."
+   },
+   {
+    "lead": "The US-Canada trade fight escalated.",
+    "text": "Canadian retaliatory tariffs on roughly $27.6 billion of US goods took effect after negotiations collapsed, adding another inflationary and growth headwind just as the Fed weighs its next move."
+   }
+  ],
+  "sources": "CNBC; Reuters; Yahoo Finance; TheStreet; Forbes; Charles Schwab; Chase; CappNotes; Democracy Now; Euronews"
+ },
+ {
   "date": "2026-09-08",
   "label": "Tue · Sep 8",
   "weekday": "Tuesday, September 8, 2026",
