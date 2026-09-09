@@ -3,99 +3,95 @@
   "date": "2026-09-09",
   "label": "Wed · Sep 9",
   "weekday": "Wednesday, September 9, 2026",
-  "marketsClose": "Sep 8",
-  "notifyTitle": "Morning Brief",
-  "standfirst": "Wall Street enters the session on the back foot after an oil-driven selloff dragged the Dow down 1.2%, with traders now bracing for the Fed to actually raise rates next week rather than cut.",
+  "marketsClose": "Sep 9",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "Brent smashed through $100 and Treasury yields hit fresh 52-week highs after the U.S. sank five Iranian oil tankers and Iran fired back at a Jordan base and two Navy destroyers, sinking stocks and cementing bets on a Fed rate hike next week.",
   "markets": [
    {
     "name": "Dow",
-    "v": -1.18
+    "v": -0.77
    },
    {
     "name": "S&P 500",
-    "v": -0.58
+    "v": -0.48
    },
    {
     "name": "Nasdaq",
-    "v": -0.32
+    "v": -0.64
    },
    {
     "name": "Russell 2000",
-    "v": -0.52
+    "v": -1.3
    },
    {
     "name": "WTI Crude",
-    "v": 1.67
+    "v": 2.54
    },
    {
     "name": "Brent",
-    "v": 2.3
+    "v": 2.96
    }
   ],
-  "marketsNote": "Breadth was ugly beneath the surface: the Dow shed 626 points to 52,786 and the equal-weight S&P fell nearly double the cap-weighted 0.6% loss, as an energy shock met hardening rate-hike fears; only mega-cap chips kept the Nasdaq to -0.3%, while crude ripped toward $100 and small caps slid.",
+  "marketsNote": "Stocks closed lower for a second straight session as an oil shock met surging rates: the Dow fell 0.77% to 52,380.66, the S&P 500 slipped 0.48% to 7,636.36 and the Nasdaq lost 0.64% to 26,253.34, while the Russell 2000 dropped 1.30% to 2,921.72 as the rate-sensitive small caps took the brunt. The 10-year Treasury yield climbed to about 4.85%, its highest since 2023, the VIX jumped to 16.44, and Meta's 6% pop on its new AI assistant was one of the few green spots.",
   "lead": {
-   "headline": "Oil surge toward $100 flips Wall Street into rate-hike mode ahead of the Fed",
-   "tag": "Markets · Sep 8",
+   "headline": "U.S. sinks five Iranian tankers, Iran strikes back — Brent tops $100 and rate-hike bets harden",
+   "tag": "Markets · Sep 9",
    "body": [
-    "Energy was the market's engine and its wrecking ball on Tuesday. WTI crude climbed about 1.7% to roughly $93.50 a barrel and Brent rose 2.3% toward $100 after Iran-backed Houthi forces struck Saudi cities and energy facilities, wounding more than 70 people and igniting fires at oil installations. Saudi Arabia halted operations at several southern energy sites, and Iran's Supreme National Security Council floated a maritime 'exclusion zone' near the Strait of Hormuz, through which roughly a fifth of the world's oil flows. The Dow tumbled 626 points, or 1.18%, to 52,786.07, the S&P 500 lost 0.58% to 7,673.52, and the Russell 2000 fell 0.52%.",
-    "The bigger shift was in rate expectations. With crude threatening to reignite inflation just days before the September 15-16 FOMC meeting, futures markets swung toward pricing a 25-basis-point Fed rate hike, a sharp reversal from the cuts investors had penciled in this summer. Commentators read recent signals, including remarks tied to Fed contender Kevin Warsh, as endorsing tighter policy, though not everyone on the committee is convinced. The Nasdaq held up best, down just 0.32% to 26,421.41, cushioned by a fresh wave of AI-chip dealmaking."
+    "The oil-and-rates squeeze that opened the day intensified into the close after the U.S. military destroyed five Iranian oil tankers — the Kaviz, Charminar, Horizon 1, Riesco and Derya — in the Gulf of Oman and near Kharg Island, retaliation for two consecutive Iranian attempts to hit a U.S. warship. Iran answered with ballistic missiles aimed at the Al-Azraq air base in Jordan and at the destroyers DDG-119 and DDG-53, plus attacks on roughly ten vessels near the Strait of Hormuz. Brent crude vaulted past $100 a barrel for the first time since July, settling up about 2.96% near $100.80, while WTI rose about 2.5% toward $95.40.",
+    "The energy shock landed straight on the rates market days before the Fed decides. The 10-year Treasury yield pushed to roughly 4.85% — a level unseen since 2023 — and a Treasury announcement of a $6 billion buyback of 10- to 20-year debt failed to cool the selloff; 30-year mortgage rates ticked up to 6.85%, the highest since June 2025. With crude threatening to reignite inflation, futures continued to lean toward a 25-basis-point hike at the September 15-16 FOMC meeting, an extraordinary reversal from the cuts penciled in over the summer. Meta bucked the tape, jumping about 6% on the launch of its Muse AI assistant, and Marvell firmed on raised revenue targets, but Apple slipped after its product event and small caps sagged."
    ],
    "scorecard": []
   },
   "banking": [
    {
-    "lead": "The Fed is back in play, and the direction has flipped.",
-    "text": "Traders now assign meaningful odds to a 25bp rate hike at the September 15-16 FOMC meeting, up from near-certainty of a hold or cut earlier this summer, as the oil spike revives inflation worries. A hike would steepen a repricing across credit, mortgages and bank net-interest margins, and would mark one of the more abrupt Fed pivots in recent memory."
+    "lead": "The Fed pivot bet is now a Fed hike bet.",
+    "text": "With Brent above $100 threatening the disinflation story, rates markets held firm on odds of a 25bp hike at next week's FOMC — a stark flip from the summer's cut expectations. Commentary tied to Fed contender Kevin Warsh has been read as endorsing tighter policy, though the committee is far from unanimous."
    },
    {
-    "lead": "Chip dealmaking is minting the year's marquee tie-ups.",
-    "text": "Qualcomm signed a 'multi-generational' agreement with Amazon to supply custom silicon for AI data centers, sending QCOM shares up about 8%; reports pegged the arrangement's value in the tens of billions. The deal underscores how hyperscaler capex is reshaping the semiconductor supply chain and feeding a rich pipeline of strategic partnerships for bankers."
+    "lead": "Treasury tried to cap yields and failed again.",
+    "text": "The Treasury announced a $6 billion buyback of 10- to 20-year debt to steady the long end, but the 10-year yield still climbed to about 4.85%, its highest since 2023, and the 30-year pushed multi-year highs. It is the second time in weeks a buyback plan has been overwhelmed by supply and inflation fears."
    },
    {
-    "lead": "A double-digit-billion M&A print landed in aerospace.",
-    "text": "GE Aerospace agreed to acquire Consolidated Precision Products for $11.75 billion, one of the larger strategic deals of the quarter and a vote of confidence in defense and commercial-aviation supply chains. It adds to a late-2026 dealmaking rush that JPMorgan and others have flagged as potentially record-setting."
+    "lead": "Higher rates bit homebuyers.",
+    "text": "The average 30-year mortgage rate rose to 6.85%, its highest level since June 2025, as the Treasury selloff fed straight through to consumer borrowing costs — a fresh headwind for housing and the regional banks levered to it."
    },
    {
-    "lead": "AI infrastructure backlogs are becoming their own asset class.",
-    "text": "CoreWeave disclosed a roughly $104 billion contracted backlog, an eye-watering figure that highlights the capital intensity, and financing demand, behind the AI buildout. Such backlogs are increasingly central to how lenders and equity investors underwrite the sector."
+    "lead": "Dealmakers are still building the late-2026 pipeline.",
+    "text": "Wall Street's M&A and IPO desks kept prepping for a year-end rush even amid the risk-off tape: JPMorgan reiterated its call for a record late-2026 deal wave, Bloomberg flagged progress at Chime and a Bugatti transaction, and bankers continue to position for a long-awaited Anthropic IPO."
    },
    {
-    "lead": "Goldman leaned into the oil trade.",
-    "text": "Goldman Sachs raised its crude price targets amid the Gulf attacks, projecting Brent around $85 and WTI near $80 by December even after the near-term spike, a reminder that the Street sees elevated but not permanently triple-digit oil. Energy strategists remain split on how much of the geopolitical premium sticks."
-   },
-   {
-    "lead": "The IPO window keeps creaking open.",
-    "text": "Fintech and payments firms are again plotting listings as conditions improve, extending a tentative 2026 reopening led by AI, fintech and space names. Bankers caution that a hawkish Fed and a jumpy tape could quickly narrow that window again."
+    "lead": "The rate story goes global on Thursday.",
+    "text": "Attention now turns to the ECB's Thursday meeting and upcoming U.S. inflation data. A renewed energy shock complicates the picture for every major central bank, raising the odds that policymakers stay restrictive for longer rather than easing into a slowdown."
    }
   ],
   "watch": {
-   "title": "FOMC + CPI",
-   "lead": "Next week reprices everything.",
-   "text": "The August CPI print and the September 15-16 FOMC decision now sit at the center of the market. If inflation data confirms the oil-driven pressure, a Fed hike, once unthinkable for this year, would ripple through rates, bank margins, the dollar and the dealmaking calendar. Watch the dot plot and Chair commentary for whether this is a one-off insurance move or the start of a new tightening leg."
+   "title": "The Fed, cornered",
+   "lead": "Sept 15-16 FOMC now looms as a genuine cliffhanger.",
+   "text": "A week ago the debate was how many cuts; now traders are pricing a possible hike as the oil spike collides with a tightening bias. Watch the ECB decision Thursday and the next U.S. CPI print for confirmation — and watch the Strait of Hormuz, since any further disruption to the roughly one-fifth of global oil that transits it could force the Fed's hand entirely."
   },
   "world": [
    {
-    "lead": "The Middle East is the market's biggest tail risk.",
-    "text": "Houthi forces attacked Saudi cities and energy sites, injuring more than 70 people, in retaliation for a wave of Saudi strikes on Yemen; Iran signaled a possible maritime exclusion zone near the Strait of Hormuz, and the US Energy Secretary conceded a nuclear deal with Iran 'may not' materialize."
+    "lead": "The tanker war escalated sharply.",
+    "text": "U.S. forces destroyed five Iranian oil tankers in the Gulf of Oman and near Kharg Island after two Iranian attempts to strike a U.S. Navy warship. CENTCOM said crews were ordered to evacuate before the vessels were rendered inoperable."
    },
    {
-    "lead": "Strikes intensified across the eastern Mediterranean.",
-    "text": "Israeli strikes killed at least 11 people in southern Lebanon, including two children, while separate attacks in Gaza killed more children; a 19-year-old Palestinian was shot dead in the West Bank. The escalation adds to the regional pressure driving oil."
+    "lead": "Iran retaliated across the region.",
+    "text": "The IRGC fired ballistic missiles at Jordan's Al-Azraq air base and at the U.S. destroyers DDG-119 and DDG-53, and attacked roughly ten ships near the Strait of Hormuz, including a cargo vessel struck southeast of al-Faw, Iraq."
    },
    {
-    "lead": "The Ukraine war reignited after a brief lull.",
-    "text": "Russian drone and missile attacks on Kyiv killed at least two and wounded 10 as a three-day pause collapsed following US envoy visits to Putin and Zelensky. Separately, Ukraine's prosecutor general resigned after anti-corruption raids on his office."
+    "lead": "Defenses largely held.",
+    "text": "Jordan's military said it intercepted 18 of 20 incoming missiles, with the remaining two falling in unpopulated areas and no casualties reported. The U.S. said none of its personnel were harmed in the exchange."
    },
    {
-    "lead": "Germany's far right notched a historic result.",
-    "text": "The AfD took 43.8% in a Saxony-Anhalt regional election, its strongest showing since the Nazi era, while mainstream parties reiterated pledges not to enter coalitions with it, deepening questions about Europe's political center."
+    "lead": "The diplomatic gloves came off.",
+    "text": "Iran's Foreign Ministry condemned the tanker strikes as a 'war crime' violating the UN Charter. Secretary of State Marco Rubio was unmoved: 'Iran continues to try to hit U.S. naval ships, and for every time they do that or try to do that, they're going to lose tankers.'"
    },
    {
-    "lead": "The US-Canada trade fight escalated.",
-    "text": "Canadian retaliatory tariffs on roughly $27.6 billion of US goods took effect after negotiations collapsed, adding another inflationary and growth headwind just as the Fed weighs its next move."
+    "lead": "The chokepoint is the real risk.",
+    "text": "Roughly a fifth of the world's oil flows through the Strait of Hormuz, and Tehran has floated a maritime 'exclusion zone' near it. Markets are treating any threat to that passage as the single biggest wildcard for global energy prices and inflation."
    }
   ],
-  "sources": "CNBC; Reuters; Yahoo Finance; TheStreet; Forbes; Charles Schwab; Chase; CappNotes; Democracy Now; Euronews"
+  "sources": "TheStreet; CNBC; Yahoo Finance; The Motley Fool; Reuters/Bloomberg; NBC News; Al Jazeera; NPR; econcurrents"
  },
  {
   "date": "2026-09-08",
