@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-10-18",
+  "label": "Sun · Oct 18",
+  "weekday": "Sunday, October 18, 2026",
+  "marketsClose": "Oct 16",
+  "notifyTitle": "Evening Brief",
+  "standfirst": "The AI-trade reversal that handed Wall Street its worst week since June rolled into Asia's Monday open, keeping bubble fears and widening AI-debt spreads front of mind ahead of a Netflix-Tesla-Meta earnings gauntlet.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": -0.34
+   },
+   {
+    "name": "S&P 500",
+    "v": -1.09
+   },
+   {
+    "name": "Nasdaq",
+    "v": -2.14
+   },
+   {
+    "name": "Russell 2000",
+    "v": -1.66
+   },
+   {
+    "name": "WTI Crude",
+    "v": -1.58
+   },
+   {
+    "name": "Brent",
+    "v": -1.4
+   }
+  ],
+  "marketsNote": "U.S. markets are shut for the weekend; the figures reflect Friday's close, which capped a bruising week. The Dow eased 0.34% to 52,002.41 but still eked out a second straight weekly gain of about 0.7%, while the S&P 500 fell 1.09% to 7,659.44 (down ~2% on the week) and the Nasdaq Composite sank 2.14% to 26,140.03 — its worst week since June, off roughly 4.5% and snapping a four-week winning streak. The VIX closed near 20, the 10-year Treasury yield sat around 5.10% after spiking to 5.33% on Wednesday's hot CPI, gold held near a record ~$4,188 and Bitcoin hovered around $81,600.",
+  "lead": {
+   "headline": "AI-bubble panic caps Wall Street's worst week since June — and the reversal is bleeding into Asia",
+   "tag": "Markets · Oct 18",
+   "body": [
+    "The selloff that defined the week showed no sign of exhausting itself over the weekend. After roughly $1 trillion was wiped from AI-linked equities Monday through Friday, Bloomberg reported the \"AI trade reversal\" piercing Asia's picks-and-shovels favorites as the new trading week opened in Tokyo and Seoul — a sign the unwind that hammered Nvidia, AMD, Micron and the data-center complex is global, not a one-session U.S. wobble. The trigger is a hardening doubt about whether the spending boom on data centers and compute can be financed at current prices: Goldman Sachs flagged that spreads on high-yield AI debt blew out 25 basis points in a single two-day stretch to about 360bp over Treasuries, versus just 2bp for non-AI junk, with some CoreWeave bond yields pushing toward 15%. CoreWeave and Nebius each shed roughly 15% on the week.",
+    "The equity story is colliding with a stickier inflation backdrop. September producer prices ran at 6.3% year-over-year against a 5.5% forecast, following a hot CPI print that briefly drove the 10-year yield to 5.33% before a flight-to-safety bid pulled it back near 5.10%. Fed Chair Kevin Warsh offered no clear steer, leaving markets pricing only about a 17% chance of a late-October hike but near 89% odds for December. Corporate stress added to the mood: Character.AI filed for Chapter 11 (with Disney agreeing to pay $20 million for a perpetual IP license), Netflix announced roughly 1,000 job cuts, and Tesla slipped 2% on Friday to $354.72 even after Elon Musk unveiled a thruster-equipped Roadster redesign. Gold's climb toward a record underscored how defensively positioned investors have become heading into the busiest earnings week of the season."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Wall Street desks carried the quarter.",
+    "text": "Q3 results from the big six landed earlier in the week with trading and advisory doing the heavy lifting — roughly $43.5bn in combined profit, led by a 72% surge in Goldman Sachs equities revenue to $6.44bn. The strength in markets businesses is now the main offset to softer lending margins across the group."
+   },
+   {
+    "lead": "Goldman Sachs set the pace on the investment-banking franchise.",
+    "text": "Global Banking & Markets revenue rose 32% to $13.46bn, with investment-banking fees up 21% to $3.22bn — equity underwriting jumped 43% and advisory climbed 18%, pointing to a genuine reopening of the ECM and M&A calendar. Asset & Wealth Management added $5.05bn, up 14%."
+   },
+   {
+    "lead": "JPMorgan beat on the franchise but missed the headline.",
+    "text": "The bank fell short on both revenue and net income on securities losses and weak fixed-income trading, even as commercial & investment banking revenue rose 14.4% to $22.73bn and IB fees gained 14% to about $3bn. Net interest income grew 12.8% to roughly $27.04bn, with average loans up 10%."
+   },
+   {
+    "lead": "Citi's markets unit cooled sequentially.",
+    "text": "Net interest income beat at $16.98bn (+13.7% YoY), but total markets revenue of $6.1bn was up just 6% year-on-year and down 13% from the prior quarter, and IB fees of $1.35bn slipped 13% sequentially. Card profits fell 8% on higher rewards costs and heavier provisioning."
+   },
+   {
+    "lead": "Credit is the thread to watch.",
+    "text": "Wells Fargo lifted its credit-loss provision to $1.03bn from $914m, Goldman booked a sharply higher $345m provision in Banking & Markets, and the AI-debt spread blowout is a fresh late-cycle signal. Analysts still see no broad deterioration, but rising provisions and card stress are the early cracks."
+   }
+  ],
+  "watch": {
+   "title": "The earnings gauntlet meets the AI-debt test",
+   "lead": "The week ahead is unusually top-heavy.",
+   "text": "Netflix reports Tuesday after a week in which it cut ~6% of staff; Tesla, Meta and IBM headline Wednesday; and AI-adjacent names Nebius and Spotify close out Thursday, with Exxon and American Express on Friday. With high-yield AI credit spreads widening and CoreWeave yields near 15%, the market's real question is whether hyperscaler and neocloud guidance can re-anchor confidence in the capex story — or whether a soft print tips the bubble debate into something harder to reverse."
+  },
+  "world": [
+   {
+    "lead": "Oil is the geopolitical swing factor.",
+    "text": "Brent touched $110 during the week on Iranian attacks in the Strait of Hormuz and rising Saudi–Houthi tensions before easing into Friday; crude's weekly gain keeps a fresh inflation risk live just as the Fed weighs its next move. Exxon and Chevron were among the few beneficiaries of the energy spike."
+   },
+   {
+    "lead": "The 'energy ceasefire' is fraying.",
+    "text": "Ukraine signaled it will resume strikes on Russian refineries, shattering hopes for the energy truce President Trump had claimed, with Kyiv disputing the framing and a Russian diesel deal drawing fire. The renewed refinery threat compounds the supply-side pressure on crude."
+   },
+   {
+    "lead": "Israeli politics stir Iran-strike fears.",
+    "text": "On Oct 17, opposition leader Yair Lapid said he does not trust Prime Minister Netanyahu to refrain from launching a strike on Iran that could disrupt the coming election — a reminder that the Gaza ceasefire's calm sits atop an unresolved Iran confrontation that markets are pricing through the oil tape."
+   },
+   {
+    "lead": "AI's corporate reckoning goes beyond stock prices.",
+    "text": "Character.AI's Chapter 11 filing — paired with Disney's $20m perpetual IP license — is the clearest sign yet that the capital crunch is reaching private AI as well as public, and that even marquee consumer-AI brands are not immune to the funding squeeze now rippling through the sector."
+   },
+   {
+    "lead": "Trump pivots from Gaza toward Russia.",
+    "text": "With the Gaza ceasefire holding, Washington's diplomatic energy is shifting toward pressing Moscow on Ukraine — a recalibration that, combined with the refinery-strike escalation, leaves the war's trajectory and its energy fallout as the key overseas variable for the week ahead."
+   }
+  ],
+  "sources": "Yahoo Finance; TipRanks; Bloomberg; CNBC; Forbes; The National; Times of Israel; PBS NewsHour"
+ },
+ {
   "date": "2026-09-09",
   "label": "Wed · Sep 9",
   "weekday": "Wednesday, September 9, 2026",
