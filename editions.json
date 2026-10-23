@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-10-23",
+  "label": "Fri · Oct 23",
+  "weekday": "Friday, October 23, 2026",
+  "marketsClose": "Oct 22",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "A renewed AI-trade selloff dragged the Nasdaq down 2.6% as oil surged to a five-month high after missile strikes on Saudi Arabia.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.02
+   },
+   {
+    "name": "S&P 500",
+    "v": -1.21
+   },
+   {
+    "name": "Nasdaq",
+    "v": -2.6
+   },
+   {
+    "name": "Russell 2000",
+    "v": 0.11
+   },
+   {
+    "name": "WTI Crude",
+    "v": 2.39
+   },
+   {
+    "name": "Brent",
+    "v": 4.0
+   }
+  ],
+  "marketsNote": "Breadth was split: six of eleven S&P 500 sectors rose as money rotated out of tech into staples, utilities and homebuilders, while the 10-year Treasury yield fell 19bps to 4.95%, its steepest one-day drop since August 2025.",
+  "lead": {
+   "headline": "AI-trade jitters sink the Nasdaq as megacap earnings disappoint",
+   "tag": "Markets · Oct 22",
+   "body": [
+    "The Nasdaq Composite tumbled 2.6% to 26,008.86 and the S&P 500 fell 1.2% to 7,663.43 on Thursday as a fresh wave of doubt about the sustainability of AI spending hammered technology and semiconductor stocks. The Philadelphia Semiconductor Index slid roughly 6%, and Meta plunged nearly 7% to $648.85 after its quarterly results and a surprise 2-for-1 stock split failed to ease worries over ballooning capital expenditure. Tesla fell about 3% despite beating estimates.",
+    "The damage was concentrated at the top. The Dow eked out a 0.02% gain to 52,867.98 and the small-cap Russell 2000 edged up 0.11% as investors rotated into defensive consumer staples, up more than 3%, along with utilities, healthcare and rate-sensitive homebuilders. The 10-year Treasury yield dropped 19 basis points to 4.95%, its first close below 5% in a month, while the VIX briefly spiked above 20."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "Regional banks post a solid third quarter.",
+    "text": "WSFS reported Q3 EPS of $1.75, up 28% year over year, with return on assets of 1.58% and a 30% rise in wealth and trust fees. Associated Banc-Corp posted EPS of $0.76 ($0.81 excluding one-time items), while Nasdaq Inc. logged $1.5 billion in net revenue, record annualized recurring revenue of $3.4 billion and diluted EPS of $0.96."
+   },
+   {
+    "lead": "Wells Fargo reshuffles its senior ranks.",
+    "text": "The bank named Kleber Santos to lead consumer banking and lending and tapped Saul Van Beurden to head a new artificial-intelligence effort, a signal of where CEO Charlie Scharf is placing his bets now that the firm operates free of its multi-year asset cap."
+   },
+   {
+    "lead": "A buy-now-pay-later lender seeks a bank charter.",
+    "text": "Sezzle filed an application to establish a national bank, the latest fintech to pursue a charter as BNPL firms push deeper into regulated banking. Separately, Affirm launched as the exclusive pay-over-time provider at Sam's Club, and PayPal partnered with LianLian Global on cross-border payouts."
+   },
+   {
+    "lead": "Citi bankrolls the AI build-out.",
+    "text": "Cloud provider Nebius secured a $3.5 billion senior secured facility from Citi with a 364-day maturity, underscoring how traditional lenders are financing the data-center boom even as equity investors grow wary of AI capital spending."
+   },
+   {
+    "lead": "Capital returns keep flowing.",
+    "text": "Cboe expanded its share-repurchase authorization and declared a Q4 dividend, Schwab, Wintrust and Huntington declared payouts, and J.P. Morgan Asset Management extended access to its tokenized money-market funds on the Solana blockchain."
+   }
+  ],
+  "watch": {
+   "title": "Oil and the Saudi supply shock",
+   "lead": "Energy risk is back on the board.",
+   "text": "WTI settled at a five-month high of $99.47, up 2.4%, and Brent jumped 4% to $113.17 after missile strikes on Saudi Arabia and reports of vessels hit in the Strait of Hormuz. Watch whether a sustained spike in crude revives inflation worries just as the Fed weighs its next move, complicating the dovish signal sent by Thursday's slide in Treasury yields."
+  },
+  "world": [
+   {
+    "lead": "A missile strike rattles Saudi Arabia.",
+    "text": "A late-Wednesday attack on King Fahd International Airport in Dammam killed two people, and Aramco ordered staff to evacuate its Dhahran headquarters, sending oil to a five-month high on fears of wider disruption to Gulf energy supplies."
+   },
+   {
+    "lead": "Tensions flare in the Strait of Hormuz.",
+    "text": "Iran's IRGC claimed that at least seven vessels were struck by sea mines or attacks in the strait overnight, an unverified report that added to the risk premium coursing through global crude markets."
+   },
+   {
+    "lead": "Russia pounds Ukraine overnight.",
+    "text": "Russian strikes killed at least four people, Moscow said it downed 808 Ukrainian drones, and the two sides exchanged the remains of 252 Ukrainian and 25 Russian soldiers."
+   },
+   {
+    "lead": "The Afghan-Pakistan border stays hot.",
+    "text": "Clashes continued as Islamabad said it destroyed a military camp and killed Afghan soldiers, while Afghan officials denied any casualties and claimed Taliban forces killed 13 Pakistani troops."
+   },
+   {
+    "lead": "Serbia heads to the polls.",
+    "text": "Ahead of an October 25 general election, President Aleksandar Vucic's SNS party is running neck-and-neck in polls with a new bloc that grew out of the country's student-led anti-corruption protests."
+   }
+  ],
+  "sources": "CNBC; Reuters; Bloomberg; Yahoo Finance; TheStreet; ABC News; StockTitan; Foreign Exchanges"
+ },
+ {
   "date": "2026-10-18",
   "label": "Sun · Oct 18",
   "weekday": "Sunday, October 18, 2026",
