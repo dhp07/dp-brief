@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-11-14",
+  "label": "Sat · Nov 14",
+  "weekday": "Saturday, November 14, 2026",
+  "marketsClose": "Nov 13",
+  "notifyTitle": "Morning Brief",
+  "standfirst": "U.S. forces captured Venezuela's Nicolás Maduro in an overnight strike on Caracas, as Wall Street booked its first winning week since October despite Nvidia's leadership crisis.",
+  "markets": [
+   {
+    "name": "Dow",
+    "v": 0.1
+   },
+   {
+    "name": "S&P 500",
+    "v": -0.4
+   },
+   {
+    "name": "Nasdaq",
+    "v": -0.91
+   },
+   {
+    "name": "Russell 2000",
+    "v": -0.31
+   },
+   {
+    "name": "WTI Crude",
+    "v": 0.14
+   },
+   {
+    "name": "Brent",
+    "v": 0.38
+   }
+  ],
+  "marketsNote": "Breadth told a calmer story than the indexes: more than 60% of S&P 500 members rose even as the benchmark fell, with energy and staples leading while the Philadelphia Semiconductor Index dropped about 3.4%. Oil firmed modestly — WTI near $57.50 and Brent near $61 — but both still posted weekly losses of roughly 3% on oversupply concerns and Russia-Ukraine peace hopes.",
+  "lead": {
+   "headline": "AI's reckoning: Nvidia loses its CEO and $600 billion, but Wall Street still wins the week",
+   "tag": "Markets · Nov 13",
+   "body": [
+    "U.S. stocks slipped Friday as a pullback in big AI-focused companies capped a turbulent week. The Nasdaq Composite fell 0.9% to 25,136.27 and the S&P 500 lost 0.4%, while the Dow eked out a 0.1% gain, rising 50.46 points to 52,347.55, and the small-cap Russell 2000 dipped 0.3% to 2,790.49. Selling in chip and data-center names resumed as markets digested the resignation of Nvidia co-founder Jensen Huang, who stepped down Thursday after 33 years amid a board investigation into his conduct. Advanced Micro Devices sank about 8.75% and Dell dropped 7.18%, while Nvidia fell roughly 2%, extending a slide that erased more than $600 billion of its market value on the week.",
+    "Beneath the surface, the week was better than the headlines suggested. More than 60% of S&P 500 stocks rose Friday as investors rotated into consumer staples, communication services and energy, and both the S&P 500 and Nasdaq snapped four-week losing streaks — the S&P's first winning week since October and its biggest since August, up about 2.5%. Apple touched an intraday record near $360.80 as a haven from the AI-capex arms race. The next test comes Tuesday, when Nvidia reports quarterly results after months of mounting anxiety over AI spending."
+   ],
+   "scorecard": []
+  },
+  "banking": [
+   {
+    "lead": "The AI trade's concentration risk is in the spotlight.",
+    "text": "Nvidia's pullback \"serves as a reminder of the concentration risk embedded in a market where a small number of mega-cap technology stocks have driven an outsized share of returns,\" said Angelo Kourkafas, senior global strategist at Edward Jones. The stock shed more than $600 billion in market value over the week and has now given back its gains for 2026."
+   },
+   {
+    "lead": "Nvidia's earnings become Wall Street's next big test.",
+    "text": "Nvidia reports fiscal third-quarter results after the close on Tuesday, Nov. 17, with management having guided revenue to about $108 billion, up nearly 90% from a year earlier. The print — and whatever the company signals about China demand and succession after Huang's exit — will set the tone for the whole AI complex. A closed-door congressional briefing on the Huang matter is reportedly scheduled for the following day."
+   },
+   {
+    "lead": "Chip rivals offer investors a hedge.",
+    "text": "Advanced Micro Devices reported data-center revenue up 97% to $8.5 billion, giving customers a credible second source just as Nvidia's leadership turns uncertain. Even so, AMD fell about 8.75% Friday and Broadcom gave back part of its recent rally as the broader semiconductor group reversed, underscoring how tightly the sector still trades around Nvidia."
+   },
+   {
+    "lead": "Money rotates toward 'AI-light' names.",
+    "text": "Apple rose to an intraday record near $360.80 as investors sought shelter from the AI-infrastructure buildout; Bernstein recently called the stock a \"safe haven\" and reiterated an outperform rating with a $380 price target. Consumer staples, communication services and energy led the S&P 500's advancers as defensive positioning returned."
+   },
+   {
+    "lead": "The neocloud unwind resumes.",
+    "text": "CoreWeave, whose midweek earnings had briefly revitalized the AI trade, fell 6.13% Friday, while AI-server maker Dell dropped 7.18% on worries about its reliance on Nvidia-based systems. The moves show investors re-examining the capital-intensive edges of the AI supply chain even as demand signals stay strong."
+   }
+  ],
+  "watch": {
+   "title": "Nvidia's Tuesday reckoning",
+   "lead": "The AI trade's fate runs through one earnings report.",
+   "text": "Nvidia reports fiscal third-quarter results after the close on Tuesday, Nov. 17, with revenue guided to roughly $108 billion. After a week that erased more than $600 billion of its market value and cost it a CEO, the report — and the company's commentary on China demand and leadership — will steer chipmakers, the neocloud names and the broad indexes into year-end. Watch, too, whether the overnight U.S. operation in Venezuela reprices crude when markets reopen."
+  },
+  "world": [
+   {
+    "lead": "U.S. forces capture Venezuela's Maduro.",
+    "text": "In a large-scale overnight strike on Caracas, U.S. special-operations forces seized President Nicolás Maduro and his wife and flew them out of the country, President Trump announced early Saturday. Maduro is being held aboard a U.S. Navy vessel and faces charges in New York; Trump said some American troops were injured but claimed no U.S. deaths, and declared the United States would \"run\" Venezuela. Russia sharply criticized the operation."
+   },
+   {
+    "lead": "The U.S. presses a Ukraine peace plan.",
+    "text": "Washington and Kyiv said European governments would be drawn into negotiations with Russia to end the war, even as both sides reported fresh overnight strikes. The diplomatic push comes as U.S. sanctions on Russian oil producers continue to weigh on global crude prices."
+   },
+   {
+    "lead": "Israeli strikes hit Gaza as the ceasefire frays.",
+    "text": "Gaza's Hamas-run civil defense said Israeli strikes killed dozens of people, while President Trump insisted the U.S.-brokered ceasefire remains in place. The exchange underscores the fragility of the truce Washington has staked political capital on."
+   },
+   {
+    "lead": "Hegseth survives an impeachment bid.",
+    "text": "Defense Secretary Pete Hegseth beat back articles of impeachment brought over the U.S. war with Iran after Rep. Thomas Massie and House Democrats moved against him. Hegseth dismissed the effort as a \"farce\" and held a rare news conference to defend his handling of the conflict."
+   },
+   {
+    "lead": "Sudan's siege deepens.",
+    "text": "Aid groups warned of possible mass killings as thousands remained trapped in a besieged Sudanese city seized by a militia group, intensifying what the United Nations has called one of the world's gravest humanitarian crises."
+   }
+  ],
+  "sources": "CNBC; Reuters; Bloomberg; BNN Bloomberg; Forbes; TipRanks; Associated Press; Al Jazeera; CBS News; UPI; Barchart; Yahoo Finance"
+ },
+ {
   "date": "2026-10-23",
   "label": "Fri · Oct 23",
   "weekday": "Friday, October 23, 2026",
